@@ -386,16 +386,16 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/264751
 
 
 
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0" group-title="MNC GRUP", MNCTV
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0" group-title="NASIONAL", MNCTV
 http://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
 
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0" group-title="MNC GRUP", GTV
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0" group-title="NASIONAL", GTV
 http://nyanv-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
 
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0" group-title="MNC GRUP", INEWS
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0" group-title="NASIONAL", INEWS
 http://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
 
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0" group-title="MNC GRUP", RCTI
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0" group-title="NASIONAL", RCTI
 http://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
 
 
@@ -770,110 +770,878 @@ http://postv.shop:80/elane639/66392639/91283
 http://postv.shop:80/elane639/66392639/91937
 
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", ---●★| BeIN SPORTS |★●---
-http://metaip.tv:80/rezastar7/ucCIshvpYj/1189
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", Bein Sport Premium SD1
-http://metaip.tv:80/rezastar7/ucCIshvpYj/5560
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", ARG : CINE AR HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/52498.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", Bein Sport Premium SD2
-http://metaip.tv:80/rezastar7/ucCIshvpYj/5561
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", BR : TELECINE ACTION HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/101582.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", Bein Sport Premium SD3
-http://metaip.tv:80/rezastar7/ucCIshvpYj/5562
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", CINE ACCION
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/87461.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", Bein Sport SD1
-http://metaip.tv:80/rezastar7/ucCIshvpYj/5563
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", CINE ACCION SAGA
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/338203.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", Bein Sport SD2
-http://metaip.tv:80/rezastar7/ucCIshvpYj/5564
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", CINE MARVEL *
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/87465.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", Bein Sport SD3
-http://metaip.tv:80/rezastar7/ucCIshvpYj/5565
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", CINE SAGA MAGIA*
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/332004.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", Bein Sport SD4
-http://metaip.tv:80/rezastar7/ucCIshvpYj/5566
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", DIRECTO : ANTRESERIES INTERNACIONAL
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/51456.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", Bein Sport SD5
-http://metaip.tv:80/rezastar7/ucCIshvpYj/5567
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", DIRECTO : AXN HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/324319.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", Bein Sport SD6
-http://metaip.tv:80/rezastar7/ucCIshvpYj/5568
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", DIRECTO : AXN opcion 1
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/147173.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", Bein Sport SD7
-http://metaip.tv:80/rezastar7/ucCIshvpYj/5569
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", DIRECTO : AXN opcion 2
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/263938.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", Bein Sport English SD1
-http://metaip.tv:80/rezastar7/ucCIshvpYj/5570
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", DIRECTO : AZ CINEMA
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/154909.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", Bein Sport English SD2
-http://metaip.tv:80/rezastar7/ucCIshvpYj/5571
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", DIRECTO : CINE LATINO
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/276217.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", Bein Sport French SD1
-http://metaip.tv:80/rezastar7/ucCIshvpYj/5573
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", DIRECTO : CINECANAL (COL)
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/124042.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", Bein Sport French SD2
-http://metaip.tv:80/rezastar7/ucCIshvpYj/5574
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", DIRECTO : CINEMA DINAMITA
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/335525.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", Bein Sports English SD3
-http://metaip.tv:80/rezastar7/ucCIshvpYj/5579
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", DIRECTO : CINEMAX HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/324325.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", Bein Sport Premium1 720
-http://metaip.tv:80/rezastar7/ucCIshvpYj/5544
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", DIRECTO : CINEMAX SD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/121614.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", Bein Sport Premium2 720
-http://metaip.tv:80/rezastar7/ucCIshvpYj/5545
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", DIRECTO : HBO
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/324328.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", Bein Sport Premium3 720
-http://metaip.tv:80/rezastar7/ucCIshvpYj/5546
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", DIRECTO : HBO (OPC1)
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139414.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", Bein Sport HD1 720
-http://metaip.tv:80/rezastar7/ucCIshvpYj/5547
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", DIRECTO : HBO 2 FHD OPC 2
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/121625.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", Bein Sport HD2 720
-http://metaip.tv:80/rezastar7/ucCIshvpYj/5548
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", DIRECTO : HBO 2 HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/121627.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", Bein Sport HD3 720
-http://metaip.tv:80/rezastar7/ucCIshvpYj/5549
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", DIRECTO : HBO 2 OPC 2
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/121626.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", Bein Sport HD4 720
-http://metaip.tv:80/rezastar7/ucCIshvpYj/5550
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", DIRECTO : HBO FAMILY HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/121630.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", Bein Sport HD5 720
-http://metaip.tv:80/rezastar7/ucCIshvpYj/5551
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", DIRECTO : HBO FHD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/121618.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", Bein Sport HD6 720
-http://metaip.tv:80/rezastar7/ucCIshvpYj/5552
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", DIRECTO : HBO HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/121628.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", Bein Sport HD7 720
-http://metaip.tv:80/rezastar7/ucCIshvpYj/5553
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", DIRECTO : HBO MUNDI HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/121633.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", Bein Sport English HD1 720
-http://metaip.tv:80/rezastar7/ucCIshvpYj/5554
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", DIRECTO : HBO MUNDI SD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/121632.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", Bein Sport English HD2 720
-http://metaip.tv:80/rezastar7/ucCIshvpYj/5555
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", DIRECTO : HBO PLUS (ECU)
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/324349.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", Bein Sport English HD3 720
-http://metaip.tv:80/rezastar7/ucCIshvpYj/5556
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", DIRECTO : HBO PLUS 2
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/121635.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", Bein Sport French HD1 720
-http://metaip.tv:80/rezastar7/ucCIshvpYj/5557
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", DIRECTO : HBO PLUS FHD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/46886.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", Bein Sport French HD2 720
-http://metaip.tv:80/rezastar7/ucCIshvpYj/5558
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", DIRECTO : HBO PLUS HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/121636.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", Bein Sport French HD3 720
-http://metaip.tv:80/rezastar7/ucCIshvpYj/5559
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", DIRECTO : HBO POP FHD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/121637.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", beIN SPORTS XTRA 2 HD
-http://metaip.tv:80/rezastar7/ucCIshvpYj/5497
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", DIRECTO : HBO POP HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/121638.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", Bein Sports English HD3
-http://metaip.tv:80/rezastar7/ucCIshvpYj/5501
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", DIRECTO : HBO SD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/121629.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", Bein Sport News HD
-http://metaip.tv:80/rezastar7/ucCIshvpYj/5505
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", DIRECTO : HBO SIGNATURE FHD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/46887.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", DIRECTO : HBO SIGNATURE HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/324619.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", DIRECTO : HBO XTREME
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/121640.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", DIRECTO : HBO XTREME HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/121639.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", DIRECTO : MOVISTAR DEPORTES
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/49035.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", DIRECTO : MOVISTAR DEPORTES HD (ESP)
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/82815.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", DIRECTO : MOVISTAR FORMULA 1
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/82816.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", DIRECTO : MOVISTAR FORMULA 1 opcion 2
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/324513.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", DIRECTO : MOVISTAR GOLF
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/82833.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", DIRECTO : MOVISTAR LA LIGA
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/87713.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", DIRECTO : MOVISTAR LA LIGA (opcion2)
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/82818.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", DIRECTO : MOVISTAR LA LIGA 1 (SOLO EVENTOS)
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/85794.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", DIRECTO : MOVISTAR LA LIGA 2 (SOLO EVENTOS)
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/151556.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", DIRECTO : MOVISTAR LA LIGA 3 (SOLO EVENTOS)
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/151557.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", DIRECTO : MOVISTAR LA LIGA FHD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/82817.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", DIRECTO : MOVISTAR LIGA DE CAMPEONES
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/49057.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", DIRECTO : MOVISTAR LIGA DE CAMPEONES FHD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/49058.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", DIRECTO : SONY CINE HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/46890.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", DIRECTO : TNT SERIES  (ARG)
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/121698.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", DIRECTO : TNT SERIES (ECU) HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/324318.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", DIRECTO : TNT SERIES FHD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/121699.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", DIRECTO : TNT SERIES HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/121701.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", DIRECTO : TNT SERIES HD (ARG)
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/121700.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", DIRECTO : UNIVERSAL CINEMA
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/324621.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", DIRECTO : UNIVERSAL CINEMA HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/136173.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", DIRECTO : VIENDO MOVIE
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/338170.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", España : AXN
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/129354.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", España : MOVISTAR ACCION
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139279.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", España : MOVISTAR COMEDIA FHD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139280.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", España : MOVISTAR DCINE HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139281.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", España : MOVISTAR DISNEY HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139282.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", España : MOVISTAR DRAMA HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139283.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", España : MOVISTAR ESTRENOS HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139284.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", España : MOVISTAR SERIES FHD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139285.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", España : MOVISTAR SERIES HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139286.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", ESPAÑA: ATRESERIES
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/150029.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", MX: AZTECA CINEMA
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/288425.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", RD : CINEVISION UHF
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/50487.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", USA : CINEMAX EAST
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139159.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", USA : CINEMAX WEST
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139160.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", USA : HALLMARK MOVIES AND MYSTERIES
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139197.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", USA : HBO 2
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139198.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", USA : HBO COMEDY
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139199.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", USA : HBO EAST
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139200.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", USA : HBO FAMILY
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139201.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", USA : HBO SIGNATURE
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139203.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", USA : HBO WEST
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139204.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", USA : HBO ZONE
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139205.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", USA : HDNET MOVIES
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139206.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", USA : SONY MOVIE CHANNEL
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139235.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", USA : STARZ CINEMA
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139236.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", CINE TERROR
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/341721.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", CINE COMEDIA
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/345193.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", CINE DRAMA
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/345670.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", DIRECTO : A3SERIES
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/350578.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", ESPAÑA: ATRESERIES INTERNACIONAL
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/353265.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", ESPAÑA : A3CINE
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/377904.ts
+
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS & DISNEY", DIRECTO : CARTOON NETWORK
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/166508.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS & DISNEY", DIRECTO : CARTOON NETWORK HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/323869.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS & DISNEY", DIRECTO : CARTOONITO
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/141634.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS & DISNEY", DIRECTO : CARTOONITO HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/323873.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS & DISNEY", DIRECTO : DISCOVERY KIDS FHD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/146513.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS & DISNEY", DIRECTO : DISCOVERY KIDS HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/323863.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS & DISNEY", DIRECTO : DISCOVERY KIDS SD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/166921.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS & DISNEY", DIRECTO : DISNEY CHANNEL
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/166504.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS & DISNEY", DIRECTO : DISNEY CHANNEL HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/323871.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS & DISNEY", DIRECTO : DISNEY JR
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/166503.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS & DISNEY", DIRECTO : DISNEY JR HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/323862.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS & DISNEY", DIRECTO : NICK HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/166507.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS & DISNEY", DIRECTO : NICK JR
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/113783.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS & DISNEY", DIRECTO : NICK JR HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/323865.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS & DISNEY", DIRECTO : NICKMUSIC
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/166506.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS & DISNEY", DIRECTO : TEENNICK
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/166505.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS & DISNEY", España : DISNEY CHANNEL HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139266.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS & DISNEY", España : DISNEY JUNIOR HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139267.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS & DISNEY", España : MOVISTAR DISNEY HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139282.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS & DISNEY", España : NICKELODEON HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139289.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS & DISNEY", US : CARTOON NETWORK
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/92903.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS & DISNEY", US : CARTOON NETWORK FHD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139157.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS & DISNEY", USA : STARZ KIDS & FAMILY
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139243.ts
+
+
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MANCANEGARA", DIRECTO : MTV MX
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/49285.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MANCANEGARA", DIRECTO : NICKMUSIC
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/166506.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MANCANEGARA", MUSICA : BANDAMAX
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/85298.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MANCANEGARA", MUSICA : LATIDO MUSIC
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/103458.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MANCANEGARA", MUSICA : MC MUSIC CHOICE
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/64575.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MANCANEGARA", MUSICA : RETRO PLUS
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/140234.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MANCANEGARA", MUSICA : TELE RITMO
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/136176.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MANCANEGARA", MUSICA : TELEHIT HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/136178.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MANCANEGARA", MUSICA : TELEHIT MUSICA
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/173810.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MANCANEGARA", MUSICA : TELEHIT PLUS
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/136177.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MANCANEGARA", MUSICA : VEVO REGGAETON & TRAP HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/103457.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MANCANEGARA", MUSICA : VH1 CLASSIC
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139259.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MANCANEGARA", MUSICA: VALLENATO INTERNACIONAL
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/288423.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MANCANEGARA", Portugal : CMTV Pt
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/122196.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MANCANEGARA", USA : MTV
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139216.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MANCANEGARA", MUSICA : MTV CLUB
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/363997.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MANCANEGARA", MUSICA : MTV CLASSIC
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/363998.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MANCANEGARA", MUSICA : MTV HITS
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/363999.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MANCANEGARA", MUSICA : MTV LIVE
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/364000.ts
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", BR : BAND SPORTS
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/101557.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", BR : FOX SPORTS 2
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/101565.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", BR : SPORTV 1 HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/101571.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", BR : SPORTV 2 HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/101572.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", BR : SPORTV 3
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/101573.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", CH : FOX SPORTS
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/66644.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", CR : TIGO SPORTS (CR)
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/102735.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", DIRECTO : ADRENALINA SPORTS NETWORK
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/48974.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", DIRECTO : BEIN SPORTS ES
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/94112.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", DIRECTO : BEIN SPORTS N
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/48958.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", DIRECTO : BEIN SPORTS N opcion 2
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/91803.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", DIRECTO : CABLEONDA SPORTS FC HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/49050.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", DIRECTO : CABLEONDA SPORTS HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/49051.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", DIRECTO : CLARO SPORTS FHD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/82454.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", DIRECTO : CLARO SPORTS HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/49024.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", DIRECTO : DIRECTV SPORT
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/66631.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", DIRECTO : DIRECTV SPORTS 1 HD (ECU)
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/49032.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", DIRECTO : DIRECTV SPORTS 2 HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/49018.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", DIRECTO : DIRECTV SPORTS PLUS
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/78750.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", DIRECTO : DIRECTV SPORTS PLUS HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/113713.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", DIRECTO : EUROSPORT 2
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/113715.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", DIRECTO : EUROSPORT 2  (opcion 2)
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/156546.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", DIRECTO : EUROSPORTS 1
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139409.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", DIRECTO : EUROSPORTS 1 opcion 2
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/159877.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", DIRECTO : FOX SPORTS 1  (SUR)
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/85775.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", DIRECTO : FOX SPORTS 1 HD (SUR)
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/48959.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", DIRECTO : FOX SPORTS 2 (SUR)
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/82237.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", DIRECTO : FOX SPORTS 2 FHD (MX)
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/48980.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", DIRECTO : FOX SPORTS 2 HD (MX)
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/48961.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", DIRECTO : FOX SPORTS 2 HD (SUR)
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/66643.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", DIRECTO : FOX SPORTS 3 FHD (SUR)
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/82238.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", DIRECTO : FOX SPORTS 3 HD (ECU)
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/324630.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", DIRECTO : FOX SPORTS 3 HD (MX)
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/49002.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", DIRECTO : FOX SPORTS 3 HD (SUR)
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/48963.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", DIRECTO : FOX SPORTS PREMIUM
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/164581.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", DIRECTO : FOX SPORTS PREMIUM HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/48998.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", DIRECTO : SKY 21
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/126328.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", DIRECTO : SKY FORMULA 1
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/138112.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", DIRECTO : SKY SPORTS ACTION HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/126330.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", DIRECTO : SKY SPORTS ARENA HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/126327.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", DIRECTO : TIGO SPORTS  1 (BOL)
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/87520.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", DIRECTO : TIGO SPORTS  HN
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/90027.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", DIRECTO : TIGO SPORTS (GUAT)
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/322047.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", DIRECTO : TIGO SPORTS HD (PARAGUAY)
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/82448.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", DIRECTO : TNT SPORTS ESTADIO (CHILE)
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/146757.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", DIRECTO : TNT SPORTS HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/87964.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", DIRECTO : TNT SPORTS HD arg
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/48995.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", DIRECTO : TYC SPORTS HD (ARG)
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/62588.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", DIRECTO : TYC SPORTS HD (ARG) opcion 2
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/328008.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", DIRECTO : TYC SPORTS INTERNACIONAL HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/48997.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", DIRECTO : WIN SPORTS FHD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/49021.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", DIRECTO : WIN SPORTS HD (3)
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/121795.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", DIRECTO : WIN SPORTS HD (OPC 2)
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/91442.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", DIRECTO : WIN SPORTS PLUS (OPC 2)
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/91443.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", DIRECTO : WIN SPORTS PLUS HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/107505.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", DIRECTO : WIN SPORTS PLUS HD2
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/91444.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", ESA : TIGO SPORTS  HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/169602.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", PANAMA : TIGO SPORTS
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/319587.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", Portugal : ELEVEN SPORTS 1 Pt
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/122200.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", Portugal : ELEVEN SPORTS 2 Pt
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/122201.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", Portugal : ELEVEN SPORTS 3 Pt
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/122202.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", Portugal : ELEVEN SPORTS 4 Pt
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/122203.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", Portugal : ELEVEN SPORTS 5 Pt
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/122204.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", Portugal : EUROSPORT 1 Pt
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/122207.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", Portugal : SPORT TV 1 Pt
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/122236.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", Portugal : SPORT TV 2 Pt
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/122237.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", Portugal : SPORT TV 3 Pt
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/122238.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: ACC NETWORK US
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139364.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: AT&T SPORTSNET
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/150030.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: BALLY NEW YORK
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/94160.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: BALLY SPORTS ARIZONA US
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139353.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: BALLY SPORTS CAROLINAS US
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139354.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: BALLY SPORTS DETROIT
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/150142.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: BALLY SPORTS INDIANA
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/150143.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: BALLY SPORTS MIDWEST
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/151603.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: BALLY SPORTS NORTH
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/151604.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: BALLY SPORTS OHIO US
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139358.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: BALLY SPORTS OKLAHOMA
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/146338.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: BALLY SPORTS PHILADELPHIA
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/327457.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: BALLY SPORTS PRIME TICKET US
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139359.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: BALLY SPORTS SAN DIEGO US
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139344.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: BALLY SPORTS SOUTH US
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139360.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: BALLY SPORTS SOUTHWEST US
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139345.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: BALLY SPORTS SUN US
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139361.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: BALLY SPORTS WEST US
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139362.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: BALLY SPORTS WISCONSIN
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139363.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: BEIN SPORTS LA LIGA (USA) HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/82217.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: BT SPORT 1
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/146334.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: BT SPORT 2
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/146335.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: BT SPORT 3
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/146336.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: BT SPORT ESPN
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/146337.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: CBS SPORTS
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/90165.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: CBS SPORTS
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139308.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: COWBOY CHANNEL
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/85300.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: DIRECTO : GOLF (USA)
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/86060.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: ELEVEN SPORTS HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/94153.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: ESPN
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139349.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: ESPN 2
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/85299.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: ESPN NEWS
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139348.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: ESPN SEC NETWORK US
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139319.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: ESPN U
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139350.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: ESPN U USA
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/112360.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: FIGHT NETWORK
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/52463.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: FOX SOCCER PLUS US
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139340.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: FOX SPORTS 1 US
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139341.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: FOX SPORTS 2 US
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139342.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: FS1
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/94156.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: FS2
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/94155.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: MLB NETWORK HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/90279.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: MOTORTREND US
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139335.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: MSG PLUS US
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139338.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: MSG US
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139337.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: NBA HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/94135.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: NBA TV
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/92744.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: NBC SPORTS BAY AREA US
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139330.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: NBC SPORTS BOSTON US
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139331.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: NBC SPORTS CHICAGO US
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139332.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: NBC SPORTS PHILADELPHIA US
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139333.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: NBCSN
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/163471.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: NBCSPORTSCALIFORNIA US
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139325.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: NESN US
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139326.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: NFL NETWORK
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/61497.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: OLYMPIC CHANNEL HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/94130.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: PAC 12 NETWORK US
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139322.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: RED BULL
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/79294.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: REDBULL TV
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/94124.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: SPECTRUM SPORTSNET
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/334369.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: SPORT TV 4
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/146340.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: SPORT TV 5
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/146341.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: NBC SPORTS WASHINGTON
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/94118.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: SPORTSMAN CHANNEL
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/94121.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: SPORTSNET
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139314.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: SPORTSNET 360 CA
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139313.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: SPORTSNET NY US
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139315.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: SPORTSNET ONE
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/146339.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: SPORTSNET WEST CA
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139317.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: SPORTSNET WORLD CA
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139318.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: TENNIS CHANNEL US
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139304.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: TSN 1 CA
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139305.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: TSN 2 CA
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139306.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: TSN3
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/146342.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: TVG US
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139307.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: UFC FIGHT PASS FHD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/74906.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: WORLD FISHING NETWORK
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/113716.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", SPORT: YES NETWORK US
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139303.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", USA : MOTORTREND
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139215.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", PT : SPORTV 2 HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/345158.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", PANAMA : NEXT SPORTS HD*
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/356693.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", DIRECTO : SKY SPORTS 16 HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/365067.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", PANAMA : TIGO SPORTS 2*
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/366952.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", ROLAND GARROS / DJOKOVIC VS RUUD - 6:30AM - EURO SPORTS 1
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/379023.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", MLB 05 HD / DODGERS @ PHILLIES - 11:35AM - SPORTSNET LA
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/379036.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", MLB 13 HD / CUBS @ GIANTS - 2:05PM - MARQUEE SPORTS
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/379051.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", H265 MLB 15 FHD / RED SOX @ YANKEES - 5:10PM - BT SPORT 1 FHD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/379055.ts
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", Bein Sports Premium 1 1080
 http://metaip.tv:80/rezastar7/ucCIshvpYj/5506
