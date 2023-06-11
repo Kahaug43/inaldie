@@ -3166,10 +3166,7 @@ http://metaip.tv:80/rezastar7/ucCIshvpYj/10836
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", BEIN SPORTS ENGLISH 2 HEVC
 http://metaip.tv:80/rezastar7/ucCIshvpYj/10837
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", BEIN SPORTS ENGLISH 3 HEVC
-http://metaip.tv:80/rezastar7/ucCIshvpYj/10838
-
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0" group-title="SPORT DUNIA",|FR| BEIN SPORTS 1 FHD
+#EXTINF:-1,|FR| BEIN SPORTS 1 FHD
 http://sansat.net:25461/sohrab/Ahfd34DSf86sfDVG234Sogf12/126935
 #EXTINF:-1,|FR| BEIN SPORTS 2 FHD
 http://sansat.net:25461/sohrab/Ahfd34DSf86sfDVG234Sogf12/126936
