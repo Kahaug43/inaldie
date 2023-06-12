@@ -1229,7 +1229,18 @@ http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/49285.ts
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MANCANEGARA", DIRECTO : NICKMUSIC
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/166506.ts
-
+#EXTINF:-1, group-title="MUSIC MANCANEGARA", RFM 
+http://terraserver.cc:8080/FquXLnEnzO/1Y86IE4hN2/357
+#EXTINF:-1, group-title="MUSIC MANCANEGARA", NRJ HITS
+http://terraserver.cc:8080/FquXLnEnzO/1Y86IE4hN2/355
+#EXTINF:-1, group-title="MUSIC MANCANEGARA, MTV HITS FR
+http://terraserver.cc:8080/FquXLnEnzO/1Y86IE4hN2/353
+#EXTINF:-1, group-title="MUSIC MANCANEGARA", MEZZO LIVE FR
+http://terraserver.cc:8080/FquXLnEnzO/1Y86IE4hN2/349
+#EXTINF:-1, group-title="MUSIC MANCANEGARA", MEZZO FR
+http://terraserver.cc:8080/FquXLnEnzO/1Y86IE4hN2/347
+#EXTINF:-1, group-title="MUSIC MANCANEGARA", CLUBBING TV 
+http://terraserver.cc:8080/FquXLnEnzO/1Y86IE4hN2/340
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MANCANEGARA", MUSICA : BANDAMAX
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/85298.ts
 
