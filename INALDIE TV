@@ -385,7 +385,6 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/157584
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/264751
 
 
-
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0" group-title="DENSTV", MNCTV
 http://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
 
@@ -398,16 +397,14 @@ http://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0" group-title="DENSTV", RCTI
 http://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
 
-
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0" group-title="DENSTV", TRANS 7
 https://cdn09jtedge.indihometv.com/dvr/139/trans7/manifest.mpd?stime=1685935945&etime=1685935945&encoded=01a68ca7040a7e8134afc
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0" group-title="DENSTV", SCTV
-https://cdnbal1.indihometv.com/dvr/139/sctv/manifest.mpd
-
 
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0" group-title="DENSTV", TRANS TV
 http://kuchini.site:8080/multi6741/ab72059e/162503
 
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0" group-title="DENSTV", SCTV
+https://cdnbal1.indihometv.com/dvr/139/sctv/manifest.mpd
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/3.jpg" group-title="DENSTV", DENS LIVE 1
 http://210.210.155.37/x6bnqe/s/s100/live.m3u8
@@ -446,18 +443,14 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 http://210.210.155.37/qwr9ew/s/s03/index.m3u8
 
 
-
-
-
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0" group-title="DENSTV", TRANS 7
 https://cdn09jtedge.indihometv.com/dvr/139/trans7/manifest.mpd?stime=1685935945&etime=1685935945&encoded=01a68ca7040a7e8134afc
+
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0" group-title="DENSTV", SCTV
 https://cdnbal1.indihometv.com/dvr/139/sctv/manifest.mpd
 
-
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0" group-title="DENSTV", TRANS TV
 http://kuchini.site:8080/multi6741/ab72059e/162503
-
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/10.jpg" group-title="DENSTV", INDOSIAR
 http://210.210.155.37/qwr9ew/s/s04/index.m3u8
@@ -609,8 +602,6 @@ http://210.210.155.37/uq2663/h/h124/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/120.jpg" group-title="DENSTV", MOTO RACING
 http://210.210.155.37/uq2663/h/h223/index.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HBO", ID: HBO
 http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/197972
 
@@ -622,7 +613,6 @@ http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/196480
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HBO", ID: HBO Signature
 http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/221948
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/w6h5Yry/hbo.png" group-title="HBO", HBO FHD¹
 http://postv.shop:80/elane639/66392639/91217
@@ -899,9 +889,6 @@ http://xxxxlocal.com:8080/xiptv0985/Sdz55XvV7hqzs/7789
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HBO", [PK] HBO
 http://xxxxlocal.com:8080/xiptv0985/Sdz55XvV7hqzs/13424
 
-
-
-#EXTM3U
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR",Movies 4K Family
 http://myserveriptv.com:2082/worldiptv/9lE7Vdu3DMNB/30718
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR",Movies 4K Blockbusters
@@ -1931,8 +1918,6 @@ http://xxxxlocal.com:8080/xiptv0985/Sdz55XvV7hqzs/11830
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE & SERI", [GR] Village Cinema
 http://xxxxlocal.com:8080/xiptv0985/Sdz55XvV7hqzs/11845
 
-
-
 #EXTINF:-1, group-title="KIDS & DISNEY", TOM & JERRY
 http://terraserver.cc:8080/FquXLnEnzO/1Y86IE4hN2/384
 #EXTINF:-1, group-title="KIDS & DISNEY", LARVA
@@ -1955,6 +1940,7 @@ http://terraserver.cc:8080/FquXLnEnzO/1Y86IE4hN2/223
 http://terraserver.cc:8080/FquXLnEnzO/1Y86IE4hN2/237
 #EXTINF:-1, group-title="KIDS & DISNEY", NICKELEDOEN JR
 http://terraserver.cc:8080/FquXLnEnzO/1Y86IE4hN2/241
+
 #EXTINF:-1, group-title="ANIME", GAME ON ANIME 
 http://terraserver.cc:8080/FquXLnEnzO/1Y86IE4hN2/229
 #EXTINF:-1, group-title="ANIME", GAME ON+ ANIME 
@@ -1971,6 +1957,149 @@ http://terraserver.cc:8080/FquXLnEnzO/1Y86IE4hN2/245
 http://terraserver.cc:8080/FquXLnEnzO/1Y86IE4hN2/247
 #EXTINF:-1, group-title="KIDS & DISNEY", TELETOON
 http://terraserver.cc:8080/FquXLnEnzO/1Y86IE4hN2/251
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/24on7.png" group-title="ANIME", FR: Dragon Ball Z
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/372
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/24on7.png" group-title="ANIME", FR: Dragon Ball Z Kai [Saga Boo]
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/373
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/24on7.png" group-title="ANIME", FR: Dragon Ball Z Kai [Saga Freezer / Cell]
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/374
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/24on7.png" group-title="ANIME", FR: Dragon Ball GT
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/375
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/24on7.png" group-title="ANIME", FR: Dragon Ball Super
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/376
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/24on7.png" group-title="ANIME", FR: Les Chevaliers du Zodiaque
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/377
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/24on7.png" group-title="ANIME", FR: Ken le Survivant
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/378
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/24on7.png" group-title="ANIME", FR: Inspecteur Gadget
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/379
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/24on7.png" group-title="ANIME", FR: Les Mystérieuses Cités d'or
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/380
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/24on7.png" group-title="ANIME", FR: Nicky Larson
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/381
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/24on7.png" group-title="ANIME", FR: Olive et Tom
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/382
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/24on7.png" group-title="ANIME", FR: Tom Sawyer
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/383
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/24on7.png" group-title="ANIME", FR: Tom et Jerry
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/384
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/24on7.png" group-title="ANIME", FR: Denver : le dernier dinosaure
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/385
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/24on7.png" group-title="ANIME", FR: Larva
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/386
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/24on7.png" group-title="ANIME", FR: Les Lapins Crétins
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/387
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/24on7.png" group-title="ANIME", FR: Barbapapa
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/388
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/24on7.png" group-title="ANIME", FR: La Maison de Mickey
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/389
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/24on7.png" group-title="ANIME", FR: Donald Duck
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/390
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/24on7.png" group-title="ANIME", FR: Pluto
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/391
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/24on7.png" group-title="ANIME", FR: Looney Tunes
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/392
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/24on7.png" group-title="ANIME", FR: Masha et Michka
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/393
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/24on7.png" group-title="ANIME", FR: Peppa Pig
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/394
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/24on7.png" group-title="ANIME", FR: Petit Ours brun
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/395
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/24on7.png" group-title="ANIME", FR: T'choupi
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/396
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/24on7.png" group-title="ANIME", FR: Trotro
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/397
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/24on7.png" group-title="ANIME", FR: Minuscule
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/398
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/24on7.png" group-title="ANIME", FR: Minus et Cortex
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/399
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/24on7.png" group-title="ANIME", FR: La Garde du Roi lion
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/400
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/24on7.png" group-title="ANIME", FR: Scooby-Doo
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/401
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/24on7.png" group-title="ANIME", FR: Paw Patrol : la Pat'Patrouille
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/402
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/24on7.png" group-title="ANIME", FR: Super Wings
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/403
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/24on7.png" group-title="ANIME", FR: Miraculous : Les Aventures de Ladybug et Chat Noir
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/404
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/24on7.png" group-title="ANIME", FR: Spirit : Au galop en toute liberté
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/405
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/24on7.png" group-title="ANIME", FR: Pyjamasques
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/406
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/24on7.png" group-title="ANIME", FR: Talia : Amis magiques
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/407
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/24on7.png" group-title="ANIME", FR: Trolls
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/408
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/24on7.png" group-title="ANIME", FR: Il était une fois… la Vie
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/409
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/24on7.png" group-title="ANIME", FR: Inazuma Eleven 3
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/410
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/24on7.png" group-title="ANIME", FR: Go Diego !
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/411
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/24on7.png" group-title="ANIME", FR: Zig et Sharko
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/412
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/24on7.png" group-title="ANIME", FR: Naruto Shippûden
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/413
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/24on7.png" group-title="ANIME", FR: Pokémon
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/414
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/24on7.png" group-title="ANIME", FR: Oggy et les Cafards
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/415
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/24on7.png" group-title="ANIME", FR: Hunter × Hunter
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/416
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/24on7.png" group-title="ANIME", FR: Bob l'éponge
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/417
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/24on7.png" group-title="ANIME", FR: Les Schtroumpfs
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/418
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/24on7.png" group-title="ANIME", FR: Les Simpson
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/419
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS & DISNEY", DIRECTO : CARTOON NETWORK
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/166508.ts
@@ -8491,6 +8620,1122 @@ http://greasel.tech:2095/noria/noria/7184
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALBANIA CHANEL", Belshi Tv
 http://greasel.tech:2095/noria/noria/134
+title="FRANCE CHANEL", FR: TF1 SD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/2
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/tf1.fr.png" group-title="FRANCE CHANEL", FR: TF1 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/3
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/tf1.fr.png" group-title="FRANCE CHANEL", FR: TF1 FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/4
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/tf1decale.png" group-title="FRANCE CHANEL", FR: TF1+1 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/5
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/tf1decale.png" group-title="FRANCE CHANEL", FR: TF1+1 FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/6
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/tf1seriesfilms.fr.png" group-title="FRANCE CHANEL", FR: TF1 Séries Films SD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/7
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/tf1seriesfilms.fr.png" group-title="FRANCE CHANEL", FR: TF1 Séries Films HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/8
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/tf1seriesfilms.fr.png" group-title="FRANCE CHANEL", FR: TF1 Séries Films FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/9
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/canalplus.fr.png" group-title="FRANCE CHANEL", FR: Canal+ HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/10
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/canalplus.fr.png" group-title="FRANCE CHANEL", FR: Canal+ FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/11
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/cliquetv.jpg" group-title="FRANCE CHANEL", FR: Clique TV HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/12
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/cliquetv.jpg" group-title="FRANCE CHANEL", FR: Clique TV FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/13
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/france2.fr.png" group-title="FRANCE CHANEL", FR: France 2 SD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/14
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/france2.fr.png" group-title="FRANCE CHANEL", FR: France 2 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/15
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/france2.fr.png" group-title="FRANCE CHANEL", FR: France 2 FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/16
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/france3.fr.png" group-title="FRANCE CHANEL", FR: France 3 SD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/17
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/france3.fr.png" group-title="FRANCE CHANEL", FR: France 3 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/18
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/france3.fr.png" group-title="FRANCE CHANEL", FR: France 3 FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/19
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/france4.fr.png" group-title="FRANCE CHANEL", FR: France 4 SD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/20
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/france4.fr.png" group-title="FRANCE CHANEL", FR: France 4 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/21
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/france4.fr.png" group-title="FRANCE CHANEL", FR: France 4 FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/22
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/france5.fr.png" group-title="FRANCE CHANEL", FR: France 5 SD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/23
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/france5.fr.png" group-title="FRANCE CHANEL", FR: France 5 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/24
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/france5.fr.png" group-title="FRANCE CHANEL", FR: France 5 FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/25
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/m6.fr.png" group-title="FRANCE CHANEL", FR: M6 SD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/26
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/m6.fr.png" group-title="FRANCE CHANEL", FR: M6 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/27
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/m6.fr.png" group-title="FRANCE CHANEL", FR: M6 FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/28
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/arte.fr.png" group-title="FRANCE CHANEL", FR: Arte HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/29
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/arte.fr.png" group-title="FRANCE CHANEL", FR: Arte FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/30
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/c8.fr.png" group-title="FRANCE CHANEL", FR: C8 SD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/31
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/c8.fr.png" group-title="FRANCE CHANEL", FR: C8 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/32
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/c8.fr.png" group-title="FRANCE CHANEL", FR: C8 FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/33
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/w9.fr.png" group-title="FRANCE CHANEL", FR: W9 SD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/34
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/w9.fr.png" group-title="FRANCE CHANEL", FR: W9 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/35
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/w9.fr.png" group-title="FRANCE CHANEL", FR: W9 FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/36
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/tmc.fr.png" group-title="FRANCE CHANEL", FR: TMC SD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/37
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/tmc.fr.png" group-title="FRANCE CHANEL", FR: TMC HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/38
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/tmc.fr.png" group-title="FRANCE CHANEL", FR: TMC FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/39
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/tmcdecale.png" group-title="FRANCE CHANEL", FR: TMC+1 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/40
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/tfx.fr.png" group-title="FRANCE CHANEL", FR: TFX SD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/41
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/tfx.fr.png" group-title="FRANCE CHANEL", FR: TFX HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/42
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/tfx.fr.png" group-title="FRANCE CHANEL", FR: TFX FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/43
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/nrj12.fr.png" group-title="FRANCE CHANEL", FR: NRJ 12 SD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/44
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/nrj12.fr.png" group-title="FRANCE CHANEL", FR: NRJ 12 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/45
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/nrj12.fr.png" group-title="FRANCE CHANEL", FR: NRJ 12 FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/46
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/cstar.fr.png" group-title="FRANCE CHANEL", FR: CStar SD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/47
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/cstar.fr.png" group-title="FRANCE CHANEL", FR: CStar HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/48
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/cstar.fr.png" group-title="FRANCE CHANEL", FR: CStar FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/49
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/gulli.fr.png" group-title="FRANCE CHANEL", FR: Gulli HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/50
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/gulli.fr.png" group-title="FRANCE CHANEL", FR: Gulli FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/51
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/6ter.fr.png" group-title="FRANCE CHANEL", FR: 6ter SD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/52
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/6ter.fr.png" group-title="FRANCE CHANEL", FR: 6Ter HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/53
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/6ter.fr.png" group-title="FRANCE CHANEL", FR: 6Ter FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/54
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/rmcstory.fr.png" group-title="FRANCE CHANEL", FR: RMC Story HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/55
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/rmcstory.fr.png" group-title="FRANCE CHANEL", FR: RMC Story FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/56
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/cherie25.fr.png" group-title="FRANCE CHANEL", FR: Chérie 25 SD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/57
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/cherie25.fr.png" group-title="FRANCE CHANEL", FR: Chérie 25 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/58
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/cherie25.fr.png" group-title="FRANCE CHANEL", FR: Chérie 25 FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/59
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/parispremiere.fr.png" group-title="FRANCE CHANEL", FR: Paris Première HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/60
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/parispremiere.fr.png" group-title="FRANCE CHANEL", FR: Paris Première FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/61
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/teva.fr.png" group-title="FRANCE CHANEL", FR: Téva HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/62
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/teva.fr.png" group-title="FRANCE CHANEL", FR: Téva FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/63
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/rtl9.lu.png" group-title="FRANCE CHANEL", FR: RTL 9 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/64
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/rtl9.lu.png" group-title="FRANCE CHANEL", FR: RTL 9 FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/65
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/tv5monde.fr.png" group-title="FRANCE CHANEL", FR: TV5 MONDE HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/66
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/tv5monde.fr.png" group-title="FRANCE CHANEL", FR: TV5 MONDE FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/67
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/bet.fr.png" group-title="FRANCE CHANEL", FR: BET HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/68
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/bet.fr.png" group-title="FRANCE CHANEL", FR: BET FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/69
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/kto.fr.png" group-title="FRANCE CHANEL", FR: KTO HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/70
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/demaintv.png" group-title="FRANCE CHANEL", FR: Demain TV HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/71
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/novelastv.png" group-title="FRANCE CHANEL", FR: Novelas TV HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/72
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/novelastv.png" group-title="FRANCE CHANEL", FR: Novelas TV FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/73
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FRANCE CHANEL", -------| Information en continu |-------
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/74
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/bfmbusiness.fr.png" group-title="FRANCE CHANEL", FR: BFM Business HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/75
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/bfmbusiness.fr.png" group-title="FRANCE CHANEL", FR: BFM Business FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/76
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/bfmtv.fr.png" group-title="FRANCE CHANEL", FR: BFM TV HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/77
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/bfmtv.fr.png" group-title="FRANCE CHANEL", FR: BFM TV FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/78
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/cnews.fr.png" group-title="FRANCE CHANEL", FR: CNEWS HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/79
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/cnews.fr.png" group-title="FRANCE CHANEL", FR: CNEWS FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/80
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/france24.fr.png" group-title="FRANCE CHANEL", FR: France 24 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/81
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/franceinfo.fr.png" group-title="FRANCE CHANEL", FR: Franceinfo HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/82
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/franceinfo.fr.png" group-title="FRANCE CHANEL", FR: Franceinfo FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/83
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/lci.fr.png" group-title="FRANCE CHANEL", FR: LCI HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/84
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/lci.fr.png" group-title="FRANCE CHANEL", FR: LCI FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/85
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/lachaineparlementaire.fr.png" group-title="FRANCE CHANEL", FR: LCP HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/86
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/lachaineparlementaire.fr.png" group-title="FRANCE CHANEL", FR: LCP FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/87
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FRANCE CHANEL", -------| Découverte et Art De Vivre |-------
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/88
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/01tv.jpg" group-title="FRANCE CHANEL", FR: 01TV HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/89
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/animaux.fr.png" group-title="FRANCE CHANEL", FR: Animaux HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/90
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/animaux.fr.png" group-title="FRANCE CHANEL", FR: Animaux FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/91
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/chassepeche.fr.png" group-title="FRANCE CHANEL", FR: Chasse et pêche HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/92
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/chassepeche.fr.png" group-title="FRANCE CHANEL", FR: Chasse et pêche FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/93
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/crimedistrict.fr.png" group-title="FRANCE CHANEL", FR: Crime District HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/94
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/crimedistrict.fr.png" group-title="FRANCE CHANEL", FR: Crime District FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/95
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/discoverychannel.fr.png" group-title="FRANCE CHANEL", FR: Discovery Channel HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/96
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/discoverychannel.fr.png" group-title="FRANCE CHANEL", FR: Discovery Channel FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/97
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/discoveryfamily.fr.png" group-title="FRANCE CHANEL", FR: Discovery Family HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/98
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/discoveryfamily.fr.png" group-title="FRANCE CHANEL", FR: Discovery Family FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/99
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/discoveryinvestigation.fr.png" group-title="FRANCE CHANEL", FR: DIscovery Investigation HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/100
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/discoveryinvestigation.fr.png" group-title="FRANCE CHANEL", FR: DIscovery Investigation FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/101
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/discoveryscience.fr.png" group-title="FRANCE CHANEL", FR: Discovery Science HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/102
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/discoveryscience.fr.png" group-title="FRANCE CHANEL", FR: Discovery Science FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/103
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/eurochannel.fr.png" group-title="FRANCE CHANEL", FR: Eurochannel HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/104
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/fashiontv.fr.png" group-title="FRANCE CHANEL", FR: Fashion TV HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/105
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/fashiontv.fr.png" group-title="FRANCE CHANEL", FR: Fashion TV 2 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/106
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/histoire.fr.png" group-title="FRANCE CHANEL", FR: Histoire TV
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/107
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/histoire.fr.png" group-title="FRANCE CHANEL", FR: Histoire TV FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/108
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/lachainemeteo.fr.png" group-title="FRANCE CHANEL", FR: La Chaîne Météo HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/109
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/lachainemeteo.fr.png" group-title="FRANCE CHANEL", FR: La Chaîne Météo FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/110
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/natgeo.fr.png" group-title="FRANCE CHANEL", FR: National Geographic HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/111
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/natgeo.fr.png" group-title="FRANCE CHANEL", FR: National Geographic FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/112
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/natgeowild.fr.png" group-title="FRANCE CHANEL", FR: National Geographic Wild HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/113
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/natgeowild.fr.png" group-title="FRANCE CHANEL", FR: National Geographic Wild FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/114
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/nonstoppeople.png" group-title="FRANCE CHANEL", FR: Non Stop People HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/115
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/nonstoppeople.png" group-title="FRANCE CHANEL", FR: Non Stop People FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/116
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/planete.pl.png" group-title="FRANCE CHANEL", FR: Planète+ HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/117
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/planete.pl.png" group-title="FRANCE CHANEL", FR: Planète+ FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/118
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/planeteplusaande.mu.png" group-title="FRANCE CHANEL", FR: Planète+ Aventure Expérience HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/119
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/planeteplusaande.mu.png" group-title="FRANCE CHANEL", FR: Planète+ Aventure Expérience FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/120
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/planeteplusci.mu.png" group-title="FRANCE CHANEL", FR: Planète+ Crime Investigation HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/121
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/planeteplusci.mu.png" group-title="FRANCE CHANEL", FR: Planète+ Crime Investigation FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/122
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/rmcdecouverte.fr.png" group-title="FRANCE CHANEL", FR: RMC Découverte HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/123
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/rmcdecouverte.fr.png" group-title="FRANCE CHANEL", FR: RMC Découverte FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/124
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/scienceandvie.fr.png" group-title="FRANCE CHANEL", FR: Science & Vie TV HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/125
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/scienceandvie.fr.png" group-title="FRANCE CHANEL", FR: Science & Vie TV FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/126
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/seasons.jpg" group-title="FRANCE CHANEL", FR: Seasons HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/127
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/seasons.jpg" group-title="FRANCE CHANEL", FR: Seasons FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/128
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/toutehistoire.fr.png" group-title="FRANCE CHANEL", FR: Toute l'histoire HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/129
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/toutehistoire.fr.png" group-title="FRANCE CHANEL", FR: Toute l'histoire FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/130
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/trek.fr.png" group-title="FRANCE CHANEL", FR: Trek HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/131
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/trek.fr.png" group-title="FRANCE CHANEL", FR: Trek FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/132
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/ushuaiatv.fr.png" group-title="FRANCE CHANEL", FR: Ushuaïa TV HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/133
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/ushuaiatv.fr.png" group-title="FRANCE CHANEL", FR: Ushuaïa TV FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/134
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/voyage.fr.png" group-title="FRANCE CHANEL", FR: Voyage HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/135
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/voyage.fr.png" group-title="FRANCE CHANEL", FR: Voyage FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/136
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FRANCE CHANEL", -------| Cinéma et Séries |-------
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/137
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/13rue.fr.png" group-title="FRANCE CHANEL", FR: 13e Rue HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/138
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/13rue.fr.png" group-title="FRANCE CHANEL", FR: 13e Rue FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/139
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/ab1.fr.png" group-title="FRANCE CHANEL", FR: AB 1 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/140
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/ab1.fr.png" group-title="FRANCE CHANEL", FR: AB 1 FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/141
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/ab3.fr.png" group-title="FRANCE CHANEL", FR: AB 3 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/142
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/ab3.fr.png" group-title="FRANCE CHANEL", FR: AB 3 FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/143
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/action.fr.png" group-title="FRANCE CHANEL", FR: Action HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/144
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/action.fr.png" group-title="FRANCE CHANEL", FR: Action FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/145
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/comedieplus.fr.png" group-title="FRANCE CHANEL", FR: Comédie+ HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/146
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/comedieplus.fr.png" group-title="FRANCE CHANEL", FR: Comédie+ FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/147
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/comedycentral.png" group-title="FRANCE CHANEL", FR: Comedy Central HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/148
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/comedycentral.png" group-title="FRANCE CHANEL", FR: Comedy Central FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/149
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/eentertainment.fr.png" group-title="FRANCE CHANEL", FR: E ! HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/150
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/eentertainment.fr.png" group-title="FRANCE CHANEL", FR: E ! FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/151
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/paramountchannel.fr.png" group-title="FRANCE CHANEL", FR: Paramount Channel HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/152
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/paramountchannel.fr.png" group-title="FRANCE CHANEL", FR: Paramount Channel FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/153
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/paramountchanneldecale.png" group-title="FRANCE CHANEL", FR: Paramount Channel Décalé HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/154
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/paramountchanneldecale.png" group-title="FRANCE CHANEL", FR: Paramount Channel Décalé FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/155
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/polarplus.jpg" group-title="FRANCE CHANEL", FR: Polar+ HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/156
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/polarplus.jpg" group-title="FRANCE CHANEL", FR: Polar+ FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/157
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/syfy.fr.png" group-title="FRANCE CHANEL", FR: Syfy HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/158
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/syfy.fr.png" group-title="FRANCE CHANEL", FR: Syfy FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/159
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/tcm.fr.png" group-title="FRANCE CHANEL", FR: TCM Cinéma HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/160
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/tcm.fr.png" group-title="FRANCE CHANEL", FR: TCM Cinéma FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/161
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/tvbreizh.fr.png" group-title="FRANCE CHANEL", FR: TV Breizh HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/162
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/tvbreizh.fr.png" group-title="FRANCE CHANEL", FR: TV Breizh FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/163
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/warnertv.fr.png" group-title="FRANCE CHANEL", FR: Warner TV HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/164
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/warnertv.fr.png" group-title="FRANCE CHANEL", FR: Warner TV FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/165
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/canalpluscinema.fr.png" group-title="FRANCE CHANEL", FR: Canal+ Cinéma HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/166
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/canalpluscinema.fr.png" group-title="FRANCE CHANEL", FR: Canal+ Cinéma FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/167
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/canalplusdecale.fr.png" group-title="FRANCE CHANEL", FR: Canal+ Décalé HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/168
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/canalplusdecale.fr.png" group-title="FRANCE CHANEL", FR: Canal+ Décalé FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/169
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/canalplusseries.fr.png" group-title="FRANCE CHANEL", FR: Canal+ Séries HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/170
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/canalplusseries.fr.png" group-title="FRANCE CHANEL", FR: Canal+ Séries FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/171
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/canalplusfamily.fr.png" group-title="FRANCE CHANEL", FR: Canal+ Family HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/172
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/canalplusfamily.fr.png" group-title="FRANCE CHANEL", FR: Canal+ Family FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/173
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/cineplusclassic.fr.png" group-title="FRANCE CHANEL", FR: Ciné+ Classic HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/174
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/cineplusclassic.fr.png" group-title="FRANCE CHANEL", FR: Ciné+ Classic FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/175
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/cineplusclub.fr.png" group-title="FRANCE CHANEL", FR: Ciné+ Club HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/176
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/cineplusclub.fr.png" group-title="FRANCE CHANEL", FR: Ciné+ Club FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/177
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/cineplusemotion.fr.png" group-title="FRANCE CHANEL", FR: Ciné+ Émotion HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/178
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/cineplusemotion.fr.png" group-title="FRANCE CHANEL", FR: Ciné+ Émotion FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/179
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/cineplusfamiz.fr.png" group-title="FRANCE CHANEL", FR: Ciné+ Famiz HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/180
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/cineplusfamiz.fr.png" group-title="FRANCE CHANEL", FR: Ciné+ Famiz FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/181
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/cineplusfrisson.fr.png" group-title="FRANCE CHANEL", FR: Ciné+ Frisson HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/182
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/cineplusfrisson.fr.png" group-title="FRANCE CHANEL", FR: Ciné+ Frisson FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/183
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/cinepluspremier.fr.png" group-title="FRANCE CHANEL", FR: Ciné+ Premier HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/184
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/cinepluspremier.fr.png" group-title="FRANCE CHANEL", FR: Ciné+ Premier FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/185
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/ocschoc.fr.png" group-title="FRANCE CHANEL", FR: OCS Choc HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/186
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/ocschoc.fr.png" group-title="FRANCE CHANEL", FR: OCS Choc FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/187
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/ocscity.fr.png" group-title="FRANCE CHANEL", FR: OCS City HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/188
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/ocscity.fr.png" group-title="FRANCE CHANEL", FR: OCS City FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/189
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/ocsgeants.fr.png" group-title="FRANCE CHANEL", FR: OCS Géants HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/190
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/ocsgeants.fr.png" group-title="FRANCE CHANEL", FR: OCS Géants FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/191
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/ocsmax.fr.png" group-title="FRANCE CHANEL", FR: OCS Max HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/192
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/ocsmax.fr.png" group-title="FRANCE CHANEL", FR: OCS Max FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/193
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/24on7.png" group-title="FRANCE CHANEL", FR: À La Carte 1
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/194
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/24on7.png" group-title="FRANCE CHANEL", FR: À La Carte 2
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/195
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/24on7.png" group-title="FRANCE CHANEL", FR: À La Carte 3
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/196
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/24on7.png" group-title="FRANCE CHANEL", FR: À La Carte 4
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/197
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/24on7.png" group-title="FRANCE CHANEL", FR: À La Carte 5
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/198
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/24on7.png" group-title="FRANCE CHANEL", FR: À La Carte 6
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/199
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/24on7.png" group-title="FRANCE CHANEL", FR: À La Carte 7
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/200
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/24on7.png" group-title="FRANCE CHANEL", FR: À La Carte 8
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/201
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/24on7.png" group-title="FRANCE CHANEL", FR: À La Carte 9
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/202
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/24on7.png" group-title="FRANCE CHANEL", FR: À La Carte 10
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/203
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/24on7.png" group-title="FRANCE CHANEL", FR: À La Carte 11
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/204
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/24on7.png" group-title="FRANCE CHANEL", FR: À La Carte 12
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/205
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/24on7.png" group-title="FRANCE CHANEL", FR: À La Carte 13
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/206
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/24on7.png" group-title="FRANCE CHANEL", FR: À La Carte 14
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/207
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/24on7.png" group-title="FRANCE CHANEL", FR: À La Carte 15
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/208
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FRANCE CHANEL", -------| Jeunesse |-------
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/209
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/babytv.br.png" group-title="FRANCE CHANEL", FR: Baby TV HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/210
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/babytv.br.png" group-title="FRANCE CHANEL", FR: Baby TV FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/211
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/boing.fr.png" group-title="FRANCE CHANEL", FR: Boing HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/212
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/boing.fr.png" group-title="FRANCE CHANEL", FR: Boing FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/213
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/boomerang.fr.png" group-title="FRANCE CHANEL", FR: Boomerang HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/214
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/boomerang.fr.png" group-title="FRANCE CHANEL", FR: Boomerang FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/215
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/boomerangdecale.png" group-title="FRANCE CHANEL", FR: Boomerang+1 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/216
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/canalj.fr.png" group-title="FRANCE CHANEL", FR: Canal J HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/217
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/canalj.fr.png" group-title="FRANCE CHANEL", FR: Canal J FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/218
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/cartoonnetwork.fr.png" group-title="FRANCE CHANEL", FR: Cartoon Network HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/219
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/cartoonnetwork.fr.png" group-title="FRANCE CHANEL", FR: Cartoon Network FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/220
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/disneyplus.png" group-title="FRANCE CHANEL", FR: Disney+ HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/221
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/disneyplus.png" group-title="FRANCE CHANEL", FR: Disney+ FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/222
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/disneychannel.fr.png" group-title="FRANCE CHANEL", FR: Disney Channel HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/223
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/disneychannel.fr.png" group-title="FRANCE CHANEL", FR: Disney Channel FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/224
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/disneychanneldecale.png" group-title="FRANCE CHANEL", FR: Disney Channel+1 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/225
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/disneychanneldecale.png" group-title="FRANCE CHANEL", FR: Disney Channel+1 FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/226
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/disneyjunior.fr.png" group-title="FRANCE CHANEL", FR: Disney Junior HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/227
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/disneyjunior.fr.png" group-title="FRANCE CHANEL", FR: Disney Junior FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/228
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/gameone.fr.png" group-title="FRANCE CHANEL", FR: Game One HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/229
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/gameone.fr.png" group-title="FRANCE CHANEL", FR: Game One FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/230
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/gameonedecale.png" group-title="FRANCE CHANEL", FR: Game One+1 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/231
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/gameonedecale.png" group-title="FRANCE CHANEL", FR: Game One+1 FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/232
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/jone.fr.png" group-title="FRANCE CHANEL", FR: J-One HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/233
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/jone.fr.png" group-title="FRANCE CHANEL", FR: J-One FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/234
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/mangas.fr.png" group-title="FRANCE CHANEL", FR: Mangas HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/235
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/mangas.fr.png" group-title="FRANCE CHANEL", FR: Mangas FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/236
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/nickelodeon.fr.png" group-title="FRANCE CHANEL", FR: Nickelodeon HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/237
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/nickelodeon.fr.png" group-title="FRANCE CHANEL", FR: Nickelodeon FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/238
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/nickelodeondecale.png" group-title="FRANCE CHANEL", FR: Nickelodeon+1 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/239
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/nickelodeondecale.png" group-title="FRANCE CHANEL", FR: Nickelodeon+1 FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/240
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/nickjr.fr.png" group-title="FRANCE CHANEL", FR: Nickelodeon Junior HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/241
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/nickjr.fr.png" group-title="FRANCE CHANEL", FR: Nickelodeon Junior FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/242
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/nickelodeon4teen.fr.png" group-title="FRANCE CHANEL", FR: Nickelodeon Teen HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/243
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/nickelodeon4teen.fr.png" group-title="FRANCE CHANEL", FR: Nickelodeon Teen FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/244
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/piwi.fr.png" group-title="FRANCE CHANEL", FR: Piwi+ HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/245
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/piwi.fr.png" group-title="FRANCE CHANEL", FR: Piwi+ FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/246
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/tiji.fr.png" group-title="FRANCE CHANEL", FR: TIJI HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/247
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/tiji.fr.png" group-title="FRANCE CHANEL", FR: TIJI FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/248
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/toonami.fr.png" group-title="FRANCE CHANEL", FR: Toonami HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/249
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/toonami.fr.png" group-title="FRANCE CHANEL", FR: Toonami FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/250
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/teletoonplus.fr.png" group-title="FRANCE CHANEL", FR: TéléToon+ HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/251
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/teletoonplus.fr.png" group-title="FRANCE CHANEL", FR: TéléToon+ FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/252
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/teletoondecale.png" group-title="FRANCE CHANEL", FR: TéléToon+1 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/253
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/teletoondecale.png" group-title="FRANCE CHANEL", FR: TéléToon+1 FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/254
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FRANCE CHANEL", -------| Sport |-------
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/255
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/automoto.png" group-title="FRANCE CHANEL", FR: Automoto La chaîne
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/256
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/canalplussport.fr.png" group-title="FRANCE CHANEL", FR: Canal+ Sport HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/257
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/canalplussport.fr.png" group-title="FRANCE CHANEL", FR: Canal+ Sport FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/258
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/equidia.fr.png" group-title="FRANCE CHANEL", FR: Equidia HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/259
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/equidia.fr.png" group-title="FRANCE CHANEL", FR: Equidia FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/260
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/es1.png" group-title="FRANCE CHANEL", FR: ES1 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/261
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/es1.png" group-title="FRANCE CHANEL", FR: ES1 FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/262
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/eurosport1.png" group-title="FRANCE CHANEL", FR: Eurosport 1 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/263
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/eurosport1.png" group-title="FRANCE CHANEL", FR: Eurosport 1 FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/264
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/eurosport2.png" group-title="FRANCE CHANEL", FR: Eurosport 2 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/265
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/eurosport2.png" group-title="FRANCE CHANEL", FR: Eurosport 2 FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/266
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/golf.fr.png" group-title="FRANCE CHANEL", FR: Golf Channel HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/267
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/golf.fr.png" group-title="FRANCE CHANEL", FR: Golf Channel FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/268
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/golfplus.fr.png" group-title="FRANCE CHANEL", FR: Golf+ HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/269
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/golfplus.fr.png" group-title="FRANCE CHANEL", FR: Golf+ FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/270
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/infosportplus.fr.png" group-title="FRANCE CHANEL", FR: Infosport+ HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/271
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/infosportplus.fr.png" group-title="FRANCE CHANEL", FR: Infosport+ FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/272
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/lequipe.jpg" group-title="FRANCE CHANEL", FR: L'Équipe SD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/273
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/lequipe.jpg" group-title="FRANCE CHANEL", FR: L'Équipe HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/274
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/lequipe.jpg" group-title="FRANCE CHANEL", FR: L'Équipe FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/275
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/luckyjack.lu.png" group-title="FRANCE CHANEL", FR: Lucky Jack.Tv HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/276
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/beinsports1.fr.png" group-title="FRANCE CHANEL", FR: beIN SPORTS 1 SD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/277
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/beinsports1.fr.png" group-title="FRANCE CHANEL", FR: beIN SPORTS 1 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/278
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/beinsports1.fr.png" group-title="FRANCE CHANEL", FR: beIN SPORTS 1 FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/279
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/beinsports2.fr.png" group-title="FRANCE CHANEL", FR: beIN SPORTS 2 SD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/280
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/beinsports2.fr.png" group-title="FRANCE CHANEL", FR: beIN SPORTS 2 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/281
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/beinsports2.fr.png" group-title="FRANCE CHANEL", FR: beIN SPORTS 2 FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/282
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/beinsports3.fr.png" group-title="FRANCE CHANEL", FR: beIN SPORTS 3 SD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/283
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/beinsports3.fr.png" group-title="FRANCE CHANEL", FR: beIN SPORTS 3 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/284
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/beinsports3.fr.png" group-title="FRANCE CHANEL", FR: beIN SPORTS 3 FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/285
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/beinsports4.qa.png" group-title="FRANCE CHANEL", FR: beIN SPORTS MAX 4 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/286
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/beinsports4.qa.png" group-title="FRANCE CHANEL", FR: beIn SPORTS MAX 4 FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/287
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/beinsports5.qa.png" group-title="FRANCE CHANEL", FR: beIN SPORTS MAX 5 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/288
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/beinsports5.qa.png" group-title="FRANCE CHANEL", FR: beIn SPORTS MAX 5 FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/289
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/beinsports6.qa.png" group-title="FRANCE CHANEL", FR: beIN SPORTS MAX 6 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/290
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/beinsports6.qa.png" group-title="FRANCE CHANEL", FR: beIn SPORTS MAX 6 FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/291
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/beinsports7.qa.png" group-title="FRANCE CHANEL", FR: beIN SPORTS MAX 7 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/292
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/beinsports7.qa.png" group-title="FRANCE CHANEL", FR: beIn SPORTS MAX 7 FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/293
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/beinsports8.qa.png" group-title="FRANCE CHANEL", FR: beIN SPORTS MAX 8 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/294
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/beinsports8.qa.png" group-title="FRANCE CHANEL", FR: beIn SPORTS MAX 8 FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/295
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/beinsports9.qa.png" group-title="FRANCE CHANEL", FR: beIN SPORTS MAX 9 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/296
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/beinsports9.qa.png" group-title="FRANCE CHANEL", FR: beIn SPORTS MAX 9 FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/297
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/beinsports10.qa.png" group-title="FRANCE CHANEL", FR: beIN SPORTS MAX 10 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/298
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/beinsports10.qa.png" group-title="FRANCE CHANEL", FR: beIn SPORTS MAX 10 FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/299
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/rmcsport1.png" group-title="FRANCE CHANEL", FR: RMC Sport 1 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/300
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/rmcsport1.png" group-title="FRANCE CHANEL", FR: RMC Sport 1 FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/301
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/rmcsport2.png" group-title="FRANCE CHANEL", FR: RMC Sport 2 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/302
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/rmcsport2.png" group-title="FRANCE CHANEL", FR: RMC Sport 2 FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/303
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/rmcsport3.png" group-title="FRANCE CHANEL", FR: RMC Sport 3 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/304
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/rmcsport3.png" group-title="FRANCE CHANEL", FR: RMC Sport 3 FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/305
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/rmcsport4.png" group-title="FRANCE CHANEL", FR: RMC Sport 4 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/306
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/rmcsport4.png" group-title="FRANCE CHANEL", FR: RMC Sport 4 FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/307
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/rmcsportlive5.png" group-title="FRANCE CHANEL", FR: RMC Sport Live 5 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/308
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/rmcsportlive6.png" group-title="FRANCE CHANEL", FR: RMC Sport Live 6 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/309
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/rmcsportlive7.png" group-title="FRANCE CHANEL", FR: RMC Sport Live 7 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/310
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/rmcsportlive8.png" group-title="FRANCE CHANEL", FR: RMC Sport Live 8 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/311
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/rmcsportlive9.png" group-title="FRANCE CHANEL", FR: RMC Sport Live 9 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/312
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/rmcsportlive10.png" group-title="FRANCE CHANEL", FR: RMC Sport Live 10 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/313
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/rmcsportlive11.png" group-title="FRANCE CHANEL", FR: RMC Sport Live 11 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/314
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/rmcsportlive12.png" group-title="FRANCE CHANEL", FR: RMC Sport Live 12 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/315
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/rmcsportlive13.png" group-title="FRANCE CHANEL", FR: RMC Sport Live 13 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/316
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/rmcsportlive14.png" group-title="FRANCE CHANEL", FR: RMC Sport Live 14 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/317
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/rmcsportlive15.png" group-title="FRANCE CHANEL", FR: RMC Sport Live 15 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/318
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/rmcsportlive16.png" group-title="FRANCE CHANEL", FR: RMC Sport Live 16 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/319
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/multisports1.png" group-title="FRANCE CHANEL", FR: Multisports 1 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/320
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/multisports1.png" group-title="FRANCE CHANEL", FR: Multisports 1 FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/321
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/multisports2.png" group-title="FRANCE CHANEL", FR: Multisports 2 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/322
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/multisports2.png" group-title="FRANCE CHANEL", FR: Multisports 2 FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/323
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/multisports3.png" group-title="FRANCE CHANEL", FR: Multisports 3 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/324
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/multisports3.png" group-title="FRANCE CHANEL", FR: Multisports 3 FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/325
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/multisports4.png" group-title="FRANCE CHANEL", FR: Multisports 4 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/326
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/multisports4.png" group-title="FRANCE CHANEL", FR: Multisports 4 FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/327
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/multisports5.png" group-title="FRANCE CHANEL", FR: Multisports 5 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/328
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/multisports5.png" group-title="FRANCE CHANEL", FR: Multisports 5 FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/329
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/multisports6.png" group-title="FRANCE CHANEL", FR: Multisports 6 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/330
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/multisports6.png" group-title="FRANCE CHANEL", FR: Multisports 6 FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/331
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FRANCE CHANEL", -------| Musique |-------
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/339
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/clubbingtv.png" group-title="FRANCE CHANEL", FR: Clubbing HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/340
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/m6music.fr.png" group-title="FRANCE CHANEL", FR: M6 Music HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/341
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/m6music.fr.png" group-title="FRANCE CHANEL", FR: M6 Music FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/342
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/mcm.fr.png" group-title="FRANCE CHANEL", FR: MCM HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/343
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/mcm.fr.png" group-title="FRANCE CHANEL", FR: MCM FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/344
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/melody.fr.png" group-title="FRANCE CHANEL", FR: Melody HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/345
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/melody.fr.png" group-title="FRANCE CHANEL", FR: Melody FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/346
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/mezzo.fr.png" group-title="FRANCE CHANEL", FR: Mezzo HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/347
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/mezzo.fr.png" group-title="FRANCE CHANEL", FR: Mezzo FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/348
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/mezzolive.fr.png" group-title="FRANCE CHANEL", FR: Mezzo Live HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/349
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/mezzolive.fr.png" group-title="FRANCE CHANEL", FR: Mezzo Live FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/350
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/mtv.fr.png" group-title="FRANCE CHANEL", FR: MTV HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/351
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/mtv.fr.png" group-title="FRANCE CHANEL", FR: MTV FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/352
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/mtvhitsfrance.fr.png" group-title="FRANCE CHANEL", FR: MTV Hits HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/353
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/mtvhitsfrance.fr.png" group-title="FRANCE CHANEL", FR: MTV Hits FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/354
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/nrjhits.fr.png" group-title="FRANCE CHANEL", FR: NRJ Hits HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/355
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/nrjhits.fr.png" group-title="FRANCE CHANEL", FR: NRJ Hits FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/356
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/rfmtv.fr.png" group-title="FRANCE CHANEL", FR: RFM TV HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/357
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/rfmtv.fr.png" group-title="FRANCE CHANEL", FR: RFM TV FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/358
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/stingrayclassica.png" group-title="FRANCE CHANEL", FR: Stingray Classica HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/359
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/stingrayclassica.png" group-title="FRANCE CHANEL", FR: Stingray Classica FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/360
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/traceurban.png" group-title="FRANCE CHANEL", FR: Trace Urban HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/361
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/tracekitoko.png" group-title="FRANCE CHANEL", FR: Trace Kitoko HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/362
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/tracelatina.png" group-title="FRANCE CHANEL", FR: Trace Latina HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/363
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/traceayiti.png" group-title="FRANCE CHANEL", FR: Trace Ayiti HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/364
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/tracenaija.png" group-title="FRANCE CHANEL", FR: Trace Naija HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/365
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/tracemziki.png" group-title="FRANCE CHANEL", FR: Trace Mziki HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/366
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/tracetoca.png" group-title="FRANCE CHANEL", FR: Trace Toca HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/367
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/tracegospel.png" group-title="FRANCE CHANEL", FR: Trace Gospel HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/368
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/traceafrica.png" group-title="FRANCE CHANEL", FR: Trace Africa HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/369
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/tracecaribbean.png" group-title="FRANCE CHANEL", FR: Trace Caribbean HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/370
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FRANCE CHANEL", FR: Canal+ Ligue 1 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/11128
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FRANCE CHANEL", FR: Amazon Prime 1 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/11129
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FRANCE CHANEL", FR: Amazon Prime 2 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/11130
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FRANCE CHANEL", FR: Amazon Prime 3 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/11131
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FRANCE CHANEL", FR: Amazon Prime 4 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/11132
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FRANCE CHANEL", FR: Amazon Prime 5 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/11133
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FRANCE CHANEL", FR: Amazon Prime 6 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/11134
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FRANCE CHANEL", FR: Amazon Prime 7 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/11135
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FRANCE CHANEL", FR: Amazon Prime 8 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/11136
+
+
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", Nollywood Movies AFR
 http://45.12.1.14:80/r83epAbKKa4t861/48Jlt4Sljy5j950/13474
