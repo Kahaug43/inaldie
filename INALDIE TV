@@ -2083,9 +2083,6 @@ http://xxxxlocal.com:8080/xiptv0985/Sdz55XvV7hqzs/1322
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DISCOVERY", [PT] DISCOVERY CHANNEL SD
 http://xxxxlocal.com:8080/xiptv0985/Sdz55XvV7hqzs/19290
 
-#EXTINF:-1 tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/DISCOVERY.png" group-title="ESPANIA", [ES] DISCOVERY
-http://xxxxlocal.com:8080/xiptv0985/Sdz55XvV7hqzs/852
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DISCOVERY", [DE] DISCOVERY CHANNEL
 http://xxxxlocal.com:8080/xiptv0985/Sdz55XvV7hqzs/2280
 
