@@ -760,6 +760,44 @@ http://postv.shop:80/elane639/66392639/91283
 http://postv.shop:80/elane639/66392639/91937
 
 
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR",Movies 4K Family
+http://myserveriptv.com:2082/worldiptv/9lE7Vdu3DMNB/30718
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR",Movies 4K Blockbusters
+http://myserveriptv.com:2082/worldiptv/9lE7Vdu3DMNB/27977
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR",Movies 4K Animation
+http://myserveriptv.com:2082/worldiptv/9lE7Vdu3DMNB/159933
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR",Movies 4K Cult
+http://myserveriptv.com:2082/worldiptv/9lE7Vdu3DMNB/159934
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR",Movies 4K Comedy
+http://myserveriptv.com:2082/worldiptv/9lE7Vdu3DMNB/159937
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR",Movies 4K Classic
+http://myserveriptv.com:2082/worldiptv/9lE7Vdu3DMNB/159923
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR",Movies 4K Greats
+http://myserveriptv.com:2082/worldiptv/9lE7Vdu3DMNB/15517
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR",Movies 4K Greats Two
+http://myserveriptv.com:2082/worldiptv/9lE7Vdu3DMNB/16071
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR",Movies 4K Historical
+http://myserveriptv.com:2082/worldiptv/9lE7Vdu3DMNB/16239
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR",Movies 4K Horror
+http://myserveriptv.com:2082/worldiptv/9lE7Vdu3DMNB/16240
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR",Movies 4K Musical
+http://myserveriptv.com:2082/worldiptv/9lE7Vdu3DMNB/17593
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR",Movies 4K Mystery
+http://myserveriptv.com:2082/worldiptv/9lE7Vdu3DMNB/17657
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR",Movies 4K Premiere
+http://myserveriptv.com:2082/worldiptv/9lE7Vdu3DMNB/18116
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR",Movies 4K Romance
+http://myserveriptv.com:2082/worldiptv/9lE7Vdu3DMNB/20979
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR",Movies 4K Sci-Fi
+http://myserveriptv.com:2082/worldiptv/9lE7Vdu3DMNB/20981
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR",Movies 4K Western
+http://myserveriptv.com:2082/worldiptv/9lE7Vdu3DMNB/27584
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR",Movies 4K Hits
+http://myserveriptv.com:2082/worldiptv/9lE7Vdu3DMNB/27591
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR",Movies 4K Thriller
+http://myserveriptv.com:2082/worldiptv/9lE7Vdu3DMNB/27599
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", ARG : CINE AR HD
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/52498.ts
