@@ -855,34 +855,7 @@ http://xxxxlocal.com:8080/xiptv0985/Sdz55XvV7hqzs/7789
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HBO", [PK] HBO
 http://xxxxlocal.com:8080/xiptv0985/Sdz55XvV7hqzs/13424
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR",Movies 4K Family
-http://myserveriptv.com:2082/worldiptv/9lE7Vdu3DMNB/30718
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR",Movies 4K Blockbusters
-http://myserveriptv.com:2082/worldiptv/9lE7Vdu3DMNB/27977
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR",Movies 4K Animation
-http://myserveriptv.com:2082/worldiptv/9lE7Vdu3DMNB/159933
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR",Movies 4K Cult
-http://myserveriptv.com:2082/worldiptv/9lE7Vdu3DMNB/159934
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR",Movies 4K Comedy
-http://myserveriptv.com:2082/worldiptv/9lE7Vdu3DMNB/159937
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR",Movies 4K Classic
-http://myserveriptv.com:2082/worldiptv/9lE7Vdu3DMNB/159923
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR",Movies 4K Greats
-http://myserveriptv.com:2082/worldiptv/9lE7Vdu3DMNB/15517
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR",Movies 4K Greats Two
-http://myserveriptv.com:2082/worldiptv/9lE7Vdu3DMNB/16071
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR",Movies 4K Historical
-http://myserveriptv.com:2082/worldiptv/9lE7Vdu3DMNB/16239
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR",Movies 4K Horror
-http://myserveriptv.com:2082/worldiptv/9lE7Vdu3DMNB/16240
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR",Movies 4K Musical
-http://myserveriptv.com:2082/worldiptv/9lE7Vdu3DMNB/17593
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR",Movies 4K Mystery
-http://myserveriptv.com:2082/worldiptv/9lE7Vdu3DMNB/17657
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR",Movies 4K Premiere
-http://myserveriptv.com:2082/worldiptv/9lE7Vdu3DMNB/18116
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR",Movies 4K Romance
-http://myserveriptv.com:2082/worldiptv/9lE7Vdu3DMNB/20979
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", Movies 4K Family
 http://myserveriptv.com:2082/7wOd6fH332c1/8Skfy98Fd74f/30718
 
