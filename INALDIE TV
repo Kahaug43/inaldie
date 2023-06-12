@@ -8547,24 +8547,6 @@ http://xxxxlocal.com:8080/xiptv0985/Sdz55XvV7hqzs/15299
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA", [BR] SporTV SD
 http://xxxxlocal.com:8080/xiptv0985/Sdz55XvV7hqzs/15300
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA", [BR] 24h As Meninas Super Poderosas
-http://xxxxlocal.com:8080/xiptv0985/Sdz55XvV7hqzs/17245
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA", [BR] 24h AS MENINAS SUPER PODEROSAS
-http://xxxxlocal.com:8080/xiptv0985/Sdz55XvV7hqzs/17246
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA", [BR] 24h Dragon Ball Super
-http://xxxxlocal.com:8080/xiptv0985/Sdz55XvV7hqzs/17303
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA", [BR] 24h Dragon Ball Super
-http://xxxxlocal.com:8080/xiptv0985/Sdz55XvV7hqzs/17304
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA", [BR] 24h Os Super Patos
-http://xxxxlocal.com:8080/xiptv0985/Sdz55XvV7hqzs/17373
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA", [BR] 24h Super Choque
-http://xxxxlocal.com:8080/xiptv0985/Sdz55XvV7hqzs/17404
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA", [BR] All Sports HD
 http://xxxxlocal.com:8080/xiptv0985/Sdz55XvV7hqzs/17428
 
@@ -9077,6 +9059,79 @@ http://xxxxlocal.com:8080/xiptv0985/Sdz55XvV7hqzs/23140
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA", [AF] S Premier League backup 04
 http://xxxxlocal.com:8080/xiptv0985/Sdz55XvV7hqzs/23141
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA", [BR] Sony FHD
+http://xxxxlocal.com:8080/xiptv0985/Sdz55XvV7hqzs/15286
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA", [BR] Sony HD
+http://xxxxlocal.com:8080/xiptv0985/Sdz55XvV7hqzs/15287
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA", [BR] Sony SD
+http://xxxxlocal.com:8080/xiptv0985/Sdz55XvV7hqzs/15288
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA", [BR] Sony HD²
+http://xxxxlocal.com:8080/xiptv0985/Sdz55XvV7hqzs/20334
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA", [IN] Sony Mix HD
+http://xxxxlocal.com:8080/xiptv0985/Sdz55XvV7hqzs/8920
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA", [IN] SONY MAX 2
+http://xxxxlocal.com:8080/xiptv0985/Sdz55XvV7hqzs/8922
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA", [IN] SONY MIX
+http://xxxxlocal.com:8080/xiptv0985/Sdz55XvV7hqzs/9845
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA", [IN] SONY AATH
+http://xxxxlocal.com:8080/xiptv0985/Sdz55XvV7hqzs/9872
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA", [IN] SONY TV HD
+http://xxxxlocal.com:8080/xiptv0985/Sdz55XvV7hqzs/9953
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA", [IN] SONY TV SD
+http://xxxxlocal.com:8080/xiptv0985/Sdz55XvV7hqzs/9954
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA", [IN] SONY TV (UK)
+http://xxxxlocal.com:8080/xiptv0985/Sdz55XvV7hqzs/9955
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA", [IN] SONY SAB HD
+http://xxxxlocal.com:8080/xiptv0985/Sdz55XvV7hqzs/9966
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA", [IN] SONY SAB SD
+http://xxxxlocal.com:8080/xiptv0985/Sdz55XvV7hqzs/9967
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA", [IN] SONY SAB (UK)
+http://xxxxlocal.com:8080/xiptv0985/Sdz55XvV7hqzs/9968
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA", [IN] SONY PAL
+http://xxxxlocal.com:8080/xiptv0985/Sdz55XvV7hqzs/9969
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA", [IN] SONY MAX
+http://xxxxlocal.com:8080/xiptv0985/Sdz55XvV7hqzs/9990
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA", [IN] SONY MAX 2
+http://xxxxlocal.com:8080/xiptv0985/Sdz55XvV7hqzs/9991
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA", [IN] SONY SIX HD
+http://xxxxlocal.com:8080/xiptv0985/Sdz55XvV7hqzs/10016
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA", [IN] SONY ESPN HD
+http://xxxxlocal.com:8080/xiptv0985/Sdz55XvV7hqzs/10017
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA", [IN] SONY YAY HINDI
+http://xxxxlocal.com:8080/xiptv0985/Sdz55XvV7hqzs/10039
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA", [IN] SONY TEN 1
+http://xxxxlocal.com:8080/xiptv0985/Sdz55XvV7hqzs/14311
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA", [IN] SONY TEN 2
+http://xxxxlocal.com:8080/xiptv0985/Sdz55XvV7hqzs/14312
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fWkoGPE.png" group-title="SPORT DUNIA", [IN] Sony BBC Earth
+http://xxxxlocal.com:8080/xiptv0985/Sdz55XvV7hqzs/20138
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA", [IN] SONY TEN 3
+http://xxxxlocal.com:8080/xiptv0985/Sdz55XvV7hqzs/20140
+
+
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALBANIA CHANEL", Top Channel
