@@ -1113,7 +1113,44 @@ http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/353265.ts
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", ESPAÑA : A3CINE
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/377904.ts
 
-
+#EXTINF:-1, group-title="KIDS & DISNEY", TOM & JERRY
+http://terraserver.cc:8080/FquXLnEnzO/1Y86IE4hN2/384
+#EXTINF:-1, group-title="KIDS & DISNEY", LARVA
+http://terraserver.cc:8080/FquXLnEnzO/1Y86IE4hN2/386
+#EXTINF:-1, group-title="KIDS & DISNEY", BABY TV2
+http://terraserver.cc:8080/FquXLnEnzO/1Y86IE4hN2/210
+#EXTINF:-1, group-title="KIDS & DISNEY", CANAL+KIDS
+http://terraserver.cc:8080/FquXLnEnzO/1Y86IE4hN2/172
+#EXTINF:-1, group-title="KIDS & DISNEY", BOOMERANG
+http://terraserver.cc:8080/FquXLnEnzO/1Y86IE4hN2/214
+#EXTINF:-1, group-title="KIDS & DISNEY", CANAL J KIDS
+http://terraserver.cc:8080/FquXLnEnzO/1Y86IE4hN2/217
+#EXTINF:-1, group-title="KIDS & DISNEY", CARTOON NETWORK FR
+http://terraserver.cc:8080/FquXLnEnzO/1Y86IE4hN2/219
+#EXTINF:-1, group-title="KIDS & DISNEY", DISNEY JR
+http://terraserver.cc:8080/FquXLnEnzO/1Y86IE4hN2/227
+#EXTINF:-1, group-title="KIDS & DISNEY", DISNEY CHANEL
+http://terraserver.cc:8080/FquXLnEnzO/1Y86IE4hN2/223
+#EXTINF:-1, group-title="KIDS & DISNEY", NICKELEDOEN
+http://terraserver.cc:8080/FquXLnEnzO/1Y86IE4hN2/237
+#EXTINF:-1, group-title="KIDS & DISNEY", NICKELEDOEN JR
+http://terraserver.cc:8080/FquXLnEnzO/1Y86IE4hN2/241
+#EXTINF:-1, group-title="ANIME", GAME ON ANIME 
+http://terraserver.cc:8080/FquXLnEnzO/1Y86IE4hN2/229
+#EXTINF:-1, group-title="ANIME", GAME ON+ ANIME 
+http://terraserver.cc:8080/FquXLnEnzO/1Y86IE4hN2/231
+#EXTINF:-1, group-title="ANIME", J ONE ANIME 
+http://terraserver.cc:8080/FquXLnEnzO/1Y86IE4hN2/233
+#EXTINF:-1, group-title="ANIME", MANGAS TV
+http://terraserver.cc:8080/FquXLnEnzO/1Y86IE4hN2/235
+#EXTINF:-1, group-title="ANIME", TOONANIME
+http://terraserver.cc:8080/FquXLnEnzO/1Y86IE4hN2/249
+#EXTINF:-1, group-title="KIDS & DISNEY", PIWI+
+http://terraserver.cc:8080/FquXLnEnzO/1Y86IE4hN2/245
+#EXTINF:-1, group-title="KIDS & DISNEY", TIJI TV
+http://terraserver.cc:8080/FquXLnEnzO/1Y86IE4hN2/247
+#EXTINF:-1, group-title="KIDS & DISNEY", TELETOON
+http://terraserver.cc:8080/FquXLnEnzO/1Y86IE4hN2/251
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS & DISNEY", DIRECTO : CARTOON NETWORK
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/166508.ts
