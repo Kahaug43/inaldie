@@ -7273,8 +7273,6 @@ http://1.ott4k.cz:80/123123/1234/3819
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 1", |UK| SETANTA SPORTS
 http://1.ott4k.cz:80/123123/1234/3820
 
-
-
 #EXTINF:-1 tvg-logo="http://magott.net:80/images/4a6a5ae8eb9734f24c69587f283d9c3d.png" group-title="SPORT DUNIA 1", |US| (En) beIN SPORTS 1
 http://1.ott4k.cz:80/123123/1234/28904
 
@@ -7315,9 +7313,6 @@ http://1.ott4k.cz:80/123123/1234/28914
 http://1.ott4k.cz:80/123123/1234/41482
 
 
-
-
-
 #EXTINF:-1 tvg-logo="http://magott.net:80/images/624c6c6b3e7a07bbd0da96b19eddbb3a.png" group-title="SPORT DUNIA 1", |US| FOX SPORTS 1 HD
 http://1.ott4k.cz:80/123123/1234/28972
 
@@ -7332,10 +7327,6 @@ http://1.ott4k.cz:80/123123/1234/28974
 
 #EXTINF:-1 tvg-logo="http://magott.net:80/images/9a9cda63443d18a1410c5f8ca25a081c.png" group-title="SPORT DUNIA 1", |US| FOX SPORTS SOUTH PLUS HD
 http://1.ott4k.cz:80/123123/1234/28976
-
-
-
-
 
 #EXTINF:-1 tvg-logo="http://magott.net:80/images/f5f2a707bf302f9df15354e1c16a3928.png" group-title="SPORT DUNIA 1", |US| TRACE SPORTS STARS HD
 http://1.ott4k.cz:80/123123/1234/28884
@@ -7484,11 +7475,6 @@ http://1.ott4k.cz:80/123123/1234/28481
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 1", |TR| EXTREME SPORTS CHANNEL
 http://1.ott4k.cz:80/123123/1234/28483
 
-
-
-
-
-
 #EXTINF:-1 tvg-logo="http://magott.net:80/images/643a97af82fb334f27205245937cf865.png" group-title="SPORT DUNIA 1", |TR| BEIN SPORT  1  FHD
 http://1.ott4k.cz:80/123123/1234/28485
 
@@ -7533,7 +7519,6 @@ http://1.ott4k.cz:80/123123/1234/28498
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 1", |TR| Türkmen Sport TV HD
 http://1.ott4k.cz:80/123123/1234/28533
-
 
 #EXTINF:-1 tvg-logo="http://magott.net:80/images/b03e77e9035392ea14a3d379425abc9a.png" group-title="SPORT DUNIA 1", |SPORT| CANAL+ LEAGUE DES CHAMPIONS  1 HD
 http://1.ott4k.cz:80/123123/1234/31757
@@ -7619,8 +7604,32 @@ http://1.ott4k.cz:80/123123/1234/31778
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 1", |SPORT| CRTV SPORT
 http://1.ott4k.cz:80/123123/1234/31877
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 1", |SPORT| NBA TV
-http://1.ott4k.cz:80/123123/1234/31872
+EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NETHERLAND",NL | XTREME SPORTS
+http://metaip.tv:80/rezastar7/ucCIshvpYj/3252
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NETHERLAND",NL | EUROSPORT 1 ᴴᴰ
+http://metaip.tv:80/rezastar7/ucCIshvpYj/3253
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NETHERLAND",NL | EUROSPORT 2 ᴴᴰ
+http://metaip.tv:80/rezastar7/ucCIshvpYj/3254
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NETHERLAND",NL | ZIGGO SPORT SELECT ᴴᴰ
+http://metaip.tv:80/rezastar7/ucCIshvpYj/3255
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NETHERLAND",NL | ZIGGO VOETBAL ᴴᴰ
+http://metaip.tv:80/rezastar7/ucCIshvpYj/3256
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NETHERLAND",NL | ZIGGO RACING ᴴᴰ
+http://metaip.tv:80/rezastar7/ucCIshvpYj/3257
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NETHERLAND",NL | ZIGGO SPORT GOLF ᴴᴰ
+http://metaip.tv:80/rezastar7/ucCIshvpYj/3258
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NETHERLAND",NL | ZIGGO SPORT DOCU ᴴᴰ
+http://metaip.tv:80/rezastar7/ucCIshvpYj/3259
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NETHERLAND",NL : ZIGGO TENNIS ᴴᴰ
+http://metaip.tv:80/rezastar7/ucCIshvpYj/3260
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NETHERLAND",NL | ESPN 1 ᴴᴰ
+http://metaip.tv:80/rezastar7/ucCIshvpYj/3261
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NETHERLAND",NL | ESPN 2 ᴴᴰ
+http://metaip.tv:80/rezastar7/ucCIshvpYj/3262
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NETHERLAND",NL | ESPN 3 ᴴᴰ
+http://metaip.tv:80/rezastar7/ucCIshvpYj/3263
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NETHERLAND",NL | ESPN4 ᴴᴰ
+http://metaip.tv:80/rezastar7/ucCIshvpYj/3264
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA", [FR] RMC Sport Live 1 HD
