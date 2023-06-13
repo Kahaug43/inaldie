@@ -61,8 +61,12 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298513
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298514
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0" group-title="INDONESIA PREMIUM",ID: Champion TV 5
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298491
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0" group-title="INDONESIA PREMIUM",ID: Champion TV 5 (2)
+https://production-drm-vidio-com-ctv-5.akamaized.net/out/v1/6b83fda0adee41598d5e1a7097ddb8b5/index.mpd
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0" group-title="INDONESIA PREMIUM",ID: Champion TV 6
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298492
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0" group-title="INDONESIA PREMIUM",ID: Champion TV 6 (2)
+https://prod-drm-vidio-com-ctv-6.akamaized.net/out/v1/8ecc1b702b4a4871b51304a9cb82d561/index.mpd
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0" group-title="INDONESIA PREMIUM",ID: Channel News Asia
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/157602
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0" group-title="INDONESIA PREMIUM",ID: Chinese Drama
@@ -4522,6 +4526,11 @@ http://metaip.tv:80/rezastar7/ucCIshvpYj/10836
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", BEIN SPORTS ENGLISH 2 HEVC
 http://metaip.tv:80/rezastar7/ucCIshvpYj/10837
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", NOW SPORT 1
+https://anon.devds.site/link.php?hash=aHR0cDovL3NoYXJlZXh0QDRrc3VwZXIubGl2ZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTo1MDo2Mzo5RSZzdHJlYW09MTExMDYyMiZleHRlbnNpb249dHMmcG
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", NOW SPORT 1 (2)
+http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/69854
 
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0" group-title="SPORT DUNIA 2",|FR| BEIN SPORTS 1 FHD
 http://sansat.net:25461/sohrab/Ahfd34DSf86sfDVG234Sogf12/126935
