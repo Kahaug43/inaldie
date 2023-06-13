@@ -14772,842 +14772,566 @@ http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/47617
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EX-YUGO",BIH: Una TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/295252
 
+#EXTM3U
 
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,
-TR: 24 Kitchen
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: 24 Kitchen
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1808
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: 24 TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: 24 TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/636
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: 360
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: 360
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/615
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: 90 Plus
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: 90 Plus
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/275953
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: A Haber
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: A Haber
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/666
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: A News
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: A News
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/284578
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: A Spor
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: A Spor
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/529
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: A2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: A2
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/523
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Afyon Turk
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Afyon Turk
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/163242
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Agro TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Agro TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/281360
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Akilli TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Akilli TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/16809
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Akit TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Akit TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/631
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Aksu TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Aksu TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/659
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Aktif TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Aktif TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/146675
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Altas TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Altas TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/656
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Anadolu Dernek TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Anadolu Dernek TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/36065
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: ANIMAUX
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: ANIMAUX
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/32592
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Arti TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Arti TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1820
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: AS TV Bursa
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: AS TV Bursa
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/58133
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: ATV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: ATV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/521
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: ATV Alanya
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: ATV Alanya
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/280341
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: ATV Avrupa
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: ATV Avrupa
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/296360
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: ATV Para
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: ATV Para
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/10153
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Baby TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Baby TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/634
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: BBC Earth
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: BBC Earth
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/8238
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: beIN Box Office 1
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: beIN Box Office 1
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/536
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: beIN Box Office 2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: beIN Box Office 2
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/281863
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: beIN Box Office 3
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: beIN Box Office 3
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/538
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: beIN Box Office Turk
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: beIN Box Office Turk
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/539
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: beIN Gurme
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: beIN Gurme
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1807
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: beIN Iz
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: beIN Iz
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1806
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: beIN Movies Action
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: beIN Movies Action
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1761
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: beIN Movies Action 2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: beIN Movies Action 2
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/278527
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: beIN Movies Family
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: beIN Movies Family
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1763
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: beIN Movies Premiere
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: beIN Movies Premiere
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1764
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: beIN Movies Premiere 2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: beIN Movies Premiere 2
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1765
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: beIN Movies Stars
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: beIN Movies Stars
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1766
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: beIN Movies Turk
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: beIN Movies Turk
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1767
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: beIN Series 1
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: beIN Series 1
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/298429
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: beIN Series 2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: beIN Series 2
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/298427
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: beIN Series 3
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: beIN Series 3
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/298428
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: beIN Series 4
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: beIN Series 4
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/298430
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: beIN Sports 1
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: beIN Sports 1
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1735
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: beIN Sports 2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: beIN Sports 2
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1737
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: beIN Sports 3
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: beIN Sports 3
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1739
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: beIN Sports 4
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: beIN Sports 4
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/7450
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: beIN Sports Haber
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: beIN Sports Haber
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/7448
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: beIN Sports Max 1
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: beIN Sports Max 1
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/8224
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: beIN Sports Max 2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: beIN Sports Max 2
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/16878
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Bengu Turk
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Bengu Turk
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/611
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Berat TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Berat TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/291146
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Beyaz TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Beyaz TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/524
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Beykent TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Beykent TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/36067
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Bloomberg HT
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Bloomberg HT
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/664
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Boomerang
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Boomerang
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/672
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: BRTV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: BRTV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/58143
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Bursa TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Bursa TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/655
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Caillou
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Caillou
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/192581
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Can TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Can TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/648
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Cartoon Network
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Cartoon Network
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/8261
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Cay TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Cay TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/7710
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: CBeebies
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: CBeebies
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1844
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Cem TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Cem TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/663
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Chasse & Peche
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Chasse & Peche
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/21246
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Ciftci TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Ciftci TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/76684
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Cine 5
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Cine 5
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/297035
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: CNN Turk
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: CNN Turk
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/628
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Da Vinci
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Da Vinci
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1850
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Deha TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Deha TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/36073
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Dim TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Dim TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/58152
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Discovery Science
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Discovery Science
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/5693
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Discovery World
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Discovery World
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/8236
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Disney Channel
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Disney Channel
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/278570
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Disney Junior
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Disney Junior
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/633
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Diyanet TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Diyanet TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/7711
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: DiziSmart Max
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: DiziSmart Max
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/32147
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: DiziSmart Premium
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: DiziSmart Premium
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/15714
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: DMAX
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: DMAX
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1805
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: DocuBox
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: DocuBox
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/532
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Dost TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Dost TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/7712
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Dream Turk
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Dream Turk
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/669
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: DRT Denizli
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: DRT Denizli
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/36070
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: EBA TV Ilkokul
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: EBA TV Ilkokul
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/148006
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: EBA TV Lise
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: EBA TV Lise
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/148008
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: EBA TV Ortaokul
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: EBA TV Ortaokul
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/148007
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Edessa TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Edessa TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/29844
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Ekin Turk
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Ekin Turk
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/267866
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Ekoturk
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Ekoturk
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/5712
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: EM TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: EM TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/604
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Ert Sah TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Ert Sah TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/296632
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: ERTV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: ERTV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/621
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: ES TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: ES TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/593
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Euro D
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Euro D
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/39324
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: EUROSPORT 1
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: EUROSPORT 1
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1755
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: EUROSPORT 2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: EUROSPORT 2
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1756
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: EuroStar
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: EuroStar
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/5038
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Fenerbahce TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Fenerbahce TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/575
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: FilmBox
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: FilmBox
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/533
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: FilmBox Action
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: FilmBox Action
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/192414
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: FilmBox Family
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: FilmBox Family
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/192417
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Flash Haber TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Flash Haber TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/148308
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: FM TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: FM TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/146678
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: FOX
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: FOX
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/514
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Fox Crime
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Fox Crime
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/579
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: FX
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: FX
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/580
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Galatasaray TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Galatasaray TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/618
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Gonca TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Gonca TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/146677
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Guneydogu TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Guneydogu TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/32611
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Haber 61
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Haber 61
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/596
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Haber Global
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Haber Global
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/652
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Haberturk
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Haberturk
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/651
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Halk TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Halk TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/617
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: History
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: History
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1801
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: HRT Akdeniz TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: HRT Akdeniz TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/36075
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Hunat TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Hunat TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/186993
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: IBB TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: IBB TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/166861
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Icel TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Icel TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/298612
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Investigation Discovery
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Investigation Discovery
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/8237
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Istanbul TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Istanbul TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/284471
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Kadirga TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Kadirga TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/645
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Kanal 3
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Kanal 3
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/603
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Kanal 7
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Kanal 7
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/525
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Kanal 7 Avrupa
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Kanal 7 Avrupa
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/4777
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Kanal 12
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Kanal 12
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/166214
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Kanal 15
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Kanal 15
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/58132
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Kanal 23
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Kanal 23
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/58139
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Kanal 26
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Kanal 26
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/11052
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Kanal 32
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Kanal 32
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/76641
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Kanal 33
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Kanal 33
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/15697
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Kanal 34
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Kanal 34
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/89930
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Kanal 58
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Kanal 58
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/609
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Kanal 68
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Kanal 68
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/19203
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Kanal Avrupa
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Kanal Avrupa
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/16813
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Kanal B
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Kanal B
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/605
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Kanal D
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Kanal D
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/510
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Kanal Firat
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Kanal Firat
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/19242
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Kanal Urfa
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Kanal Urfa
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/286752
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Kanal V
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Kanal V
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/657
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Kanal Z
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Kanal Z
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/58173
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Kardelen TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Kardelen TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/199174
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Kay TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Kay TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/16832
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Kent Türk
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Kent Türk
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/58163
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Kibris Kanal T
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Kibris Kanal T
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/32625
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Kocaeli TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Kocaeli TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/36112
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Kon TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Kon TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/667
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Kral Pop
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Kral Pop
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/194621
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Kral TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Kral TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1838
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: KRT
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: KRT
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1826
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Kudüs TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Kudüs TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/163248
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Köy TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Köy TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/586
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Line TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Line TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/29833
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Love Nature
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Love Nature
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/837
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Luys TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Luys TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/90236
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Lâlegül TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Lâlegül TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/613
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Manisa TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Manisa TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/286869
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Mavi Karadeniz TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Mavi Karadeniz TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/590
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: MC EU
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: MC EU
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/76648
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Med Muzik
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Med Muzik
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/14709
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Medine TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Medine TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/76652
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Medya Haber
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Medya Haber
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/72562
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Meltem TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Meltem TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/73228
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Mercan TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Mercan TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/163235
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Merkez TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Merkez TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/600
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Milyon TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Milyon TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/647
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Minika Cocuk
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Minika Cocuk
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/671
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Minika Go
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Minika Go
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/662
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Moviesmart Classic
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Moviesmart Classic
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1773
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Moviesmart Turk
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Moviesmart Turk
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1780
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: NAT GEO
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: NAT GEO
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/278566
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: NAT GEO Wild
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: NAT GEO Wild
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/838
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Nick Junior
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Nick Junior
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/675
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: nickelodeon
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: nickelodeon
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/278469
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: NTV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: NTV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/668
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Number 1
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Number 1
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1842
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Number 1 Turk
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Number 1 Turk
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/5714
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Olay Turk
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Olay Turk
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/174382
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: On 4
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: On 4
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/44751
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: On 6
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: On 6
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/146680
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Pamukkale TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Pamukkale TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/76647
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Power Dance
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Power Dance
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/291168
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Power Love
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Power Love
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/291169
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Power Plus
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Power Plus
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/296298
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Power Turk TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Power Turk TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1840
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Power TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Power TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/830
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: PowerTurk Akustik
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: PowerTurk Akustik
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/291166
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: PowerTurk En İyiler
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: PowerTurk En İyiler
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/291167
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: PowerTurk Slow
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: PowerTurk Slow
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/291165
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: PowerTurk Taptaze
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: PowerTurk Taptaze
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/291164
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Rehber TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Rehber TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/15676
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Rumeli TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Rumeli TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/76644
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: S Sport
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: S Sport
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1753
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: S Sport 2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: S Sport 2
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/10167
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Sam TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Sam TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/298355
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Sat 7 Türk
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Sat 7 Türk
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/76639
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Science & Vie TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Science & Vie TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/32593
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Semerkand TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Semerkand TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/834
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: SHOW MAX
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: SHOW MAX
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/534
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: SHOW TURK
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: SHOW TURK
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/278466
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: SHOW TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: SHOW TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/516
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Sinema 2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Sinema 2
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1774
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Sinema 1001
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Sinema 1001
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1789
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Sinema 1002
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Sinema 1002
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/76722
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Sinema Aile
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Sinema Aile
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1794
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Sinema Aksiyon
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Sinema Aksiyon
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1793
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Sinema Aksiyon 2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Sinema Aksiyon 2
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1772
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Sinema Komedi
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Sinema Komedi
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1795
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Sinema Komedi 2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Sinema Komedi 2
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/43541
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Sinema TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Sinema TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1790
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Sinema Yerli
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Sinema Yerli
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1791
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Sinema Yerli 2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Sinema Yerli 2
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/163186
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Spor Smart
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Spor Smart
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1750
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Spor Smart 2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Spor Smart 2
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/50121
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Sports TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Sports TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/89846
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Star TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Star TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/512
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Sun RTV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Sun RTV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/162297
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Tarim TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Tarim TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/174433
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Tarim Türk
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Tarim Türk
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/281364
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Tatlises TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Tatlises TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/280103
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: TAY TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: TAY TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/16887
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: TBMM TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: TBMM TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/192558
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Tele 1
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Tele 1
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/654
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Tempo TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Tempo TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/29841
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Teve 2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Teve 2
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/535
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: TGRT Belgesel
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: TGRT Belgesel
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/16828
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: TGRT EU
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: TGRT EU
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/32907
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: TGRT Haber
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: TGRT Haber
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/616
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Thaqalayn TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Thaqalayn TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/166209
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Tivi 6
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Tivi 6
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/291159
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: TIVI TÜRK
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: TIVI TÜRK
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/192597
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Tivibu Spor
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Tivibu Spor
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1746
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Tivibu Spor 2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Tivibu Spor 2
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1748
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Tivibu Spor 3
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Tivibu Spor 3
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1749
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Tivibu Spor 4
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Tivibu Spor 4
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/286778
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: TJK TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: TJK TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/594
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: TLC
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: TLC
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/585
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: TMB
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: TMB
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/76692
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: TOKAT SUPER TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: TOKAT SUPER TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/291162
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Ton TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Ton TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/58134
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: TRT 1
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: TRT 1
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/507
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: TRT 2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: TRT 2
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/635
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: TRT 4K
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: TRT 4K
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1810
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: TRT Avaz
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: TRT Avaz
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/622
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: TRT Belgesel
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: TRT Belgesel
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/577
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: TRT Cocuk
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: TRT Cocuk
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/629
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: TRT Haber
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: TRT Haber
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/627
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: TRT Muzik
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: TRT Muzik
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/630
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: TRT Spor
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: TRT Spor
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/528
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: TRT Spor Yildiz
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: TRT Spor Yildiz
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/32095
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: TRT Turk
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: TRT Turk
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/831
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: TRT World
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: TRT World
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/11025
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Turkmenli TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Turkmenli TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/283082
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: TV 1
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: TV 1
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/76645
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: TV 4
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: TV 4
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/646
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: TV 5
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: TV 5
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/599
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: TV 8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: TV 8
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/278465
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: TV 8 International
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: TV 8 International
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/43500
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: TV 100
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: TV 100
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1776
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: TV 41
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: TV 41
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/6857
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: TV 52
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: TV 52
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/162300
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: TV 8.5
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: TV 8.5
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/518
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: TV Den
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: TV Den
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/19257
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: TV Kayseri
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: TV Kayseri
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/269641
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: TV Net
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: TV Net
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1822
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: TürkHaber TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: TürkHaber TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/19202
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Ulusal Kanal
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Ulusal Kanal
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/5699
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Uzay Haber
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Uzay Haber
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/76673
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: UçanKus TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: UçanKus TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/625
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Viasat Explore
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Viasat Explore
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/197561
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Viasat History
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Viasat History
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/32589
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Viasat Nature
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Viasat Nature
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/284470
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Vizyon 58
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Vizyon 58
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/665
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Vuslat TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Vuslat TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/597
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Woman TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Woman TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/527
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Yaban
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Yaban
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/582
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Yol TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Yol TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/583
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Zarok TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Zarok TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/14893
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Çocuk Smart
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Çocuk Smart
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1851
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY"
-,TR: Ülke TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TURKEY",TR: Ülke TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/626
 
 
