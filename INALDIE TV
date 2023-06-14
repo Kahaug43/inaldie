@@ -975,6 +975,65 @@ http://xxxxlocal.com:8080/xiptv0985/Sdz55XvV7hqzs/7789
 http://xxxxlocal.com:8080/xiptv0985/Sdz55XvV7hqzs/13424
 
 
+#EXTINF:-1 tvg-logo="http://logo.9ip.me/picon/beinmovies/beinmovie1.png" group-title="beIN ENTERTAINMENT |HD|", beIN MOVIES 1 HD PREMIER
+http://1.ott4k.cz:80/123123/1234/81
+
+#EXTINF:-1 tvg-logo="http://logo.9ip.me/picon/beinmovies/beinmovie2.png" group-title="beIN ENTERTAINMENT |HD|", beIN MOVIES 2 HD ACTION
+http://1.ott4k.cz:80/123123/1234/82
+
+#EXTINF:-1 tvg-logo="http://logo.9ip.me/picon/beinmovies/beinmovie3.png" group-title="beIN ENTERTAINMENT |HD|", beIN MOVIES 3 HD DRAMA
+http://1.ott4k.cz:80/123123/1234/83
+
+#EXTINF:-1 tvg-logo="http://logo.9ip.me/picon/beinmovies/beinmovie4.png" group-title="beIN ENTERTAINMENT |HD|", beIN MOVIES 4 HD FAMILY
+http://1.ott4k.cz:80/123123/1234/84
+
+#EXTINF:-1 tvg-logo="http://logo.9ip.me/picon/beinmovies/foxmovie.png" group-title="beIN ENTERTAINMENT |HD|", beIN FOX ACTION MOVIES HD
+http://1.ott4k.cz:80/123123/1234/98
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="beIN ENTERTAINMENT |HD|", beIN DRAMA HD
+http://1.ott4k.cz:80/123123/1234/66337
+
+#EXTINF:-1 tvg-logo="http://logo.9ip.me/picon/beinmovies/beinserie1.png" group-title="beIN ENTERTAINMENT |HD|", beIN SERIES HD 1
+http://1.ott4k.cz:80/123123/1234/88
+
+#EXTINF:-1 tvg-logo="http://logo.9ip.me/picon/beinmovies/beinserie2.png" group-title="beIN ENTERTAINMENT |HD|", beIN SERIES HD 2
+http://1.ott4k.cz:80/123123/1234/89
+
+#EXTINF:-1 tvg-logo="http://logo.9ip.me/picon/beinmovies/beinfatafet.png" group-title="beIN ENTERTAINMENT |HD|", beIN FATAFEAT HD
+http://1.ott4k.cz:80/123123/1234/108
+
+#EXTINF:-1 tvg-logo="http://logo.9ip.me/picon/beinmovies/natgeo.png" group-title="beIN ENTERTAINMENT |HD|", beIN NAT GEO HD
+http://1.ott4k.cz:80/123123/1234/123
+
+#EXTINF:-1 tvg-logo="http://logo.9ip.me/picon/beinmovies/natgeowild.png" group-title="beIN ENTERTAINMENT |HD|", beIN NAT GEO WILD HD
+http://1.ott4k.cz:80/123123/1234/124
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="beIN ENTERTAINMENT |HD|", beIN HG TV HD
+http://1.ott4k.cz:80/123123/1234/26769
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="beIN ENTERTAINMENT |HD|", beIN OUTDOOR HD
+http://1.ott4k.cz:80/123123/1234/26770
+
+#EXTINF:-1 tvg-logo="http://logo.9ip.me/picon/beinmovies/baraeem.png" group-title="beIN ENTERTAINMENT |HD|", beIN BARAEM HD
+http://1.ott4k.cz:80/123123/1234/135
+
+#EXTINF:-1 tvg-logo="http://logo.9ip.me/picon/beinmovies/boomerang_.png" group-title="beIN ENTERTAINMENT |HD|", beIN BOOMERANG HD
+http://1.ott4k.cz:80/123123/1234/137
+
+#EXTINF:-1 tvg-logo="http://logo.9ip.me/picon/beinmovies/cartoon.png" group-title="beIN ENTERTAINMENT |HD|", beIN CARTOON NETWORK HD
+http://1.ott4k.cz:80/123123/1234/138
+
+#EXTINF:-1 tvg-logo="http://logo.9ip.me/picon/beinmovies/JeemTV.png" group-title="beIN ENTERTAINMENT |HD|", beIN JEEM HD
+http://1.ott4k.cz:80/123123/1234/141
+
+#EXTINF:-1 tvg-logo="http://logo.9ip.me/picon/beinmovies/dreamworks.png" group-title="beIN ENTERTAINMENT |HD|", beIN DREAMWORKS HD
+http://1.ott4k.cz:80/123123/1234/144
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="beIN ENTERTAINMENT |HD|", beIN GOURMET HD
+http://1.ott4k.cz:80/123123/1234/66338
+
+
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE LUAR", Movies 4K Family
 http://myserveriptv.com:2082/7wOd6fH332c1/8Skfy98Fd74f/30718
 
