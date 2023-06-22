@@ -1246,49 +1246,35 @@ https://anon.devds.site/link.php?hash=aHR0cDovL3NoYXJlZXh0QDRrc3VwZXIubGl2ZS9wbG
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", NOW SPORT 1 (2)
 http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/69854
 
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", HK| Now  Sports 1 FHD
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/436324
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", HK| Now  Sports 2 FHD
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/436325
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", HK| Now  Sports 3 FHD
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/436326
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", HK| Now  Sports 4 FHD
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/436327
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", HK| Now  Sports 5 FHD
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/436328
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", HK| Now  Sports 6 FHD
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/436329
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", HK| Now  Sports 7 FHD
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/436330
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", HK| Now  Sports 4K
+#EXTM3U
+#EXTINF:0, HK| Now  Sports 4K
 http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/436322
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", HK| Now Sports Premier League 1 FHD
+#EXTINF:0, HK| Now Sports Premier League 1 FHD
 http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/407228
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", HK| Now Sports Premier League 2 FHD
+#EXTINF:0, HK| Now Sports Premier League 2 FHD
 http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/407229
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", HK| Now Sports Premier League 3 FHD
+#EXTINF:0, HK| Now Sports Premier League 3 FHD
 http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/407230
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", HK| Now Sports Premier League 4 FHD
+#EXTINF:0, HK| Now Sports Premier League 4 FHD
 http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/407231
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", HK| Now Sports Premier League 5 FHD
+#EXTINF:0, HK| Now Sports Premier League 5 FHD
 http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/407232
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", HK| Now Sports Premier League 6 FHD
+#EXTINF:0, HK| Now Sports Premier League 6 FHD
 http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/407233
+#EXTINF:0, HK| Now  Sports 1 FHD
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/436324
+#EXTINF:0, HK| Now  Sports 2 FHD
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/436325
+#EXTINF:0, HK| Now  Sports 3 FHD
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/436326
+#EXTINF:0, HK| Now  Sports 4 FHD
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/436327
+#EXTINF:0, HK| Now  Sports 5 FHD
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/436328
+#EXTINF:0, HK| Now  Sports 6 FHD
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/436329
+#EXTINF:0, HK| Now  Sports 7 FHD
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/436330
 
 
 
