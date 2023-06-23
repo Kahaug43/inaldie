@@ -5539,13 +5539,13 @@ http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/121099
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", RU: Auto Plus
 http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/174114
 
-#EXTINF:-1 tvg-logo="-------" group-title="MOVIE 24/7 ", Mr. Bean
+#EXTINF:-1 tvg-logo="-------" group-title="MOVIE 24/7", Mr. Bean
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=559543&extension=ts&play_token=10v7yXhJgO
 
-#EXTINF:-1 tvg-logo="-------" group-title="MOVIE 24/7 ", Harry Potter
+#EXTINF:-1 tvg-logo="-------" group-title="MOVIE 24/7", Harry Potter
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=559565&extension=ts&play_token=UiVJDVnz9c
 
-#EXTINF:-1 tvg-logo="-------" group-title="MOVIE 24/7 ", Jurassic Park
+#EXTINF:-1 tvg-logo="-------" group-title="MOVIE 24/7", Jurassic Park
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=559568&extension=ts&play_token=LfpAYDfnEh
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINEMA & MOVIE", IR: Cine Film
