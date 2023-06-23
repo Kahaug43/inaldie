@@ -2449,9 +2449,6 @@ http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/298023
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT",  Now Sport 1
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497551&extension=m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT",  Now Sport 1 (S) 
-http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/439055
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT",  Now Sport 2
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497552&extension=m3u8
 
@@ -2469,12 +2466,6 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497556&exte
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT",  Now Sport 7
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497557&extension=m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", NOW SPORT 1
-https://anon.devds.site/link.php?hash=aHR0cDovL3NoYXJlZXh0QDRrc3VwZXIubGl2ZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTo1MDo2Mzo5RSZzdHJlYW09MTExMDYyMiZleHRlbnNpb249dHMmcG
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", NOW SPORT 1 (2)
-http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/69854
 
 #EXTINF:-1 tvg-logo="-------" group-title="VIAPLAY", Viaplay Sport 1
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=45235&extension=ts&play_token=L5v3eNkEQU
@@ -2497,8 +2488,6 @@ https://webudit.cdnhks.lol/lb/premium550/index.m3u8/
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://webudit.cdnhks.lol/lb/premium597/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", HK| Now  Sports 4K
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/436322
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", HK| Now Sports 1 FHD
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032479&extension=ts&play_token=hGRrjPUyyU
@@ -2521,27 +2510,11 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032474&exten
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", HK| Now Sports 7 FHD
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032473&extension=ts&play_token=699aMCZA2z
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", HK| Now  Sports 1
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/436324
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", HK| Now Sports 1 A
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032487&extension=ts&play_token=f8v6LXbTnv
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", HK| Now  Sports 2 
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/436325
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", HK| Now  Sports 3 
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/436326
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", HK| Now  Sports 4
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/436327
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", HK| Now  Sports 5
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/436328
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", HK| Now  Sports 6
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/436329
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", HK| Now  Sports 7
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/436330
-
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", HK| Now Sports Prime
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032480&extension=ts&play_token=Ybjpa2BRhQ
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HUB SPORT", SG| Hub Sports 1 FHD
 http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/407396
