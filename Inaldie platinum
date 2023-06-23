@@ -2446,26 +2446,6 @@ http://googletv.life:8080/zeliha9099/SNHB6Bwxjgck/92384
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VIAPLAY", UK: Viaplay Xtra
 http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/298023
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT",  Now Sport 1
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497551&extension=m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT",  Now Sport 2
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497552&extension=m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT",  Now Sport 3
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497553&extension=m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT",  Now Sport 4
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497554&extension=m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT",  Now Sport 5
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497555&extension=m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT",  Now Sport 6
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497556&extension=m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT",  Now Sport 7
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497557&extension=m3u8
 
 #EXTINF:-1 tvg-logo="-------" group-title="VIAPLAY", Viaplay Sport 1
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=45235&extension=ts&play_token=L5v3eNkEQU
@@ -2515,6 +2495,28 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032487&exten
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", HK| Now Sports Prime
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032480&extension=ts&play_token=Ybjpa2BRhQ
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT",  Now Sport 1
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497551&extension=m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT",  Now Sport 2
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497552&extension=m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT",  Now Sport 3
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497553&extension=m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT",  Now Sport 4
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497554&extension=m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT",  Now Sport 5
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497555&extension=m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT",  Now Sport 6
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497556&extension=m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT",  Now Sport 7
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497557&extension=m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HUB SPORT", SG| Hub Sports 1 FHD
 http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/407396
