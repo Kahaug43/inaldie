@@ -1801,7 +1801,50 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1019935&exten
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1004548&extension=ts&play_token=3Imh23M3Y1
 
 
+#EXTINF:-1 tvg-logo="-------" group-title="SUPER SPORT", Super Sport Premier League
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239078&extension=ts&play_token=WIj93CqWrq
 
+#EXTINF:-1 tvg-logo="-------" group-title="SUPER SPORT", Super Sport Liga
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239076&extension=ts&play_token=WDliZuSmkz
+
+#EXTINF:-1 tvg-logo="-------" group-title="SUPER SPORT", Super Sport Tennis
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=425314&extension=ts&play_token=KmNBsBy8G3
+
+#EXTINF:-1 tvg-logo="-------" group-title="SUPER SPORT", Super Sport Blitz
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=425310&extension=ts&play_token=cB75vs6tv4
+
+#EXTINF:-1 tvg-logo="-------" group-title="SUPER SPORT", Super Sport PSL
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239077&extension=ts&play_token=wAy6FmsPtA
+
+#EXTINF:-1 tvg-logo="-------" group-title="SUPER SPORT", Super Sport Golf
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=425667&extension=ts&play_token=Sh0E1BOGwg
+
+#EXTINF:-1 tvg-logo="-------" group-title="SUPER SPORT", Super Sport UnderStand
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239079&extension=ts&play_token=iplWY8qXC5
+
+#EXTINF:-1 tvg-logo="-------" group-title="SUPER SPORT", Super Sport Motorsport
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239082&extension=ts&play_token=a0dyarOiLA
+
+#EXTINF:-1 tvg-logo="-------" group-title="SUPER SPORT", Super Sport Football
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239083&extension=ts&play_token=tJv2b2KNwD
+
+#EXTINF:-1 tvg-logo="-------" group-title="SUPER SPORT", Super Sport Rugby
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239086&extension=ts&play_token=TCL5qFctcH
+
+#EXTINF:-1 tvg-logo="-------" group-title="SUPER SPORT", Super Sport Cricket
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239087&extension=ts&play_token=blkGUKpfD1
+
+#EXTINF:-1 tvg-logo="-------" group-title="SUPER SPORT", Super Sport Variety 1
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239081&extension=ts&play_token=7C6v0BjPnK
+
+#EXTINF:-1 tvg-logo="-------" group-title="SUPER SPORT", Super Sport Variety 2
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239080&extension=ts&play_token=kt1XRyNjAK
+
+#EXTINF:-1 tvg-logo="-------" group-title="SUPER SPORT", Super Sport Variety 3
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239085&extension=ts&play_token=EJNtH2IgAS
+
+#EXTINF:-1 tvg-logo="-------" group-title="SUPER SPORT", Super Sport Variety 4
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239084&extension=ts&play_token=Tj5rP8kRtc
 
 
 
