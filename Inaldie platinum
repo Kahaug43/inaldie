@@ -2594,6 +2594,26 @@ http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/407399
 http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/407400
 
 
+#EXTINF:-1 tvg-logo="--------" group-title="ZIGGO SPORT", Ziggo Sport
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1067523&extension=ts&play_token=OMEv5P0jGN
+
+#EXTINF:-1 tvg-logo="--------" group-title="ZIGGO SPORT", Ziggo Select
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=956&extension=ts&play_token=MEDvF2wUxd
+
+#EXTINF:-1 tvg-logo="--------" group-title="ZIGGO SPORT", Ziggo Racing
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1016&extension=ts&play_token=VSTantpGzR
+
+#EXTINF:-1 tvg-logo="--------" group-title="ZIGGO SPORT", Ziggo Golf
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=957&extension=ts&play_token=oONCW7SD0Y
+
+#EXTINF:-1 tvg-logo="------" group-title="ZIGGO SPORT", Ziggo Football
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1015&extension=ts&play_token=bvh1UKHGLA
+
+#EXTINF:-1 tvg-logo="------" group-title="ZIGGO SPORT", Ziggo Tennis
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=26218&extension=ts&play_token=Ftg2hxzS66
+
+#EXTINF:-1 tvg-logo="------" group-title="ZIGGO SPORT", Ziggo Docum
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=26217&extension=ts&play_token=qRtcveF0Ye
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GROUP", AR: Sky Flix Aflam 1
 http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/283264
