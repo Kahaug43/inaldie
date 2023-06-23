@@ -2707,6 +2707,55 @@ http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/15431
 
 
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PORTUGAL SPORT", |PT| Sport TV 1 4K+
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/14550
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PORTUGAL SPORT", |PT| Sport TV 2 4K+
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/14551
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PORTUGAL SPORT", |PT| Sport TV 3 4K+
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/14552
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PORTUGAL SPORT", |PT| Sport TV 4 4K+
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/14553
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PORTUGAL SPORT", |PT| Sport TV 5 4K+
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/14554
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PORTUGAL SPORT", |PT| Eleven Sports 1 4K+
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/14548
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PORTUGAL SPORT", |PT| Eleven Sports 2 4K+
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/14544
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PORTUGAL SPORT", |PT| Eleven Sports 3 4K+
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/14537
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PORTUGAL SPORT", |PT| Eleven Sports 4 4K+
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/14535
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PORTUGAL SPORT", |PT| Eleven Sports 5 4K+
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/14532
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PORTUGAL SPORT", |PT| Eleven Sports 6 4K+
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/14530
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PORTUGAL SPORT", |PT| Eurosport 1 4K+
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/14555
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PORTUGAL SPORT", |PT| Eurosport 2 4K+
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/14556
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PORTUGAL SPORT", |PT| Sport TV NBA
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/14524
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PORTUGAL SPORT", |PT| Sporting TV 4K+
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/14558
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PORTUGAL SPORT", |PT| Kombat Sport
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/14525
+
+
 #EXTINF:-1 tvg-logo="--------" group-title="ZIGGO SPORT", Ziggo Sport
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1067523&extension=ts&play_token=OMEv5P0jGN
 
