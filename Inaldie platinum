@@ -887,7 +887,114 @@ http://210.210.155.37/uq2663/h/h124/index.m3u8
 http://210.210.155.37/uq2663/h/h223/index.m3u8
 
 
-#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO BOY", MY: ASTRO CRICKET HD
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/423692
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO BOY", MY| ASTRO SUPERSPORT 4K UHD
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/383410
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO BOY", MY| ASTRO SUPERSPORT UHD
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/379977
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO BOY", MY| ASTRO SUPERSPORT 1 FHD
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/379978
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO BOY", MY| ASTRO SUPERSPORT 2 FHD
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/379980
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO BOY", MY| ASTRO SUPERSPORT 2 HD
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/379981
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO BOY", MY| ASTRO SUPERSPORT 3 FHD
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/379982
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO BOY", MY| ASTRO SUPERSPORT 4 FHD
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/379984
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO BOY", MY| ASTRO SUPERSPORT 5 FHD
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/379986
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO BOY", MY| ASTRO ARENA HD
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/379989
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO BOY", MY| ASTRO ARENA 2 HD
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/379990
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO BOY", MY| ASTRO ARENA 2 HD
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/379991
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO BOY", MY| ASTRO ARENA BOLA FHD
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/380001
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO BOY", MY| ASTRO ARENA BOLA 2 HD
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/380005
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO BOY", MY| ASTRO PREMIER HD
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/380011
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO BOY", MY| ASTRO CRICKET FHD
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/380012
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO BOY", MY| ASTRO CRICKET HD
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/380013
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO BOY", MY| ASTRO SUPERSPORT EVENT 1 HD
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/379997
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO BOY", MY| ASTRO XIAO TAI YANG HD
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/380018
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO BOY", MY| ASTRO OASIS HD
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/380022
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO BOY", MY| ASTRO AWANI HD
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/380056
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO BOY", MY| ASTRO TUTOR TV SK HD
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/380102
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO BOY", MY| ASTRO TUTOR TV SMK HD
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/380104
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO BOY", MY| ASTRO CERIA FHD
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/380125
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO BOY", MY| ASTRO VELLITHIRAI FHD
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/380126
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO BOY", MY| ASTRO RANIA HD
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/380128
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO BOY", MY| ASTRO SENSASI HD
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/380129
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO BOY", MY| ASTRO VAANAVIL FHD
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/380143
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO BOY", MY| ASTRO CITRA HD
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/380151
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO BOY", MY| ASTRO WARNA HD
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/380152
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO BOY", MY| ASTRO PRIMA FHD
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/380155
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO BOY", MY| ASTRO HUA HEE DAI HD
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/380156
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO BOY", SG| Astro Sensasi FHD
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/407476
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO BOY", SG| Astro Warna FHD
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/407489
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO BOY", TH: ASTRO CRICKET HD
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/272376
+
 
 #EXTINF:-1 tvg-logo="https://xplanetiptv.com/Logotv/countries/malaysia/astro-cricket-my.png" group-title="ASTRO BOY", MY: ASTRO CITRA
 http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236208
