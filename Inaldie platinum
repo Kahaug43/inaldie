@@ -2500,45 +2500,47 @@ https://webudit.cdnhks.lol/lb/premium597/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", HK| Now  Sports 4K
 http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/436322
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", HK| Now Sports Premier League 1 FHD
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/407228
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", HK| Now Sports 1 FHD
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032479&extension=ts&play_token=hGRrjPUyyU
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", HK| Now Sports Premier League 2 FHD
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/407229
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", HK| Now Sports 2 FHD
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032478&extension=ts&play_token=SRT0eR0mbX
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", HK| Now Sports Premier League 3 FHD
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/407230
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", HK| Now Sports 3 FHD
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032477&extension=ts&play_token=erpep0elTG
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", HK| Now Sports Premier League 4 FHD
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/407231
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", HK| Now Sports  4 FHD
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032476&extension=ts&play_token=uVa5K2kJum
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", HK| Now Sports Premier League 5 FHD
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/407232
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", HK| Now Sports 5 FHD
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032475&extension=ts&play_token=1e8lAvJ0Lu
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", HK| Now Sports Premier League 6 FHD
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/407233
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", HK| Now Sports 6 FHD
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032474&extension=ts&play_token=eLcCOeOgYn
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", HK| Now  Sports 1 FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", HK| Now Sports 7 FHD
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032473&extension=ts&play_token=699aMCZA2z
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", HK| Now  Sports 1
 http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/436324
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", HK| Now  Sports 2 FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", HK| Now  Sports 2 
 http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/436325
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", HK| Now  Sports 3 FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", HK| Now  Sports 3 
 http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/436326
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", HK| Now  Sports 4 FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", HK| Now  Sports 4
 http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/436327
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", HK| Now  Sports 5 FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", HK| Now  Sports 5
 http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/436328
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", HK| Now  Sports 6 FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", HK| Now  Sports 6
 http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/436329
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", HK| Now  Sports 7 FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", HK| Now  Sports 7
 http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/436330
-
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HUB SPORT", SG| Hub Sports 1 FHD
