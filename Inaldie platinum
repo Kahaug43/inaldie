@@ -113,6 +113,12 @@
 
 
 
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDO-NESIA", ID: 24/7 Angry Birds Toons
 http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/298493
 
@@ -4784,291 +4790,83 @@ http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/121099
 
 
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", US: MOTOR TREND HD (V)
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/375899
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", FR: Automoto
+http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/148
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", US| MOTOR TREND HD (SP)
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/376544
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", FR: CANAL+ MotoGP
+http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/297423
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", US| MOTORVISION TV (STV)
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/377920
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", FR: Motorvision TV
+http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/268514
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", US: (LN) Moto America HD
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/442730
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", UK: MotoRRacing
+http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/295426
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", US: MOTOR TREND HD
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/149503
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", PL: Motowizja
+http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/3216
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", CA: FOX SPORTS RACING HD
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/267720
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", DE: Auto Motor Sport
+http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/296227
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", EVENT: FLORACING 24/7
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/475359
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", DE: Auto Motor und Sport
+http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/2385
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", EVENT 22: 5:45PM Weekly Racing Stafford
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/475384
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", DE: Motorvision TV
+http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/4480
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", EVENT 24: 6PM NASCAR Weekly Racing Autodrome Granby
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/475386
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", DE: Servus MotorSport
+http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/298710
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", EVENT 27: 6:45PM Weekly Racing Utica
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/475389
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", US: Motortrend
+http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/272264
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", SKY SPORTS RACING UK
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/370942
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", IT: Motortrend
+http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/75151
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", SKY SPORTS RACING HD UK
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/370944
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", IT: MS Motor TV
+http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/158715
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", RACING TV FHD UK
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/370945
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", IT: Sky Sport Moto GP
+http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/9880
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", RACING TV HD UK
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/370946
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", ES: Sky Sport MotoGP
+http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/281492
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", Flo 1: FloRacing 24/7
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/372425
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", AL: Film Autor
+http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/1333
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", Flo 10: 2022 Castrol FloRacing Night in America at 411 Motor Speedway - 11/10 23:05
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/372434
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", PT: Motorvision TV
+http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/4012
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", CANAL+ MOTO GP HD FR
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/439436
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", NO: Canal Motor TV
+http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/284255
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", F1 TV: 1 | Max Verstappen | Red Bull Racing
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/477767
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", DK: Motorvision TV
+http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/295565
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", F1 TV: 11 | Sergio Perez | Red Bull Racing
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/477777
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", SE: V Sport Motor
+http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/6273
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", F1 TV: 24 | Zhou Guanyu | Alfa Romeo Racing
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/477770
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", BG: Auto Motor Sport
+http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/69380
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", F1 TV: 77 | Valtteri Bottas | Alfa Romeo Racing
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/477759
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", CL: Universidad Autonoma
+http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/286282
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", MotoGP | Main event without commentary
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/477739
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", ZA: Canal+ MotoGP
+http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/297424
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", MotoGP | On Board Camera 4 (Events Only)
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/477740
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", ZA: SuperSport Motorsport
+http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/11638
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", MotoGP | Atmos (Events Only)
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/477748
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", RU: Auto Plus
+http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/174114
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", MotoGP | Helicopter (Events Only)
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/477747
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", RU: Motorsport TV
+http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/279098
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", MotoGP | Live Timing (Main Race Only)
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/477746
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", MotoGP | Live Tracking (Main Race Only)
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/477745
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", MotoGP | Main event with commentary
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/477744
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", MotoGP | On Board Camera 1 (Events Only)
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/477743
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", MotoGP | On Board Camera 2 (Events Only)
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/477742
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", MotoGP | On Board Camera 3 (Events Only)
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/477741
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", FOX Sports Racing HD
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/477751
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", MotorRacing HD
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/477752
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", Racing Post TV rvgyHD
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/477755
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", Racing TV FHD
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/477754
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", Racing.com HD
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/477753
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", SKY Racing 1 HD
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/477750
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", SKY Racing 2 HD
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/477749
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", DSTV: SS Motorsport HD
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/397297
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", DSTV: SS Motorsport Africa HD
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/421207
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", DSTV: Racing 240
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/404518
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", DSTV: Mambo Moto TV (TZ)
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/420769
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", AU| (KAYO) Racing.com HD
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/439053
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", AU| Sky Racing 1 HD
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/439095
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", AU| Sky Racing 2 HD
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/439096
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", AU| Sky Racing - Thoroughbred Central HD
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/439105
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", UK: SKY SPORTS RACING FHD (G)
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/257080
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", UK: SKY SPORTS RACING FHD HEVC
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/158255
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", UK: SKY SPORTS RACING HD
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/158256
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", UK: RACING TV FHD
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/158279
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", UK: RACING TV HD
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/158280
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", C+AF: CANAL+ MOTO GP
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/391399
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", C+AF: AUTOMOTO LA CHAINE
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/391402
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", C+ CAR| AUTOMOTO LA CHAINE HD
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/407563
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", FR| CANAL+ MOTO GP HD
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/52496
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", FR| AUTOMOTO LA CHAINE FHD
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/37299
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", FR| AUTOMOTO LA CHAINE HD
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/186651
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", FR| Auto Plus TV FHD
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/31448
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", FR| MOTORSPORT.TV HD
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/388301
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", FR| MOTORVISION TV HD
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/388302
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", FR SD| CANAL+ MOTO GP
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/441605
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", SE: V SPORT MOTOR HD
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/112374
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", NO: AUTO MOTOR & SPORT HD
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/213705
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", DK: MOTORVISION TV HD
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/393252
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", |DE| Auto Motor Sport FHD
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/457199
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", |DE| Auto Motor Sport HD
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/457198
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", DE: MOTORVISION TV HD
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/380839
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", DE: Servus TV Motorsport FHD
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/381059
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", |NL| ZIGGO SPORT RACING FHD
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/382800
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", |NL| ZIGGO SPORT RACING HD
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/382801
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", BE| AUTOMOTO HD [FR]
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/474785
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", BE| MOTORVISION TV HD [NL]
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/392652
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", ES: MOTO ADV FHD (Z)
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/347553
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", IT| Sky Sport MotoGP FHD
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/400798
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", IT| Sky Sport MotoGP HD
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/400799
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", IT| Sky Sport MotoGP FHD (G)
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/400800
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", IT| Motor Trend FHD
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/400816
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", IT| Motor Trend HD
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/400817
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", IT| SPORTITALIA MOTORI
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/400866
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", IT| MS Motor TV
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/400876
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", PL: MOTOWIZJA FHD
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/71004
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", BG: AUTO MOTOR & SPORT HD
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/115354
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", RO: Auto Moto Sport
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/290186
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", |ALB| Film Autor
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/464636
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", AL| Film Autor
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/447474
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", PT: MOTORVISION TV
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/159158
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", 24/7: Autobus Magico
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/440869
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", 24/7: Automan
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/440867
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", 24/7: El Auto Fantastico (2008)
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/440797
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", 24/7: El Auto Fantastico
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/440796
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", PH: HORSE RACING CHANNEL
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/364152
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", JAW| MOTORVISION TV
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/374960
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", AE: DUBAI RACING 1 FHD
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/109589
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", AE: DUBAI RACING 1  HD
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/33708
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", AE: DUBAI RACING 3
-http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/178459
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", FR: Motorvision TV
+http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/268514
 
 
 
