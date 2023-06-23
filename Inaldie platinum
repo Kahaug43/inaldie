@@ -2170,7 +2170,7 @@ http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/281493
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GROUP", BR: BET Being Mary Jane
 http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/286070
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GROUP", AU: beIN Sports
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GROUP", AU: beIN Sports 
 http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/281451
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GROUP", AU: beIN Sports 1
@@ -2502,6 +2502,11 @@ https://anon.devds.site/link.php?hash=aHR0cDovL3NoYXJlZXh0QDRrc3VwZXIubGl2ZS9wbG
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", NOW SPORT 1 (2)
 http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/69854
 
+#EXTINF:-1 tvg-logo="-------" group-title="VIAPLAY", Viaplay Sport 1
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=45235&extension=ts&play_token=L5v3eNkEQU
+
+#EXTINF:-1 tvg-logo="-------" group-title="VIAPLAY", Viaplay Sport 2
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=163608&extension=ts&play_token=weRjYwEZxO
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VIAPLAY",Viaplay 1 UK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
