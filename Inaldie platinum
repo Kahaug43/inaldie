@@ -1548,6 +1548,23 @@ http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/436330
 
 
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HUB SPORT", SG| Hub Sports 1 FHD
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/407396
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HUB SPORT", SG| Hub Sports 2 FHD
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/407397
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HUB SPORT", SG| Hub Sports 3 FHD
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/407398
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HUB SPORT", SG| Hub Sports 4 FHD
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/407399
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HUB SPORT", SG| Hub Sports 5 FHD
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/407400
+
+
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GROUP", AR: Sky Flix Aflam 1
 http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/283264
 
