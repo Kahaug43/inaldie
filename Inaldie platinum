@@ -1801,6 +1801,61 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1019935&exten
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1004548&extension=ts&play_token=3Imh23M3Y1
 
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CLUB FOOTBALL", LFC TV
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/4721
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CLUB FOOTBALL", MUTV
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1102
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CLUB FOOTBALL", REAL MADRID TV HD
+http://disfruta.net:80/balooshy/yED5hrnYT7/1813
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CLUB FOOTBALL", Real Madrid TV
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1136
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CLUB FOOTBALL", BARCA TV
+http://disfruta.net:80/balooshy/yED5hrnYT7/1812
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CLUB FOOTBALL", BARCA TV
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1170
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CLUB FOOTBALL", Inter TV
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1041
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CLUB FOOTBALL", Juventus TV
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/12328
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CLUB FOOTBALL", Benfica TV
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1497
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CLUB FOOTBALL", Lazio TV
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=691540&extension=ts&play_token=u8hNgQvGW3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CLUB FOOTBALL", Milan TV
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=691540&extension=ts&play_token=u8hNgQvGW3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CLUB FOOTBALL", Inter TV
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=691522&extension=ts&play_token=hCY3VCA378
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CLUB FOOTBALL", LFC TV
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=910647&extension=ts&play_token=0DoacREKXn
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CLUB FOOTBALL", MUTV
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=45324&extension=ts&play_token=OwHIPoa0iZ
+
+#EXTINF:-1 tvg-logo="-------" group-title="BT SPORT", BT Sport 1 SD
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1047260&extension=ts&play_token=xvwJG5Lp49
+
+#EXTINF:-1 tvg-logo="-------" group-title="BT SPORT", BT Sport 2 SD
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1047261&extension=ts&play_token=DokXGKBexC
+
+#EXTINF:-1 tvg-logo="-------" group-title="BT SPORT", BT Sport 3 SD
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1047262&extension=ts&play_token=4P2wsYVRNi
+
+#EXTINF:-1 tvg-logo="-------" group-title="BT SPORT", BT Sport 4 SD
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1047263&extension=ts&play_token=0s9isCp7cC
+
+
 #EXTINF:-1 tvg-logo="-------" group-title="SUPER SPORT", Super Sport Premier League
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239078&extension=ts&play_token=WIj93CqWrq
 
