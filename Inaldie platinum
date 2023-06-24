@@ -6601,6 +6601,14 @@ http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/296800
 http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/121099
 
 
+#EXTINF:-1 tvg-logo="--------" group-title="AUTOMOTIF MOTO", AUTO MOTOR
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=132416&extension=ts&play_token=yPuyn6ZpxL
+
+#EXTINF:-1 tvg-logo="--------" group-title="AUTOMOTIF MOTO", AUTO MOTOR SPORT
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=154761&extension=ts&play_token=9LcFjt5HQG
+
+#EXTINF:-1 tvg-logo="--------" group-title="AUTOMOTIF MOTO", AUTO MOTO
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=355910&extension=ts&play_token=CaOryFgjWC
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", RU: Auto Plus
 http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/174114
