@@ -10609,7 +10609,7 @@ http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/67741
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIGHT SPORT", ID: Fight Sport
 http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/298531
 
-#EXTINF:-1 tvg-logo="--------" group-title="SPORT FIGHT", WWE
+#EXTINF:-1 tvg-logo="--------" group-title="FIGHT SPORT", WWE
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=904204&extension=ts&play_token=QGTUhcWL7O
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RAKUTEN TV", Top Movies - Rakuten TV
