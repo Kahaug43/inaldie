@@ -2640,7 +2640,6 @@ http://googletv.life:8080/zeliha9099/SNHB6Bwxjgck/92383
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN TR", TR | beINBOX OFFICE 2 HD
 http://googletv.life:8080/zeliha9099/SNHB6Bwxjgck/92384
 
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VIAPLAY", UK: Viaplay Xtra
 http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/298023
 
@@ -2765,10 +2764,8 @@ http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/407400
 #EXTINF:-1 tvg-logo="------" group-title="OPTUS SPORT", OPTUS SPORT 1
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032471&extension=ts&play_token=InCwgv0Zsg
 
-
 #EXTINF:-1 tvg-logo="------" group-title="OPTUS SPORT", OPTUS SPORT 2
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032470&extension=ts&play_token=qBeBPHlYKO
-
 
 #EXTINF:-1 tvg-logo="------" group-title="OPTUS SPORT", OPTUS SPORT 3
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032469&extension=ts&play_token=WZ8jVxGqCR
@@ -2778,6 +2775,12 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032468&exten
 
 #EXTINF:-1 tvg-logo="------" group-title="OPTUS SPORT", OPTUS SPORT 5
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032467&extension=ts&play_token=raIZRUj5Fn
+
+#EXTINF:-1 tvg-logo="------" group-title="BLUE SPORT", Blue Sport 1
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=1131946&extension=ts&play_token=ijnmRQLtfl
+
+#EXTINF:-1 tvg-logo="------" group-title="BLUE SPORT", Blue Sport 2
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=1131945&extension=ts&play_token=vRe7r8gRAq
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALBANIA SPORT", |AL| Eurosport 2 4K+
 http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/1091
