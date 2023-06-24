@@ -6602,8 +6602,41 @@ http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/121099
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AUTOMOTIF MOTO", RU: Auto Plus
 http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/174114
 
+#EXTINF:-1 tvg-logo="-------" group-title="MOVIE 24/7", HBO Max 1
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=924705&extension=ts&play_token=5UPXg8t9u5
+
+#EXTINF:-1 tvg-logo="-------" group-title="MOVIE 24/7", HBO Max 2
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=924706&extension=ts&play_token=rQ9H63YSTc
+
+#EXTINF:-1 tvg-logo="-------" group-title="MOVIE 24/7", HBO Max 3
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=924707&extension=ts&play_token=sfZbDJvLaR
+
+#EXTINF:-1 tvg-logo="-------" group-title="MOVIE 24/7", HBO Max 4
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=924708&extension=ts&play_token=rdvVQzFGCa
+
+#EXTINF:-1 tvg-logo="-------" group-title="MOVIE 24/7", HBO Max 5
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=924709&extension=ts&play_token=Cmu523jWvE
+
+#EXTINF:-1 tvg-logo="-------" group-title="MOVIE 24/7", HBO Max Extra 1
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=1095496&extension=ts&play_token=lqJqBIlQhj
+
+#EXTINF:-1 tvg-logo="-------" group-title="MOVIE 24/7", HBO Max Extra 2
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=1095495&extension=ts&play_token=bxWJcm3Qc0
+
+#EXTINF:-1 tvg-logo="-------" group-title="MOVIE 24/7", HBO Max Extra 3
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=1095494&extension=ts&play_token=lV2WKKt3PL
+
+#EXTINF:-1 tvg-logo="-------" group-title="MOVIE 24/7", Fast & Furious
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=924701&extension=ts&play_token=FWDS42aOAy
+
 #EXTINF:-1 tvg-logo="-------" group-title="MOVIE 24/7", Mr. Bean
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=559543&extension=ts&play_token=10v7yXhJgO
+
+#EXTINF:-1 tvg-logo="-------" group-title="MOVIE 24/7", Mr. Bean 2
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=558931&extension=ts&play_token=Tr1pinF9XW
+
+#EXTINF:-1 tvg-logo="-------" group-title="MOVIE 24/7", James Bond
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=558789&extension=ts&play_token=1jABMAUhKI
 
 #EXTINF:-1 tvg-logo="-------" group-title="MOVIE 24/7", Harry Potter
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=559565&extension=ts&play_token=UiVJDVnz9c
@@ -6611,6 +6644,8 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=559565&extens
 #EXTINF:-1 tvg-logo="-------" group-title="MOVIE 24/7", Jurassic Park
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=559568&extension=ts&play_token=LfpAYDfnEh
 
+#EXTINF:-1 tvg-logo="-------" group-title="MOVIE 24/7", Scream
+http://protv.fun/00:1A:79:BF:D2:44/25202F3C10D9D042A7A49ACA16B9335E/ffmpeg http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=914930&extension=ts&play_token=LWOD1jXbT8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : 12 CORAZONES
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/339651.ts
@@ -10571,7 +10606,8 @@ http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/67741
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIGHT SPORT", ID: Fight Sport
 http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/298531
 
-
+#EXTINF:-1 tvg-logo="--------" group-title="SPORT FIGHT", WWE
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=904204&extension=ts&play_token=QGTUhcWL7O
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RAKUTEN TV", Top Movies - Rakuten TV
 https://16464fe910f94d65ab9b9255101d7fc7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-gb_TopFree/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.content_classification=15&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gdpr_consent=CPn5KgAPn5KgAADABBPLC4CsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgiAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAggAogBQQAACCIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAIAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads.market=uk&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=9545f581-7373-4bce-8a6f-29b52118cc80&ads.rtv_content_id=2903&ads.rtv_content_language=eng&ads.rtvid=271858&ads.streaming_id=2a192d90-18f9-4585-96a7-ed8731ba4e32&ads.user_type=visitor&ads.wurl_channel=838
