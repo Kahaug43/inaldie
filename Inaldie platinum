@@ -3107,6 +3107,22 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=26218&extensi
 #EXTINF:-1 tvg-logo="------" group-title="ZIGGO SPORT", Ziggo Docum
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=26217&extension=ts&play_token=qRtcveF0Ye
 
+#EXTINF:-1 tvg-logo="--------" group-title="TSN SPORT", TSN 1
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=177344&extension=ts&play_token=9WV10w3wHZ
+
+#EXTINF:-1 tvg-logo="--------" group-title="TSN SPORT", TSN 2
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=177345&extension=ts&play_token=H0P1T4ifR8
+
+#EXTINF:-1 tvg-logo="--------" group-title="TSN SPORT", TSN 3
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=177346&extension=ts&play_token=I4WnM2pics
+
+#EXTINF:-1 tvg-logo="--------" group-title="TSN SPORT", TSN 4
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=177347&extension=ts&play_token=vBeq3z0dWP
+
+#EXTINF:-1 tvg-logo="--------" group-title="TSN SPORT", TSN 5
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=177348&extension=ts&play_token=CN2xBNmpdp
+
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GROUP", AR: Sky Flix Aflam 1
 http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/283264
 
