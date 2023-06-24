@@ -2848,17 +2848,26 @@ http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/1145
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALBANIA SPORT", |AL| RTSH Sport HD+
 http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/1155
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DIGI SPORT", |RO| Digi Sport 1 4K+
-http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/15401
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DIGI SPORT", |RO| Digi Sport 1 
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=56119&extension=ts&play_token=inkjc0VAic
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DIGI SPORT", |RO| Digi Sport 2 4K+
 http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/15402
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DIGI SPORT", |RO| Digi Sport 2
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=56118&extension=ts&play_token=jIfjnMFtCz
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DIGI SPORT", |RO| Digi Sport 3 4K+
 http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/15404
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DIGI SPORT", |RO| Digi Sport 3
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=207963&extension=ts&play_token=M6uCPPobs2
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DIGI SPORT", |RO| Digi Sport 4 4K+
 http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/15406
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DIGI SPORT", |RO| Digi Sport 4
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=207964&extension=ts&play_token=eurrySBsuE
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DIGI SPORT", |RO| Digi Animal World 4K+
 http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/15425
