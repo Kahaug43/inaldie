@@ -2679,7 +2679,22 @@ http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/407399
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HUB SPORT", SG| Hub Sports 5 FHD
 http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/407400
 
+#EXTINF:-1 tvg-logo="------" group-title="OPTUS SPORT", OPTUS SPORT 1
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032471&extension=ts&play_token=InCwgv0Zsg
 
+
+#EXTINF:-1 tvg-logo="------" group-title="OPTUS SPORT", OPTUS SPORT 2
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032470&extension=ts&play_token=qBeBPHlYKO
+
+
+#EXTINF:-1 tvg-logo="------" group-title="OPTUS SPORT", OPTUS SPORT 3
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032469&extension=ts&play_token=WZ8jVxGqCR
+
+#EXTINF:-1 tvg-logo="------" group-title="OPTUS SPORT", OPTUS SPORT 4
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032468&extension=ts&play_token=rNx65mVDBT
+
+#EXTINF:-1 tvg-logo="------" group-title="OPTUS SPORT", OPTUS SPORT 5
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032467&extension=ts&play_token=raIZRUj5Fn
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALBANIA SPORT", |AL| Eurosport 2 4K+
 http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/1091
