@@ -6028,6 +6028,258 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=559565&extens
 #EXTINF:-1 tvg-logo="-------" group-title="MOVIE 24/7", Jurassic Park
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=559568&extension=ts&play_token=LfpAYDfnEh
 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : 12 CORAZONES
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/339651.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : ADUANA 24/7 PANAMA
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/117310.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : ALERTA AEROPUERTO
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/65615.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : ALERTA MAXIMA
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/65616.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : AVATAR LA LEYENDA DE AANG
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/87443.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : CANTINFLA 1
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/273153.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : CAPITAN TSUBSA
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/87405.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : CASO CERRADO
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/294647.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : COYOTE & CORRE CAMINO
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/85872.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : DAVE EL BARBARO
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/87418.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : DEATH NOTE
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/65618.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : DEMON SLAYER
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/292947.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : DETECTIVE CONAN
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/337213.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : DIGIMON
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/65619.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : DRAGON BALL
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/65620.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : DRAGON BALL GT
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/65621.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : DRAGON BALL SUPER
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/117799.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : EL CHAPULIN COLORADO
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/87396.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : EL CHAVO DEL OCHO 1
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/87395.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : EL CHAVO DEL OCHO 2
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/94963.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : EL COYOTE & EL CORRECAMINO 2
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/87390.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : EL PRINICIPE DEL RAP
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/87432.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : EL SHOW DEL BIG SHOW
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/65622.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : EL ZORRO
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/87422.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : FERNANDO EL FUNCIONARIO
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/65624.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : FULLMETAL ALCHEMIST
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/65625.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : FUTURAMA
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/87397.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : HAJIME NO IPPO
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/337214.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : HE-MAN
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/87398.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : HEIDI
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/65627.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : HOMBRE DE NEGRO ANIMADO
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/87413.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : ICARLY
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/339840.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : INUYASHA
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/87451.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : JUEGOS DE TRONOS
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/284161.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : KUNG FU PANDA
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/65630.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : LA BIBLIA
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/65631.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : LA CAPITAL DEL HUMOR
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/117282.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : LA LIGA DE LA JUSTICIA
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/87455.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : LA PATRULLA CANINA
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/65632.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : LA PEQUEÑA LULU
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/87458.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : LA TREMENDA CORTE
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139413.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : LOS CABALLERO DEL ZODIACO
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/87388.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : LOS SIMPSONS 1
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/115359.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : LOS SIMPSONS 2
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/117797.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : MALCOLM
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/65638.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : MASTER CHEF (CELEBRITY)
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/132482.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : MASTER CHEF T1
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/132481.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : MI BELLA GENIO
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/65641.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : NARUTO
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/87400.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : NARUTO SHIPPUDEN
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/273152.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : PEÑALBA EL ALBAÑIL
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/65642.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : PINKY Y CEREBRO
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/87402.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : POKEMON
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/87403.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : RICK AND MORTY
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/292946.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : SAKURA CAZADORA DE CARTAS
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/87457.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : SAMURAI X
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/290694.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : SOUTH PARK 1
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/114058.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : SUPERVIVENCIA AL DESNUDO
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/339678.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : TOM & JERRY
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/87437.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : TUNDERCATS (2011)
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/85870.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : DOS HOMBRES Y MEDIO
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/339992.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : HERCULES Y LOS VIAJES LEGENDARIOS
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/340633.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : CHEATERS
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/342490.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : UNA FAMILIA DE DIEZ
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/342704.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : GRAVITY FALLS
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/344954.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : SAINT SEIYA OMEGA
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/366841.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : JIMMY NEUTRON
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/366951.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : SUPERMAN Y LOIS
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/367058.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : ZOE 101
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/368069.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : HORA DE VENTURA
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/368629.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : DON GATO Y SU FAMILIA
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/376373.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : EL EXORCISTA
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/376532.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : VICTORIOUS
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/376639.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : AMERICAN CRIME STORY
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/376942.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 :  CLUB DE CUERVOS
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/377551.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : CHESPIRITO
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/380162.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : DRAKE AND JOSH
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/380220.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : THE AVENGERS
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/380253.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : INDIANA JONES
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/380436.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : TERROR
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/380437.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : RAPIDO Y FURIOSO
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/380542.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : PIRATAS DEL CARIBE
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/380543.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", 24/7 : HARRY POTTER
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/380554.ts
+
+
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINEMA & MOVIE", IR: Cine Film
 http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/297533
 
