@@ -3547,80 +3547,153 @@ http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/14553
 http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/14554
 
 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="FRANCIS SPORT", INFOSPORT
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="FRANCE SPORT", INFOSPORT
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508169&extension=ts&play_token=NaNl5etGT6
 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="FRANCIS SPORT", CANAL+ MOTOGP
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="FRANCE SPORT", CANAL+ MOTOGP
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508165&extension=ts&play_token=LwIO2B91Rs
 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="FRANCIS SPORT", CANAL+ GOLF
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="FRANCE SPORT", CANAL+ GOLF
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508152&extension=ts&play_token=B5Pfbw3H01
 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="FRANCIS SPORT", GOLF CHANEL
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="FRANCE SPORT", GOLF CHANEL
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508151&extension=ts&play_token=eSCbjUq85r
 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="FRANCIS SPORT", CANAL+ LIGUE 1
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="FRANCE SPORT", CANAL+ LIGUE 1
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508166&extension=ts&play_token=nK7HBwJJej
 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="FRANCIS SPORT", FOOT+ 24/24
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="FRANCE SPORT", FOOT+ 24/24
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508150&extension=ts&play_token=giBDBIBZYz
 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="FRANCIS SPORT", TRECE SPORT
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="FRANCE SPORT", TRECE SPORT
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508164&extension=ts&play_token=U6DIYVbv7g
 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="FRANCIS SPORT", CANAL+ PREMIER LEAGUE
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="FRANCE SPORT", CANAL+ PREMIER LEAGUE
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508167&extension=ts&play_token=1nsvxInv16
 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="FRANCIS SPORT", EUROSPORT 1
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="FRANCE SPORT", EUROSPORT 1
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508162&extension=ts&play_token=L4D2gbJR3c
 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="FRANCIS SPORT", EUROSPORT 2
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="FRANCE SPORT", EUROSPORT 2
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508161&extension=ts&play_token=VNgJDJiKDV
 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="FRANCIS SPORT", BEIN SPORT 1
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="FRANCE SPORT", BEIN SPORT 1
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508160&extension=ts&play_token=qapvqz8oDq
 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="FRANCIS SPORT", BEIN SPORT 2
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="FRANCE SPORT", BEIN SPORT 2
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508159&extension=ts&play_token=XTkA0csslb
 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="FRANCIS SPORT", BEIN SPORT 3
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="FRANCE SPORT", BEIN SPORT 3
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508158&extension=ts&play_token=Xod89FZwdf
 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="FRANCIS SPORT", BEIN MAX 4
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="FRANCE SPORT", BEIN MAX 4
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508148&extension=ts&play_token=JQ2YqBARcU
 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="FRANCIS SPORT", BEIN MAX 5
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="FRANCE SPORT", BEIN MAX 5
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508147&extension=ts&play_token=YZuG3msMOE
 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="FRANCIS SPORT", RMC 2
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="FRANCE SPORT", RMC 2
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508156&extension=ts&play_token=Z6JZQHmj4P
 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="FRANCIS SPORT", AUTOMOTO
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="FRANCE SPORT", AUTOMOTO
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508154&extension=ts&play_token=MQYoRJeFcv
 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="FRANCIS SPORT", EUROSPORT 360 1
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="FRANCE SPORT", EUROSPORT 360 1
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508123&extension=ts&play_token=xsQxddiIez
 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="FRANCIS SPORT", EUROSPORT 360 2
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="FRANCE SPORT", EUROSPORT 360 2
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508122&extension=ts&play_token=DMnI0JkAgh
 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="FRANCIS SPORT", EUROSPORT 360 3
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="FRANCE SPORT", EUROSPORT 360 3
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508121&extension=ts&play_token=jmymvm71Dn
 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="FRANCIS SPORT", EUROSPORT 360 4
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="FRANCE SPORT", EUROSPORT 360 4
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508120&extension=ts&play_token=8f4HMB4k8K
 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="FRANCIS SPORT", EUROSPORT 360 5
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="FRANCE SPORT", EUROSPORT 360 5
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508119&extension=ts&play_token=nHe8h4P0Cm
 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="FRANCIS SPORT", EUROSPORT 360 6
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="FRANCE SPORT", EUROSPORT 360 6
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508118&extension=ts&play_token=k4BPXyOYVr
 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="FRANCIS SPORT", EUROSPORT 360 7
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="FRANCE SPORT", EUROSPORT 360 7
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508117&extension=ts&play_token=N8DgZQ0DLI
 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="FRANCIS SPORT", EUROSPORT 360 8
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="FRANCE SPORT", EUROSPORT 360 8
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508116&extension=ts&play_token=LfT9rs8naL
+
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/rmcstory.fr.png" group-title="FRANCE SPORT", FR: RMC Story HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/55
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/rmcstory.fr.png" group-title="FRANCE SPORT", FR: RMC Story FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/56
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/rmcdecouverte.fr.png" group-title="FRANCE SPORT", FR: RMC Découverte HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/123
+
+#EXTINF:-1 tvg-logo="https://static.epgguide.net/icon/rmcdecouverte.fr.png" group-title="FRANCE SPORT", FR: RMC Découverte FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/124
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/rmcsport1.png" group-title="FRANCE SPORT", FR: RMC Sport 1 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/300
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/rmcsport1.png" group-title="FRANCE SPORT", FR: RMC Sport 1 FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/301
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/rmcsport2.png" group-title="FRANCE SPORT", FR: RMC Sport 2 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/302
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/rmcsport2.png" group-title="FRANCE SPORT", FR: RMC Sport 2 FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/303
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/rmcsport3.png" group-title="FRANCE SPORT", FR: RMC Sport 3 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/304
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/rmcsport3.png" group-title="FRANCE SPORT", FR: RMC Sport 3 FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/305
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/rmcsport4.png" group-title="FRANCE SPORT", FR: RMC Sport 4 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/306
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/rmcsport4.png" group-title="FRANCE SPORT", FR: RMC Sport 4 FHD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/307
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/rmcsportlive5.png" group-title="FRANCE SPORT", FR: RMC Sport Live 5 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/308
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/rmcsportlive6.png" group-title="FRANCE SPORT", FR: RMC Sport Live 6 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/309
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/rmcsportlive7.png" group-title="FRANCE SPORT", FR: RMC Sport Live 7 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/310
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/rmcsportlive8.png" group-title="FRANCE SPORT", FR: RMC Sport Live 8 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/311
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/rmcsportlive9.png" group-title="FRANCE SPORT", FR: RMC Sport Live 9 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/312
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/rmcsportlive10.png" group-title="FRANCE SPORT", FR: RMC Sport Live 10 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/313
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/rmcsportlive11.png" group-title="FRANCE SPORT", FR: RMC Sport Live 11 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/314
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/rmcsportlive12.png" group-title="FRANCE SPORT", FR: RMC Sport Live 12 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/315
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/rmcsportlive13.png" group-title="FRANCE SPORT", FR: RMC Sport Live 13 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/316
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/rmcsportlive14.png" group-title="FRANCE SPORT", FR: RMC Sport Live 14 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/317
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/rmcsportlive15.png" group-title="FRANCE SPORT", FR: RMC Sport Live 15 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/318
+
+#EXTINF:-1 tvg-logo="https://terraiptv.com/assets/static/rmcsportlive16.png" group-title="FRANCE SPORT", FR: RMC Sport Live 16 HD
+http://terraserver.cc:8080/8BM0I5eyFH/nfHzBYVVJP/319
 
 
 
