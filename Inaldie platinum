@@ -3321,74 +3321,6 @@ http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=1131946&extension
 #EXTINF:-1 tvg-logo="------" group-title="BLUE SPORT", Blue Sport 2
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=1131945&extension=ts&play_token=vRe7r8gRAq
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALBANIA SPORT", |AL| Eurosport 2 4K+
-http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/1091
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALBANIA SPORT", |AL| K Sport 1 4K+
-http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/1092
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALBANIA SPORT", |AL| K Sport 2 4K+
-http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/1093
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALBANIA SPORT", |AL| K Sport 3 4K+
-http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/1151
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALBANIA SPORT", |AL| K Sport 4 4K+
-http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/1094
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALBANIA SPORT", |AL| Super Sport News
-http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/1013
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALBANIA SPORT", |AL| Super Sport 1 4K+
-http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/1095
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALBANIA SPORT", |AL| Super Sport 2 4K+
-http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/1096
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALBANIA SPORT", |AL| Super Sport 3 4K+
-http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/1097
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALBANIA SPORT", |AL| Super Sport 4 4K+
-http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/1098
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALBANIA SPORT", |AL| Super Sport 5 4K+
-http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/1099
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALBANIA SPORT", |AL| Super Sport 6 4K+
-http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/1012
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALBANIA SPORT", |AL| Tring Sport News
-http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/1100
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALBANIA SPORT", |AL| Tring Sport 1 4K+
-http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/1101
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALBANIA SPORT", |AL| Tring Sport 2 4K+
-http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/1102
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALBANIA SPORT", |AL| Tring Sport 3 4K+
-http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/1103
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALBANIA SPORT", |AL| Tring Sport 4 4K+
-http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/1104
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALBANIA SPORT", |KS| Super Sport Kosova 1
-http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/1128
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALBANIA SPORT", |KS| Super Sport Kosova 2
-http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/1129
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALBANIA SPORT", |AL| Art Sport 1 HD+
-http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/1143
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALBANIA SPORT", |AL| Art Sport 2  HD+
-http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/1144
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALBANIA SPORT", |AL| Art Sport 3 HD+
-http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/1145
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALBANIA SPORT", |AL| RTSH Sport HD+
-http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/1155
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DIGI SPORT", |RO| Digi Sport 1 
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=56119&extension=ts&play_token=inkjc0VAic
@@ -3488,6 +3420,76 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=411388&extens
 #EXTINF:-1 tvg-logo="------" group-title="DAZN SPORT", DAZN ZONE
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1273580&extension=ts&play_token=bGsClCAwGV
 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALBANIA SPORT", |AL| Eurosport 2 4K+
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/1091
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALBANIA SPORT", |AL| K Sport 1 4K+
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/1092
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALBANIA SPORT", |AL| K Sport 2 4K+
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/1093
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALBANIA SPORT", |AL| K Sport 3 4K+
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/1151
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALBANIA SPORT", |AL| K Sport 4 4K+
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/1094
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALBANIA SPORT", |AL| Super Sport News
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/1013
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALBANIA SPORT", |AL| Super Sport 1 4K+
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/1095
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALBANIA SPORT", |AL| Super Sport 2 4K+
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/1096
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALBANIA SPORT", |AL| Super Sport 3 4K+
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/1097
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALBANIA SPORT", |AL| Super Sport 4 4K+
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/1098
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALBANIA SPORT", |AL| Super Sport 5 4K+
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/1099
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALBANIA SPORT", |AL| Super Sport 6 4K+
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/1012
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALBANIA SPORT", |AL| Tring Sport News
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/1100
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALBANIA SPORT", |AL| Tring Sport 1 4K+
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/1101
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALBANIA SPORT", |AL| Tring Sport 2 4K+
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/1102
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALBANIA SPORT", |AL| Tring Sport 3 4K+
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/1103
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALBANIA SPORT", |AL| Tring Sport 4 4K+
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/1104
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALBANIA SPORT", |KS| Super Sport Kosova 1
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/1128
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALBANIA SPORT", |KS| Super Sport Kosova 2
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/1129
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALBANIA SPORT", |AL| Art Sport 1 HD+
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/1143
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALBANIA SPORT", |AL| Art Sport 2  HD+
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/1144
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALBANIA SPORT", |AL| Art Sport 3 HD+
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/1145
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALBANIA SPORT", |AL| RTSH Sport HD+
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/1155
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ITALY SPORT", |IT| Sky Sport UNO HD+
 http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/14656
 
@@ -3539,22 +3541,6 @@ http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/14553
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PORTUGAL SPORT", |PT| Sport TV 5 4K+
 http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/14554
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PORTUGAL SPORT", |PT| Eurosport 1 4K+
-http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/14555
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PORTUGAL SPORT", |PT| Eurosport 2 4K+
-http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/14556
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PORTUGAL SPORT", |PT| Sport TV NBA
-http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/14524
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PORTUGAL SPORT", |PT| Sporting TV 4K+
-http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/14558
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PORTUGAL SPORT", |PT| Kombat Sport
-http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/14525
-
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FRANCIS SPORT", CANAL+ 360
@@ -3754,23 +3740,11 @@ http://revteam11.offshorerev.cc:80/mag00:1A:79:32:89:AD/7JKtTyZDr6/106381
 #EXTINF:-1 tvg-logo="http://paradyse.xyz:8880/images/6758aec73bbffd9d10cd420e44ed1a26.png" group-title="PORTUGAL SPORT", PT: Sport Tv 5 HD
 http://revteam11.offshorerev.cc:80/mag00:1A:79:32:89:AD/7JKtTyZDr6/106380
 
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-GJ2SVEH-NlQ/WDrqJShaKgI/AAAAAAAAFgE/oZx8KRaCXh8QQnjHINKF462r2IL0kHZHwCLcB/s1600/Sport%2BTV%2B5%2BHD.png" group-title="PORTUGAL SPORT", PT: Sport Tv 5 ʰᵈ ᴴ²⁶⁵
-http://revteam11.offshorerev.cc:80/mag00:1A:79:32:89:AD/7JKtTyZDr6/106379
-
-#EXTINF:-1 tvg-logo="http://paradyse.xyz:8880/images/2c01898ca7636d4bf37e36d6cfb05a33.png" group-title="PORTUGAL SPORT", PT: Sport Tv 5 FHD
-http://revteam11.offshorerev.cc:80/mag00:1A:79:32:89:AD/7JKtTyZDr6/106378
-
 #EXTINF:-1 tvg-logo="http://toppt.me:8880/images/3c71a17866a47a476f8b1d5259947326.png" group-title="PORTUGAL SPORT", PT: Sport Tv 4 SD
 http://revteam11.offshorerev.cc:80/mag00:1A:79:32:89:AD/7JKtTyZDr6/106377
 
 #EXTINF:-1 tvg-logo="http://paradyse.xyz:8880/images/0840075c360922f71a0d111b95c7c8e2.png" group-title="PORTUGAL SPORT", PT: Sport Tv 4 HD
 http://revteam11.offshorerev.cc:80/mag00:1A:79:32:89:AD/7JKtTyZDr6/106376
-
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-OXNeWw-o5Co/WDrqIyw-UyI/AAAAAAAAFf0/ltUXuUuQesAwxFVV13HDM-o-0FDIbUCiQCLcB/s1600/Sport%2BTV%2B4%2BHD.png" group-title="PORTUGAL SPORT", PT: Sport Tv 4 ʰᵈ ᴴ²⁶⁵
-http://revteam11.offshorerev.cc:80/mag00:1A:79:32:89:AD/7JKtTyZDr6/106375
-
-#EXTINF:-1 tvg-logo="http://paradyse.xyz:8880/images/0840075c360922f71a0d111b95c7c8e2.png" group-title="PORTUGAL SPORT", PT: Sport Tv 4 FHD
-http://revteam11.offshorerev.cc:80/mag00:1A:79:32:89:AD/7JKtTyZDr6/106374
 
 #EXTINF:-1 tvg-logo="http://toppt.me:8880/images/3a142ac1e17bb05cfd22f643e2d62da6.png" group-title="PORTUGAL SPORT", PT: Sport Tv 3 SD (extra)
 http://revteam11.offshorerev.cc:80/mag00:1A:79:32:89:AD/7JKtTyZDr6/106373
@@ -3781,38 +3755,11 @@ http://revteam11.offshorerev.cc:80/mag00:1A:79:32:89:AD/7JKtTyZDr6/106372
 #EXTINF:-1 tvg-logo="http://paradyse.xyz:8880/images/522905ee236f0e9f5f275151cf5a5bf0.png" group-title="PORTUGAL SPORT", PT: Sport Tv 3 HD
 http://revteam11.offshorerev.cc:80/mag00:1A:79:32:89:AD/7JKtTyZDr6/106371
 
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-ATzzmaosqX0/WDrqInrttZI/AAAAAAAAFfk/uqCyJ8s1LVsdH8TBhHEWn41pfO3a2zoyQCLcB/s1600/Sport%2BTV%2B3%2BHD.png" group-title="PORTUGAL SPORT", PT: Sport Tv 3 ʰᵈ ᴴ²⁶⁵
-http://revteam11.offshorerev.cc:80/mag00:1A:79:32:89:AD/7JKtTyZDr6/106370
-
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-ATzzmaosqX0/WDrqInrttZI/AAAAAAAAFfk/uqCyJ8s1LVsdH8TBhHEWn41pfO3a2zoyQCLcB/s1600/Sport%2BTV%2B3%2BHD.png" group-title="PORTUGAL SPORT", PT: Sport Tv 3 ᶠʰᵈ ²⁶⁵
-http://revteam11.offshorerev.cc:80/mag00:1A:79:32:89:AD/7JKtTyZDr6/106369
-
-#EXTINF:-1 tvg-logo="http://paradyse.xyz:8880/images/522905ee236f0e9f5f275151cf5a5bf0.png" group-title="PORTUGAL SPORT", PT: Sport Tv 3 FHD (extra)
-http://revteam11.offshorerev.cc:80/mag00:1A:79:32:89:AD/7JKtTyZDr6/106368
-
-#EXTINF:-1 tvg-logo="http://paradyse.xyz:8880/images/522905ee236f0e9f5f275151cf5a5bf0.png" group-title="PORTUGAL SPORT", PT: Sport Tv 3 FHD
-http://revteam11.offshorerev.cc:80/mag00:1A:79:32:89:AD/7JKtTyZDr6/106367
-
 #EXTINF:-1 tvg-logo="http://toppt.me:8880/images/4d6947a967135a98291a0f61d0321604.png" group-title="PORTUGAL SPORT", PT: Sport Tv 2 SD
 http://revteam11.offshorerev.cc:80/mag00:1A:79:32:89:AD/7JKtTyZDr6/106366
 
 #EXTINF:-1 tvg-logo="http://paradyse.xyz:8880/images/83f7e863c31248076a783bcd61d9991c.png" group-title="PORTUGAL SPORT", PT: Sport Tv 2 HD
 http://revteam11.offshorerev.cc:80/mag00:1A:79:32:89:AD/7JKtTyZDr6/106365
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-xA5qDAJ09FE/WDrqIB35tSI/AAAAAAAAFfU/WNt1LNdhJO4QK5KxoEE71W55kwgnbjrZgCLcB/s1600/Sport%2BTV%2B2%2BHD.png" group-title="PORTUGAL SPORT", PT: Sport Tv 2 ʰᵈ ᴴ²⁶⁵
-http://revteam11.offshorerev.cc:80/mag00:1A:79:32:89:AD/7JKtTyZDr6/106364
-
-#EXTINF:-1 tvg-logo="http://paradyse.xyz:8880/images/83f7e863c31248076a783bcd61d9991c.png" group-title="PORTUGAL SPORT", PT: Sport Tv 2 FHD (extra)
-http://revteam11.offshorerev.cc:80/mag00:1A:79:32:89:AD/7JKtTyZDr6/106362
-
-#EXTINF:-1 tvg-logo="http://paradyse.xyz:8880/images/83f7e863c31248076a783bcd61d9991c.png" group-title="PORTUGAL SPORT", PT: Sport Tv 2 FHD
-http://revteam11.offshorerev.cc:80/mag00:1A:79:32:89:AD/7JKtTyZDr6/106361
-
-#EXTINF:-1 tvg-logo="http://toppt.me:8880/images/4d6947a967135a98291a0f61d0321604.png" group-title="PORTUGAL SPORT", PT: Sport Tv 2 SD (extra)
-http://revteam11.offshorerev.cc:80/mag00:1A:79:32:89:AD/7JKtTyZDr6/106360
-
-#EXTINF:-1 tvg-logo="http://toppt.me:8880/images/a7a7cc96830ec50bdc5b4f5e49bd7362.png" group-title="PORTUGAL SPORT", PT: Sport Tv 1 SD (extra)
-http://revteam11.offshorerev.cc:80/mag00:1A:79:32:89:AD/7JKtTyZDr6/106359
 
 #EXTINF:-1 tvg-logo="http://toppt.me:8880/images/a7a7cc96830ec50bdc5b4f5e49bd7362.png" group-title="PORTUGAL SPORT", PT: Sport Tv 1 SD
 http://revteam11.offshorerev.cc:80/mag00:1A:79:32:89:AD/7JKtTyZDr6/106358
@@ -3820,38 +3767,11 @@ http://revteam11.offshorerev.cc:80/mag00:1A:79:32:89:AD/7JKtTyZDr6/106358
 #EXTINF:-1 tvg-logo="http://paradyse.xyz:8880/images/bab3ba5b1011990bee63a8438964fca8.png" group-title="PORTUGAL SPORT", PT: Sport Tv 1 HD
 http://revteam11.offshorerev.cc:80/mag00:1A:79:32:89:AD/7JKtTyZDr6/106357
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-W_CAFiFbxkI/WDrqH0RcCYI/AAAAAAAAFfE/GK92vVsZy0cxde33dti6bO9rRcQJzuKSgCLcB/s1600/Sport%2BTV%2B1%2BHD.png" group-title="PORTUGAL SPORT", PT: Sport Tv 1 ʰᵈ ᴴ²⁶⁵
-http://revteam11.offshorerev.cc:80/mag00:1A:79:32:89:AD/7JKtTyZDr6/106356
-
-#EXTINF:-1 tvg-logo="http://paradyse.xyz:8880/images/bab3ba5b1011990bee63a8438964fca8.png" group-title="PORTUGAL SPORT", PT: Sport Tv 1 FHD (extra)
-http://revteam11.offshorerev.cc:80/mag00:1A:79:32:89:AD/7JKtTyZDr6/106354
-
-#EXTINF:-1 tvg-logo="http://paradyse.xyz:8880/images/bab3ba5b1011990bee63a8438964fca8.png" group-title="PORTUGAL SPORT", PT: Sport Tv 1 FHD
-http://revteam11.offshorerev.cc:80/mag00:1A:79:32:89:AD/7JKtTyZDr6/106353
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-W_CAFiFbxkI/WDrqH0RcCYI/AAAAAAAAFfE/GK92vVsZy0cxde33dti6bO9rRcQJzuKSgCLcB/s1600/Sport%2BTV%2B1%2BHD.png" group-title="PORTUGAL SPORT", PT: Sport Tv 1 ⁴ᵏ ʰ²⁶⁵
-http://revteam11.offshorerev.cc:80/mag00:1A:79:32:89:AD/7JKtTyZDr6/106352
-
-#EXTINF:-1 tvg-logo="http://toppt.me:8880/images/3e3c1b67c3c7bcca818824b8a1c4c0e8.png" group-title="PORTUGAL SPORT", PT: Sport Tv + (extra)
-http://revteam11.offshorerev.cc:80/mag00:1A:79:32:89:AD/7JKtTyZDr6/106351
-
 #EXTINF:-1 tvg-logo="http://toppt.me:8880/images/3e3c1b67c3c7bcca818824b8a1c4c0e8.png" group-title="PORTUGAL SPORT", PT: Sport Tv +
 http://revteam11.offshorerev.cc:80/mag00:1A:79:32:89:AD/7JKtTyZDr6/106350
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-g2LkFfTpNeE/WDrqHvJ3VgI/AAAAAAAAFe4/aF4rCg3KDhYODg6Kv1b-9Y8qqihJemQBQCLcB/s1600/Sport%2BTV%2B%252B%2BHD.png" group-title="PORTUGAL SPORT", PT: Sport Tv + ʰᵈ ᴴ²⁶⁵
 http://revteam11.offshorerev.cc:80/mag00:1A:79:32:89:AD/7JKtTyZDr6/106349
-
-#EXTINF:-1 tvg-logo="http://paradyse.xyz:8880/images/8daddffa6b1a4dc4ff255019fe43e918.png" group-title="PORTUGAL SPORT", PT: Sport Tv + FHD
-http://revteam11.offshorerev.cc:80/mag00:1A:79:32:89:AD/7JKtTyZDr6/106348
-
-#EXTINF:-1 tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/sport-tv/nba/highlight-logo/medium.jpg" group-title="PORTUGAL SPORT", PT: Sport Tv Nba ʰᵈ ᴴ²⁶⁵
-http://revteam11.offshorerev.cc:80/mag00:1A:79:32:89:AD/7JKtTyZDr6/106347
-
-#EXTINF:-1 tvg-logo="http://paradyse.xyz:8880/images/075a3e36a0a52dcbc568c05788e8a713.jpg" group-title="PORTUGAL SPORT", PT: Sport Tv NBA
-http://revteam11.offshorerev.cc:80/mag00:1A:79:32:89:AD/7JKtTyZDr6/106346
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-W_CAFiFbxkI/WDrqH0RcCYI/AAAAAAAAFfE/GK92vVsZy0cxde33dti6bO9rRcQJzuKSgCLcB/s1600/Sport%2BTV%2B1%2BHD.png" group-title="Without category", PT: Sport Tv 1 4k ʰ²⁶⁵
-http://revteam11.offshorerev.cc:80/mag00:1A:79:32:89:AD/7JKtTyZDr6/55280
 
 
 
