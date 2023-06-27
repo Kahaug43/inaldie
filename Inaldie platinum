@@ -9066,6 +9066,119 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508148&extens
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508147&extension=ts&play_token=YZuG3msMOE 
 
 
+#EXTINF:-1 tvg-logo="http://logo.ottc.pro:8080/logos/BEINSPORTS/BEINSPORTS.png" group-title="BEIN SPORT AR", BEIN SPORT HD
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/11430
+
+#EXTINF:-1 tvg-logo="http://logo.ottc.pro:8080/logos/BEINSPORTS/BEINSPORTSNEWS.png" group-title="BEIN SPORT AR", BEIN SPORTS NEWS HD
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/11428
+
+#EXTINF:-1 tvg-logo="http://logo.ottc.pro:8080/logos/BEINSPORTS/BEINSPORTSNEWS.png" group-title="BEIN SPORT AR", BEIN SPORTS NEWS FHD
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/455564
+
+#EXTINF:-1 tvg-logo="http://logo.ottc.pro:8080/logos/BEINSPORTS/BEINSPORTSNBA.png" group-title="BEIN SPORT AR", BEIN SPORTS NBA HD
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/11429
+
+#EXTINF:-1 tvg-logo="http://103.161.34.214:81/logos/FRENCH/SPORTS/BEINSPORT1HD.png" group-title="BEIN SPORT AR", BEIN SPORTS 1 HD
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/11427
+
+#EXTINF:-1 tvg-logo="http://103.161.34.214:81/logos/FRENCH/SPORTS/BEINSPORT2HD.png" group-title="BEIN SPORT AR", BEIN SPORTS 2 HD
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/11426
+
+#EXTINF:-1 tvg-logo="http://103.161.34.214:81/logos/FRENCH/SPORTS/BEINSPORT3HD.png" group-title="BEIN SPORT AR", BEIN SPORTS 3 HD
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/11425
+
+#EXTINF:-1 tvg-logo="http://103.161.34.214:81/logos/FRENCH/SPORTS/BEINSPORT4HD.png" group-title="BEIN SPORT AR", BEIN SPORTS 4 HD
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/11424
+
+#EXTINF:-1 tvg-logo="http://103.161.34.214:81/logos/FRENCH/SPORTS/BEINSPORT5HD.png" group-title="BEIN SPORT AR", BEIN SPORTS 5 HD
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/11423
+
+#EXTINF:-1 tvg-logo="http://103.161.34.214:81/logos/FRENCH/SPORTS/BEINSPORT6HD.png" group-title="BEIN SPORT AR", BEIN SPORTS 6 HD
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/11422
+
+#EXTINF:-1 tvg-logo="http://103.161.34.214:81/logos/FRENCH/SPORTS/BEINSPORT7HD.png" group-title="BEIN SPORT AR", BEIN SPORTS 7 HD
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/11421
+
+#EXTINF:-1 tvg-logo="http://logo.ottc.pro:8080/logos/BEINSPORTS/BEINSPORTSXTRA1.png" group-title="BEIN SPORT AR", BEIN SPORTS XTRA 1 HD
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/146394
+
+#EXTINF:-1 tvg-logo="http://logo.ottc.pro:8080/logos/BEINSPORTS/BEINSPORTSXTRA2.png" group-title="BEIN SPORT AR", BEIN SPORTS XTRA 2 HD
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/146395
+
+#EXTINF:-1 tvg-logo="http://logo.ottc.pro:8080/logos/BEINSPORTS/BEINSPORTS1ENGLISH.png" group-title="BEIN SPORT AR", BEIN SPORTS 1 ENGLISH HD
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/139080
+
+#EXTINF:-1 tvg-logo="http://logo.ottc.pro:8080/logos/BEINSPORTS/BEINSPORTS2ENGLISH.png" group-title="BEIN SPORT AR", BEIN SPORTS 2 ENGLISH HD
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/139079
+
+#EXTINF:-1 tvg-logo="http://logo.ottc.pro:8080/logos/BEINSPORTS/BEINSPORTS3ENGLISH.png" group-title="BEIN SPORT AR", BEIN SPORTS 3 ENGLISH HD
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/139078
+
+#EXTINF:-1 tvg-logo="http://logo.ottc.pro:8080/logos/BEINSPORTS/BEINSPORTS1FRENCH.png" group-title="BEIN SPORT AR", BEIN SPORTS 1 FRENCH HD
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/139077
+
+#EXTINF:-1 tvg-logo="http://logo.ottc.pro:8080/logos/BEINSPORTS/BEINSPORTS2FRENCH.png" group-title="BEIN SPORT AR", BEIN SPORTS 2 FRENCH HD
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/139076
+
+#EXTINF:-1 tvg-logo="http://logo.ottc.pro:8080/logos/BEINSPORTS/BEINSPORTS3FRENCH.png" group-title="BEIN SPORT AR", BEIN SPORTS 3 FRENCH HD
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/139075
+
+#EXTINF:-1 tvg-logo="http://103.161.34.214:81/logos/BEINSPORTS/AFCHD.png" group-title="BEIN SPORT AR", BEIN SPORTS AFC HD
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/343590
+
+#EXTINF:-1 tvg-logo="http://103.161.34.214:81/logos/BEINSPORTS/AFC1.png" group-title="BEIN SPORT AR", BEIN SPORTS AFC 1 HD
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/343589
+
+#EXTINF:-1 tvg-logo="http://103.161.34.214:81/logos/BEINSPORTS/AFC2.png" group-title="BEIN SPORT AR", BEIN SPORTS AFC 2 HD
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/343588
+
+#EXTINF:-1 tvg-logo="http://103.161.34.214:81/logos/BEINSPORTS/AFC3.png" group-title="BEIN SPORT AR", BEIN SPORTS AFC 3 HD
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/343587
+
+#EXTINF:-1 tvg-logo="http://103.161.34.214:81/logos/FRENCH/SPORTS/BEINSPORT1HD.png" group-title="BEIN SPORT AR", BEIN SPORTS 1
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/305202
+
+#EXTINF:-1 tvg-logo="http://103.161.34.214:81/logos/FRENCH/SPORTS/BEINSPORT2HD.png" group-title="BEIN SPORT AR", BEIN SPORTS 2
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/305201
+
+#EXTINF:-1 tvg-logo="http://103.161.34.214:81/logos/FRENCH/SPORTS/BEINSPORT3HD.png" group-title="BEIN SPORT AR", BEIN SPORTS 3
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/305200
+
+#EXTINF:-1 tvg-logo="http://103.161.34.214:81/logos/FRENCH/SPORTS/BEINSPORT4HD.png" group-title="BEIN SPORT AR", BEIN SPORTS 4
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/305199
+
+#EXTINF:-1 tvg-logo="http://103.161.34.214:81/logos/FRENCH/SPORTS/BEINSPORT5HD.png" group-title="BEIN SPORT AR", BEIN SPORTS 5
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/305198
+
+#EXTINF:-1 tvg-logo="http://103.161.34.214:81/logos/FRENCH/SPORTS/BEINSPORT6HD.png" group-title="BEIN SPORT AR", BEIN SPORTS 6
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/305197
+
+#EXTINF:-1 tvg-logo="http://103.161.34.214:81/logos/FRENCH/SPORTS/BEINSPORT7HD.png" group-title="BEIN SPORT AR", BEIN SPORTS 7
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/305196
+
+#EXTINF:-1 tvg-logo="http://103.161.34.214:81/logos/FRENCH/SPORTS/BEINSPORT1HD.png" group-title="BEIN SPORT AR", BEIN SPORTS 1 EN
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/305195
+
+#EXTINF:-1 tvg-logo="http://103.161.34.214:81/logos/FRENCH/SPORTS/BEINSPORT2HD.png" group-title="BEIN SPORT AR", BEIN SPORTS 2 EN
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/305194
+
+#EXTINF:-1 tvg-logo="http://103.161.34.214:81/logos/FRENCH/SPORTS/BEINSPORT3HD.png" group-title="BEIN SPORT AR", BEIN SPORTS 3 EN
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/305193
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/2/ALKASS1.png" group-title="BEIN SPORT AR", ALKASS 1 HD
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/484757
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/2/ALKASS2.png" group-title="BEIN SPORT AR", ALKASS 2 HD
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/484756
+
+#EXTINF:-1 tvg-logo="http://103.161.34.240:81/logos/BEINSPORTS/ALKASS3HD.png" group-title="BEIN SPORT AR", ALKASS 3 HD
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/500492
+
+#EXTINF:-1 tvg-logo="http://logo.ottc.pro:8080/logos/BEINSPORTS/BEINSPORTSNEWS.png" group-title="BEIN SPORT AR", BEIN SPORTS NEWS FHD
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/455564
+
+
+
 #EXTINF:-1 tvg-logo="xxxxxxxx" group-title="BT SPORT", BT SPORT 1
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=30567&extension=ts&play_token=J9uc80NqLf 
 
@@ -9137,6 +9250,39 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=411388&extens
 
 #EXTINF:-1 tvg-logo="------" group-title="DAZN SPORT", DAZN ZONE
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1273580&extension=ts&play_token=bGsClCAwGV
+
+#EXTINF:-1 tvg-logo="http://logo.ottc.pro:8080/logos/GERMANY/DAZN.png" group-title="DAZN SPORT", DAZN 1 BAR HD
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/580
+
+#EXTINF:-1 tvg-logo="http://logo.ottc.pro:8080/logos/GERMANY/DAZN.png" group-title="DAZN SPORT", DAZN 2 BAR HD
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/579
+
+#EXTINF:-1 tvg-logo="http://logo.ottc.pro:8080/logos/GERMANY/DAZN.png" group-title="DAZN SPORT", DAZN NBA HD
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/307905
+
+#EXTINF:-1 tvg-logo="http://logo.ottc.pro:8080/logos/GERMANY/DAZN.png" group-title="DAZN SPORT", DAZN MBL HD
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/307904
+
+#EXTINF:-1 tvg-logo="http://logo.ottc.pro:8080/logos/GERMANY/DAZN.png" group-title="DAZN SPORT", DAZN LFC TV HD
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/307903
+
+#EXTINF:-1 tvg-logo="http://logo.ottc.pro:8080/logos/GERMANY/DAZN.png" group-title="DAZN SPORT", DAZN 1 HD |LIVE-EVENT|
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/283787
+
+#EXTINF:-1 tvg-logo="http://logo.ottc.pro:8080/logos/GERMANY/DAZN.png" group-title="DAZN SPORT", DAZN 2 HD |LIVE-EVENT|
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/283786
+
+#EXTINF:-1 tvg-logo="http://logo.ottc.pro:8080/logos/GERMANY/DAZN.png" group-title="DAZN SPORT", DAZN 3 HD |LIVE-EVENT|
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/283785
+
+#EXTINF:-1 tvg-logo="http://logo.ottc.pro:8080/logos/GERMANY/DAZN.png" group-title="DAZN SPORT", DAZN 4 HD |LIVE-EVENT|
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/283784
+
+#EXTINF:-1 tvg-logo="http://logo.ottc.pro:8080/logos/GERMANY/DAZN.png" group-title="DAZN SPORT", DAZN 5 HD |LIVE-EVENT|
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/283783
+
+
+
 
 #EXTINF:-1 tvg-logo="-------" group-title="DIGI SPORT", DIGI Sport 1
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=56119&extension=ts&play_token=pNhBMebn4P
