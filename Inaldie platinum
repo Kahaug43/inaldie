@@ -2142,6 +2142,300 @@ http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683088&extension=
 #EXTINF:-1 tvg-logo="-------" group-title="DISCOVERY", LIFETIME
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683129&extension=ts&play_token=HwiPR2YqVX
 
+
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/bff54deb990d53323e691c3649b32547.png" group-title="DISCOVERY", AR: Discovery Family
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298841
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/097b4bac30f2eb60f13cfe548b188067.png" group-title="DISCOVERY", AR: Discovery Science
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/192878
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/582370ec71ef87665deb0ad698993ab8.png" group-title="DISCOVERY", RO: Discovery Science
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/12026
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/c381600b92f358393007bf287db35c59.png" group-title="DISCOVERY", RO: Discovery Turbo Xtra
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/41558
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/b71e4aceee440375a7ce9433b093e079.png" group-title="DISCOVERY", RO: Discovery World
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/9814
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/5cdae4a69fb5b094fb4b819c5a5777c1.png" group-title="DISCOVERY", RO: Investigation Discovery
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/9813
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0bc28a626d2571508760894e0c9cb518.png" group-title="DISCOVERY", GR: Discovery Science
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/30109
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/ef9e9f6777b6bdb8e63de11e90b1330b.png" group-title="DISCOVERY", GR: Discovery World
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/24963
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6a144f7548e4012e40d2068d4284c6a7.png" group-title="DISCOVERY", FR: Discovery Science
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/186
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/00dcd78b10f9234bcfc53055bc0915ba.png" group-title="DISCOVERY", FR: Discovery World
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/185
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8dbda0b3b6ed9e45fec05c8475a9287a.png" group-title="DISCOVERY", FR: Investigation Discovery
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/4376
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6d601ee98228bdebace57a4c9fe882b4.png" group-title="DISCOVERY", CH: Discovery World
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/73992
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/582370ec71ef87665deb0ad698993ab8.png" group-title="DISCOVERY", RO: Discovery Science
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/12026
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b0e6338fdd9b3b61300bb3469f76e3b0.png" group-title="DISCOVERY", UK: Discovery History
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/694
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e76011290ff4124502f1af1e6fb6e980.png" group-title="DISCOVERY", UK: Discovery Science
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/713
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ac2c475dbdb448898e219c4a51c1f848.png" group-title="DISCOVERY", UK: Discovery Turbo
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/1114
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/15e5cd004d609028edf73514b493c1bf.png" group-title="DISCOVERY", UK: Discovery World
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/708
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f4da07a802fec387b6b52048f87851ac.png" group-title="DISCOVERY", UK: DMAX
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/1604
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/881df5f496a975889fd4b98902dc85ed.png" group-title="DISCOVERY", UK: Investigation Discovery
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/278449
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e4546f701d423acc4cafdfad8454c28a.png" group-title="DISCOVERY", PL: Discovery History
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/1710
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/bcac66fa5dc49504f86569f6f83ec32e.png" group-title="DISCOVERY", PL: Discovery Life Polska
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/1709
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f819bf88e9a61dc95cda148b2f127d47.png" group-title="DISCOVERY", PL: Discovery Science Polska
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/10523
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/ad2248ed73515048617dfac5243457f8.png" group-title="DISCOVERY", PL: Discovery Turbo Xtra
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/283190
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5e3085bfa0a23c71340c2ecb0d3a2e4d.png" group-title="DISCOVERY", PL: Discovery World
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/3230
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6b9bfa6ab7160b4440f4cfaf5df7387b.png" group-title="DISCOVERY", PL: Investigation Discovery
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/16686
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ab67e74b7ce8a0a8e73e5625898b3ea2.png" group-title="DISCOVERY", PL: TVN Turbo
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/3229
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8b59daee919a2ee113b40f9b24de2dbf.png" group-title="DISCOVERY", DE: Discovery World
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/410
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/2494761535aad69b6250769697fa97cf.png" group-title="DISCOVERY", US: Discovery Channel
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/23301
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/359d23123d6c64b5fe664913741fba38.png" group-title="DISCOVERY", US: Discovery Family
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/2300
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d00484f292486af189a6d1e48e3e1a9a.png" group-title="DISCOVERY", US: Discovery Life Channel
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/201208
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a6bbb72b2aec0ec25c49e543a33b8d0e.png" group-title="DISCOVERY", US: Discovery Science
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/2301
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/2bce6bd90e7e3b1f93a50bb36f73d686.png" group-title="DISCOVERY", US: Discovery Velocity
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/2302
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a45789c7616a76bbf20dad9baf7e5282.png" group-title="DISCOVERY", US: Discovery World
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/755
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/54c21addf47bf3012a20c4aeb4b43b60.png" group-title="DISCOVERY", US: Investigation Discovery
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/8557
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/8b518ca76ae985c61a9723de69ac1132.jpg" group-title="DISCOVERY", CA: Discovery Science
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/295051
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/897f255af4614ec1b651200fcce5bb5d.png" group-title="DISCOVERY", CA: Discovery Velocity
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/36720
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/28c2810061fc5e3736261de0ba41cfc5.jpg" group-title="DISCOVERY", CA: Investigation Discovery
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/9319
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/259f5c55c4c7fe17aa7569ec673254c6.png" group-title="DISCOVERY", TR: Discovery Science
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/5693
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7fc32221d2c98b43f8d3178589b8ea47.png" group-title="DISCOVERY", TR: Discovery World
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/8236
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b8eb9865e3892d9489a26b1b35c352d8.png" group-title="DISCOVERY", TR: Investigation Discovery
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/8237
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/52c988727efb4d35bd19747f5b0da223.png" group-title="DISCOVERY", NL: Discovery Science
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/2454
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/95e83794b755b0154e9757a375be0fe9.png" group-title="DISCOVERY", NL: Discovery World
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/2453
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b0ebe4fbb7f984273063d65c3ae8946b.png" group-title="DISCOVERY", NL: Investigation Discovery
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/2471
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0de1927f10af26a018abb19d1a94ac49.png" group-title="DISCOVERY", IT: Discovery Channel
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/7868
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/46249e8cd2e38b782f7df654bbf12dcd.png" group-title="DISCOVERY", IT: Discovery Science
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/287758
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/417c7db5cab7b6e85a04c0aa2b4c8551.png" group-title="DISCOVERY", IT: Real Time
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/977
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/8ba2d41f5a186346b45808c1373f8c52.png" group-title="DISCOVERY", IN: Discovery Channel
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/295292
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/249c454173fa6205144acb92a8e5c25e.png" group-title="DISCOVERY", IN: Discovery Kids
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/82683
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/901b40ebf06e7a9fe401a3ad17c37aa0.png" group-title="DISCOVERY", IN: Discovery Science
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/1363
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d7a1751bd2247bb32e1afe8d63f34727.png" group-title="DISCOVERY", IN: Discovery World
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/73792
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/a7d06d7d3e50a7d0083022428489eef0.png" group-title="DISCOVERY", AL: Discovery Science
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/166530
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/1d2a567812c05aa587d88f49ead9e213.png" group-title="DISCOVERY", ARG: Discovery Theater
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/172605
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/aa3ac8dce611f88c296e00edb622a153.png" group-title="DISCOVERY", EX-YU: Discovery Science
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/4147
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/9c740d4db9dae066a38744f41f6c223c.png" group-title="DISCOVERY", EX-YU: Discovery World
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/4146
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/851fc1f5623846119e620b953ccbd1ab.png" group-title="DISCOVERY", EX-YU: Investigation Discovery
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/10675
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/08a78648e5e48e1976e30d287dd83074.png" group-title="DISCOVERY", RS: Discovery Science
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/10676
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/097362b353851fdfde37efd8ffc2a4d9.png" group-title="DISCOVERY", RS: Discovery World
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/192041
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/0e42d56b2aa307e578acd10167e4ffa8.png" group-title="DISCOVERY", HR: Discovery Science
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/65792
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/2ff14441804407d39aa4eb2553382f2b.png" group-title="DISCOVERY", HR: Discovery World
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/16597
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/e6b307ac21953b0d6cc06b8f411aa667.png" group-title="DISCOVERY", HR: Investigation Discovery
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/65789
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/18d84c83fc916d941c52db1b22e34ba5.png" group-title="DISCOVERY", SI: Discovery Science
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/80284
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/5a0b84fcf5bd0768e84f417b54b44502.png" group-title="DISCOVERY", SI: Discovery Turbo Xtra
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/80290
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ffda8b0b6fefc99cd47fdc8ce2365b46.png" group-title="DISCOVERY", NO: Discovery Science
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/84112
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8883649ca60f3ce8eb172e3b855f82b2.png" group-title="DISCOVERY", NO: Discovery World
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/21128
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c43c0be2204256f31abcdb2293644c9f.png" group-title="DISCOVERY", NO: Investigation Discovery
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/147352
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/db7229f9a89d4f01f045dbc2dab85c75.png" group-title="DISCOVERY", DK: Discovery Science
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/280550
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/3e35761bc3f0cf5425877f6e19ef8efd.png" group-title="DISCOVERY", DK: Discovery World
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/4576
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8e547fe92b9c39786194cbd4cf551379.png" group-title="DISCOVERY", DK: Disney Channel
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/13582
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5229ddbcbe024619b2c289ebd5f51213.png" group-title="DISCOVERY", DK: Investigation Discovery
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/13584
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7a97d31c244b17b9fea001e5cf3b422b.png" group-title="DISCOVERY", SE: Discovery Science
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/10647
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5eda4e2b00ecff1f2558634a72ffebb1.png" group-title="DISCOVERY", SE: Discovery World
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/10642
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6b7d68c143a8e901c7a0a9c985cf4e39.png" group-title="DISCOVERY", SE: Investigation Discovery
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/10643
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/28b698b15c5120c081c3f8ce17a19804.png" group-title="DISCOVERY", IL: Discovery Channel
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/163446
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/cfc0297567a0d2c3b77d4fcee009cb55.svg" group-title="DISCOVERY", IL: Discovery Science
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/297082
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/92a36d704c70973440093c0ad4ebea90.png" group-title="DISCOVERY", HU: Discovery Science
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/72602
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/dccff278bdec5ba76805a626a7b8769a.png" group-title="DISCOVERY", HU: Discovery World
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/72607
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/6fba63ba9c5c5b0f80bc5989ca171aa2.jpg" group-title="DISCOVERY", HU: Investigation Discovery
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/77778
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/47fc5c3e37f43c484e539a6b5c5f4e64.png" group-title="DISCOVERY", BG: Discovery Science
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/32007
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/8392984e0f43cc89aaf0b1877a1c1c16.png" group-title="DISCOVERY", BG: Discovery World
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/41925
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/b2ce464518474fe5182dd4a5306f4983.png" group-title="DISCOVERY", BG: Investigation Discovery
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/32020
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/7b34d6a176a503fc18822e95dd170bdb.png" group-title="DISCOVERY", ZA: Discovery Channel
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/193274
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d00aca5dbaf4f7a3cc7ef2774894ddcf.png" group-title="DISCOVERY", ZA: Discovery Family
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/193275
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/de30766fbf4ff80bc040e952baf2ca18.svg" group-title="DISCOVERY", ZA: Discovery Science
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/297394
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/7153a0981e98a4fd0d6a3a586679fd63.png" group-title="DISCOVERY", ZA: Investigation Discovery
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/193281
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c3fedb7f9eef278a147d5d912c81adfd.png" group-title="DISCOVERY", RU: Discovery Science
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/80201
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/c1c695943a452f3d37b044eabfe17bc2.png" group-title="DISCOVERY", RU: Discovery Turbo Xtra
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/283080
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/021f73aca5f55aef6666975b0e8cac83.png" group-title="DISCOVERY", RU: Discovery World
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/71991
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4a0136f4b29ee96fca97f13dc7b0002e.jpg" group-title="DISCOVERY", CZ: Discovery Science
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/146933
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/e14d3af9403c8350de351b4854410f5e.png" group-title="DISCOVERY", FI: Discovery Science
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/72595
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/67db489f33a610ef80bf60aa8763d7fb.png" group-title="DISCOVERY", FI: Discovery World
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/72593
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/9e67015b937c354e44d5ab846190bff1.jpg" group-title="DISCOVERY", FI: Investigation Discovery
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/146672
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/c724ef6fcb7e490ed46a2af29187e257.png" group-title="DISCOVERY", SK: Investigation Discovery
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/291140
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e758a48ee4c9f4f226cf65764e549299.png" group-title="DISCOVERY", ID: Discovery Asia
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/197968
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4ed79d28be4e787382d0b8bf16a2b69b.png" group-title="DISCOVERY", ID: Discovery World
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/157597
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/297f07e1fa9738d0d725491026f64947.png" group-title="DISCOVERY", QA: Discovery Kids
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/283177
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/5bfcaf3aaaa503101bb9d5686cfbcce6.png" group-title="DISCOVERY", AE: Discovery Science
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/3703
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0d10f39ce701cc2071ffc1736e0697eb.png" group-title="DISCOVERY", AE: Discovery World
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/11081
+
+
 #EXTINF:-1 tvg-logo="-------" group-title="SPORT LOKAL", SPOTV 1
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683117&extension=ts&play_token=ttKChD9xXt
 
