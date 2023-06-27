@@ -9066,6 +9066,53 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508148&extens
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508147&extension=ts&play_token=YZuG3msMOE 
 
 
+
+#EXTINF:-1 tvg-logo="http://logo.ottc.pro:8080/logos/BEINSPORTS/BEINPREMIUM1.png" group-title="BEIN SPORT AR", BEIN PREMIUM 1 4K M
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/66045
+
+#EXTINF:-1 tvg-logo="http://logo.ottc.pro:8080/logos/BEINSPORTS/BEINPREMIUM2.png" group-title="BEIN SPORT AR", BEIN PREMIUM 2 4K M
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/66046
+
+#EXTINF:-1 tvg-logo="http://logo.ottc.pro:8080/logos/BEINSPORTS/BEINPREMIUM3.png" group-title="BEIN SPORT AR", BEIN PREMIUM 3 4K M
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/66047
+
+#EXTINF:-1 tvg-logo="http://103.161.34.214:81/logos/BEINSPORTS/BEINPREMIUM1.png" group-title="BEIN SPORT AR", BEIN PREMIUM 1 UHD M
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/139083
+
+#EXTINF:-1 tvg-logo="http://103.161.34.214:81/logos/BEINSPORTS/BEINPREMIUM2.png" group-title="BEIN SPORT AR", BEIN PREMIUM 2 UHD M
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/139082
+
+#EXTINF:-1 tvg-logo="http://103.161.34.214:81/logos/BEINSPORTS/BEINPREMIUM3.png" group-title="BEIN SPORT AR", BEIN PREMIUM 3 UHD M
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/139081
+
+#EXTINF:-1 tvg-logo="http://103.161.34.214:81/logos/BEINSPORTS/BEINPREMIUM1.png" group-title="BEIN SPORT AR", BEIN PREMIUM 1 HD M
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/139074
+
+#EXTINF:-1 tvg-logo="http://103.161.34.214:81/logos/BEINSPORTS/BEINPREMIUM2.png" group-title="BEIN SPORT AR", BEIN PREMIUM 2 HD M
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/139073
+
+#EXTINF:-1 tvg-logo="http://103.161.34.214:81/logos/BEINSPORTS/BEINPREMIUM3.png" group-title="BEIN SPORT AR", BEIN PREMIUM 3 HD M
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/139072
+
+#EXTINF:-1 tvg-logo="http://logo.ottc.pro:8080/logos/BEINSPORTS/BEINPREMIUM1.png" group-title="BEIN SPORT AR", BEIN PREMIUM 1 SD M
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/11389
+
+#EXTINF:-1 tvg-logo="http://logo.ottc.pro:8080/logos/BEINSPORTS/BEINPREMIUM2.png" group-title="BEIN SPORT AR", BEIN PREMIUM 2 SD M
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/11388
+
+#EXTINF:-1 tvg-logo="http://logo.ottc.pro:8080/logos/BEINSPORTS/BEINPREMIUM3.png" group-title="BEIN SPORT AR", BEIN PREMIUM 3 SD M
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/11387
+
+#EXTINF:-1 tvg-logo="http://103.161.34.214:81/logos/BEINSPORTS/BEINPREMIUM1.png" group-title="BEIN SPORT AR", BEIN PREMIUM 1 HD L
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/305205
+
+#EXTINF:-1 tvg-logo="http://103.161.34.214:81/logos/BEINSPORTS/BEINPREMIUM2.png" group-title="BEIN SPORT AR", BEIN PREMIUM 2 HD L
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/305204
+
+#EXTINF:-1 tvg-logo="http://103.161.34.214:81/logos/BEINSPORTS/BEINPREMIUM3.png" group-title="BEIN SPORT AR", BEIN PREMIUM 3 HD L
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/305203
+
+
 #EXTINF:-1 tvg-logo="http://logo.ottc.pro:8080/logos/BEINSPORTS/BEINSPORTS.png" group-title="BEIN SPORT AR", BEIN SPORT HD
 http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/11430
 
