@@ -9347,6 +9347,31 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032473&exten
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", HK| Now Sports 1A
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032487&extension=ts&play_token=f8v6LXbTnv 
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", NOW SPORT 1
+http://washerorg.h1ott.com:80/play/live.php?mac=00:1A:79:78:1f:28&stream=1110615&extension=ts&play_token=2cMF0TEA1C
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", NOW SPORT 2
+http://washerorg.h1ott.com:80/play/live.php?mac=00:1A:79:78:1f:28&stream=1110616&extension=ts&play_token=wXzS1TkgZd
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", NOW SPORT 3
+http://washerorg.h1ott.com:80/play/live.php?mac=00:1A:79:78:1f:28&stream=1110617&extension=ts&play_token=MhMA5XAcQq
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", NOW SPORT 4
+http://washerorg.h1ott.com:80/play/live.php?mac=00:1A:79:78:1f:28&stream=1110618&extension=ts&play_token=rszlAjhaJv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", NOW SPORT 5
+http://washerorg.h1ott.com:80/play/live.php?mac=00:1A:79:78:1f:28&stream=1110619&extension=ts&play_token=aLufcNCbFv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", NOW SPORT 6
+http://washerorg.h1ott.com:80/play/live.php?mac=00:1A:79:78:1f:28&stream=1110620&extension=ts&play_token=FPFTklYZGw
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", NOW SPORT 7
+http://washerorg.h1ott.com:80/play/live.php?mac=00:1A:79:78:1f:28&stream=1110621&extension=ts&play_token=D2mN6Yu4YU
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", NOW SPORT PREMIER 1
+http://washerorg.h1ott.com:80/play/live.php?mac=00:1A:79:78:1f:28&stream=1110622&extension=ts&play_token=5KA2QVMYYj
+
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", HK| Now Sports Prime
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032480&extension=ts&play_token=Ybjpa2BRhQ
 #EXTINF:-1 tvg-logo="-------" group-title="POLSAT SPORT", Polsat SPORT PREMIUM 1
@@ -10249,6 +10274,23 @@ http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=177347&extension=
 
 #EXTINF:-1 tvg-logo="--------" group-title="TSN SPORT", TSN 5 
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=177348&extension=ts&play_token=CN2xBNmpdp 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TSN SPORT CA", TSN SPORT 1
+http://washerorg.h1ott.com:80/play/live.php?mac=00:1A:79:78:1f:28&stream=177344&extension=ts&play_token=SKXnfisk55
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TSN SPORT CA", TSN SPORT 2
+http://washerorg.h1ott.com:80/play/live.php?mac=00:1A:79:78:1f:28&stream=177345&extension=ts&play_token=6MjPzuWnwm
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TSN SPORT CA", TSN SPORT 3
+http://washerorg.h1ott.com:80/play/live.php?mac=00:1A:79:78:1f:28&stream=177346&extension=ts&play_token=hjA2MxG1qK
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TSN SPORT CA", TSN SPORT 4
+http://washerorg.h1ott.com:80/play/live.php?mac=00:1A:79:78:1f:28&stream=177347&extension=ts&play_token=qZVKKrQf8V
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TSN SPORT CA", TSN SPORT 5
+http://washerorg.h1ott.com:80/play/live.php?mac=00:1A:79:78:1f:28&stream=177348&extension=ts&play_token=64VYNsFdZ5
+
+
 
 
 #EXTINF:-1 tvg-logo="------" group-title="OPTUS SPORT", OPTUS SPORT 1
