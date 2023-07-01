@@ -2295,6 +2295,26 @@ http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=208009&extension=
 #EXTINF:-1 tvg-logo="-------" group-title="ORANGE SPORT", ORANGE Sport 4
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=92680&extension=ts&play_token=5q15VVXkYC
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT TV PR", Sport TV + PR
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=107437&extension=ts&play_token=gF453fr0hU
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT TV PR", Sport TV 1 PR
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=107436&extension=ts&play_token=Aj5Ctlhy7i
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT TV PR", Sport TV 2 PR
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=107435&extension=ts&play_token=qw4dAYgqh4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT TV PR", Sport TV 3 PR
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=107434&extension=ts&play_token=YDdzgWa5H8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT TV PR", Sport TV 4 PR
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=107433&extension=ts&play_token=xKo8YuhxbA
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT TV PR", Sport TV 5 PR
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=148667&extension=ts&play_token=iIquME1ma3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT TV PR", Sport TV 6 PR
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=712739&extension=ts&play_token=caOMaeWlAR
 
 #EXTINF:-1 tvg-logo="http://paradyse.xyz:8880/images/3880945057d98b07570ae80de9ce6944.png" group-title="ELEVAN SPORT", PT: Eleven Sports 6 SD
 http://revteam11.offshorerev.cc:80/mag00:1A:79:32:89:AD/7JKtTyZDr6/106412
