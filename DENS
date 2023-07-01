@@ -2028,6 +2028,26 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=45235&extensi
 #EXTINF:-1 tvg-logo="-------" group-title="VIAPLAY", Viaplay Sport 2
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=163608&extension=ts&play_token=weRjYwEZxO
 
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ART SPORT", ART Sport 1
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/23143
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ART SPORT", ART Sport 2
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/23146
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ART SPORT", ART Sport 3
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/40061
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ART SPORT", ART Sport 4
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/295216
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ART SPORT", ART Sport 5
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/295215
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ART SPORT", ART Sport 6
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/295217
+
 #EXTINF:-1 tvg-logo="-------" group-title="ARENA SPORT", Arena Sport 1 PREMIUM RS
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=801855&extension=ts&play_token=5iYcwPJUh5
 
