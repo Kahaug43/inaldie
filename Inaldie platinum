@@ -10180,6 +10180,29 @@ http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298486
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2339a71b081ddc4f2341f343b8dd02e4.png" group-title="MOVIE MANCANEGARA", AE: Star Movies
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/2849
 
+#EXTINF:-1 tvg-logo="-------" group-title="SKY GO", SKY PREMIER 1
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1095797&extension=ts&play_token=mD1og1Ksr4
+
+#EXTINF:-1 tvg-logo="-------" group-title="SKY GO", SKY PREMIER 2
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1095796&extension=ts&play_token=uuRqY0Eke1
+
+#EXTINF:-1 tvg-logo="-------" group-title="SKY GO", SKY PREMIER 3
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1095795&extension=ts&play_token=uuRqY0Eke1
+
+#EXTINF:-1 tvg-logo="-------" group-title="SKY GO", SKY PREMIER 4
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1095794&extension=ts&play_token=uuRqY0Eke1
+
+#EXTINF:-1 tvg-logo="-------" group-title="SKY GO", SKY PREMIER 5
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1095793&extension=ts&play_token=uuRqY0Eke1
+
+#EXTINF:-1 tvg-logo="-------" group-title="SKY GO", SKY PREMIER 6
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1095793&extension=ts&play_token=uuRqY0Eke1
+
+#EXTINF:-1 tvg-logo="-------" group-title="SKY GO", SKY PREMIER 7
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1095792&extension=ts&play_token=uuRqY0Eke1
+
+#EXTINF:-1 tvg-logo="-------" group-title="SKY GO", SKY PREMIER 8
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1095791&extension=ts&play_token=uuRqY0Eke1
 
 
 
