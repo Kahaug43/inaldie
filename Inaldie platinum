@@ -12796,6 +12796,38 @@ http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=127257&extension=
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=91017&extension=ts&play_token=YsiFEBs2ja
 
 
+#EXTINF:-1 tvg-logo="https://github.com/KamaOmegagit9333254/tv-logos-2022/blob/main/36fightsports.png?raw=true" group-title="FIGHT SPORT", Fight Sports SD SE
+http://nxtplay.xyz:8080/pbNjVs0YBFCM/bWqAyhMVrNJC/194149
+
+#EXTINF:-1 tvg-logo="http://vod-logo.go4k.me/stalker_portal/misc/logos/320/9973.jpg?84189" group-title="FIGHT SPORT", TR : FIGHTBOX FHD
+http://nxtplay.xyz:8080/pbNjVs0YBFCM/bWqAyhMVrNJC/309034
+
+#EXTINF:-1 tvg-logo="http://vod-logo.go4k.me/stalker_portal/misc/logos/320/9973.jpg?58392" group-title="FIGHT SPORT", PL: FIGHTBOX HD
+http://nxtplay.xyz:8080/pbNjVs0YBFCM/bWqAyhMVrNJC/309885
+
+#EXTINF:-1 tvg-logo="http://vod-logo.go4k.me/stalker_portal/misc/logos/320/9982.jpg?32088" group-title="FIGHT SPORT", PL: FIGHTKLUB HD
+http://nxtplay.xyz:8080/pbNjVs0YBFCM/bWqAyhMVrNJC/309859
+
+#EXTINF:-1 tvg-logo="http://vod-logo.go4k.me/stalker_portal/misc/logos/320/9894.jpg?49081" group-title="FIGHT SPORT", PL: POLSAT SPORT FIGHT HD
+http://nxtplay.xyz:8080/pbNjVs0YBFCM/bWqAyhMVrNJC/309909
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5812b0f2237a6ff45d16c3f9/colorLogoPNG.png" group-title="FIGHT SPORT", Pluto TV Fight (720p)
+http://nxtplay.xyz:8080/pbNjVs0YBFCM/bWqAyhMVrNJC/263893
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/UFC_Network.png" group-title="FIGHT SPORT", NL: UFC NETWORK FHD
+http://nxtplay.xyz:8080/pbNjVs0YBFCM/bWqAyhMVrNJC/310831
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIGHT SPORT", BG: World FIGHT Channel FHD
+http://nxtplay.xyz:8080/pbNjVs0YBFCM/bWqAyhMVrNJC/166601
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/657px-WWE_Logo.svg.png" group-title="FIGHT SPORT", USA: WWE FHD
+http://nxtplay.xyz:8080/pbNjVs0YBFCM/bWqAyhMVrNJC/280934
+
+#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/fightchannel.png" group-title="FIGHT SPORT", Fight Channel HD (HR)
+http://nxtplay.xyz:8080/pbNjVs0YBFCM/bWqAyhMVrNJC/118719
+
+
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CLUB FOOTBALL", Lazio TV
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=691244&extension=ts&play_token=zMlRAkEXDp 
