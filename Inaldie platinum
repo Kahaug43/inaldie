@@ -11784,6 +11784,57 @@ http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=941565&extension=
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=941562&extension=ts&play_token=WG2GIfk4ZR
 
 
+#EXTINF:-1 tvg-logo="______" group-title="DAZN SPORT", DAZN 1 Sports ES
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=55482_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT TV PR", SPORT TV 1
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:4b:61:87&stream=1021636_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT TV PR", SPORT TV 2
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:4b:61:87&stream=1021637_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT TV PR", SPORT TV 3
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:4b:61:87&stream=1021638_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT TV PR", SPORT TV 4
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:4b:61:87&stream=1021640_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="HUB SPORT SG", HUB SPORT PREMIER 1
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:4b:61:87&stream=1350557_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="TRUE SPORT", TRUE SPORT PREMIER 1
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115758_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="TRUE SPORT", TRUE SPORT PREMIER 2
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115508_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="TRUE SPORT", TRUE SPORT 1
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115531_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="TRUE SPORT", TRUE SPORT 2
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115533_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="TRUE SPORT", TRUE SPORT 5
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115541_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="TRUE SPORT", TRUE SPORT 7
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115798_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="TRUE SPORT", TRUE SPOTV 1
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115684_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="TRUE SPORT", TRUE SPOTV 2
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115433_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="TRUE SPORT", TRUE TENNIS
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115805_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="TRUE SPORT", TRUE FIGHT
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115500_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="TRUE SPORT", TRACE SPORT
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115318_&extension=ts
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", HK| Now Sports 1 FHD
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032479&extension=ts&play_token=hGRrjPUyyU 
 
