@@ -9110,18 +9110,6 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692438&extens
 #EXTINF:-1 tvg-logo="---------" group-title="SKY SPORT", SKY SPORT CALCIO
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692416&extension=ts&play_token=YhfOXWSG12
 
-#EXTINF:-1 tvg-logo="-------" group-title="TRING SPORT", TRING SPORT 1
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=116211&extension=ts&play_token=vkRN9whTu6
-
-#EXTINF:-1 tvg-logo="-------" group-title="TRING SPORT", TRING SPORT 2
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=116213&extension=ts&play_token=IQorcBqhdL
-
-#EXTINF:-1 tvg-logo="-------" group-title="TRING SPORT", TRING SPORT 3
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=116215&extension=ts&play_token=Rw75twFbGX
-
-#EXTINF:-1 tvg-logo="-------" group-title="TRING SPORT", TRING SPORT 4
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=116217&extension=ts&play_token=JUC4YjFu2F
-
 #EXTINF:-1 tvg-logo="-------" group-title="TYC SPORT", TYC SPORT
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=79284&extension=ts&play_token=N7EmQhXfa1
 
@@ -9232,7 +9220,8 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032467&exten
 #EXTINF:-1 tvg-logo="-------" group-title="FIGHT SPORT", FIGHT WORLD 
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=110726&extension=ts&play_token=uMRmFltpZ0
 
-#EXTINF:-1 tvg-logo="-------" group-title="FIGHT SPORT", Arena FIGHT http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=1107630&extension=ts&play_token=TWqbGoZTFU
+#EXTINF:-1 tvg-logo="-------" group-title="FIGHT SPORT", Arena FIGHT
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=1107630&extension=ts&play_token=TWqbGoZTFU
 
 #EXTINF:-1 tvg-logo="-------" group-title="FIGHT SPORT", FIGHT SPORT
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683135&extension=ts&play_token=HlAf6ZvWPE
@@ -9321,133 +9310,6 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=559565&extens
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=559568&extension=ts&play_token=LfpAYDfnEh
 
 
-#EXTINF:-1 tvg-logo="-------" group-title="START SPORT", START SPORT Select 1
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=946250&extension=ts&play_token=oNt6MZbYyo
-
-#EXTINF:-1 tvg-logo="-------" group-title="NOW SPORT", NOW SPORT 1
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497551&extension=ts
-
-#EXTINF:-1 tvg-logo="-------" group-title="NOW SPORT", NOW SPORT 2
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497552&extension=ts
-
-#EXTINF:-1 tvg-logo="-------" group-title="NOW SPORT", NOW SPORT 3
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497553&extension=ts
-
-#EXTINF:-1 tvg-logo="-------" group-title="NOW SPORT", NOW SPORT 4
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497554&extension=ts
-
-#EXTINF:-1 tvg-logo="-------" group-title="NOW SPORT", NOW SPORT 5
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497555&extension=ts
-
-#EXTINF:-1 tvg-logo="-------" group-title="NOW SPORT", NOW SPORT 6
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497556&extension=ts
-
-#EXTINF:-1 tvg-logo="-------" group-title="NOW SPORT", NOW SPORT 7
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497557&extension=ts
-
-
-#EXTINF:-1 tvg-logo="-------" group-title="ZIGGO SPORT", ZIGGO SPORT FOOTBALL
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1022053&extension=ts
-
-#EXTINF:-1 tvg-logo="-------" group-title="ZIGGO SPORT", ZIGGO SPORT SELECT
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1022052&extension=ts
-
-#EXTINF:-1 tvg-logo="-------" group-title="ZIGGO SPORT", ZIGGO SPORT GOLF
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1022051&extension=ts
-
-#EXTINF:-1 tvg-logo="-------" group-title="ARENA SPORT", ARENA SPORT 1 SR
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=213666&extension=ts
-
-#EXTINF:-1 tvg-logo="-------" group-title="ARENA SPORT", ARENA SPORT 2 SR
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=213665&extension=ts
-
-#EXTINF:-1 tvg-logo="-------" group-title="ARENA SPORT", ARENA SPORT 3 SR
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=213664&extension=ts
-
-#EXTINF:-1 tvg-logo="-------" group-title="ARENA SPORT", ARENA SPORT 4 SR
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=213663&extension=ts
-
-#EXTINF:-1 tvg-logo="-------" group-title="ARENA SPORT", ARENA SPORT 5 SR
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=213662&extension=ts
-
-#EXTINF:-1 tvg-logo="-------" group-title="ARENA SPORT", ARENA SPORT 1 HR
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=213637&extension=ts
-
-#EXTINF:-1 tvg-logo="-------" group-title="ARENA SPORT", ARENA SPORT 2 HR
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=213638&extension=ts
-
-#EXTINF:-1 tvg-logo="-------" group-title="ARENA SPORT", ARENA SPORT 3 HR
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=213639&extension=ts
-
-#EXTINF:-1 tvg-logo="-------" group-title="ARENA SPORT", ARENA SPORT 4 HR
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=213640&extension=ts
-
-#EXTINF:-1 tvg-logo="-------" group-title="ARENA SPORT", ARENA SPORT 5 HR
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=213641&extension=ts
-
-
-#EXTINF:-1 tvg-logo="-------" group-title="KLUB SPORT", KLUB SPORT 1 
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=213644&extension=ts
-
-#EXTINF:-1 tvg-logo="-------" group-title="KLUB SPORT", KLUB SPORT 2
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=213643&extension=ts
-
-
-#EXTINF:-1 tvg-logo="-------" group-title="KLUB SPORT", KLUB SPORT 3
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=213642&extension=ts
-
-#EXTINF:-1 tvg-logo="-------" group-title="KLUB SPORT", KLUB SPORT 4
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=213659&extension=ts
-
-#EXTINF:-1 tvg-logo="-------" group-title="KLUB SPORT", KLUB SPORT 5
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=213658&extension=ts
-
-#EXTINF:-1 tvg-logo="-------" group-title="KLUB SPORT", KLUB SPORT 6
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=213657&extension=ts
-
-#EXTINF:-1 tvg-logo="-------" group-title="KLUB SPORT", KLUB SPORT GOLF
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=213653&extension=ts
-
-#EXTINF:-1 tvg-logo="-------" group-title="POLSAT SPORT", POLSAT SPORT
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=97238&extension=ts
-
-#EXTINF:-1 tvg-logo="-------" group-title="POLSAT SPORT", POLSAT SPORT FIGHT
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=97239&extension=ts
-
-#EXTINF:-1 tvg-logo="-------" group-title="POLSAT SPORT", Polsat SPORT NEWS
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=97240&extension=ts
-
-#EXTINF:-1 tvg-logo="-------" group-title="POLSAT SPORT", Polsat SPORT EXTRA
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=97241&extension=ts
-
-#EXTINF:-1 tvg-logo="-------" group-title="POLSAT SPORT", Polsat SPORT PREMIUM 1
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=97242&extension=ts
-
-#EXTINF:-1 tvg-logo="-------" group-title="POLSAT SPORT", Polsat SPORT PREMIUM 2
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=97243&extension=ts
-
-#EXTINF:-1 tvg-logo="-------" group-title="ZIGGO SPORT", ZIGGO SPORT TENNIS
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=80532&extension=ts
-
-#EXTINF:-1 tvg-logo="-------" group-title="ZIGGO SPORT", ZIGGO SPORT DOCU
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=80533&extension=ts
-
-#EXTINF:-1 tvg-logo="-------" group-title="ZIGGO SPORT", ZIGGO SPORT GOLF
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=80534&extension=ts
-
-#EXTINF:-1 tvg-logo="-------" group-title="ZIGGO SPORT", ZIGGO SPORT
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=80535&extension=ts
-
-#EXTINF:-1 tvg-logo="-------" group-title="ZIGGO SPORT", ZIGGO SPORT RACING
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=80536&extension=ts
-
-#EXTINF:-1 tvg-logo="-------" group-title="ZIGGO SPORT", ZIGGO SPORT SELECT
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=80537&extension=ts
-
-#EXTINF:-1 tvg-logo="-------" group-title="ZIGGO SPORT", ZIGGO SPORT VOETBALL
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=80538&extension=ts
-
-
 #EXTINF:-1 tvg-logo="-------" group-title="ELEVEN SPORT PL", ELEVEN SPORT 1
 http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=97264_&extension=ts
 
@@ -9459,8 +9321,6 @@ http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=97266_&extens
 
 #EXTINF:-1 tvg-logo="-------" group-title="ELEVEN SPORT PL", ELEVEN SPORT 4
 http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=97267_&extension=ts
-
-
 
 #EXTINF:-1 tvg-logo="-------" group-title="TRING SPORT", TRING SPORT 1
 http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=222562_&extension=ts
@@ -9504,15 +9364,7 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63304_&extens
 #EXTINF:-1 tvg-logo="-------" group-title="ELEVEN SPORT", ELEVEN SPORT 6
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63305_&extension=ts
 
-
-
-
-
-
-#EXTINF:-1 tvg-logo="-------" group-title="BEIN SPORT", BEIN SPORT 1
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=55482_&extension=ts
-
-#EXTINF:-1 tvg-logo="-------" group-title="START SPORT", START SPORT Select 1
+#EXTINF:-1 tvg-logo="-------" group-title="IND SPORT", START SPORT Select 1
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=946250&extension=ts&play_token=oNt6MZbYyo
 
 #EXTINF:-1 tvg-logo="-------" group-title="NOW SPORT", NOW SPORT 1
@@ -9726,15 +9578,11 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=61759_&extens
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=11403_&extension=ts
 
 
-
 #EXTINF:-1 tvg-logo="-------" group-title="FIGHT SPORT", FIGHT BOX
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=61800_&extension=ts
 
 #EXTINF:-1 tvg-logo="-------" group-title="FIGHT SPORT", XTREAM SPORT
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=38423_&extension=ts
-
-#EXTINF:-1 tvg-logo="-------" group-title="FIGHT SPORT", KOMBAT SPORT
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63307_&extension=ts
 
 #EXTINF:-1 tvg-logo="-------" group-title="FIGHT SPORT", KOMBAT SPORT
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63307_&extension=ts
