@@ -9765,3 +9765,8 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=559565&extens
 #EXTINF:-1 tvg-logo="-------" group-title="MOVIE 24/7 ", Jurassic Park
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=559568&extension=ts&play_token=LfpAYDfnEh
 
+#EXTINF:-1 tvg-logo="-------" group-title="MOVIE 24/7 ", PIRATE OF CARABIAN
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=559574&extension=ts&play_token=dUlilCifVW
+
+#EXTINF:-1 tvg-logo="-------" group-title="MOVIE 24/7 ", PIRATE OF CARABIAN 4K
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=976599&extension=ts&play_token=lhBsVhmgNY
