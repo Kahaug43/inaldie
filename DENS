@@ -8535,35 +8535,15 @@ http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115500_&exte
 http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115318_&extension=ts
 
 
-#EXTINF:-1 tvg-logo="-------" group-title="HUB SPORT SG", HUB SPORT 1
+#EXTINF:-1 tvg-logo="-------" group-title="HUB SPORT", HUB SPORT 1
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=941573&extension=ts&play_token=TAdJtgtiEy
 
-#EXTINF:-1 tvg-logo="-------" group-title="HUB SPORT SG", HUB SPORT 2
+#EXTINF:-1 tvg-logo="-------" group-title="HUB SPORT", HUB SPORT 2
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=941572&extension=ts&play_token=ovwFKh7V4Z
 
-#EXTINF:-1 tvg-logo="-------" group-title="HUB SPORT SG", HUB SPORT 4
+#EXTINF:-1 tvg-logo="-------" group-title="HUB SPORT", HUB SPORT 4
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=941571&extension=ts&play_token=NHeBnDUEaP
 
-#EXTINF:-1 tvg-logo="-------" group-title="HUB SPORT SG", PREMIER SPORT
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=941570&extension=ts&play_token=beYGk3Z3GY
-
-#EXTINF:-1 tvg-logo="-------" group-title="HUB SPORT SG", BEIN SPORT SG
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=941569&extension=ts&play_token=VWpPFr4eE1
-
-#EXTINF:-1 tvg-logo="-------" group-title="HUB SPORT SG", BEIN SPORT 2 SG
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=941568&extension=ts&play_token=tFSXTrQTzb
-
-#EXTINF:-1 tvg-logo="-------" group-title="HUB SPORT SG", BEIN SPORT 3 SG
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=941567&extension=ts&play_token=YpoygR2isI
-
-#EXTINF:-1 tvg-logo="-------" group-title="HUB SPORT SG", BEIN SPORT 4 SG EVENT
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=941566&extension=ts&play_token=ulRgeQT2bA
-
-#EXTINF:-1 tvg-logo="-------" group-title="HUB SPORT SG", BEIN SPORT 5 SG EVENT
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=941565&extension=ts&play_token=EeFwMLflaH
-
-#EXTINF:-1 tvg-logo="-------" group-title="HUB SPORT SG", NBA TV
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=941562&extension=ts&play_token=WG2GIfk4ZR
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", HK| Now Sports 1 FHD
