@@ -5394,8 +5394,266 @@ http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683088&extension=
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683129&extension=ts&play_token=HwiPR2YqVX
 
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", FR: beIN Sports 1
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/144
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", FR: beIN Sports 2
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/145
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", FR: beIN Sports 3
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/146
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", FR: beIN Sports Max 4
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/3599
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", FR: beIN Sports Max 5
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/6083
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", FR: beIN Sports Max 6
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/4368
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", FR: beIN Sports Max 7
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/4369
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", FR: beIN Sports Max 8
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/4370
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", FR: beIN Sports Max 9
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/4371
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", FR: beIN Sports Max 10
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/6088
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", MY: beIN Sports
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/157561
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", US: beIN Sports
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/284530
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", US: beIN Sports 2
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/151022
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", US: beIN Sports 4
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/151024
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", US: beIN Sports 5
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/151026
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", US: beIN Sports 6
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/151030
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", US: beIN Sports 7
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/151028
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", US: beIN Sports 8
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/151032
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", US: beIN Sports n
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/296690
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", US: beIN Sports USA
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/296691
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", CA: beIN Sports
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/13239
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", TR: beIN Box Office 1
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/536
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", TR: beIN Box Office 2
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/281863
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", TR: beIN Box Office 3
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/538
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", TR: beIN Box Office Turk
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/539
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", TR: beIN Gurme
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/1807
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", TR: beIN Iz
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/1806
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", TR: beIN Movies Action
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/1761
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", TR: beIN Movies Action 2
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/278527
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", TR: beIN Movies Family
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/1763
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", TR: beIN Movies Premiere
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/1764
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", TR: beIN Movies Premiere 2
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/1765
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", TR: beIN Movies Stars
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/1766
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", TR: beIN Movies Turk
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/1767
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", TR: beIN Series 1
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/298429
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", TR: beIN Series 2
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/298427
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", TR: beIN Series 3
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/298428
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", TR: beIN Series 4
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/298430
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", TR: beIN Sports 1
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/1735
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", TR: beIN Sports 2
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/1737
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", TR: beIN Sports 3
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/1739
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", TR: beIN Sports 4
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/7450
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", TR: beIN Sports Haber
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/7448
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", TR: beIN Sports Max 1
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/8224
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", TR: beIN Sports Max 2
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/16878
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", ES: beIN Sports Xtra en Espanol
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/281493
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", BR: BET Being Mary Jane
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/286070
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", AU: beIN Sports 1
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/35347
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", AU: beIN Sports 2
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/35338
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", AU: beIN Sports 3
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/35340
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", PH: beIN Sports 1
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/282772
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", PH: beIN Sports 3
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/266844
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", ID: beIN Sports 1
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/165105
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", ID: beIN Sports 3
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/298506
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", QA: beIN Box Office 1
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/225322
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", QA: beIN Drama 1
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/2835
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", QA: beIN Gourmet
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/2840
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", QA: beIN Movies Action 2
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/1270
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", QA: beIN Movies Drama 3
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/3735
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", QA: beIN Movies Family 4
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/1268
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", QA: beIN Movies Premiere 1
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/267063
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", QA: beIN Movies Premiere 2
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/1267
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", QA: beIN Series 1
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/2833
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", QA: beIN Series 2
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/7619
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", QA: beIN Sports 1
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/100
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", QA: beIN Sports 2
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/101
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", QA: beIN Sports 3
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/102
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", QA: beIN Sports 4
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/103
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", QA: beIN Sports 5
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/104
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", QA: beIN Sports 6
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/105
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", QA: beIN Sports 7
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/106
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", QA: beIN Sports English 1
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/110
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", QA: beIN Sports English 2
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/111
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", QA: beIN Sports English 3
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/267769
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", QA: beIN Sports Max 1
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/296991
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", QA: beIN Sports Max 2
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/199001
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", QA: beIN Sports Max 3
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/296992
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", QA: beIN Sports Max 4
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/13813
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", QA: beIN Sports Max 8
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/298192
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", QA: beIN Sports Max 9
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/13816
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", QA: beIN Sports NBA
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/15962
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", QA: beIN Sports News
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/1266
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", QA: beIN Sports Premium 1
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/109
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", QA: beIN Sports Premium 2
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/280145
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", QA: beIN Sports Premium 3
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/280249
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", QA: beIN Sports Xtra 1
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/290037
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", QA: beIN Sports Xtra 2
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/283294
 
 
 
