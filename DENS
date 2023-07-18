@@ -8937,6 +8937,28 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508148&extens
 #EXTINF:-1 tvg-logo="xxxxxxxx" group-title="BEIN SPORT FR", BEIN MAX 5
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508147&extension=ts&play_token=YZuG3msMOE 
 
+#EXTINF:-1 tvg-logo="-------" group-title="BEIN SPORT TR", BEIN HABER
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=57793_&extension=ts
+
+#EXTINF:-1 tvg-logo="-------" group-title="BEIN SPORT TR", BEIN SPORT 1
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=57794_&extension=ts
+
+#EXTINF:-1 tvg-logo="-------" group-title="BEIN SPORT TR", BEIN SPORT 2
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=57800_&extension=ts
+
+#EXTINF:-1 tvg-logo="-------" group-title="BEIN SPORT TR", BEIN SPORT 3
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=57803_&extension=ts
+
+#EXTINF:-1 tvg-logo="-------" group-title="BEIN SPORT TR", BEIN SPORT 4
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=57806_&extension=ts
+
+#EXTINF:-1 tvg-logo="-------" group-title="BEIN SPORT TR", BEIN MAX 1
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=57733_&extension=ts
+
+#EXTINF:-1 tvg-logo="-------" group-title="BEIN SPORT TR", BEIN MAX 2
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=57734_&extension=ts
+
+
 
 #EXTINF:-1 tvg-logo="xxxxxxxx" group-title="BT SPORT", BT SPORT 1
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=30567&extension=ts&play_token=J9uc80NqLf 
