@@ -1996,6 +1996,39 @@ http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=282631&extension=
 #EXTINF:-1 tvg-logo="-------" group-title="MOVIE ASIA", SONY PIX 2
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=156016&extension=ts&play_token=sWYEQX5Wdw
 
+#EXTINF:-1 tvg-logo="______" group-title="MOVIE ASIA", STAR MOVIES
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=1116488&extension=ts&play_token=W0JcMWGscf
+
+#EXTINF:-1 tvg-logo="______" group-title="MOVIE ASIA", STAR MOVIES SELECT
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=155729&extension=ts&play_token=zHxJ16eDKe
+
+#EXTINF:-1 tvg-logo="______" group-title="MOVIE ASIA", MOVIES NOW
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=1116477&extension=ts&play_token=WdGR3gO8lN
+
+#EXTINF:-1 tvg-logo="______" group-title="MOVIE ASIA", MOVIES NOW ENGLISH
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=282651&extension=ts&play_token=74iUkxqa2S
+
+#EXTINF:-1 tvg-logo="______" group-title="MOVIE ASIA", MN+
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=282649&extension=ts&play_token=jYCpuZ5S2L
+
+#EXTINF:-1 tvg-logo="______" group-title="MOVIE ASIA", MNX
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=1110624&extension=ts&play_token=L4S3XNp1cl
+
+#EXTINF:-1 tvg-logo="______" group-title="MOVIE ASIA", &FLIX
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=282632&extension=ts&play_token=L4Ee8AJjxq
+
+#EXTINF:-1 tvg-logo="______" group-title="MOVIE ASIA", &PRIVE
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=155746&extension=ts&play_token=eMbyi3ZIXd
+
+#EXTINF:-1 tvg-logo="______" group-title="MOVIE ASIA", SONY PIX
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=282631&extension=ts&play_token=mGa7GI4R9j
+
+#EXTINF:-1 tvg-logo="______" group-title="MOVIE ASIA", NICK HD+
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=282630&extension=ts&play_token=cY5JFdr7lu
+
+#EXTINF:-1 tvg-logo="______" group-title="MOVIE ASIA", CARTOON NETWORK HD
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=1110636&extension=ts&play_token=69Vs8BofbB
+
 #EXTINF:-1 tvg-logo="-------" group-title="MOVIE ASIA", HITS
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683145&extension=ts&play_token=RsXf2Szbxq
 
@@ -9447,6 +9480,148 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=918982&extens
 
 #EXTINF:-1 tvg-logo="-------" group-title="ASTRO SPORT", ASTRO CRICKET
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=1036490&extension=ts&play_token=d8mSEgcvlM
+
+#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT FR", BEIN SPORT 1
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=507698&extension=ts&play_token=0uUemBBS4q
+
+#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT FR", BEIN SPORT 2
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=507695&extension=ts&play_token=Sy9xaukhjB
+
+#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT FR", BEIN SPORT 3
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=507692&extension=ts&play_token=r8Q4y4a8N4
+
+
+#EXTINF:-1 tvg-logo="______" group-title="CANAL+", CANAL+ MOTOGP
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=507710&extension=ts&play_token=ECqMKl1s4L
+
+#EXTINF:-1 tvg-logo="______" group-title="CANAL+", CANAL+ FOOT
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=1002842&extension=ts&play_token=6wLhVAZYyj
+
+#EXTINF:-1 tvg-logo="______" group-title="CANAL+", CANAL+ SPORT
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=507708&extension=ts&play_token=glnQZZUNDk
+
+#EXTINF:-1 tvg-logo="______" group-title="CANAL+", CANAL+ 360
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=1002843&extension=ts&play_token=BZwooUJkI8
+
+#EXTINF:-1 tvg-logo="______" group-title="CANAL+", CANAL+ Golf
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=507680&extension=ts&play_token=0xxfRwpCir
+
+#EXTINF:-1 tvg-logo="______" group-title="CANAL+", CANAL+ Foot 24/24
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=507683&extension=ts&play_token=b1BYuVJq20
+
+#EXTINF:-1 tvg-logo="______" group-title="VIAPLAY", VIAPLAY SPORT 1
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=45235&extension=ts&play_token=B04rwDAruQ
+
+#EXTINF:-1 tvg-logo="______" group-title="VIAPLAY", VIAPLAY SPORT 2
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=163608&extension=ts&play_token=urLMKnx5qB
+
+#EXTINF:-1 tvg-logo="______" group-title="BT SPORT", BT SPORT 1
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=30567&extension=ts&play_token=UkNGv7KlLx
+
+#EXTINF:-1 tvg-logo="______" group-title="BT SPORT", BT SPORT 2
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=30566&extension=ts&play_token=xd1evvnR7I
+
+#EXTINF:-1 tvg-logo="______" group-title="BT SPORT", BT SPORT 3
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=30565&extension=ts&play_token=xd1evvnR7I
+
+#EXTINF:-1 tvg-logo="______" group-title="BT SPORT", BT SPORT 4
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=30564&extension=ts&play_token=xd1evvnR7I
+
+#EXTINF:-1 tvg-logo="______" group-title="SUPERSPORT", SUPERSPORT MAXIMO
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=425666&extension=ts&play_token=YzttS5rJ8O
+
+#EXTINF:-1 tvg-logo="______" group-title="SUPERSPORT", SUPERSPORT ACTION
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=425668&extension=ts&play_token=vbmjawfuuf
+
+#EXTINF:-1 tvg-logo="______" group-title="SUPERSPORT", SUPERSPORT Play 1
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=425313&extension=ts&play_token=Qr9L3tkjLc
+
+#EXTINF:-1 tvg-logo="______" group-title="SUPERSPORT", SUPERSPORT PL
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=239078&extension=ts&play_token=cgAvkOPbH9
+
+#EXTINF:-1 tvg-logo="______" group-title="SUPERSPORT", SUPERSPORT LA LIGA
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=239076&extension=ts&play_token=SN5ZZ3uYoz
+
+#EXTINF:-1 tvg-logo="______" group-title="SUPERSPORT", SUPERSPORT TENNIS
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=425314&extension=ts&play_token=esUXadU7fo
+
+#EXTINF:-1 tvg-logo="______" group-title="SUPERSPORT", SUPERSPORT BLITZ
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=425314&extension=ts&play_token=esUXadU7fo
+
+#EXTINF:-1 tvg-logo="______" group-title="SUPERSPORT", SUPERSPORT PSL
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=239077&extension=ts&play_token=TgyJm5N1CX
+
+#EXTINF:-1 tvg-logo="______" group-title="SUPERSPORT", SUPERSPORT GOLF
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=425667&extension=ts&play_token=wOVWoeYqur
+
+#EXTINF:-1 tvg-logo="______" group-title="SUPERSPORT", SUPERSPORT GRANDSTAND
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=239079&extension=ts&play_token=VJgZkU7h9G
+
+#EXTINF:-1 tvg-logo="______" group-title="SUPERSPORT", SUPERSPORT MOTORSPORT
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=239082&extension=ts&play_token=O8R4rEHjNm
+
+#EXTINF:-1 tvg-logo="______" group-title="ASTRO SPORT", SUPERSPORT ASTRO 1
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=1111034&extension=ts&play_token=esfxeh07ym
+
+#EXTINF:-1 tvg-logo="______" group-title="ASTRO SPORT", SUPERSPORT ASTRO 2
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=1111033&extension=ts&play_token=KGvJ3i1BR7
+
+#EXTINF:-1 tvg-logo="______" group-title="ASTRO SPORT", SUPERSPORT ASTRO 3
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=1111032&extension=ts&play_token=OmJQqAG3Pj
+
+#EXTINF:-1 tvg-logo="______" group-title="ASTRO SPORT", SUPERSPORT ASTRO 4
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=1111031&extension=ts&play_token=AE2WEVlm4N
+
+#EXTINF:-1 tvg-logo="______" group-title="ASTRO SPORT", SUPERSPORT ASTRO CRICKET
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=315181&extension=ts&play_token=ZaZSOZaSME
+
+#EXTINF:-1 tvg-logo="______" group-title="HUB SPORT", HUB SPORT 1
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=1110667&extension=ts&play_token=G2rY9A0UAs
+
+#EXTINF:-1 tvg-logo="______" group-title="HUB SPORT", HUB SPORT 2
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=1110666&extension=ts&play_token=qvKqeFTWLv
+
+#EXTINF:-1 tvg-logo="______" group-title="HUB SPORT", HUB SPORT 3
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=1110665&extension=ts&play_token=sHTg5uWxvd
+
+#EXTINF:-1 tvg-logo="______" group-title="IND SPORT", SONY TEN SPORT 1
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=156017&extension=ts&play_token=wA8tVOcrsj
+
+#EXTINF:-1 tvg-logo="______" group-title="IND SPORT", SONY TEN SPORT 2
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=156010&extension=ts&play_token=1SgXeeMSKf
+
+#EXTINF:-1 tvg-logo="______" group-title="IND SPORT", SONY TEN SPORT 3
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=156024&extension=ts&play_token=pU3cTN2Uub
+
+#EXTINF:-1 tvg-logo="______" group-title="IND SPORT", SONY TEN SPORT 4
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=1114579&extension=ts&play_token=46ep2clIDX
+
+#EXTINF:-1 tvg-logo="______" group-title="IND SPORT", START SPORT SELECT 1
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=155972&extension=ts&play_token=1UKbjqtWec
+
+#EXTINF:-1 tvg-logo="______" group-title="IND SPORT", START SPORT SELECT 2
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=155973&extension=ts&play_token=89HZzCvonl
+
+#EXTINF:-1 tvg-logo="______" group-title="IND SPORT", START SPORT 1
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=1114582&extension=ts&play_token=e1Su3ACtUT
+
+#EXTINF:-1 tvg-logo="______" group-title="IND SPORT", START SPORT 2
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=1114581&extension=ts&play_token=wcsSTSBJ14
+
+#EXTINF:-1 tvg-logo="______" group-title="IND SPORT", START SPORT 3
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=155976&extension=ts&play_token=bsaSk4JEV2
+
+#EXTINF:-1 tvg-logo="______" group-title="IND SPORT", SPORT 18
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=1057243&extension=ts&play_token=8cZ9PaWCBt
+
+#EXTINF:-1 tvg-logo="______" group-title="IND SPORT", SPORT A
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=281100&extension=ts&play_token=5MJV66Cx4R
+
+#EXTINF:-1 tvg-logo="______" group-title="IND SPORT", SPORT D
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=156027&extension=ts&play_token=sz7TrVxWKx
+
+#EXTINF:-1 tvg-logo="______" group-title="IND SPORT", SPORT DD
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=155983&extension=ts&play_token=0INQQELAVw
 
 
 #EXTINF:-1 tvg-logo="______" group-title="DAZN SPORT", DAZN 1 Sports ES
