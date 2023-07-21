@@ -10246,6 +10246,12 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=811937&extens
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=811936&extension=ts&play_token=gec2IMAjS7
 
 
+#EXTINF:-1 tvg-logo="______" group-title="FIGHT SPORT", UFC SPORT 
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=825538&extension=ts&play_token=IuTBxI7wnr
+
+#EXTINF:-1 tvg-logo="______" group-title="FIGHT SPORT", EDGE SPORT
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1014266&extension=ts&play_token=4CrIQYgTPx
+
 #EXTINF:-1 tvg-logo="-------" group-title="FIGHT SPORT", FIGHT WORLD 
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=110726&extension=ts&play_token=uMRmFltpZ0
 
