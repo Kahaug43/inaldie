@@ -9613,6 +9613,16 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=174682&extens
 #EXTINF:-1 tvg-logo="______" group-title="FOX SPORT", FUBU SPORT
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=174693&extension=ts&play_token=aB235cVuTm
 
+#EXTINF:-1 tvg-logo="______" group-title="FOX SPORT", FOX SPORT 1 ES
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=984950&extension=ts&play_token=KbEinhef17
+
+#EXTINF:-1 tvg-logo="______" group-title="FOX SPORT", FOX SPORT 2 ES
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=984951&extension=ts&play_token=KADFOT0Lsx
+
+#EXTINF:-1 tvg-logo="______" group-title="FOX SPORT", FOX SPORT PREMIUM
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=984953&extension=ts&play_token=HalHutHLf1
+
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ART SPORT", ART Sport 1
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/23143
