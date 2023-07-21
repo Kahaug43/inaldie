@@ -10211,7 +10211,6 @@ http://washerorg.h1ott.com:80/play/live.php?mac=00:1A:79:78:1f:28&stream=177347&
 http://washerorg.h1ott.com:80/play/live.php?mac=00:1A:79:78:1f:28&stream=177348&extension=ts&play_token=64VYNsFdZ5
 
 
-
 #EXTINF:-1 tvg-logo="------" group-title="OPTUS SPORT", OPTUS SPORT 1
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032471&extension=ts&play_token=InCwgv0Zsg 
 
@@ -10281,18 +10280,6 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=411413&extens
 
 
 
-#EXTINF:-1 tvg-logo="-------" group-title="ELEVEN SPORT PL", ELEVEN SPORT 1
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=97264_&extension=ts
-
-#EXTINF:-1 tvg-logo="-------" group-title="ELEVEN SPORT PL", ELEVEN SPORT 2
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=97265_&extension=ts
-
-#EXTINF:-1 tvg-logo="-------" group-title="ELEVEN SPORT PL", ELEVEN SPORT 3
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=97266_&extension=ts
-
-#EXTINF:-1 tvg-logo="-------" group-title="ELEVEN SPORT PL", ELEVEN SPORT 4
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=97267_&extension=ts
-
 #EXTINF:-1 tvg-logo="-------" group-title="TRING SPORT", TRING SPORT 1
 http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=222562_&extension=ts
 
@@ -10310,6 +10297,23 @@ http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=222574_&exten
 
 #EXTINF:-1 tvg-logo="-------" group-title="ART SPORT", ART SPORT 2
 http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=222573_&extension=ts
+
+
+
+#EXTINF:-1 tvg-logo="-------" group-title="ELEVEN SPORT", ELEVEN SPORT 1 PL
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=97264_&extension=ts
+
+#EXTINF:-1 tvg-logo="-------" group-title="ELEVEN SPORT", ELEVEN SPORT 2 PL
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=97265_&extension=ts
+
+#EXTINF:-1 tvg-logo="-------" group-title="ELEVEN SPORT", ELEVEN SPORT 3 PL
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=97266_&extension=ts
+
+#EXTINF:-1 tvg-logo="-------" group-title="ELEVEN SPORT", ELEVEN SPORT 4 PL
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=97267_&extension=ts
+
+
+
 
 #EXTINF:-1 tvg-logo="-------" group-title="ELEVEN SPORT", ELEVEN SPORT 1
 http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=992_&extension=ts
@@ -10334,6 +10338,8 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63304_&extens
 
 #EXTINF:-1 tvg-logo="-------" group-title="ELEVEN SPORT", ELEVEN SPORT 6
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63305_&extension=ts
+
+
 
 #EXTINF:-1 tvg-logo="-------" group-title="IND SPORT", START SPORT Select 1
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=946250&extension=ts&play_token=oNt6MZbYyo
