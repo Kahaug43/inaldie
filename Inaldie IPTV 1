@@ -9444,8 +9444,6 @@ http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=156027&ex
 http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=155983&extension=ts&play_token=0INQQELAVw
 
 
-
-
 #EXTINF:-1 tvg-logo="______" group-title="HUB SPORT", HUB SPORT PREMIER 1
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:4b:61:87&stream=1350557_&extension=ts
 
@@ -9844,6 +9842,15 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1273580&exten
 
 #EXTINF:-1 tvg-logo="______" group-title="DAZN SPORT", DAZN 1 ES
 http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=55482_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="DAZN SPORT", DAZN ZONA HD
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=691242&extension=ts&play_token=60FhUEUHIX
+
+#EXTINF:-1 tvg-logo="______" group-title="DAZN SPORT", DAZN 1 SERI A
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=728649&extension=ts&play_token=tCNVVuqPvx
+
+#EXTINF:-1 tvg-logo="______" group-title="DAZN SPORT", DAZN 2 SERI B
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=728648&extension=ts&play_token=nYGUa7W9jX
 
 
 
@@ -10697,6 +10704,30 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=11486_&extens
 
 #EXTINF:-1 tvg-logo="-------" group-title="BT SPORT", BT SPORT 4
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=316_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT DLL", SPORT TENNIS
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692386&extension=ts&play_token=2HtbiEdA2Y
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT DLL", RAI SPORT
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692383&extension=ts&play_token=JFeE6GoWz9
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT DLL", GOLTV
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=174707&extension=ts&play_token=QRuN8rZocr
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT DLL", GOLF CHANEL
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=174706&extension=ts&play_token=4eaFB82r9d
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT DLL", GOLF NBC
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=174798&extension=ts&play_token=XOBF9Cn30Q
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT DLL", NBA TV
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=174795&extension=ts&play_token=Kux57Ra1IK
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT DLL", FIFA 1
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=902919&extension=ts&play_token=xQBSyhkuNV
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT DLL", FIFA 2
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=902918&extension=ts&play_token=3nhKepCvu8
 
 
 
