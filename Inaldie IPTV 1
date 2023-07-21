@@ -10531,6 +10531,9 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63308_&extens
 #EXTINF:-1 tvg-logo="______" group-title="SPORT TV PR", SPORT TV +
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=368058&extension=ts&play_token=TCXRCKcdjH
 
+#EXTINF:-1 tvg-logo="______" group-title="SPORT TV PR", SPORT TV 
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=118466&extension=ts&play_token=IsrdM82oqj
+
 #EXTINF:-1 tvg-logo="______" group-title="SPORT TV PR", A BOLA SPORT
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=107522&extension=ts&play_token=GDUAUfi1TN
 
