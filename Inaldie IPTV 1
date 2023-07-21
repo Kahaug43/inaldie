@@ -10731,6 +10731,34 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=902918&extens
 
 
 
+#EXTINF:-1 tvg-logo="______" group-title="SKY MOVIE", SKY CINEMA ACTION
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=30517&extension=ts&play_token=kprRrgrQxw
+
+#EXTINF:-1 tvg-logo="______" group-title="SKY MOVIE", SKY CINEMA FAMILY
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=79467&extension=ts&play_token=d6FmFNSsQv
+
+#EXTINF:-1 tvg-logo="______" group-title="SKY MOVIE", SKY CINEMA ANIMATION
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=873868&extension=ts&play_token=H6NBeYzOlK
+
+#EXTINF:-1 tvg-logo="______" group-title="SKY MOVIE", SKY CINEMA OSCAR
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=30511&extension=ts&play_token=kYbGrjoHsB
+
+#EXTINF:-1 tvg-logo="______" group-title="SKY MOVIE", SKY CINEMA HITS
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=30510&extension=ts&play_token=gaCO3Bi2XP
+
+#EXTINF:-1 tvg-logo="______" group-title="SKY MOVIE", SKY CINEMA PREMIER
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=30509&extension=ts&play_token=Z7G9GDac7a
+
+#EXTINF:-1 tvg-logo="______" group-title="SKY MOVIE", SKY CINEMA GREAT
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=30512&extension=ts&play_token=871wQ2p2XD
+
+#EXTINF:-1 tvg-logo="______" group-title="SKY MOVIE", SKY CINEMA TRILLER
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=30506&extension=ts&play_token=WRR4SMsgMG
+
+#EXTINF:-1 tvg-logo="______" group-title="SKY MOVIE", SKY CINEMA SELECT
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=949137&extension=ts&play_token=qZD8xDrFA8
+
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GO", SKY GO 1
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=871515&extension=ts&play_token=2JcDJrWvCd
 
