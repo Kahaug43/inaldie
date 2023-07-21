@@ -10528,6 +10528,21 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=1022_&extensi
 #EXTINF:-1 tvg-logo="-------" group-title="SPORT TV PR", NBA TV SPORT
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63308_&extension=ts
 
+#EXTINF:-1 tvg-logo="______" group-title="SPORT TV PR", SPORT TV +
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=368058&extension=ts&play_token=TCXRCKcdjH
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT TV PR", A BOLA SPORT
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=107522&extension=ts&play_token=GDUAUfi1TN
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT TV PR", MOTORVISION
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=107468&extension=ts&play_token=GgCLNN0iWq
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT TV PR", SPORTING TV
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=107430&extension=ts&play_token=l3FEluZCt1
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT TV PR", BTV BENFICA
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=983567&extension=ts&play_token=KIl56CmfeQ
+
 
 #EXTINF:-1 tvg-logo="-------" group-title="DIGI SPORT", DIGI SPORT 1
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=802_&extension=ts
