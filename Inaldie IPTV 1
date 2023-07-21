@@ -9518,20 +9518,7 @@ http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=156027&ex
 http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=155983&extension=ts&play_token=0INQQELAVw
 
 
-#EXTINF:-1 tvg-logo="______" group-title="DAZN SPORT", DAZN 1 Sports ES
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=55482_&extension=ts
 
-#EXTINF:-1 tvg-logo="______" group-title="SPORT TV PR", SPORT TV 1
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:4b:61:87&stream=1021636_&extension=ts
-
-#EXTINF:-1 tvg-logo="______" group-title="SPORT TV PR", SPORT TV 2
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:4b:61:87&stream=1021637_&extension=ts
-
-#EXTINF:-1 tvg-logo="______" group-title="SPORT TV PR", SPORT TV 3
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:4b:61:87&stream=1021638_&extension=ts
-
-#EXTINF:-1 tvg-logo="______" group-title="SPORT TV PR", SPORT TV 4
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:4b:61:87&stream=1021640_&extension=ts
 
 #EXTINF:-1 tvg-logo="______" group-title="HUB SPORT", HUB SPORT PREMIER 1
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:4b:61:87&stream=1350557_&extension=ts
@@ -9879,14 +9866,19 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508164&extens
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508167&extension=ts&play_token=1nsvxInv16 
 
 
-#EXTINF:-1 tvg-logo="------" group-title="DAZN SPORT", DAZN 1
+#EXTINF:-1 tvg-logo="------" group-title="DAZN SPORT", DAZN 1 DE
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=411389&extension=ts&play_token=HsuxrD6mL2 
 
-#EXTINF:-1 tvg-logo="------" group-title="DAZN SPORT", DAZN 2
+#EXTINF:-1 tvg-logo="------" group-title="DAZN SPORT", DAZN 2 DE
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=411388&extension=ts&play_token=4IS0zXf2D6 
 
 #EXTINF:-1 tvg-logo="------" group-title="DAZN SPORT", DAZN ZONE
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1273580&extension=ts&play_token=bGsClCAwGV
+
+#EXTINF:-1 tvg-logo="______" group-title="DAZN SPORT", DAZN 1 ES
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=55482_&extension=ts
+
+
 
 #EXTINF:-1 tvg-logo="-------" group-title="DIGI SPORT", DIGI Sport 1
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=56119&extension=ts&play_token=pNhBMebn4P
