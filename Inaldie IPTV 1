@@ -10145,6 +10145,7 @@ http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=819623&extension=
 #EXTINF:-1 tvg-logo="-------" group-title="OVER SPORT", OVER SPORT 4
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=819624&extension=ts&play_token=oNt6MZbYyo
 
+
 #EXTINF:-1 tvg-logo="-------" group-title="YES SPORT", YES SPORT 1 IS
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=37664&extension=ts&play_token=5FEDZ1lGve
 
@@ -10225,6 +10226,24 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032468&exten
 
 #EXTINF:-1 tvg-logo="------" group-title="OPTUS SPORT", OPTUS SPORT 5
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032467&extension=ts&play_token=raIZRUj5Fn 
+
+#EXTINF:-1 tvg-logo="______" group-title="PLAY SPORT", PLAY SPORT 1
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=811941&extension=ts&play_token=0PGpJWMoeq
+
+#EXTINF:-1 tvg-logo="______" group-title="PLAY SPORT", PLAY SPORT 2
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=811940&extension=ts&play_token=7Qz7wdixwA
+
+#EXTINF:-1 tvg-logo="______" group-title="PLAY SPORT", PLAY SPORT 3
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=811939&extension=ts&play_token=c2oclzwFiK
+
+#EXTINF:-1 tvg-logo="______" group-title="PLAY SPORT", PLAY SPORT 4
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=811938&extension=ts&play_token=pumZRcTXZt
+
+#EXTINF:-1 tvg-logo="______" group-title="PLAY SPORT", PLAY SPORT 5
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=811937&extension=ts&play_token=v7JIxP47xk
+
+#EXTINF:-1 tvg-logo="______" group-title="PLAY SPORT", PLAY SPORT GOLF
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=811936&extension=ts&play_token=gec2IMAjS7
 
 
 #EXTINF:-1 tvg-logo="-------" group-title="FIGHT SPORT", FIGHT WORLD 
