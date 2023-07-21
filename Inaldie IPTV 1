@@ -6385,80 +6385,6 @@ http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=57734_&extens
 
 
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GO", SKY GO 1
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=871515&extension=ts&play_token=2JcDJrWvCd
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GO", SKY GO 2
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=871514&extension=ts&play_token=Xc6efCGP0w
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GO", SKY GO KINDER 1
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=871513&extension=ts&play_token=KeZU2S6vel
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GO", SKY GO KINDER 2
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=871512&extension=ts&play_token=KeZU2S6vel
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GO", SKY GO KINDER 3
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=871511&extension=ts&play_token=KeZU2S6vel
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GO", SKY GO KINDER 4
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=871510&extension=ts&play_token=X73EXyBx0G
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GO", SKY GO Film 1
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=871509&extension=ts&play_token=TcDoi1QH3f
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GO", SKY GO Film 2
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=871508&extension=ts&play_token=HiNVcUYcqJ
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GO", SKY GO Film 3
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=871507&extension=ts&play_token=HiNVcUYcqJ
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GO", SKY GO Film 4
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=871506&extension=ts&play_token=HiNVcUYcqJ
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GO", SKY GO Film 5
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=871505&extension=ts&play_token=h8olu9Lhwu
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GO", SKY GO Film 6
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=871504&extension=ts&play_token=h8olu9Lhwu
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GO", SKY GO Film 7
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=871503&extension=ts&play_token=h8olu9Lhwu
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GO", SKY GO Film 8
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=871502&extension=ts&play_token=h8olu9Lhwu
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GO", SKY GO Film 9
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=871501&extension=ts&play_token=h8olu9Lhwu
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GO", SKY GO Film 10
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=871500&extension=ts&play_token=h8olu9Lhwu
-
-#EXTINF:-1 tvg-logo="-------" group-title="SKY GO", SKY PREMIER 1
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1095797&extension=ts&play_token=mD1og1Ksr4
-
-#EXTINF:-1 tvg-logo="-------" group-title="SKY GO", SKY PREMIER 2
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1095796&extension=ts&play_token=uuRqY0Eke1
-
-#EXTINF:-1 tvg-logo="-------" group-title="SKY GO", SKY PREMIER 3
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1095795&extension=ts&play_token=uuRqY0Eke1
-
-#EXTINF:-1 tvg-logo="-------" group-title="SKY GO", SKY PREMIER 4
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1095794&extension=ts&play_token=uuRqY0Eke1
-
-#EXTINF:-1 tvg-logo="-------" group-title="SKY GO", SKY PREMIER 5
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1095793&extension=ts&play_token=uuRqY0Eke1
-
-#EXTINF:-1 tvg-logo="-------" group-title="SKY GO", SKY PREMIER 6
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1095793&extension=ts&play_token=uuRqY0Eke1
-
-#EXTINF:-1 tvg-logo="-------" group-title="SKY GO", SKY PREMIER 7
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1095792&extension=ts&play_token=uuRqY0Eke1
-
-#EXTINF:-1 tvg-logo="-------" group-title="SKY GO", SKY PREMIER 8
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1095791&extension=ts&play_token=uuRqY0Eke1
-
-
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
 #EXTINF:-1 group-title="SPORT ASIA" tvg-id="MNCSports.id" tvg-url="-----" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.png",Sportstars 1 HD
@@ -10652,15 +10578,6 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=61817_&extens
 #EXTINF:-1 tvg-logo="-------" group-title="MAX SPORT", MAX SPORT 4
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=61818_&extension=ts
 
-#EXTINF:-1 tvg-logo="-------" group-title="DIEMA SPORT", DIEMA SPORT 1
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=14249_&extension=ts
-
-#EXTINF:-1 tvg-logo="-------" group-title="DIEMA SPORT", DIEMA SPORT 2
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=14250_&extension=ts
-
-#EXTINF:-1 tvg-logo="-------" group-title="DIEMA SPORT", DIEMA SPORT 3
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=14240_&extension=ts
-
 #EXTINF:-1 tvg-logo="-------" group-title="MOVISTAR  SPORT", MOVIESTAR SPORT LALIGA
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=16510_&extension=ts
 
@@ -10690,6 +10607,81 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=11486_&extens
 
 #EXTINF:-1 tvg-logo="-------" group-title="BT SPORT", BT SPORT 4
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=316_&extension=ts
+
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GO", SKY GO 1
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=871515&extension=ts&play_token=2JcDJrWvCd
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GO", SKY GO 2
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=871514&extension=ts&play_token=Xc6efCGP0w
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GO", SKY GO KINDER 1
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=871513&extension=ts&play_token=KeZU2S6vel
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GO", SKY GO KINDER 2
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=871512&extension=ts&play_token=KeZU2S6vel
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GO", SKY GO KINDER 3
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=871511&extension=ts&play_token=KeZU2S6vel
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GO", SKY GO KINDER 4
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=871510&extension=ts&play_token=X73EXyBx0G
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GO", SKY GO Film 1
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=871509&extension=ts&play_token=TcDoi1QH3f
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GO", SKY GO Film 2
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=871508&extension=ts&play_token=HiNVcUYcqJ
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GO", SKY GO Film 3
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=871507&extension=ts&play_token=HiNVcUYcqJ
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GO", SKY GO Film 4
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=871506&extension=ts&play_token=HiNVcUYcqJ
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GO", SKY GO Film 5
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=871505&extension=ts&play_token=h8olu9Lhwu
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GO", SKY GO Film 6
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=871504&extension=ts&play_token=h8olu9Lhwu
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GO", SKY GO Film 7
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=871503&extension=ts&play_token=h8olu9Lhwu
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GO", SKY GO Film 8
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=871502&extension=ts&play_token=h8olu9Lhwu
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GO", SKY GO Film 9
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=871501&extension=ts&play_token=h8olu9Lhwu
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY GO", SKY GO Film 10
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=871500&extension=ts&play_token=h8olu9Lhwu
+
+#EXTINF:-1 tvg-logo="-------" group-title="SKY GO", SKY PREMIER 1
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1095797&extension=ts&play_token=mD1og1Ksr4
+
+#EXTINF:-1 tvg-logo="-------" group-title="SKY GO", SKY PREMIER 2
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1095796&extension=ts&play_token=uuRqY0Eke1
+
+#EXTINF:-1 tvg-logo="-------" group-title="SKY GO", SKY PREMIER 3
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1095795&extension=ts&play_token=uuRqY0Eke1
+
+#EXTINF:-1 tvg-logo="-------" group-title="SKY GO", SKY PREMIER 4
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1095794&extension=ts&play_token=uuRqY0Eke1
+
+#EXTINF:-1 tvg-logo="-------" group-title="SKY GO", SKY PREMIER 5
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1095793&extension=ts&play_token=uuRqY0Eke1
+
+#EXTINF:-1 tvg-logo="-------" group-title="SKY GO", SKY PREMIER 6
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1095793&extension=ts&play_token=uuRqY0Eke1
+
+#EXTINF:-1 tvg-logo="-------" group-title="SKY GO", SKY PREMIER 7
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1095792&extension=ts&play_token=uuRqY0Eke1
+
+#EXTINF:-1 tvg-logo="-------" group-title="SKY GO", SKY PREMIER 8
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1095791&extension=ts&play_token=uuRqY0Eke1
+
 
 
 #EXTINF:-1 tvg-logo="-------" group-title="MOVIE 24/7", VIN DIESEL
