@@ -9582,6 +9582,37 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=163608&extens
 #EXTINF:-1 tvg-logo="---------" group-title="VIAPLAY", VIAPLAY EXTRA
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1014260&extension=ts&play_token=QmzgBvbonr
 
+#EXTINF:-1 tvg-logo="______" group-title="VIAPLAY", VIAPLAY EXTRA
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1014260&extension=ts&play_token=pdI2kQIFm
+
+#EXTINF:-1 tvg-logo="______" group-title="VIAPLAY", PREMIER SPORT LA LIGA
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=163611&extension=ts&play_token=9GeLS15MNE
+
+
+#EXTINF:-1 tvg-logo="______" group-title="FOX SPORT", FOX SOCCER PLUS
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=174668&extension=ts&play_token=aP5SGPY26C
+
+#EXTINF:-1 tvg-logo="______" group-title="FOX SPORT", FOX SPORT 1
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=174669&extension=ts&play_token=eYcVCzh36m
+
+#EXTINF:-1 tvg-logo="______" group-title="FOX SPORT", FOX SPORT 2
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=174670&extension=ts&play_token=IdEBSk7LYU
+
+#EXTINF:-1 tvg-logo="______" group-title="FOX SPORT", FOX SPORT ARIZONA
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=174671&extension=ts&play_token=JaPTMoccbH
+
+#EXTINF:-1 tvg-logo="______" group-title="FOX SPORT", FOX SPORT WEST
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=174688&extension=ts&play_token=2101Kmd4c0
+
+#EXTINF:-1 tvg-logo="______" group-title="FOX SPORT", FOX SPORT SOUTH
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=174684&extension=ts&play_token=Wipa3xAkxU
+
+#EXTINF:-1 tvg-logo="______" group-title="FOX SPORT", FOX SPORT EAST
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=174682&extension=ts&play_token=bj9EQummoH
+
+#EXTINF:-1 tvg-logo="______" group-title="FOX SPORT", FUBU SPORT
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=174693&extension=ts&play_token=aB235cVuTm
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ART SPORT", ART Sport 1
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/23143
