@@ -5449,6 +5449,50 @@ http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683088&extension=
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683129&extension=ts&play_token=HwiPR2YqVX
 
 
+#EXTINF:-1 tvg-logo="-------" group-title="BEIN GRUP", BEIN MOVIE ACTION 1
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=31488_&extension=ts
+
+#EXTINF:-1 tvg-logo="-------" group-title="BEIN GRUP", BEIN MOVIE ACTION 2
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=33201_&extension=ts
+
+#EXTINF:-1 tvg-logo="-------" group-title="BEIN GRUP", BEIN MOVIE FAMILY
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=31490_&extension=ts
+
+#EXTINF:-1 tvg-logo="-------" group-title="BEIN GRUP", BEIN MOVIE PREMIERE
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=31492_&extension=ts
+
+#EXTINF:-1 tvg-logo="-------" group-title="BEIN GRUP", BEIN MOVIE PREMIER 2
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=33200_&extension=ts
+
+#EXTINF:-1 tvg-logo="-------" group-title="BEIN GRUP", BEIN MOVIE STARS
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=31493_&extension=ts
+
+#EXTINF:-1 tvg-logo="-------" group-title="BEIN GRUP", BEIN MOVIE TURK
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=31494_&extension=ts
+
+#EXTINF:-1 tvg-logo="-------" group-title="BEIN GRUP", BEIN SERIES 4
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=31495_&extension=ts
+
+#EXTINF:-1 tvg-logo="-------" group-title="BEIN GRUP", BEIN SERIES 3
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=31497_&extension=ts
+
+#EXTINF:-1 tvg-logo="-------" group-title="BEIN GRUP", BEIN SERIES 2
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=31496_&extension=ts
+
+#EXTINF:-1 tvg-logo="-------" group-title="BEIN GRUP", BEIN SERIES 1
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=31498_&extension=ts
+
+#EXTINF:-1 tvg-logo="-------" group-title="BEIN GRUP", BEIN BOX OFFICE 1
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63099_&extension=ts
+
+#EXTINF:-1 tvg-logo="-------" group-title="BEIN GRUP", BEIN BOX OFFICE 2
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63100_&extension=ts
+
+#EXTINF:-1 tvg-logo="-------" group-title="BEIN GRUP", BEIN BOX OFFICE 3
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63102_&extension=ts
+
+#EXTINF:-1 tvg-logo="-------" group-title="BEIN GRUP", SINEMA AKSIYON
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=31500_&extension=ts
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP 2", beIN SPORTS NEWS HD
@@ -10616,50 +10660,6 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=11486_&extens
 #EXTINF:-1 tvg-logo="-------" group-title="BT SPORT", BT SPORT 4
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=316_&extension=ts
 
-#EXTINF:-1 tvg-logo="-------" group-title="BEIN GRUP", BEIN MOVIE ACTION 1
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=31488_&extension=ts
-
-#EXTINF:-1 tvg-logo="-------" group-title="BEIN GRUP", BEIN MOVIE ACTION 2
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=33201_&extension=ts
-
-#EXTINF:-1 tvg-logo="-------" group-title="BEIN GRUP", BEIN MOVIE FAMILY
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=31490_&extension=ts
-
-#EXTINF:-1 tvg-logo="-------" group-title="BEIN GRUP", BEIN MOVIE PREMIERE
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=31492_&extension=ts
-
-#EXTINF:-1 tvg-logo="-------" group-title="BEIN GRUP", BEIN MOVIE PREMIER 2
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=33200_&extension=ts
-
-#EXTINF:-1 tvg-logo="-------" group-title="BEIN GRUP", BEIN MOVIE STARS
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=31493_&extension=ts
-
-#EXTINF:-1 tvg-logo="-------" group-title="BEIN GRUP", BEIN MOVIE TURK
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=31494_&extension=ts
-
-#EXTINF:-1 tvg-logo="-------" group-title="BEIN GRUP", BEIN SERIES 4
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=31495_&extension=ts
-
-#EXTINF:-1 tvg-logo="-------" group-title="BEIN GRUP", BEIN SERIES 3
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=31497_&extension=ts
-
-#EXTINF:-1 tvg-logo="-------" group-title="BEIN GRUP", BEIN SERIES 2
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=31496_&extension=ts
-
-#EXTINF:-1 tvg-logo="-------" group-title="BEIN GRUP", BEIN SERIES 1
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=31498_&extension=ts
-
-#EXTINF:-1 tvg-logo="-------" group-title="BEIN GRUP", BEIN BOX OFFICE 1
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63099_&extension=ts
-
-#EXTINF:-1 tvg-logo="-------" group-title="BEIN GRUP", BEIN BOX OFFICE 2
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63100_&extension=ts
-
-#EXTINF:-1 tvg-logo="-------" group-title="BEIN GRUP", BEIN BOX OFFICE 3
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63102_&extension=ts
-
-#EXTINF:-1 tvg-logo="-------" group-title="BEIN GRUP", SINEMA AKSIYON
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=31500_&extension=ts
 
 #EXTINF:-1 tvg-logo="-------" group-title="MOVIE 24/7", VIN DIESEL
 http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=168468_&extension=ts
