@@ -302,6 +302,74 @@ http://210.210.155.37/uq2663/h/h124/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/120.jpg" group-title="NASIONAL ID", MOTO RACING
 http://210.210.155.37/uq2663/h/h223/index.m3u8
 
+#EXTINF:-1 tvg-logo="-------" group-title="NASIONAL MAC", GLOBAL TV
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683121&extension=ts&play_token=6vwRi81FJZ
+
+#EXTINF:-1 tvg-logo="-------" group-title="NASIONAL MAC", RCTI
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683099&extension=ts&play_token=dYLcbLasuk
+
+#EXTINF:-1 tvg-logo="-------" group-title="NASIONAL MAC", MNC TV
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683098&extension=ts&play_token=qHlQKxEaLV
+
+#EXTINF:-1 tvg-logo="-------" group-title="NASIONAL MAC", MNC NEWS
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683193&extension=ts&play_token=aMUF1JFLhC
+
+#EXTINF:-1 tvg-logo="-------" group-title="NASIONAL MAC", NET
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683093&extension=ts&play_token=HBV8EsxbAQ
+
+#EXTINF:-1 tvg-logo="-------" group-title="NASIONAL MAC", ANTV
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683153&extension=ts&play_token=Fq9m3ybgml
+
+#EXTINF:-1 tvg-logo="-------" group-title="NASIONAL MAC", TRANS TV
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683100&extension=ts&play_token=xhSCXJDYm2
+
+#EXTINF:-1 tvg-logo="-------" group-title="NASIONAL MAC", TRANS 7
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683116&extension=ts&play_token=Znkg3hXasP
+
+#EXTINF:-1 tvg-logo="-------" group-title="NASIONAL MAC", INDOSIAR
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=994885&extension=ts&play_token=INTfwGekHf
+
+#EXTINF:-1 tvg-logo="-------" group-title="NASIONAL MAC", INDOSIAR 2
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=994885&extension=ts
+
+#EXTINF:-1 tvg-logo="-------" group-title="NASIONAL MAC", KOMPAS TV
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683194&extension=ts&play_token=qIMhLJFmTA
+
+#EXTINF:-1 tvg-logo="-------" group-title="NASIONAL MAC", METRO TV
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683181&extension=ts&play_token=GYPMi3nwSc
+
+#EXTINF:-1 tvg-logo="-------" group-title="NASIONAL MAC", TVRI Nasional
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683195&extension=ts&play_token=LzP25RxC7T
+
+#EXTINF:-1 tvg-logo="-------" group-title="NASIONAL MAC", TV ONE
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683101&extension=ts&play_token=YKA6nqPsPe
+
+#EXTINF:-1 tvg-logo="-------" group-title="NASIONAL MAC", JAKTV
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683180&extension=ts&play_token=gFPTEYOLQ5
+
+#EXTINF:-1 tvg-logo="-------" group-title="NASIONAL MAC", BERITA SATU TV
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683182&extension=ts&play_token=7pZq2gJ4CC
+
+#EXTINF:-1 tvg-logo="-------" group-title="NASIONAL MAC", MNC ENTERTAINMENT
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683188&extension=ts&play_token=DLtw5cp5NH
+
+#EXTINF:-1 tvg-logo="-------" group-title="NASIONAL MAC", CNBC
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683186&extension=ts&play_token=FfhA4277Ui
+
+#EXTINF:-1 tvg-logo="-------" group-title="NASIONAL MAC", OK TV
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683105&extension=ts&play_token=bFUlqkTz0V
+
+#EXTINF:-1 tvg-logo="-------" group-title="NASIONAL MAC", VISION PRIME
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683124&extension=ts&play_token=WRlRbItZ6k
+
+#EXTINF:-1 tvg-logo="-------" group-title="NASIONAL MAC", LIFESTYLE
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683128&extension=ts&play_token=6ZYH0E7HBM
+
+#EXTINF:-1 tvg-logo="-------" group-title="NASIONAL MAC", RTV
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683095&extension=ts&play_token=Z6Xmkwwu2i
+
+#EXTINF:-1 tvg-logo="-------" group-title="NASIONAL MAC", BANDUNG TV
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683107&extension=ts&play_token=IvOztHWCo3
 
 #EXTM3U
 #EXTINF:-1 group-title="FIRSTMEDIA",MOJI HD
@@ -477,7 +545,7 @@ http://premiumiptvmk.com:8080/05add9be/df28c0b5be/298501
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDO_NE_SIA PREMI", ID: 24/7 Warkop DKI
 http://premiumiptvmk.com:8080/05add9be/df28c0b5be/298502
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDO_NE_SIA PREMI", ID: AMTV &#40;Aula Media TV&#41;
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDO_NE_SIA PREMI", ID: Aula Media TV
 http://premiumiptvmk.com:8080/05add9be/df28c0b5be/299484
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDO_NE_SIA PREMI", ID: ANIMAL PLANET
@@ -1022,7 +1090,6 @@ http://premiumiptvmk.com:8080/05add9be/df28c0b5be/157584
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDO_NE_SIA PREMI", ID: ZooMoo
 http://premiumiptvmk.com:8080/05add9be/df28c0b5be/264751
-
 
 
 
@@ -1582,186 +1649,121 @@ http://37.49.230.42:8080/96e1e190/abb9f8142a/157584
 http://37.49.230.42:8080/96e1e190/abb9f8142a/264751
 
 
-#EXTINF:-1 tvg-logo="-------" group-title="NASIONAL", GLOBAL TV
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683121&extension=ts&play_token=6vwRi81FJZ
 
-#EXTINF:-1 tvg-logo="-------" group-title="NASIONAL", RCTI
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683099&extension=ts&play_token=dYLcbLasuk
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MA_LAY_SIA", MY: Animax
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/157486
 
-#EXTINF:-1 tvg-logo="-------" group-title="NASIONAL", MNC TV
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683098&extension=ts&play_token=qHlQKxEaLV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MA_LAY_SIA", MY: Astro Arena
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/157485
 
-#EXTINF:-1 tvg-logo="-------" group-title="NASIONAL", MNC NEWS
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683193&extension=ts&play_token=aMUF1JFLhC
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MA_LAY_SIA", MY: Astro Awani
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/157478
 
-#EXTINF:-1 tvg-logo="-------" group-title="NASIONAL", NET
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683093&extension=ts&play_token=HBV8EsxbAQ
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MA_LAY_SIA", MY: Astro Cricket
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/157565
 
-#EXTINF:-1 tvg-logo="-------" group-title="NASIONAL", ANTV
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683153&extension=ts&play_token=Fq9m3ybgml
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MA_LAY_SIA", MY: Astro Oasis
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/157489
 
-#EXTINF:-1 tvg-logo="-------" group-title="NASIONAL", TRANS TV
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683100&extension=ts&play_token=xhSCXJDYm2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MA_LAY_SIA", MY: Astro Prima
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/157467
 
-#EXTINF:-1 tvg-logo="-------" group-title="NASIONAL", TRANS 7
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683116&extension=ts&play_token=Znkg3hXasP
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MA_LAY_SIA", MY: Astro Ria
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/158347
 
-#EXTINF:-1 tvg-logo="-------" group-title="NASIONAL", INDOSIAR
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=994885&extension=ts&play_token=INTfwGekHf
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MA_LAY_SIA", MY: Astro SuperSport
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/146068
 
-#EXTINF:-1 tvg-logo="-------" group-title="NASIONAL", INDOSIAR 2
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=994885&extension=ts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MA_LAY_SIA", MY: Astro Awani
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/157478
 
-#EXTINF:-1 tvg-logo="-------" group-title="NASIONAL", KOMPAS TV
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683194&extension=ts&play_token=qIMhLJFmTA
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MA_LAY_SIA", MY: Astro SuperSport 3
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/157557
 
-#EXTINF:-1 tvg-logo="-------" group-title="NASIONAL", METRO TV
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683181&extension=ts&play_token=GYPMi3nwSc
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MA_LAY_SIA", MY: Astro SuperSport 4
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/157558
 
-#EXTINF:-1 tvg-logo="-------" group-title="NASIONAL", TVRI Nasional
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683195&extension=ts&play_token=LzP25RxC7T
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MA_LAY_SIA", MY: Astro SuperSport 5
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/287792
 
-#EXTINF:-1 tvg-logo="-------" group-title="NASIONAL", TV ONE
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683101&extension=ts&play_token=YKA6nqPsPe
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MA_LAY_SIA", MY: Astro Vaanavil
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/201163
 
-#EXTINF:-1 tvg-logo="-------" group-title="NASIONAL", JAKTV
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683180&extension=ts&play_token=gFPTEYOLQ5
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MA_LAY_SIA", MY: Astro Xiao Tai Yang
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/201164
 
-#EXTINF:-1 tvg-logo="-------" group-title="NASIONAL", BERITA SATU TV
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683182&extension=ts&play_token=7pZq2gJ4CC
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MA_LAY_SIA", MY: AXN
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/157542
 
-#EXTINF:-1 tvg-logo="-------" group-title="NASIONAL", MNC ENTERTAINMENT
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683188&extension=ts&play_token=DLtw5cp5NH
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MA_LAY_SIA", MY: BBC Earth
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/171979
 
-#EXTINF:-1 tvg-logo="-------" group-title="NASIONAL", CNBC
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683186&extension=ts&play_token=FfhA4277Ui
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MA_LAY_SIA", MY: beIN Sports
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/157561
 
-#EXTINF:-1 tvg-logo="-------" group-title="NASIONAL", OK TV
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683105&extension=ts&play_token=bFUlqkTz0V
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MA_LAY_SIA", MY: Bloomberg TV
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/157533
 
-#EXTINF:-1 tvg-logo="-------" group-title="NASIONAL", VISION PRIME
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683124&extension=ts&play_token=WRlRbItZ6k
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MA_LAY_SIA", MY: Boomerang
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/171955
 
-#EXTINF:-1 tvg-logo="-------" group-title="NASIONAL", LIFESTYLE
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683128&extension=ts&play_token=6ZYH0E7HBM
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MA_LAY_SIA", MY: Celestial Movies
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/174687
 
-#EXTINF:-1 tvg-logo="-------" group-title="NASIONAL", RTV
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683095&extension=ts&play_token=Z6Xmkwwu2i
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MA_LAY_SIA", MY: Crime+ Investigation
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/157554
 
-#EXTINF:-1 tvg-logo="-------" group-title="NASIONAL", BANDUNG TV
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683107&extension=ts&play_token=IvOztHWCo3
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MA_LAY_SIA", MY: Discovery Science
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/157530
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MA_LAY_SIA", MY: Discovery World
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/157528
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/e0ca9c22b972add893fdad34af4255bc.png" group-title="Malaysia", MY: Animax
-http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/157486
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MA_LAY_SIA", MY: Disney XD
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/157544
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/f9cbb250de1822306dc0b7e9cdd23c9a.png" group-title="Malaysia", MY: Astro Arena
-http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/157485
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MA_LAY_SIA", MY: FOX SPORTS 2
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/157488
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/e976949486bc089b9dec986e9a860ff8.png" group-title="Malaysia", MY: Astro Awani
-http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/157478
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MA_LAY_SIA", MY: HGTV Asia
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/157553
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/edc8a9c38c820781eb4785f4e5ee89ca.png" group-title="Malaysia", MY: Astro Cricket
-http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/157565
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MA_LAY_SIA", MY: Hits
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/157545
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/28fc1cfc2e9b5b2ba64f6bf5bcaa357d.png" group-title="Malaysia", MY: Astro Oasis
-http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/157489
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MA_LAY_SIA", MY: HITS Movies
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/157477
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/584608e7b0eb904734396e6cc6831811.png" group-title="Malaysia", MY: Astro Prima
-http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/157467
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MA_LAY_SIA", MY: Local Now Family Flix
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/296889
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/98eeb75a39995d2c6ab45fb716af8310.png" group-title="Malaysia", MY: Astro Ria
-http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/158347
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MA_LAY_SIA", MY: Nick Jr
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/157546
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="Malaysia", MY: Astro SuperSport
-http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/146068
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MA_LAY_SIA", MY: NTV 7
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/174695
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="Malaysia", MY: Astro SuperSport 2
-http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/157556
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MA_LAY_SIA", MY: RTM TV 1
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/158357
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png" group-title="Malaysia", MY: Astro SuperSport 3
-http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/157557
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MA_LAY_SIA", MY: RTM TV 2
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/158355
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="Malaysia", MY: Astro SuperSport 4
-http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/157558
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MA_LAY_SIA", MY: TV 3
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/158360
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-02/480daf2471d76a0819242a59da7005f9.png" group-title="Malaysia", MY: Astro SuperSport 5
-http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/287792
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MA_LAY_SIA", MY: TV 9
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/171953
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/bb06ccbe93af0e4d72aad4c77c5cb4c6.png" group-title="Malaysia", MY: Astro Vaanavil
-http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/201163
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MA_LAY_SIA", MY: TV Alhijrah
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/157491
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/fa7dae21ca0a660204573e4d010232ab.png" group-title="Malaysia", MY: Astro Xiao Tai Yang
-http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/201164
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MA_LAY_SIA", MY: TVN Movies
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/297499
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/2d7d739d57aa860159c36df8c746c779.png" group-title="Malaysia", MY: AXN
-http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/157542
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MA_LAY_SIA", MY: Warner TV
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/157550
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/c23b25dd57cbcc578a72dda7e35fdf08.png" group-title="Malaysia", MY: BBC Earth
-http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/171979
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/661d6fd8993dd9aaf43e249d036e9eb3.jpg" group-title="Malaysia", MY: beIN Sports
-http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/157561
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/602e805f1abfd464565db600ffd3f028.png" group-title="Malaysia", MY: Bloomberg TV
-http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/157533
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/515d63ff66edb49dc64a03093e9f6fd2.png" group-title="Malaysia", MY: Boomerang
-http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/171955
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/51e29412b2a80c8afa779e56b99dccdd.png" group-title="Malaysia", MY: Celestial Movies
-http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/174687
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/ad7a1e1bb94a07f128ce21def6a0adc3.png" group-title="Malaysia", MY: Crime+ Investigation
-http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/157554
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/838a78d02f3d18a23b94402dd8420a2b.png" group-title="Malaysia", MY: Discovery Science
-http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/157530
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/d0e9f7b4beedf023994c4d1937b97aca.png" group-title="Malaysia", MY: Discovery World
-http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/157528
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/451dbdd3fbdd722d2ca3c1b4ba7ada36.png" group-title="Malaysia", MY: Disney XD
-http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/157544
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/32a4269c4918eeef41af63deb0f43083.png" group-title="Malaysia", MY: FOX SPORTS 2
-http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/157488
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/dd5b9bef97274c22a06f1f088d34936a.png" group-title="Malaysia", MY: HGTV Asia
-http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/157553
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/25ab65a39a10d628b5c9319b423b6497.png" group-title="Malaysia", MY: Hits
-http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/157545
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/98ac421179bbfd4dc8f4f4640667e35b.png" group-title="Malaysia", MY: Local Now Family Flix
-http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/296889
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/92307ca79c909c2f7881199792c74c0b.png" group-title="Malaysia", MY: Nick Jr
-http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/157546
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/9e4e07f643b9d102a246aba95fd763ef.png" group-title="Malaysia", MY: NTV 7
-http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/174695
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/709e30cbe3d7b9710f54e41156389475.jpg" group-title="Malaysia", MY: RTM TV 1
-http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/158357
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/4d495580f894286e82e1f9ee33d2874b.png" group-title="Malaysia", MY: RTM TV 2
-http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/158355
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/7c4b2443678d05d7f2032e5519eec970.png" group-title="Malaysia", MY: TV 3
-http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/158360
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/cc8d0ca33c66e7808f8704134494f9f2.png" group-title="Malaysia", MY: TV 9
-http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/171953
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/6565f78da7926feade32fc9651446d1e.png" group-title="Malaysia", MY: TV Alhijrah
-http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/157491
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/66ac88e17edd3d12e424a58a3a9b1d45.png" group-title="Malaysia", MY: TVN Movies
-http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/297499
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/ab95d8e974bb7f697b1dd79c7ac0f765.png" group-title="Malaysia", MY: Warner TV
-http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/157550
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAY_SIA", MY: Animax
@@ -1874,6 +1876,7 @@ http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/297499
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAY_SIA", MY: Warner TV
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/157550
+
 
 
 #EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo//ASTROPRIMA.png" group-title="ASTRO BOY", ASTRO PRIMA
