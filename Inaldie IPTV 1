@@ -6565,6 +6565,14 @@ http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=860837&extension
 #EXTINF:-1 tvg-logo="______" group-title="SPORT ASIA", YASS SPORT
 http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=6579&extension=ts&play_token=2VJUjjCYqP
 
+#EXTINF:-1 tvg-logo="______" group-title="SPORT ASIA", PALESTINA SPORT
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=591559&extension=ts&play_token=HmtFGozInu
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT ASIA", IRAQIA SPORT
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=8116&extension=ts&play_token=9toeC6kh9K
+
+
+
 
 
 
@@ -9985,6 +9993,16 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=728649&extens
 #EXTINF:-1 tvg-logo="______" group-title="DAZN SPORT", DAZN 2 SERI B
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=728648&extension=ts&play_token=nYGUa7W9jX
 
+#EXTINF:-1 tvg-logo="______" group-title="DAZN SPORT", DAZN ELEVAN SPORT 1
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=811933&extension=ts&play_token=YA1Eu60ErW
+
+#EXTINF:-1 tvg-logo="______" group-title="DAZN SPORT", DAZN ELEVAN SPORT 2
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=811932&extension=ts&play_token=HHAl2oQV9y
+
+#EXTINF:-1 tvg-logo="______" group-title="DAZN SPORT", DAZN ELEVAN SPORT 3
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=811931&extension=ts&play_token=CuwXckvtuK
+
+
 
 
 #EXTINF:-1 tvg-logo="-------" group-title="DIGI SPORT", DIGI Sport 1
@@ -10994,6 +11012,26 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1095792&exten
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1095791&extension=ts&play_token=uuRqY0Eke1
 
 
+#EXTINF:-1 tvg-logo="______" group-title="AMAZON PRIME", AMAZON 1
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1275543&extension=ts&play_token=gHH5j332YQ
+
+#EXTINF:-1 tvg-logo="______" group-title="AMAZON PRIME", AMAZON 2
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1275542&extension=ts&play_token=wJj7HVobSQ
+
+#EXTINF:-1 tvg-logo="______" group-title="AMAZON PRIME", AMAZON 3
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1275541&extension=ts&play_token=F5Xi40dhPi
+
+#EXTINF:-1 tvg-logo="______" group-title="AMAZON PRIME", AMAZON 4
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1275540&extension=ts&play_token=F5Xi40dhPi
+
+#EXTINF:-1 tvg-logo="______" group-title="AMAZON PRIME", AMAZON 5
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1275539&extension=ts&play_token=F5Xi40dhPi
+
+#EXTINF:-1 tvg-logo="______" group-title="AMAZON PRIME", AMAZON 6
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1275538&extension=ts&play_token=F5Xi40dhPi
+
+#EXTINF:-1 tvg-logo="______" group-title="AMAZON PRIME", AMAZON 7
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1275537&extension=ts&play_token=F5Xi40dhPi
 
 
 
