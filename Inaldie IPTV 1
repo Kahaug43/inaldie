@@ -6520,6 +6520,18 @@ http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=926161&extension=
 #EXTINF:-1 tvg-logo="______" group-title="SPORT ASIA", TENS SPORT PAKISTAN
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=65516_&extension=m3u8
 
+#EXTINF:-1 tvg-logo="______" group-title="SPORT ASIA", KASS SPORT 1
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=6578&extension=ts&play_token=5d1hKhqZGm
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT ASIA", KASS SPORT 2
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=6577&extension=ts&play_token=xG974qULZL
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT ASIA", KASS SPORT 4
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=167322&extension=ts&play_token=dHzsSuwllS
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT ASIA", KASS SPORT 5
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=167323&extension=ts&play_token=IIC2293js6
+
 
 
 
