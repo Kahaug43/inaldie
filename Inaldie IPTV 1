@@ -2127,59 +2127,41 @@ http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683143&extension=
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683155&extension=ts&play_token=RMCZ5rD42m
 
 
-#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/68ef0f174963fe248d689cd52d10170b.png" group-title="4K Movies English", Movies 4K Family
-http://myserveriptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/30718
 
-#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/68ef0f174963fe248d689cd52d10170b.png" group-title="4K Movies English", Movies 4K Blockbusters
-http://myserveriptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/27977
 
-#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/68ef0f174963fe248d689cd52d10170b.png" group-title="4K Movies English", Movies 4K Animation
-http://myserveriptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/159933
+#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/68ef0f174963fe248d689cd52d10170b.png/" group-title="CINEBOX UK", UK: CineBox 2 Animation
+http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/297178
 
-#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/68ef0f174963fe248d689cd52d10170b.png" group-title="4K Movies English", Movies 4K Cult
-http://myserveriptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/159934
+#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/68ef0f174963fe248d689cd52d10170b.png/" group-title="CINEBOX UK", UK: CineBox 3 Blockbuster
+http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/297179
 
-#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/68ef0f174963fe248d689cd52d10170b.png" group-title="4K Movies English", Movies 4K Comedy
-http://myserveriptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/159937
+#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/68ef0f174963fe248d689cd52d10170b.png/" group-title="CINEBOX UK", UK: CineBox 4 Classic
+http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/297180
 
-#EXTINF:-1 tvg-logo="http://iptvch.com:2082/images/68ef0f174963fe248d689cd52d10170b.png" group-title="4K Movies English", Movies 4K Classic
-http://myserveriptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/159923
+#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/68ef0f174963fe248d689cd52d10170b.png/" group-title="CINEBOX UK", UK: CineBox 5 Comedy
+http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/297181
 
-#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/68ef0f174963fe248d689cd52d10170b.png" group-title="4K Movies English", Movies 4K Greats
-http://myserveriptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/15517
+#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/68ef0f174963fe248d689cd52d10170b.png/" group-title="CINEBOX UK", UK: CineBox 6 Cult
+http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/297182
 
-#EXTINF:-1 tvg-logo="http://iptvch.com:2082/images/68ef0f174963fe248d689cd52d10170b.png" group-title="4K Movies English", Movies 4K Greats Two
-http://myserveriptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/16071
+#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/68ef0f174963fe248d689cd52d10170b.png/" group-title="CINEBOX UK", UK: CineBox 7 Family
+http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/297183
 
-#EXTINF:-1 tvg-logo="http://iptvch.com:2082/images/68ef0f174963fe248d689cd52d10170b.png" group-title="4K Movies English", Movies 4K Historical
-http://myserveriptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/16239
+#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/68ef0f174963fe248d689cd52d10170b.png/" group-title="CINEBOX UK", UK: CineBox 8 Greats
+http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/297184
 
-#EXTINF:-1 tvg-logo="http://iptvch.com:2082/images/68ef0f174963fe248d689cd52d10170b.png" group-title="4K Movies English", Movies 4K Horror
-http://myserveriptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/16240
+#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/68ef0f174963fe248d689cd52d10170b.png/" group-title="CINEBOX UK", UK: CineBox 9
+http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/297185
 
-#EXTINF:-1 tvg-logo="http://iptvch.com:2082/images/68ef0f174963fe248d689cd52d10170b.png" group-title="4K Movies English", Movies 4K Musical
-http://myserveriptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/17593
+#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/68ef0f174963fe248d689cd52d10170b.png/" group-title="CINEBOX UK", UK: CineBox 10
+http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/297186
 
-#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/68ef0f174963fe248d689cd52d10170b.png" group-title="4K Movies English", Movies 4K Mystery
-http://myserveriptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/17657
+#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/68ef0f174963fe248d689cd52d10170b.png/" group-title="CINEBOX UK", UK: CineBox 4 Classic
+http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/297180
 
-#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/68ef0f174963fe248d689cd52d10170b.png" group-title="4K Movies English", Movies 4K Premiere
-http://myserveriptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/18116
 
-#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/68ef0f174963fe248d689cd52d10170b.png" group-title="4K Movies English", Movies 4K Romance
-http://myserveriptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/20979
 
-#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/68ef0f174963fe248d689cd52d10170b.png" group-title="4K Movies English", Movies 4K Sci-Fi
-http://myserveriptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/20981
 
-#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/68ef0f174963fe248d689cd52d10170b.png" group-title="4K Movies English", Movies 4K Western
-http://myserveriptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/27584
-
-#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/68ef0f174963fe248d689cd52d10170b.png" group-title="4K Movies English", Movies 4K Hits
-http://myserveriptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/27591
-
-#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/68ef0f174963fe248d689cd52d10170b.png" group-title="4K Movies English", Movies 4K Thriller
-http://myserveriptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/27599
 
 
 
