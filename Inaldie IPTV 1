@@ -1,10 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#PLAYLIST CREATE BY: INALDIE#", JOINT TELEGRAM https://t.me/IPTVcostum
-https://github.com/inaldie/inaldie/raw/main/LOGO.ts
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#PLAYLIST CREATE BY: INALDIE#", DONASI GRUP https://saweria.co/Inaldie22
-https://github.com/inaldie/inaldie/raw/main/DONATE.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="PLAYLIST BY: INALDIE", WELCOME MY PLAYLIST
+https://github.com/inaldie/inaldie/raw/main/WELCOM.ts
 
 
 
@@ -347,6 +343,16 @@ http://210.210.155.37/uq2663/h/h124/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/120.jpg" group-title="NASIONAL ID", MOTO RACING
 http://210.210.155.37/uq2663/h/h223/index.m3u8
+
+
+===================================
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="PLAYLIST BY: INALDIE", JOINT TELEGRAM https://t.me/IPTVcostum
+https://github.com/inaldie/inaldie/raw/main/LOGO.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="PLAYLIST BY: INALDIE", DONASI GRUP https://saweria.co/Inaldie22
+https://github.com/inaldie/inaldie/raw/main/DONATE.ts
+
+======================================
 
 #EXTINF:-1 tvg-logo="-------" group-title="NASIONAL MAC", GLOBAL TV
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683121&extension=ts&play_token=6vwRi81FJZ
