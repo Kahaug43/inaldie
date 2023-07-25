@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="PLAYLIST BY: INALDIE", WELCOME MY PLAYLIST
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="PLAYLIST CREATE BY: INALDIE", WELCOME MY PLAYLIST
 https://github.com/inaldie/inaldie/raw/main/WELCOM.ts
 
 
@@ -346,10 +346,10 @@ http://210.210.155.37/uq2663/h/h223/index.m3u8
 
 
 ===================================
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="PLAYLIST BY: INALDIE", JOINT TELEGRAM https://t.me/IPTVcostum
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="PLAYLIST CREATE BY: INALDIE", JOINT TELEGRAM https://t.me/IPTVcostum
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="PLAYLIST BY: INALDIE", DONASI GRUP https://saweria.co/Inaldie22
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="PLAYLIST CREATE BY: INALDIE", DONASI GRUP https://saweria.co/Inaldie22
 https://github.com/inaldie/inaldie/raw/main/DONAT.ts
 
 
