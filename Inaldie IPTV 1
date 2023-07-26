@@ -10342,6 +10342,49 @@ http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=110924&extension=
 #EXTINF:-1 tvg-logo="-------" group-title="S SPORT", S SPORT TV 3
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=161954&extension=ts&play_token=j8BcJVGfou
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="S SPORT", Ar: YAS Sports HD
+http://s.showplustv.pro:80/mustafaali909/8744367/46766
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="S SPORT", TR: S Sport HD
+http://s.showplustv.pro:80/mustafaali909/8744367/65745
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="S SPORT", TR: S Sport 2
+http://s.showplustv.pro:80/mustafaali909/8744367/65744
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="S SPORT", TR: S SPORT 2 FHD
+http://s.showplustv.pro:80/mustafaali909/8744367/65743
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="S SPORT", USA: CBS Sports Network
+http://s.showplustv.pro:80/mustafaali909/8744367/64060
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="S SPORT", Is: Yes Sport 1 FHD
+http://s.showplustv.pro:80/mustafaali909/8744367/68082
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="S SPORT", Is: Yes Sport 2 HD
+http://s.showplustv.pro:80/mustafaali909/8744367/68081
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="S SPORT", Is: Yes Sport 3 FHD
+http://s.showplustv.pro:80/mustafaali909/8744367/68080
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="S SPORT", Is: Yes Sport 4 FHD
+http://s.showplustv.pro:80/mustafaali909/8744367/68079
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="S SPORT", Is: Yes Sport 5 HD
+http://s.showplustv.pro:80/mustafaali909/8744367/68078
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="S SPORT", Is: Yes Sport 5 Live HD
+http://s.showplustv.pro:80/mustafaali909/8744367/68077
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="S SPORT", Is: Yes Sport 5 Plus
+http://s.showplustv.pro:80/mustafaali909/8744367/68076
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="S SPORT", Is: Yes Sport 5 Stars HD
+http://s.showplustv.pro:80/mustafaali909/8744367/68075
+
+
+
+
+
 #EXTINF:-1 tvg-logo="---------" group-title="SKY SPORT", SKY SPORT MAIN EVENT
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=83450&extension=ts&play_token=2Q6fP0aQzR
 
@@ -10626,8 +10669,6 @@ http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=97266_&extens
 http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=97267_&extension=ts
 
 
-
-
 #EXTINF:-1 tvg-logo="-------" group-title="ELEVEN SPORT", ELEVEN SPORT 1
 http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=992_&extension=ts
 
@@ -10651,8 +10692,6 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63304_&extens
 
 #EXTINF:-1 tvg-logo="-------" group-title="ELEVEN SPORT", ELEVEN SPORT 6
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63305_&extension=ts
-
-
 
 
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US031ESPN-2.png" group-title="ESPN SPORT", US031:ESPN-2
