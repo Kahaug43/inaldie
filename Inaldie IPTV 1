@@ -11000,6 +11000,21 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=11486_&extens
 #EXTINF:-1 tvg-logo="-------" group-title="BT SPORT", BT SPORT 4
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=316_&extension=ts
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Voo Sport World", Be: Voo Sport 1
+http://s.showplustv.pro:80/mustafaali909/8744367/81680
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Voo Sport World", Be: Voo Sport 2
+http://s.showplustv.pro:80/mustafaali909/8744367/81679
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Voo Sport World", Be: Voo Sport World 1
+http://s.showplustv.pro:80/mustafaali909/8744367/81678
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Voo Sport World", Be: Voo Sport World 2
+http://s.showplustv.pro:80/mustafaali909/8744367/81677
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Voo Sport World", Be: Voo Sport World 3 HD
+http://s.showplustv.pro:80/mustafaali909/8744367/81683
+
 #EXTINF:-1 tvg-logo="______" group-title="SPORT DLL", SPORT TENNIS
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692386&extension=ts&play_token=2HtbiEdA2Y
 
