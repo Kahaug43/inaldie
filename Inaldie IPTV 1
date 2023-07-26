@@ -7004,6 +7004,25 @@ http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/365067.ts
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT",  TIGO SPORTS 2*
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/366952.ts
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", BAND SPORT
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/133435
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", PREMIERE CLUBES BR
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/133462
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", SPORT 2 BR
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/133466
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", FOX SPORT 2 BR
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/133448
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", FISH TV BR
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/133447
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", ESPN 2 BR
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/133445
+
+
 
 
 
