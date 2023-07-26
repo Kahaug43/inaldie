@@ -10189,23 +10189,8 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=148667&extens
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT TV PR", Sport TV 6 PR
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=712739&extension=ts&play_token=caOMaeWlAR
 
-#EXTINF:-1 tvg-logo="http://paradyse.xyz:8880/images/3880945057d98b07570ae80de9ce6944.png" group-title="ELEVAN SPORT", PT: Eleven Sports 6 SD
-http://revteam11.offshorerev.cc:80/mag00:1A:79:32:89:AD/7JKtTyZDr6/106412
 
-#EXTINF:-1 tvg-logo="http://restreampt.com:8880/images/3880945057d98b07570ae80de9ce6944.png" group-title="ELEVAN SPORT", PT: Eleven Sports 6 HD
-http://revteam11.offshorerev.cc:80/mag00:1A:79:32:89:AD/7JKtTyZDr6/106411
 
-#EXTINF:-1 tvg-logo="http://paradyse.xyz:8880/images/54053b98f35ace3873b11681af694d8c.png" group-title="ELEVAN SPORT", PT: Eleven Sports 5 SD 
-http://revteam11.offshorerev.cc:80/mag00:1A:79:32:89:AD/7JKtTyZDr6/106409
-
-#EXTINF:-1 tvg-logo="http://toppt.me:8880/images/54053b98f35ace3873b11681af694d8c.png" group-title="ELEVAN SPORT", PT: Eleven Sports 5 HD 
-http://revteam11.offshorerev.cc:80/mag00:1A:79:32:89:AD/7JKtTyZDr6/106408
-
-#EXTINF:-1 tvg-logo="http://paradyse.xyz:8880/images/8caf86626f144dce4838cfa87000302a.png" group-title="ELEVAN SPORT", PT: Eleven Sports 4 SD 
-http://revteam11.offshorerev.cc:80/mag00:1A:79:32:89:AD/7JKtTyZDr6/106406
-
-#EXTINF:-1 tvg-logo="http://paradyse.xyz:8880/images/8caf86626f144dce4838cfa87000302a.png" group-title="ELEVAN SPORT", PT: Eleven Sports 4 HD 
-http://revteam11.offshorerev.cc:80/mag00:1A:79:32:89:AD/7JKtTyZDr6/106405
 
 #EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EUROSPORT", EUROSPORT 1 
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508162&extension=ts&play_token=L4D2gbJR3c 
