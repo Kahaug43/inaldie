@@ -9750,25 +9750,6 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=984953&extens
 
 
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ART SPORT", ART Sport 1
-http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/23143
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ART SPORT", ART Sport 2
-http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/23146
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ART SPORT", ART Sport 3
-http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/40061
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ART SPORT", ART Sport 4
-http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/295216
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ART SPORT", ART Sport 5
-http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/295215
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ART SPORT", ART Sport 6
-http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/295217
-
-
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SUPER SPORT AL", AL: Super Sport 1 HD
 http://premium-ks.ddns.net:88/Metiiptv/kDdXP4CGrZk9/47165
