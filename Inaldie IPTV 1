@@ -6567,7 +6567,48 @@ http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=591559&extension
 http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=8116&extension=ts&play_token=9toeC6kh9K
 
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", ASTRO SUPERSPORT  1
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/143036.ts
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", ASTRO SUPERSPORT  2
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/143037.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", ASTRO SUPERSPORT  2
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/143038.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", ASTRO SUPERSPORT  3
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/143039.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", ASTRO SUPERSPORT  4
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/143041.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", ASTRO SUPERSPORT 5
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/143045.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", BEIN 2
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/143060.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", BEIN 3
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/143063.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", SPOTV 1
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/143137.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", SPOTV 2
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/151193.ts
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", SPORTSTAR 3
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/151181.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", Sportstar 2
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/151187.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", Sportstar 1
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/151188.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", SOCCER CHANEL
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/151186.ts
 
 
 
