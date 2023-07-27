@@ -7379,26 +7379,7 @@ http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=809818&extension
 #EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT AR", BEIN SPORT 7 B
 http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=809818&extension=ts&play_token=le7YrzbIll
 
-#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT US", BEIN SPORT
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=864612&extension=ts&play_token=pXlGchstQo
 
-#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT US", BEIN SPORT 2
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=864613&extension=ts&play_token=1tdrPblMi0
-
-#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT US", BEIN SPORT 4
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=864614&extension=ts&play_token=UigAzsJWUZ
-
-#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT US", BEIN SPORT 5
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=864615&extension=ts&play_token=nbFCLBAk2V
-
-#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT CA", BEIN SPORT 1
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=864622&extension=ts&play_token=1msC9MGYhv
-
-#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT CA", BEIN SPORT 2
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=864623&extension=ts&play_token=bY31GcqkEC
-
-#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT CA", BEIN SPORT 3
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=864621&extension=ts&play_token=rbVnWTqCES
 
 #EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT FR", BEIN SPORT 1
 http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=507698&extension=ts&play_token=0uUemBBS4q
