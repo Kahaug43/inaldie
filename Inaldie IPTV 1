@@ -12260,6 +12260,26 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=38424_&extens
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=38425_&extension=ts
 
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TIME SPORT", SP : ON TIME SPORT 1 4K
+http://zeintv.xyz:8080/ahlam1alsayegh2022/004528513460/115199
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TIME SPORT", SP : ON TIME SPORT 1 HD
+http://zeintv.xyz:8080/ahlam1alsayegh2022/004528513460/115200
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TIME SPORT", SP : ON TIME SPORT 2 4K
+http://zeintv.xyz:8080/ahlam1alsayegh2022/004528513460/115201
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TIME SPORT", SP : ON TIME SPORT 2  HD
+http://zeintv.xyz:8080/ahlam1alsayegh2022/004528513460/115202
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TIME SPORT", SP : ON TIME SPORT 3 4K 
+http://zeintv.xyz:8080/ahlam1alsayegh2022/004528513460/115203
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TIME SPORT", SP : ON TIME SPORT 3 HD
+http://zeintv.xyz:8080/ahlam1alsayegh2022/004528513460/115204
+
+
+
 #EXTINF:-1 tvg-logo="-------" group-title="NOVA SPORT", NOVA SPORT 
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=9250_&extension=ts
 
