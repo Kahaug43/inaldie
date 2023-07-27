@@ -12234,6 +12234,126 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=107430&extens
 #EXTINF:-1 tvg-logo="______" group-title="SPORT TV PR", BTV BENFICA
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=983567&extension=ts&play_token=KIl56CmfeQ
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STARZ", CRI: STARZPLAY CricLife 1 (FHD)
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/122979.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STARZ", CRI: STARZPLAY CricLife 2 FHD
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/122980.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STARZ", CRI: STARZPLAY CricLife 3 FHD
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/158898.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STARZ", CRI: STARZPLAY CricLife 3 HD
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/158897.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STARZ", US: Starz Black FHD
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/1029.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STARZ", US: Starz Cinema
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/1030.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STARZ", US: Starz Cinema East HD
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/1031.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STARZ", US: Starz Edge FHD
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/1033.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STARZ", US: STARZ EDGE
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/3413.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STARZ", US: STARZENCORE
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/3416.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STARZ", US: STARZENCORE ACTION
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/3417.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STARZ", US: STARZENCORE CLASSIC
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/3418.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STARZ", US: STARZENCORE FAMILY
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/3419.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STARZ", USA: STARZ East HD
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/33890.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STARZ", STARZPLAY CricLife 1 HD
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/123061.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STARZ", STARZPLAY CricLife 2 HD
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/123062.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STARZ", STARZPLAY AD SPORT 1 HD
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/123064.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STARZ", STARZPLAY AD SPORT 1 FHD
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/123065.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STARZ", STARZPLAY AD SPORT 2 HD
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/123066.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STARZ", STARZPLAY AD SPORT 2 FHD
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/123067.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STARZ", STARZPLAY AD Sport Premium 1 HD
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/123068.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STARZ", STARZPLAY AD Sport Premium 1 FHD
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/123069.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STARZ", STARZPLAY AD Sport Premium 2 HD
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/123070.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STARZ", STARZPLAY AD Sport Premium 2 FHD
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/123071.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STARZ", STARZPLAY AD SPORT ASIA 1 HD
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/123072.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STARZ", STARZPLAY AD SPORT ASIA 1 FHD
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/123073.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STARZ", STARZPLAY AD SPORT ASIA 2 HD
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/123074.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STARZ", STARZPLAY AD SPORT ASIA 2 FHD
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/123075.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STARZ", STARZPLAY AD YAS HD
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/123076.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STARZ", STARZPLAY AD YAS FHD
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/123077.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STARZ", STARZPLAY SPORTS HD
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/123078.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STARZ", STARZPLAY SPORTS FHD
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/123079.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STARZ", STARZPLAY Premiere Sports HD
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/123082.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STARZ", STARZPLAY Premiere Sports FHD
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/123083.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STARZ", STARZPLAY Sports HEVC
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/123084.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STARZ", STARZPLAY AD Sports Premium 1 HEVC
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/123085.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STARZ", STARZPLAY AD Sports Premium 2 HEVC
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/123086.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STARZ", STARZPLAY CricLife 3 FHD
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/158895.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STARZ", STARZPLAY CricLife 3 HD
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/158896.ts
+
+
+
+
 
 #EXTINF:-1 tvg-logo="-------" group-title="DIGI SPORT", DIGI SPORT 1
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=802_&extension=ts
