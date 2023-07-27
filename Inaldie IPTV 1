@@ -6488,11 +6488,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-H
 #EXTINF:-1 group-title="SPORT ASIA" tvg-id="MNCSports4.id" tvg-url="-----" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_88.png",Sportstars 4 HD
 https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
-#EXTINF:-1 tvg-logo="-------" group-title="SPORT ASIA", SPOTV 1
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683117&extension=ts&play_token=ttKChD9xXt
-
-#EXTINF:-1 tvg-logo="-------" group-title="SPORT ASIA", Spotv 2
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=941563&extension=ts&play_token=lbfhM1YCIK
 
 #EXTINF:-1 tvg-logo="-------" group-title="SPORT ASIA", SONY TEN 1 SPORT
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=156017&extension=ts&play_token=PILpZukiSU
@@ -6573,9 +6568,6 @@ http://humiptv.live:8080/live/tarun589853/5787489bcsh/143036.ts
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", ASTRO SUPERSPORT  2
 http://humiptv.live:8080/live/tarun589853/5787489bcsh/143037.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", ASTRO SUPERSPORT  2
-http://humiptv.live:8080/live/tarun589853/5787489bcsh/143038.ts
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", ASTRO SUPERSPORT  3
 http://humiptv.live:8080/live/tarun589853/5787489bcsh/143039.ts
 
@@ -6585,11 +6577,14 @@ http://humiptv.live:8080/live/tarun589853/5787489bcsh/143041.ts
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", ASTRO SUPERSPORT 5
 http://humiptv.live:8080/live/tarun589853/5787489bcsh/143045.ts
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", BEIN 3
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/143063.ts
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", BEIN 2
 http://humiptv.live:8080/live/tarun589853/5787489bcsh/143060.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", BEIN 3
-http://humiptv.live:8080/live/tarun589853/5787489bcsh/143063.ts
+#EXTINF:-1 tvg-logo="-------" group-title="SPORT ASIA", SPOTV 1
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683117&extension=ts&play_token=ttKChD9xXt
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", SPOTV 1
 http://humiptv.live:8080/live/tarun589853/5787489bcsh/143137.ts
@@ -6597,15 +6592,14 @@ http://humiptv.live:8080/live/tarun589853/5787489bcsh/143137.ts
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", SPOTV 2
 http://humiptv.live:8080/live/tarun589853/5787489bcsh/151193.ts
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", SPORTSTAR 1
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/151188.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", SPORTSTAR 2
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/151187.ts
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", SPORTSTAR 3
 http://humiptv.live:8080/live/tarun589853/5787489bcsh/151181.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", Sportstar 2
-http://humiptv.live:8080/live/tarun589853/5787489bcsh/151187.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", Sportstar 1
-http://humiptv.live:8080/live/tarun589853/5787489bcsh/151188.ts
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", SOCCER CHANEL
 http://humiptv.live:8080/live/tarun589853/5787489bcsh/151186.ts
