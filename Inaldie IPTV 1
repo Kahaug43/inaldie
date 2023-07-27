@@ -10343,6 +10343,22 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239085&extens
 #EXTINF:-1 tvg-logo="-------" group-title="SUPERSPORT", Super Sport Variety 4 B
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239084&extension=ts&play_token=Tj5rP8kRtc
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PEACOCK", NBC SPORT
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1032458&extension=ts&play_token=Km5mJBAKNm
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PEACOCK", PEACOCK PL
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1032457&extension=ts&play_token=cvcqACl3FV
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PEACOCK", PEACOCK 1
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1032456&extension=ts&play_token=sxawlwRtqd
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PEACOCK", PEACOCK 2
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1032455&extension=ts&play_token=Y03rpkUlFR
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PEACOCK", PEACOCK 3
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1032454&extension=ts&play_token=Y03rpkUlFR
+
 
 
 #EXTINF:-1 tvg-logo="-------" group-title="S SPORT", S SPORT TV 1
