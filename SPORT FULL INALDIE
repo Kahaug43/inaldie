@@ -12455,6 +12455,9 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=174798&extens
 #EXTINF:-1 tvg-logo="______" group-title="SPORT DLL", NBA TV
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=174795&extension=ts&play_token=Kux57Ra1IK
 
+#EXTINF:-1 tvg-logo="---------" group-title="SPORT DLL", C MORE SPORT 1
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/10882
+
 #EXTINF:-1 tvg-logo="______" group-title="SPORT DLL", FIFA 1
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=902919&extension=ts&play_token=xQBSyhkuNV
 
