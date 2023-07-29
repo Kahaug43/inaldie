@@ -12360,8 +12360,17 @@ http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/85700
 #EXTINF:-1 tvg-logo="---------" group-title="PRIMA SPORT", PRIMA SPORT 4
 http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/85699
 
+
+
+
 #EXTINF:-1 tvg-logo="-------" group-title="NOVA SPORT", NOVA SPORT 
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=9250_&extension=ts
+
+#EXTINF:-1 tvg-logo="---------" group-title="NOVA SPORT", NOVA SPORT 1
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/7001
+
+#EXTINF:-1 tvg-logo="---------" group-title="NOVA SPORT", NOVA SPORT 2
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/7003
 
 #EXTINF:-1 tvg-logo="-------" group-title="NOVA SPORT", SPORTAL TV
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=61840_&extension=ts
