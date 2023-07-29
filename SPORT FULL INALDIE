@@ -10546,6 +10546,89 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1014260&exten
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=163611&extension=ts&play_token=9GeLS15MNE
 
 
+
+
+#EXTINF:-1 tvg-logo="______" group-title="ESPN SPORT", ESPN 1
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=460917&extension=ts&play_token=FcCkSLTtTN
+
+#EXTINF:-1 tvg-logo="______" group-title="ESPN SPORT", ESPN 2
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=460916&extension=ts&play_token=Z04RGuetmU
+
+#EXTINF:-1 tvg-logo="______" group-title="ESPN SPORT", ESPN Vivo 1 LATIN
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=90793&extension=ts&play_token=PaP2loP7oQ
+
+#EXTINF:-1 tvg-logo="______" group-title="ESPN SPORT", ESPN Vivo 2 LATIN
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=90792&extension=ts&play_token=dlsyxcAlya
+
+#EXTINF:-1 tvg-logo="______" group-title="ESPN SPORT", ESPN EXTRA LATIN
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=90791&extension=ts&play_token=pzz51R3Gq2
+
+EXTINF:-1 tvg-logo="______" group-title="ESPN SPORT", ESPN PREMIUM
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=926450&extension=ts&play_token=gpJGAEeMqs
+
+
+#EXTINF:-1 tvg-logo="______" group-title="ESPN SPORT", ESPN DEPORTES VIVO
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=75284&extension=ts&play_token=iL6JMBF6Bx
+
+#EXTINF:-1 tvg-logo="______" group-title="ESPN SPORT", ESPN 1 VIVO ARG
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=79291&extension=ts&play_token=1ca1HQDz5X
+
+#EXTINF:-1 tvg-logo="______" group-title="ESPN SPORT", ESPN 2 VIVO ARG
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=436982&extension=ts&play_token=a4EkxnXdie
+
+
+#EXTINF:-1 tvg-logo="______" group-title="ESPN SPORT", ESPN 3 VIVO ARG
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=436983&extension=ts&play_token=xq18pvtHFl
+
+#EXTINF:-1 tvg-logo="______" group-title="ESPN SPORT", ESPN 2 VIVO CO
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=779427&extension=ts&play_token=IdZUXR3Mff
+
+#EXTINF:-1 tvg-logo="______" group-title="ESPN SPORT", ESPN 3 VIVO CO
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=779428&extension=ts&play_token=VVEvgGLdJT
+
+
+#EXTINF:-1 tvg-logo="______" group-title="ESPN SPORT", ESPN1 MXC
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=552836&extension=ts&play_token=H3xRvD6zGP
+
+#EXTINF:-1 tvg-logo="______" group-title="ESPN SPORT", ESPN 2 MXC
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=552834&extension=ts&play_token=4ec3qcFrTi
+
+#EXTINF:-1 tvg-logo="______" group-title="ESPN SPORT", ESPN 3 MXC
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=552835&extension=ts&play_token=pOsCKDHflO
+
+#EXTINF:-1 tvg-logo="______" group-title="ESPN SPORT", ESPN BR
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=59263&extension=ts&play_token=X6zX7oly5B
+
+#EXTINF:-1 tvg-logo="______" group-title="ESPN SPORT", ESPN 1 BR
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=59266&extension=ts&play_token=KqEZkAHjZw
+
+#EXTINF:-1 tvg-logo="______" group-title="ESPN SPORT", ESPN 2 BR
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=59264&extension=ts&play_token=77TktJ2wUr
+
+#EXTINF:-1 tvg-logo="______" group-title="ESPN SPORT", ESPN 3 BR
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=890657&extension=ts&play_token=tkC2nfbMNC
+
+#EXTINF:-1 tvg-logo="______" group-title="ESPN SPORT", ESPN 4 BR
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=890658&extension=ts&play_token=D9lxRTPgqr
+
+#EXTINF:-1 tvg-logo="______" group-title="ESPN SPORT", ESPN EXTRA BR
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=59262&extension=ts&play_token=2VsONMheo5
+
+#EXTINF:-1 tvg-logo="______" group-title="ESPN SPORT", ESPN 1 AU
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=646974&extension=ts&play_token=R5puZI1UMm
+
+#EXTINF:-1 tvg-logo="______" group-title="ESPN SPORT", ESPN 2 AU
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=646973&extension=ts&play_token=DQcGuhcsV4
+
+#EXTINF:-1 tvg-logo="______" group-title="ESPN SPORT", ESPN 1 CRB
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=533658&extension=ts&play_token=WUzuxPMnSV
+
+#EXTINF:-1 tvg-logo="______" group-title="ESPN SPORT", ESPN 2 CRB
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=550746&extension=ts&play_token=l2Y3om0fYd
+
+#EXTINF:-1 tvg-logo="______" group-title="ESPN SPORT", ESPN 2 CRB
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=533657&extension=ts&play_token=zax2w7kKRv
+
 #EXTINF:-1 tvg-logo="______" group-title="FOX SPORT", FOX SOCCER PLUS
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=174668&extension=ts&play_token=aP5SGPY26C
 
