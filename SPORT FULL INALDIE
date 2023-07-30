@@ -11894,6 +11894,16 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=91017&extensi
 #EXTINF:-1 tvg-logo="-------" group-title="FIGHT SPORT", PRIMIER FIGHT
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1121749&extension=ts&play_token=zIhRRcBhiR
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FORMULA 1", DAZN F1
+http://muka03.wanicelife.com:8880/3mms120038/52759565/52365
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FORMULA 1", SKY SPORT F1
+http://pro.xviptv.com:25443/live/1232343456/1234567890/131004.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FORMULA 1", CANAL+ F1
+http://pro.xviptv.com:25443/live/1232343456/1234567890/126531.ts
+
+
 
 
 
