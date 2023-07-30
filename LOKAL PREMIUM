@@ -2386,16 +2386,6 @@ http://live.serverstreaming.net:9340/kisifm
 https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
 
 
-=========================
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#PENYUSUN PLAYLIST BY: INALDIE#", JOINT TELEGRAM https://t.me/IPTVcostum
-https://github.com/inaldie/inaldie/raw/main/LOGO.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#PENYUSUN PLAYLIST BY: INALDIE#", DONASI GRUP https://saweria.co/Inaldie22
-https://github.com/inaldie/inaldie/raw/main/DONATE.ts
-
-
-
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT MANCANEGARA", beIN SPORTS NEWS HD
 http://kingtop10.net:7070/clubdeking2/eh4utvgr/102546
@@ -10766,9 +10756,6 @@ http://ipflix.click:80/chris17493/dahl10163/11443
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT MANCANEGARA 2", Extreme Sports NL
 http://ipflix.click:80/chris17493/dahl10163/11442
 
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#CREATOR PL BY: INALDIE#", WELCOME MY PLAYLIST
-https://github.com/inaldie/inaldie/raw/main/WELCOM.ts
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT TOP GLOBAL", BeIN Sports News HD
 http://new-pro.tv:8080/99622282/etbVXafU6f/33689
