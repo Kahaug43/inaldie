@@ -5717,9 +5717,6 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63102_&extens
 #EXTINF:-1 tvg-logo="-------" group-title="BEIN GRUP", SINEMA AKSIYON
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=31500_&extension=ts
 
-
-
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP ENTERTAIMENT", beIN Sports Global
 http://s1.g6ip.us:1997/Stephane/123456/9626
 
