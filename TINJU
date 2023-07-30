@@ -71,3 +71,5 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=18127_&extens
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIGHT SPORT", UFC CHANEL
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=108218_&extension=ts
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIGHT SPORT", RMC 1 CHANEL
+http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/92
