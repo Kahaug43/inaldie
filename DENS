@@ -2121,6 +2121,709 @@ http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=811932&extension
 http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=811931&extension=ts&play_token=CuwXckvtuK
 
 
+﻿
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn_u.png" group-title="LATIN SPORT", ESPN U HD
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/553
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/espnews.png" group-title="LATIN SPORT", ESPN News US HD
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/554
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_us_2.png" group-title="LATIN SPORT", FOX Sports 2 US HD
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/567
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_global.png" group-title="LATIN SPORT", FOX Sports South
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/572
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_lam_hd.png" group-title="LATIN SPORT", FOX Sports HD
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/1640
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_espanol.png" group-title="LATIN SPORT", BeIN Sports N
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/1642
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nfl_network_us.png" group-title="LATIN SPORT", NFL Network
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/2236
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nfl_red_zone.png" group-title="LATIN SPORT", NFL Red Zone
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/2237
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="LATIN SPORT", NBA TV
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/2238
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mlb_network.png" group-title="LATIN SPORT", MLB Network
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/2239
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/spectrum-sportsnet-us.png" group-title="LATIN SPORT", SPORTNET LA Dodgers
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/2240
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn_sec_network_us.png" group-title="LATIN SPORT", SEC Network
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/2242
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cbs-sports-network-us.png" group-title="LATIN SPORT", CBS Sports Network
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/2245
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvg_us.png" group-title="LATIN SPORT", TVG Network
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/2248
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/yy/yes-network-us.png" group-title="LATIN SPORT", YES Network
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/2252
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/golf_channel_us.png" group-title="LATIN SPORT", GOLF Channel
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/3605
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/olympic_channel_es.png" group-title="LATIN SPORT", Olympic Channel
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/3626
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/spectrum-sportsnet-us.png" group-title="LATIN SPORT", SPECTRUM SPORTSNET (Lakers)
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/3676
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/spectrum-sportsnet-us.png" group-title="LATIN SPORT", SPECTRUM SPORTSNET LA (DODGERS)
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/3677
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="LATIN SPORT", BeIN Sports US HD Encoder.
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/3680
+
+#EXTINF:-1 tvg-logo="http://148.72.158.127/ppvs2.png" group-title="LATIN SPORT", Sport Man
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/3710
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tigo-sports-py.png" group-title="LATIN SPORT", TIGO SPORTS HD (HN)
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/3731
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tigo-sports-py.png" group-title="LATIN SPORT", Tigo Sports 1 HD (CO)
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/3742
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/win_sports_co.png" group-title="LATIN SPORT", Win Sports HD (CO) Encoder
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/3743
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/win_sports_co.png" group-title="LATIN SPORT", Win Sports + HD (CO) Encoder
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/3744
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_global.png" group-title="LATIN SPORT", FOX Sports 1  HD (AR)
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/3798
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_2_lam.png" group-title="LATIN SPORT", FOX Sport 2 HD (AR)
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/3799
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_3_lam.png" group-title="LATIN SPORT", FOX Sport 3 HD. (AR)
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/3802
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-us.png" group-title="LATIN SPORT", TNT Sports (AR)
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/3804
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/directv-sports-us.png" group-title="LATIN SPORT", Directv Sports HD (AR)
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/3806
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/corp/bb/be_in_media_group.png" group-title="LATIN SPORT", BeiN Sport 3 HD Connetc (EN)
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/13251
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/corp/bb/be_in_media_group.png" group-title="LATIN SPORT", BeiN Sport 1 HD Connetc (EN)
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/13252
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn_us_plus.png" group-title="LATIN SPORT", ESPN + EN
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/16850
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="LATIN SPORT", ALL Sports
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/26789
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", Viasat Sport East
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/28207
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", Астрахань.Ru Sport
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/28217
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", Астрахань.Ru Sport
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/28218
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", Adventure Sports Network
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/28460
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mg7BTDP.jpg" group-title="LATIN SPORT", Edge Sports
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/28626
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", KBP SPORTS (720p)
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/28704
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/band_sports.png" group-title="LATIN SPORT", BAND SPORTS HD+
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/28924
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar-deportes-es.png" group-title="LATIN SPORT", Movistar Deportes
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/30749
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-2-us.png" group-title="LATIN SPORT", TNT Sports 2 HD (CL) Encoder.
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/31090
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_lam_hd.png" group-title="LATIN SPORT", FOX Sports HD (CL) Encoder
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/31104
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_2_lam.png" group-title="LATIN SPORT", FOX Sports 2 HD (CL) Encoder
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/31105
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tigo-sports-py.png" group-title="LATIN SPORT", TIGO SPORTS (GT)
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/3719
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/corp/tt/tigo_py.png" group-title="LATIN SPORT", TIGO SPORTS + HD (GT)
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/3720
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/todo_deportes_tv_hn.png" group-title="LATIN SPORT", Todo Deportes TV + (HN)
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/36739
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nbc_sports_california.png" group-title="LATIN SPORT", NBC Sports California
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/36775
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-qa.png" group-title="LATIN SPORT", BeIN Sports USA US Encoder.
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/37185
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sportsnet_west.png" group-title="LATIN SPORT", SportsNet West (CA)
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/37197
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/spectrum-sportsnet-us.png" group-title="LATIN SPORT", Spectrum Sportsnet LA
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/37198
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-3-us.png" group-title="LATIN SPORT", TNT Sports 3 HD (CL) Encoder
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/37632
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_global.png" group-title="LATIN SPORT", FOX Sports HD (CO) Encoder
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/37677
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_2_asia.png" group-title="LATIN SPORT", FOX Sports 2 HD (CO) Encoder
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/37678
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_global.png" group-title="LATIN SPORT", FOX Sports 3 HD (CO) Encoder
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/37679
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/wapa-dt-2-us-pr.png" group-title="LATIN SPORT", Wapa Deporte HD
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/536
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_1_cl.png" group-title="LATIN SPORT", FOX Sports 1 HD Encoder
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/39910
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_2_asia.png" group-title="LATIN SPORT", FOX Sports 2 HD Encoder
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/39911
+
+#EXTINF:-1 tvg-logo="http://45.83.118.226/APKS/logo.jpg" group-title="LATIN SPORT", (FOX Sports HD) CHILE HEVC
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/40326
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_global.png" group-title="LATIN SPORT", (FOX Sports HD)
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/40311
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_espanol.png" group-title="LATIN SPORT", BeIN Sports en Espanol US Encoder
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/37180
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-english-1-qa.png" group-title="LATIN SPORT", BeIN Sports US
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/37181
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/att-sportsnet-us.png" group-title="LATIN SPORT", AT&T SportsNet 2 West.
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/19497
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/att-sportsnet-us.png" group-title="LATIN SPORT", AT&T Sports US Encoder.
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/19499
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/altitude-sports-us.png" group-title="LATIN SPORT", Atitud Sports US
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/19500
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/att-sportsnet-us.png" group-title="LATIN SPORT", AT & T Sportsnet Pittsburgh (@)
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/19498
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/root_sports_us.png" group-title="LATIN SPORT", Root Sports Northwest US Encoder
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/19502
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_lam_hd.png" group-title="LATIN SPORT", FOX Sports HD Latino
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/19506
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_2_lam.png" group-title="LATIN SPORT", FOX Sports 2 Latino HD
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/19507
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_3_lam.png" group-title="LATIN SPORT", FOX Sports 3 Latino HD
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/19508
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/azteca-7-mx.png" group-title="LATIN SPORT", AZTECA Deportes HD Encoder k
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/37342
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nbcsn-us.png" group-title="LATIN SPORT", NBC Sports Network US
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/19505
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/ginx-esports-tv-uk.png" group-title="LATIN SPORT", GINX
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/36769
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/golf_channel_us.png" group-title="LATIN SPORT", GOLF Channel West
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/36770
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/wmaq_nbc5_chicago.png" group-title="LATIN SPORT", NBC Chicago (WMAQ)
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/36776
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nbcsn-us.png" group-title="LATIN SPORT", NBC Sports Philadelphia
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/36777
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn_2.png" group-title="LATIN SPORT", ESPN 2 US
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/36779
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn_sec_network_us.png" group-title="LATIN SPORT", ESPN SEC
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/36780
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tsn_1_ca.png" group-title="LATIN SPORT", TSN 1
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/36796
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tsn_2_ca.png" group-title="LATIN SPORT", TSN 2
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/36797
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tsn_3_ca.png" group-title="LATIN SPORT", TSN 3
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/36798
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tsn_4_ca.png" group-title="LATIN SPORT", TSN 4
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/36799
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tsn_5_ca.png" group-title="LATIN SPORT", TSN 5
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/36800
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/corp/dd/dish-usa-us.png" group-title="LATIN SPORT", TVG 2 Network East HD
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/36802
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/motortrend-us.png" group-title="LATIN SPORT", MotorTrend
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/36804
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sportsnet_one.png" group-title="LATIN SPORT", Sportsnet One (CA)
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/37192
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_global.png" group-title="LATIN SPORT", FOX Sports 3 HD Encoder
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/39912
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tigo-sports-py.png" group-title="LATIN SPORT", CR | Tigo Sports HD
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/40520
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_soccer_plus.png" group-title="LATIN SPORT", FOX SOCCER PLUS
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/40837
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-serie-it.png" group-title="LATIN SPORT", SKY Sports Arena UK
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/42152
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-action-it.png" group-title="LATIN SPORT", SKY Sports Action HD
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/42153
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-arena-it.png" group-title="LATIN SPORT", SKY Sports Arena HD
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/42154
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tigo-sports-py.png" group-title="LATIN SPORT", Tigo Sports PY (Encoder)
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/42801
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/gol-tv-us.png" group-title="LATIN SPORT", Gol TV FHD (EC SOLO EVENTOS)
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/43114
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/gol-tv-us.png" group-title="LATIN SPORT", Gol TV (Solo Eventos).
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/43115
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_mx_sports.png" group-title="LATIN SPORT", Sky Sports 16 BlueToGo N
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/43116
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/att-sportsnet-us.png" group-title="LATIN SPORT", AT&T Sportsnet Southwest HD
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/43395
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/afizzionados-mx.png" group-title="LATIN SPORT", AFIZZIONADOS FHD
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/43636
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tudn-mexico-mx.png" group-title="LATIN SPORT", TUDN MX PPV (@)
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/43759
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-golf-uk.png" group-title="LATIN SPORT", SKY GOLF HD
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/48019
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", NEW SPORTS MIX
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/49189
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", SKY Sports NFL
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/50341
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-1-qa.png" group-title="LATIN SPORT", beiN SPORTS XTRA Ñ
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/41315
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", ES: MOVISTAR DEPORTES +
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/50529
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/acc-network-us.png" group-title="LATIN SPORT", Espn ACC Network US
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/51204
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", Andrenalina Network HD
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/75333
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn_extra_lam.png" group-title="LATIN SPORT", ESPN MX HD
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/542
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn_2.png" group-title="LATIN SPORT", ESPN 2 Mexico HD (® Encoder)
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/543
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn_3_lam.png" group-title="LATIN SPORT", ESPN 3 HD MX Encoder
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/544
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn_us.png" group-title="LATIN SPORT", ESPN  1 SUR  HD
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/545
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn_2.png" group-title="LATIN SPORT", ESPN  2 SUR HD
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/546
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn_3_lam_norte.png" group-title="LATIN SPORT", ESPN 3 SUR HD
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/547
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn_us.png" group-title="LATIN SPORT", ESPN 1 HD (AR)
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/548
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn_2.png" group-title="LATIN SPORT", ESPN 2 HD (CO)
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/549
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn_2.png" group-title="LATIN SPORT", ESPN HD (CH)
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/550
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn_extra_lam.png" group-title="LATIN SPORT", ESPN EXTRA MX
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/551
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn_us.png" group-title="LATIN SPORT", ESPN HD (EN)
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/552
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn_deportes.png" group-title="LATIN SPORT", ESPN DEPORTES HD US
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/555
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_2_lam.png" group-title="LATIN SPORT", FOX Sports 2 HD MX
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/557
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_3_lam.png" group-title="LATIN SPORT", FOX Sports 3 Mex HD (@)
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/558
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_1_cl.png" group-title="LATIN SPORT", FOX Sports 1 HD (AR)
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/559
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_2_lam.png" group-title="LATIN SPORT", FOX Sports 2 SD (AR)
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/560
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_lam_hd.png" group-title="LATIN SPORT", FOX Sports 1 HD (AR)
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/561
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_3_lam.png" group-title="LATIN SPORT", FOX Sports 3 HD. (AR)
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/562
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_1_cl.png" group-title="LATIN SPORT", FOX Sports 1 (CH).
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/564
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_2_lam.png" group-title="LATIN SPORT", FOX Sports 2 (CH)
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/565
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_deportes_us.png" group-title="LATIN SPORT", FOX Sports Deportes HD
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/568
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/corp/ff/fox_sports_networks_us.png" group-title="LATIN SPORT", FOX Sports Florida
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/571
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/directv-sports-us.png" group-title="LATIN SPORT", DIRECTV Sports 1 HD
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/575
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/directv-sports-us.png" group-title="LATIN SPORT", DIRECTV Sports 2 HD (@)
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/576
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/directv-sports-us.png" group-title="LATIN SPORT", DIRECTV Sports Plus
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/577
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/directv-sports-us.png" group-title="LATIN SPORT", Directv Spots HD (PE)
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/578
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/directv-sports-us.png" group-title="LATIN SPORT", Directv Spots HD (EC)
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/580
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/directv-sports-us.png" group-title="LATIN SPORT", Directv Spots HD (AR)
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/581
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/win_sports_co.png" group-title="LATIN SPORT", Win Sports HD (CO)
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/582
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/win_sports_co_alterno.png" group-title="LATIN SPORT", Win Sports + HD (CO)
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/583
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/uu/ufc-tv-rossiya-us-ru.png" group-title="LATIN SPORT", UFC Network HD
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/584
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/world_wrestling_entertainment.png" group-title="LATIN SPORT", WWE Network US
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/585
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/spectrum-sportsnet-us.png" group-title="LATIN SPORT", SPORTNET LA Lakers
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/2241
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tudn-mexico-mx.png" group-title="LATIN SPORT", TUDN US (HD)
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/2246
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tudn-mexico-mx.png" group-title="LATIN SPORT", TUDN MEX HD Encoder
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/2247
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cdo_cl_premium.png" group-title="LATIN SPORT", CDO PREMIUN
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/2253
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/futv-cr.png" group-title="LATIN SPORT", FUTV (COSTA RICA)
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/2254
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/gol-tv-us.png" group-title="LATIN SPORT", GOL TV PERU
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/2255
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tennis_channel.png" group-title="LATIN SPORT", Tennis Channel
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/2385
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/la_liga_es.png" group-title="LATIN SPORT", BeIN Sports la Liga
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/3678
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_espanol.png" group-title="LATIN SPORT", BeIN Sports N.
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/3679
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tigo-sports-py.png" group-title="LATIN SPORT", Tigo Sports (Costa Rica)-
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/3681
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tigo-sports-py.png" group-title="LATIN SPORT", Tigo Sports  HD (Hondura)
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/3682
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tigo-sports-py.png" group-title="LATIN SPORT", Tigo Sports HD + (Salvador)
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/3683
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tigo-sports-py.png" group-title="LATIN SPORT", Tigo Sports HD (Guatemala)
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/3684
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tigo-sports-py.png" group-title="LATIN SPORT", Tigo Sports HD  Plus
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/3685
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tigo-sports-py.png" group-title="LATIN SPORT", Tigo Sports (Bolivia)
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/3686
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tigo-sports-py.png" group-title="LATIN SPORT", Tigo Sports HD (Paraguay) r
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/3687
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/futv-cr.png" group-title="LATIN SPORT", FUTV (Movistar)
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/3688
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/barca_tv.png" group-title="LATIN SPORT", LA LIGA : BARCA TV
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/3812
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-us.png" group-title="LATIN SPORT", TNT Sports HD
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/13231
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/olympic_channel_es.png" group-title="LATIN SPORT", Claro Sports FHD MX
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/29620
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/aym_sports.png" group-title="LATIN SPORT", AyM Sports FHD
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/36795
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tyc_sports.png" group-title="LATIN SPORT", TyC Sports HD (® Encoder)
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/36801
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvc-deportes-mx.png" group-title="LATIN SPORT", TVC Deportes
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/36807
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tyc_sports.png" group-title="LATIN SPORT", TyC Sports UHD (C)
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/37183
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_espanol.png" group-title="LATIN SPORT", BeIN Sports en Espanol UHD
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/37184
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_deportes_us.png" group-title="LATIN SPORT", FOX Sports Deportes HD #Op 2
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/37684
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tyc_sports.png" group-title="LATIN SPORT", TyC Sports FHD Encoder
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/39822
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn-4-america-latina-us.png" group-title="LATIN SPORT", ESPN 4 FHD
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/40579
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/toros_tv_es.png" group-title="LATIN SPORT", Toros TV
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/40949
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-us.png" group-title="LATIN SPORT", TNT Sports Encoder
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/41461
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", USA | Bally Sports Wisconsin
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/42421
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", USA | Bally Sports West
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/42422
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", USA | Bally Sports Sun
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/42423
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", USA | Bally Sports South
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/42424
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", USA | Bally Sports Southwest
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/42425
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", USA | Bally Sports Southeast
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/42426
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", USA | Bally Sports San Diego
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/42427
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", USA | Bally Sports Ohio
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/42428
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", USA | Bally Sports North
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/42429
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", USA | Bally Sports Midwest
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/42430
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", USA | Bally Sports Florida
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/42431
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", USA | Bally Sports Detroit
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/42432
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", USA | Bally Sports Arizona
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/42433
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", USA | Bally Sports Kansas City
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/42435
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", USA | Bally Sports Indiana
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/42436
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", USA | Bally Sports SoCal
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/42437
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", USA | Bally Sports Great Lakes
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/42438
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", USA | Bally Sports Oklahoma
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/42439
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", USA | Bally Sports New Orleans
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/43190
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/afizzionados-mx.png" group-title="LATIN SPORT", Afizzionados
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/43635
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_global.png" group-title="LATIN SPORT", FOX Sports Premium. MEX (@)
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/43925
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn-premium-us-ar.svg" group-title="LATIN SPORT", ESPN Premium HD (@) (AR)
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/43926
+
+#EXTINF:-1 tvg-logo="http://sat4encoder.is-by.us/logos/foz%20pe.jpg" group-title="LATIN SPORT", FOX Sport Premium HD Mex (@) Op.2
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/44015
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nbc-sports-chicago-us.png" group-title="LATIN SPORT", NBC Sports Chicago
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/47819
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn_2.png" group-title="LATIN SPORT", ESPN 2 HD MX (®) H264
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/48317
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn_3_lam_norte.png" group-title="LATIN SPORT", Espn 3 HD (@) H264
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/48318
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/directv-sports-us.png" group-title="LATIN SPORT", Directv Spots HD (CO)
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/49754
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn-3-america-latina-us.png" group-title="LATIN SPORT", ESPN 3 HD MX Encoder
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/58968
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_global.png" group-title="LATIN SPORT", FOX Sports MX
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/58969
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", BOX Nation HD
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/76394
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cowboy-channel-us.png" group-title="LATIN SPORT", Cowboy Channel
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/79352
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="LATIN SPORT", NBA MAVERICK
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/79640
+
+#EXTINF:-1 tvg-logo="http://cupra290.mine.nu/app/PPV-Logo-Final.png" group-title="LATIN SPORT", ECU | Canal del Futbol (Solo Eventos)
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/953
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-de.png" group-title="LATIN SPORT", PPV DAZN F1 MX #OP2
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/954
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-de.png" group-title="LATIN SPORT", PPV DAZN F1 MX
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/3711
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-de.png" group-title="LATIN SPORT", PPV DAZN 2 ES
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/13246
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_mx_sports.png" group-title="LATIN SPORT", SKY Sports 1 HD LA LIGA
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/13247
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_mx_sports.png" group-title="LATIN SPORT", SKY Sports Main Event
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/13248
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_mx_sports.png" group-title="LATIN SPORT", SKY Sports 16 HD MX
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/13249
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_mx_sports.png" group-title="LATIN SPORT", SKY Sports 16 HD MX
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/13250
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-f1-de.png" group-title="LATIN SPORT", SKY Sports F1 HD
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/13257
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn_extra_lam.png" group-title="LATIN SPORT", ESPN + HD (US)
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/37857
+
+#EXTINF:-1 tvg-logo="http://cupra290.mine.nu/app/PPV-Logo-Final.png" group-title="LATIN SPORT", PPV UFC | SOLO EVENTOS
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/39835
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-de.png" group-title="LATIN SPORT", PPV | DAZN BOX Solo Eventos
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/39836
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-premier-league-uk.png" group-title="LATIN SPORT", SKY SPORTS PREMIER LEAGUE Op.2
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/41313
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_mx_sports.png" group-title="LATIN SPORT", Sky Sports 24 BUNDESLIGA BlueToGo
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/41314
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn_deportes.png" group-title="LATIN SPORT", ESPN DEPORTES SD US
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/123048
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/torole.png" group-title="LATIN SPORT", Torolé ES
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/124558
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", ELEVEN SPORTS NET
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/132040
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/world_fishing_network.png" group-title="LATIN SPORT", Wolrd Fishing Network
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/133404
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sports-tv.png" group-title="LATIN SPORT", My Sports TV (TR)
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/224454
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", Sport TV (TR)
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/224483
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/pac_12_networks_us.png" group-title="LATIN SPORT", PAC 12 MOUNTAIN
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/72727
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", SKY Sports Premier League
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/247094
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/directv-sports-us.png" group-title="LATIN SPORT", Directv Spots HD plus (EC)
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/247285
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn_deportes.png" group-title="LATIN SPORT", ESPN Deportes HQ
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/257343
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_global.png" group-title="LATIN SPORT", FOX Sports Premiun HD (@)
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/261742
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sportsnet_east.png" group-title="LATIN SPORT", SportsNet East (CA)
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/261823
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tigo-sports-py.png" group-title="LATIN SPORT", Tigo Sports (SV)
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/261860
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_us_1.png" group-title="LATIN SPORT", FOX Sports 1 US HD
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/261864
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-us.png" group-title="LATIN SPORT", TNT Sports HD (CL) Encoder
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/262088
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tigo-sports-py.png" group-title="LATIN SPORT", Tigo Sports (CR).
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/262090
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tigo-sports-py.png" group-title="LATIN SPORT", Tigo Sports 2 BO
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/262091
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/corp/bb/be_in_media_group.png" group-title="LATIN SPORT", BeiN Sport 2 HD Connetc (EN) (Encoder)
+http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/262348
+
+
+
 #EXTINF:-1 tvg-logo="______" group-title="AMAZON PRIME", AMAZON 1
 http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1275543&extension=ts&play_token=gHH5j332YQ
 
