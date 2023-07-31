@@ -3230,16 +3230,16 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=560_&extensio
 #EXTINF:-1 tvg-logo="-------" group-title="MOVISTAR  SPORT", MOVIESTAR DEPORTES 2
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=16512_&extension=ts
 
-#EXTINF:-1 tvg-logo="-------" group-title="BT  SPORT", BT SPORT 1
+#EXTINF:-1 tvg-logo="-------" group-title="BT SPORT", BT SPORT 1
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=11484_&extension=ts
 
-#EXTINF:-1 tvg-logo="-------" group-title="BT  SPORT", BT SPORT 2
+#EXTINF:-1 tvg-logo="-------" group-title="BT SPORT", BT SPORT 2
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=11485_&extension=ts
 
-#EXTINF:-1 tvg-logo="-------" group-title="BT  SPORT", BT SPORT 3
+#EXTINF:-1 tvg-logo="-------" group-title="BT SPORT", BT SPORT 3
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=11486_&extension=ts
 
-#EXTINF:-1 tvg-logo="-------" group-title="BT  SPORT", BT SPORT 4
+#EXTINF:-1 tvg-logo="-------" group-title="BT SPORT", BT SPORT 4
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=316_&extension=ts
 
 
