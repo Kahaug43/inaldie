@@ -10,6 +10,646 @@ https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 https://github.com/inaldie/inaldie/raw/main/DONATE.ts
 
 
+
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_trans7_big1.png" group-title="LOKAL", TRANS 7
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1186
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_transtv_big1.png" group-title="LOKAL", TRANS TV
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1185
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_indosiar_ver3.png" group-title="LOKAL", INDOSIAR
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1070
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_sctv_ver3.png" group-title="LOKAL", SCTV
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1065
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/logo_rcti_hd.png" group-title="LOKAL", RCTI
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1078
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/logo_gtv_hd.png" group-title="LOKAL", GTV
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1187
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/logo_mnc_hd.png" group-title="LOKAL", MNC TV
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1080
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_inews_small.png" group-title="LOKAL", iNEWS
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1082
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_antv_big1.png" group-title="LOKAL", ANTV
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/734
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_tvone_big1.png" group-title="LOKAL", TV ONE
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1154
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png" group-title="LOKAL", NET TV
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/744
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_metrotv_ver1.png" group-title="LOKAL", METRO TV
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1151
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_small.png" group-title="LOKAL", KOMPAS TV
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/769
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_rtv_ver1.png" group-title="LOKAL", RTV
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1076
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_ochannel_ver1.png" group-title="LOKAL", MOJI TV
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1104
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" group-title="MOVIES", HBO HD
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/795
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8mgc3qG/hbohits.png" group-title="MOVIES", HBO Hits HD
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/797
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4TFkw0B/hbosignature.png" group-title="MOVIES", HBO Signature HD
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/801
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0GWjcWV/hbofamily.png" group-title="MOVIES", HBO Family HD
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/792
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WfRpvsJ/cinemax.png" group-title="MOVIES", Cinemax ID
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/781
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png" group-title="MOVIES", Warner TV ID HD
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/814
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_paramount_ver1.png" group-title="MOVIES", Paramount Network
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/788
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png" group-title="MOVIES", Bioskop Indonesia
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/777
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_flik_big1.png" group-title="MOVIES", FLIK HD
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/782
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_dunialain_big.png" group-title="ENTERTAINMENT", Dunia Lain
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/737
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png" group-title="KIDS", Aniplus
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/834
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png" group-title="KIDS", Dunia Anak
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/845
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" group-title="KIDS", Nick Jr ID
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/849
+
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/04/30/bein1.jpg" group-title="SPORTS ID", BeIN Sport 1 ID
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/893
+
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/04/30/foxsports.png" group-title="SPORTS ID", SPOTV 1
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/898
+
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/04/30/Fox_Sports_3_logo.png" group-title="SPORTS ID", SPOTV 2
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/900
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032018/untitled-3_29.png" group-title="SPORTS ID", NBA TV HD
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/902
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA", MY - ASSP1
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/906
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA", MY - ASSP2
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/907
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA", MY - ASSP3
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/908
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA", MY - ASSP4
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/909
+
+#EXTINF:-1 tvg-logo="https://ogietv.biz.id:443/images/QCqX5p5x3Y181Q8jwb82JAUpBPufpXrtNAIwjCXRp00pilY1-B_KQKi7nnPK9DqY.png" group-title="ENTERTAINMENT", Chinese Drama
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/913
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA", MY - ASSP5
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/910
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA", MY: Astro Bola 2
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/912
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA", MY - iQIYI HD
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/934
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA", MY - COLORS HD
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/995
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA", MY - Showcase Movies
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/996
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA", MY - beIN SPORTS
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1000
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA", MY - bEIN Sports 3
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1001
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA", MY - WWE NETWORK
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1003
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA", MY - BOO
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1020
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA", MY - PrimeTime
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1021
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA", MY - Astro Rania HD
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1023
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA", MY - Bein Sports 2
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1036
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png" group-title="KNOWLEDGE", Nat Geo Wild HD
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/829
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png" group-title="KNOWLEDGE", Nat Geo HD
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/827
+
+#EXTINF:-1 tvg-logo="https://www.klikwarta.com/sites/default/files/inline-images/image003.png" group-title="KNOWLEDGE", Lingua Channel
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/825
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png" group-title="KNOWLEDGE", History HD
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/824
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_hits_ver1.png" group-title="MOVIES", HITS HD
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/803
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_imc_big.png" group-title="MOVIES", IMC SD
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/805
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_galaxypremium_big.png" group-title="MOVIES", Galaxy Premium
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/789
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_galaxy_big.png" group-title="MOVIES", Galaxy
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/790
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="MOVIES", Celestial Movies
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/779
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png" group-title="MOVIES", AXN
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/776
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_blueant_big.png" group-title="ENTERTAINMENT", Rock Entertainment HD
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/778
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png" group-title="MOVIES", KIX HD
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/808
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_lifetime_small.png" group-title="MOVIES", LifeTime HD
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/809
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_crimeinvestigation_small.png" group-title="KNOWLEDGE", Crime Investigation
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/817
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="MOVIES", Thrill
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/813
+
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple49/v4/3b/f7/73/3bf773db-d79d-24d4-8007-9fa48aeca225/pr_source.png/246x0w.png" group-title="KIDS", Animax
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/833
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="KIDS", Boomerang ID
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/836
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_cartoonnetwork_small.png" group-title="KIDS", Cartoon Network ID HD
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/837
+
+#EXTINF:-1 tvg-logo="https://static.filmon.com/assets/channels/3191/extra_big_logo.png" group-title="KIDS", CBeebies
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/838
+
+#EXTINF:-1 tvg-logo="https://cordcutting.com/wp-content/uploads/2017/02/disney-channel-logo.png" group-title="KIDS", Indi Kids
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/839
+
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/disney_junior.png" group-title="KIDS", My Kidz
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/840
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS", Dream Works HD
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/843
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png" group-title="KIDS", Horee
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/846
+
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/nickelodeon.png" group-title="KIDS", Nickelodeon ID
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/851
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS", My Kidz
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/847
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_blueantextreme_ver1.png" group-title="MOVIES", Rock Action HD
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/858
+
+#EXTINF:-1 tvg-logo="http://www.orcacommunications.com/wp-content/uploads/2018/01/hgtv.png" group-title="KNOWLEDGE", HGTV
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/864
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_insert_big1.png" group-title="ENTERTAINMENT", Insert
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/865
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_nhkworld_big.png" group-title="ENTERTAINMENT", NHK World Japan
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/866
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_tvnmovies_ver1.png" group-title="MOVIES", tVN Movies HD
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/877
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_tvn_big.png" group-title="MOVIES", TVN ID
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/876
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_sone_big.png" group-title="MOVIES", Sony ONE
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/875
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_sgem_big.png" group-title="MOVIES", S GEM HD
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/874
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png" group-title="KIDS", Mentari TV
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1143
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_hitsmovie_ver1.png" group-title="MOVIES", Hits Movies HD
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/784
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS ID", Usee Sport
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1189
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS ID", Usee Sports 2
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1190
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x33RSwC/Assp-1.jpg" group-title="VIP SPORTS", ASSP 1
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1191
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/K5Kc6GC/Assp-2.jpg" group-title="VIP SPORTS", ASSP 2
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1192
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QvV1bzN/Assp-3.jpg" group-title="VIP SPORTS", ASSP 3
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1193
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k2GK5BW/Assp-4.jpg" group-title="VIP SPORTS", ASSP 4
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1194
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hF9hL5d/Assp-5.jpg" group-title="VIP SPORTS", ASSP 5
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1195
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tYYLtDK/Arena.jpg" group-title="VIP SPORTS", ASTRO ARENA
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1196
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LY7kkGJ/Cricket.jpg" group-title="VIP SPORTS", ASTRO CRICKET
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1197
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rc7zktC/Premier-league.jpg" group-title="VIP SPORTS", AF : SuperSport Premier League
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1198
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pRpfnXS/Football-hometv.jpg" group-title="VIP SPORTS", AF : Football
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1199
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7y7XLsL/Laliga-hometv.jpg" group-title="VIP SPORTS", AF : SuperSport LaLiga
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1200
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ngfPBrm/Motorsport-hometv.jpg" group-title="VIP SPORTS", AF : SuperSport MotorSport
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1201
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FqffpRS/Tennis-hometv.jpg" group-title="VIP SPORTS", AF : SuperSport Tennis
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1202
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sbHGsGf/Action-hometv.jpg" group-title="VIP SPORTS", AF : SuperSport Action
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1203
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bLtTpjS/Golf-hometv.jpg" group-title="VIP SPORTS", AF : SuperSport Golf
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1204
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vxr6fpW/Cricket-hometv.jpg" group-title="VIP SPORTS", AF : SuperSport Cricket
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1205
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFrCR60/Psl-hometv.jpg" group-title="VIP SPORTS", AF : SuperSport PSL
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1206
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3fLDDPX/Rugby-hometv.jpg" group-title="VIP SPORTS", AF : SuperSport RUGBY
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1207
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/frkb6Td/Variety-1-homerv.jpg" group-title="VIP SPORTS", AF : SuperSport Variety 1
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1208
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fMXJCzz/Variety-2-hometv.jpg" group-title="VIP SPORTS", AF : SuperSport Variety 2
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1209
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZLQN54d/Variety-3-hometv.jpg" group-title="VIP SPORTS", AF : SuperSport Variety 3
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1210
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QQrZZ1v/Variety-4-hometv.jpg" group-title="VIP SPORTS", AF : SuperSport Variety 4
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1211
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/V9ZtgmT/Main-event.jpg" group-title="VIP SPORTS", SKY SPORTS MAIN EVENT
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1212
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c6YFRcQ/Premier-league.jpg" group-title="VIP SPORTS", SKY SPORTS PREMIER LEAGUE
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1213
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HxZFzSy/Football.jpg" group-title="VIP SPORTS", SKY SPORTS FOOTBALL
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1214
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MR7xhyW/Formula-1.jpg" group-title="VIP SPORTS", SKY SPORTS F1
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1215
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gFxVKH1/Action.jpg" group-title="VIP SPORTS", SKY SPORTS ACTION
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1216
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5R8V0BL/Arena.jpg" group-title="VIP SPORTS", SKY SPORTS ARENA
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1217
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CpcgXh2/Cricket.jpg" group-title="VIP SPORTS", SKY SPORTS CRICKET
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1218
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GWQWk50/Golf.jpg" group-title="VIP SPORTS", SKY SPORTS GOLF
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1219
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/djrR3QW/News.jpg" group-title="VIP SPORTS", SKY SPORTS NEWS
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1220
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0fY3qQL/Eurosport-1.jpg" group-title="VIP SPORTS", EURO SPORTS 1
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1221
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5njD6jk/Eurosport-2.jpg" group-title="VIP SPORTS", EURO SPORTS 2
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1222
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Cs6DXtj/Bt1.jpg" group-title="VIP SPORTS", BT SPORTS 1
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1223
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9nH3xjL/Bt2.jpg" group-title="VIP SPORTS", BT SPORTS 2
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1224
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c8sN42J/Bt3.jpg" group-title="VIP SPORTS", BT SPORTS 3
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1225
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wd5vcJC/Sporttv-1.jpg" group-title="VIP SPORTS", SPORTTV 1
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1226
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zXHGSVv/Sporttv-2.jpg" group-title="VIP SPORTS", SPORTTV 2
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1227
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KGgcb88/Sporttv-3.jpg" group-title="VIP SPORTS", SPORTTV 3
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1228
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RBSxGsD/Sporttv-4.jpg" group-title="VIP SPORTS", SPORTTV 4
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1229
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4mJ2V92/Bein-premi-1.jpg" group-title="VIP SPORTS", BEIN PREMI 1
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1230
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/47Hr01B/Bein-premi-2.jpg" group-title="VIP SPORTS", BEIN PREMI 2
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1231
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/T4TQCVZ/Bein-premi-3.jpg" group-title="VIP SPORTS", BEIN PREMI 3
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1232
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DzSLFNL/Bein-1.jpg" group-title="VIP SPORTS", BEIN 1
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1233
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NjBfyHh/Bein-2.jpg" group-title="VIP SPORTS", BEIN 2
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1234
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JrY1CKX/Bein-3.jpg" group-title="VIP SPORTS", BEIN 3
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1235
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2YjsL3v/Bein-4.jpg" group-title="VIP SPORTS", BEIN 4
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1236
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jvfn567/Bein-5.jpg" group-title="VIP SPORTS", BEIN 5
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1237
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/X3yCst2/Bein-6.jpg" group-title="VIP SPORTS", BEIN 6
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1238
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TqL9HWz/Bein-7.jpg" group-title="VIP SPORTS", BEIN 7
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1239
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WHNZTtj/English-1.jpg" group-title="VIP SPORTS", BEIN 1 ENGLISH
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1240
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4fQ6mnv/English-2.jpg" group-title="VIP SPORTS", BEIN 2 ENGLISH
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1241
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jzPKTf1/English-3.jpg" group-title="VIP SPORTS", BEIN 3 ENGLISH
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1242
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1mYbYVT/France-1.jpg" group-title="VIP SPORTS", BEIN 1 FR
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1243
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WnDHFrQ/France-2.jpg" group-title="VIP SPORTS", BEIN 2 FR
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1244
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jrWqYgW/France-3.jpg" group-title="VIP SPORTS", BEIN 3 FR
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1245
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4phFp9Y/Ssc-1.jpg" group-title="VIP SPORTS", |AR| SSC SPORTS 1 HD
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1246
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qgkbhcb/Ssc-2.jpg" group-title="VIP SPORTS", |AR| SSC SPORTS 2 HD
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1247
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QrxtSRW/Ssc-3.jpg" group-title="VIP SPORTS", |AR| SSC SPORTS 3 HD
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1248
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/syfkXQT/Ssc-4.jpg" group-title="VIP SPORTS", |AR| SSC SPORTS 4 HD
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1249
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YXgk5Cd/Ssc-5.jpg" group-title="VIP SPORTS", |AR| SSC SPORTS 5 HD
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1250
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4FLDgZr/Extra-1.jpg" group-title="VIP SPORTS", |AR| SSC EXTRA 1 HD
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1251
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vd5KxRc/Extra-2.jpg" group-title="VIP SPORTS", |AR| SSC EXTRA 2 HD
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1252
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/09Pz3d1/Extra-3.jpg" group-title="VIP SPORTS", |AR| SSC EXTRA 3 HD
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1253
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cDxj847/Premier-hd-1.jpg" group-title="VIP SPORTS", TRUE PREMIER HD 1
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1254
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6mSLLHJ/Premier-hd-2.jpg" group-title="VIP SPORTS", TRUE PREMIER HD 2
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1255
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FVRyVGD/Premier-hd-3.jpg" group-title="VIP SPORTS", TRUE PREMIER HD 3
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1256
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/By9r7tB/Premier-hd-4.jpg" group-title="VIP SPORTS", TRUE PREMIER HD 4
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1257
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/T8x9MR7/Premier-hd-5.jpg" group-title="VIP SPORTS", TRUE PREMIER HD 5
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1258
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JpCHCkH/True-sport-1.jpg" group-title="VIP SPORTS", TRUE SPORTS HD 1
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1259
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PDSNGWL/True-sport-2.jpg" group-title="VIP SPORTS", TRUE SPORTS HD 2
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1260
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nD846N1/True-sport-3.jpg" group-title="VIP SPORTS", TRUE SPORTS HD 3
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1261
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LNGNc5k/Bein-1-th.jpg" group-title="VIP SPORTS", BEIN SPORTS 1 TH
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1262
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RzpRzdz/Bein-3-th.jpg" group-title="VIP SPORTS", BEIN SPORTS 3 TH
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1263
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r5pygFZ/True-tennis.jpg" group-title="VIP SPORTS", TRUE TENNIS
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1264
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C6ybDzM/True-golf.jpg" group-title="VIP SPORTS", TRUE GOLF
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1265
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VxDDtMB/Racing.jpg" group-title="VIP SPORTS", AU : RACING.COM
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1266
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HK8CWqP/H-C.jpg" group-title="VIP SPORTS", AU : H&C
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1267
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KDbtKpN/502.jpg" group-title="VIP SPORTS", AU : FOX 502
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1268
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QJBsSDy/503.jpg" group-title="VIP SPORTS", AU : FOX 503
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1269
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M1Y5myq/504.jpg" group-title="VIP SPORTS", AU : FOX 504
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1270
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v1mR0Yd/505.jpg" group-title="VIP SPORTS", AU : FOX 505
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1271
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c6rybhj/506.jpg" group-title="VIP SPORTS", AU : FOX 506
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1272
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XsqqgC0/507.jpg" group-title="VIP SPORTS", AU : FOX 507
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1273
+
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports/polsat_sport.jpg" group-title="VIP SPORTS", POLSAT SPORT
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1274
+
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports/polsat_sport_extra.jpg" group-title="VIP SPORTS", POLSAT EXTRA
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1275
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VIP SPORTS", POLSAT PREMIUM 2
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1276
+
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports/polsat_sport_news.jpg" group-title="VIP SPORTS", POLSAT SPORT NEWS
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1277
+
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports/canal+.jpg" group-title="VIP SPORTS", CANAL +
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1278
+
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports/sportklub1.jpg" group-title="VIP SPORTS", SPORT KLUB 1
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1279
+
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports/sportklub2.jpg" group-title="VIP SPORTS", SPORT KLUB 2
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1280
+
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports/sportklub3.jpg" group-title="VIP SPORTS", SPORT KLUB 3
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1281
+
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports/sportklub4.jpg" group-title="VIP SPORTS", SPORT KLUB 4
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1282
+
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports/sportklub5.jpg" group-title="VIP SPORTS", SPORT KLUB 5
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1283
+
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports/sportklub6.jpg" group-title="VIP SPORTS", SPORT KLUB 6
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1284
+
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports/sportklub_fight.jpg" group-title="VIP SPORTS", SPORT KLUB FIGHT
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1285
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VIP SPORTS", TEN1
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1286
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VIP SPORTS", TEN2
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1287
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VIP SPORTS", TEN3
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1288
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VIP SPORTS", STAR SPORT SELECT 1
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1289
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VIP SPORTS", STAR SPORT SELECT 2
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1290
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VIP SPORTS", PTV SPORTS
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1291
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VIP SPORTS", WILLOW CRICKET
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1292
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VIP SPORTS", NFL
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1293
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VIP SPORTS", ASTRO ARENA 2
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1294
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES", Hits Movies
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/783
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Azad_Azerbaycan_TV_logosu.png/220px-Azad_Azerbaycan_TV_logosu.png" group-title="MOVIES", ATV
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/775
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082015/fox-life_0.png" group-title="MOVIES", HITS
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/787
+
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_410.png" group-title="MOVIES", My Family Channel
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/785
+
+#EXTINF:-1 tvg-logo="https://www.infotelevisi.com/asset/images/tv/star_chinese_movies_legend.png" group-title="MOVIES", My Cinema Asia
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/811
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES", Celestial Classic Movies CCM
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/815
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES", Celestial Classic Movies
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/1295
+
+#EXTINF:-1 tvg-logo="https://www.maryville.edu/wp-content/uploads/2017/08/channel-logo-animal-planet-1.png" group-title="KNOWLEDGE", Animal Planet HD
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/816
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png" group-title="KNOWLEDGE", TechStorm
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/828
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTERTAINMENT", AFN HD
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/856
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTERTAINMENT", Citra Drama
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/859
+
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_kplus_big1.png?v=1.0.0.0" group-title="ENTERTAINMENT", K Plus
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/872
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTERTAINMENT", Citra Dangdut
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/879
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTERTAINMENT", i konser
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/880
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTERTAINMENT", TLC HD
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/878
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTERTAINMENT", Eat & Go
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/861
+
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/04/30/FightSportsLogo2x.png" group-title="SPORTS ID", Fight Sports
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/897
+
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/04/30/golfchannel.png" group-title="SPORTS ID", Golf Channel FHD
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/901
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTERTAINMENT", Formosa
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/915
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTERTAINMENT", CTI Asia
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/914
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES", MY - NICKELODEON HD
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/977
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS", MY - NICK JR
+http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/978
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/MNCTV_MNC-Group.svg" group-title="DENS TV", MNCTV
 http://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
 
@@ -1523,7 +2163,6 @@ http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=110735&extension=
 
 #EXTINF:-1 tvg-logo="-------" group-title="ARENA SPORT", Arena Sport 4 HR
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=110734&extension=ts&play_token=bbjFaaZkiY
-
 
 #EXTINF:-1 tvg-logo="-------" group-title="ARENA SPORT", Arena Sport 5 HR
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=110733&extension=ts&play_token=5o6DI81zOu
