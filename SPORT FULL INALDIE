@@ -9547,8 +9547,6 @@ http://s1.g6ip.us:1997/Stephane/123456/84845
 
 
 
-
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARABIC SPORT", SSC Extra 1 HD
 http://onrev.xyz:80/ktAdMh4W/m9rIa2jswh/167509
 
@@ -9637,77 +9635,119 @@ http://onrev.xyz:80/ktAdMh4W/m9rIa2jswh/55192
 http://onrev.xyz:80/ktAdMh4W/m9rIa2jswh/55193
 
 
+#EXTINF:-1 tvg-logo="-------" group-title="BEIN SPORT", BEIN SPORT PREMIUM 1
+http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=238261&extension=ts&play_token=yVIFGtzLtE
+#EXTINF:-1 tvg-logo="-------" group-title="BEIN SPORT", BEIN SPORT PREMIUM 2
+http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=238262&extension=ts&play_token=yVIFGtzLtE
+#EXTINF:-1 tvg-logo="-------" group-title="BEIN SPORT", BEIN SPORT PREMIUM 3
+http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=238263&extension=ts&play_token=yVIFGtzLtE
+#EXTINF:-1 tvg-logo="-------" group-title="BEIN SPORT", BEIN SPORT 1 AR
+http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=238265&extension=ts&play_token=yVIFGtzLtE
+#EXTINF:-1 tvg-logo="-------" group-title="BEIN SPORT", BEIN SPORT 2 AR
+http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=238264&extension=ts&play_token=yVIFGtzLtE
+#EXTINF:-1 tvg-logo="-------" group-title="BEIN SPORT", BEIN SPORT 3 AR
+http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=238266&extension=ts&play_token=yVIFGtzLtE
+#EXTINF:-1 tvg-logo="-------" group-title="BEIN SPORT", BEIN SPORT 4 AR
+http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=238267&extension=ts&play_token=yVIFGtzLtE
+#EXTINF:-1 tvg-logo="-------" group-title="BEIN SPORT", BEIN SPORT 5 AR
+http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=238268&extension=ts&play_token=yVIFGtzLtE
+#EXTINF:-1 tvg-logo="-------" group-title="BEIN SPORT", BEIN SPORT 6 AR
+http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=238269&extension=ts&play_token=yVIFGtzLtE
+#EXTINF:-1 tvg-logo="-------" group-title="BEIN SPORT", BEIN SPORT 7 AR
+http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=238270&extension=ts&play_token=yVIFGtzLtE
+#EXTINF:-1 tvg-logo="-------" group-title="BEIN SPORT", BEIN SPORT 8 AR
+http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=238271&extension=ts&play_token=yVIFGtzLtE
 
 #EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT AR", BEIN SPORT NEWS
 http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=59305_&extension=m3u8
-
-#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT AR", BEIN SPORT 1
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=59306_&extension=m3u8
-
 #EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT AR", BEIN SPORT PREMIUM 1
 http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=809826&extension=ts&play_token=IciJ4ngHwc
-
-#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT AR", BEIN SPORT 2
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=59307_&extension=m3u8
-
 #EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT AR", BEIN SPORT PREMIUM 2
 http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=809825&extension=ts&play_token=dk2lqgibJa
-
-#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT AR", BEIN SPORT 3
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=59308_&extension=m3u8
-
 #EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT AR", BEIN SPORT PREMIUM 3
 http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=809824&extension=ts&play_token=6JcHidDsby
-
+#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT AR", BEIN SPORT 1
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=59306_&extension=m3u8
+#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT AR", BEIN SPORT 2
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=59307_&extension=m3u8
+#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT AR", BEIN SPORT 3
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=59308_&extension=m3u8
 #EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT AR", BEIN SPORT GLOBAL
 http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=809828&extension=ts&play_token=r8IbIdKx0o
 
 
-
 #EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT FR", BEIN SPORT 1
 http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=507698&extension=ts&play_token=0uUemBBS4q
-
 #EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT FR", BEIN SPORT 2
 http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=507695&extension=ts&play_token=Sy9xaukhjB
-
 #EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT FR", BEIN SPORT 3
 http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=507692&extension=ts&play_token=r8Q4y4a8N4
-
 #EXTINF:-1 tvg-logo="xxxxxxxx" group-title="BEIN SPORT FR", BEIN SPORT 1 
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508160&extension=ts&play_token=qapvqz8oDq 
-
 #EXTINF:-1 tvg-logo="xxxxxxxx" group-title="BEIN SPORT FR", BEIN SPORT 2 
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508159&extension=ts&play_token=XTkA0csslb 
-
 #EXTINF:-1 tvg-logo="xxxxxxxx" group-title="BEIN SPORT FR", BEIN SPORT 3 
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508158&extension=ts&play_token=Xod89FZwdf 
-
 #EXTINF:-1 tvg-logo="xxxxxxxx" group-title="BEIN SPORT FR", BEIN MAX 4
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508148&extension=ts&play_token=JQ2YqBARcU. 
-
 #EXTINF:-1 tvg-logo="xxxxxxxx" group-title="BEIN SPORT FR", BEIN MAX 5
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508147&extension=ts&play_token=YZuG3msMOE 
 
+
 #EXTINF:-1 tvg-logo="-------" group-title="BEIN SPORT TR", BEIN HABER
 http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=57793_&extension=ts
-
 #EXTINF:-1 tvg-logo="-------" group-title="BEIN SPORT TR", BEIN SPORT 1
 http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=57797_&extension=ts
-
 #EXTINF:-1 tvg-logo="-------" group-title="BEIN SPORT TR", BEIN SPORT 2
 http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=57800_&extension=ts
-
 #EXTINF:-1 tvg-logo="-------" group-title="BEIN SPORT TR", BEIN SPORT 3
 http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=57803_&extension=ts
-
 #EXTINF:-1 tvg-logo="-------" group-title="BEIN SPORT TR", BEIN SPORT 4
 http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=57806_&extension=ts
-
 #EXTINF:-1 tvg-logo="-------" group-title="BEIN SPORT TR", BEIN MAX 1
 http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=57733_&extension=ts
-
 #EXTINF:-1 tvg-logo="-------" group-title="BEIN SPORT TR", BEIN MAX 2
 http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=57734_&extension=ts
+#EXTINF:-1 tvg-logo="-------" group-title="BEIN SPORT TR", BEIN HABER
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=27725_&extension=ts
+#EXTINF:-1 tvg-logo="-------" group-title="BEIN SPORT TR", BEIN SPORT 1 TR
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=41811_&extension=ts
+#EXTINF:-1 tvg-logo="-------" group-title="BEIN SPORT TR", BEIN SPORT 2 TR
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=41810_&extension=ts
+#EXTINF:-1 tvg-logo="-------" group-title="BEIN SPORT TR", BEIN SPORT 3 TR
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=41809_&extension=ts
+#EXTINF:-1 tvg-logo="-------" group-title="BEIN SPORT TR", BEIN SPORT 4 TR
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=1989_&extension=ts
+#EXTINF:-1 tvg-logo="-------" group-title="BEIN SPORT TR", BEIN SPORT 5 TR
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=109251_&extension=ts
+#EXTINF:-1 tvg-logo="-------" group-title="BEIN SPORT TR", BEIN MAX 1
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13599_&extension=ts
+#EXTINF:-1 tvg-logo="-------" group-title="BEIN SPORT TR", BEIN MAX 2
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=15181_&extension=ts
+
+
+#EXTINF:-1 tvg-logo="-------" group-title="SPORT TR", TIVIBU SPORT 1
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13469_&extension=ts
+#EXTINF:-1 tvg-logo="-------" group-title="SPORT TR", TIVIBU SPORT 2
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13470_&extension=ts
+#EXTINF:-1 tvg-logo="-------" group-title="SPORT TR", TIVIBU SPORT 3
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13458_&extension=ts
+#EXTINF:-1 tvg-logo="-------" group-title="SPORT TR", SMART SPORT
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13471_&extension=ts
+#EXTINF:-1 tvg-logo="-------" group-title="SPORT TR", A SPORT
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=14824_&extension=ts
+#EXTINF:-1 tvg-logo="-------" group-title="SPORT TR", TRT SPORT
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=14828_&extension=ts
+#EXTINF:-1 tvg-logo="-------" group-title="SPORT TR", TRT SPORT 2
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=46642_&extension=ts
+#EXTINF:-1 tvg-logo="-------" group-title="SPORT TR", TRT SPORT 3
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=68255_&extension=ts
+#EXTINF:-1 tvg-logo="-------" group-title="SPORT TR", TRT SPORT PLUS
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=102765_&extension=ts
+#EXTINF:-1 tvg-logo="-------" group-title="SPORT TR", S SPORT
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=29745_&extension=ts
+#EXTINF:-1 tvg-logo="-------" group-title="SPORT TR", S SPORT 2
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=46640_&extension=ts
 
 
 
