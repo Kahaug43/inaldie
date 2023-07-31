@@ -9772,6 +9772,24 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-H
 https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
 
+#EXTINF:-1 tvg-logo="______" group-title="ASTRO SPORT", SUPERSPORT ASTRO 1
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=1111034&extension=ts&play_token=esfxeh07ym
+
+#EXTINF:-1 tvg-logo="______" group-title="ASTRO SPORT", SUPERSPORT ASTRO 2
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=1111033&extension=ts&play_token=KGvJ3i1BR7
+
+#EXTINF:-1 tvg-logo="______" group-title="ASTRO SPORT", SUPERSPORT ASTRO 3
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=1111032&extension=ts&play_token=OmJQqAG3Pj
+
+#EXTINF:-1 tvg-logo="______" group-title="ASTRO SPORT", SUPERSPORT ASTRO 4
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=1111031&extension=ts&play_token=AE2WEVlm4N
+
+#EXTINF:-1 tvg-logo="______" group-title="ASTRO SPORT", SUPERSPORT ASTRO CRICKET
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=315181&extension=ts&play_token=ZaZSOZaSME
+
+
+
+
 #EXTINF:-1 tvg-logo="-------" group-title="SPORT ASIA", SONY TEN 1 SPORT
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=156017&extension=ts&play_token=PILpZukiSU
 
@@ -9844,22 +9862,6 @@ http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=591559&extension
 #EXTINF:-1 tvg-logo="______" group-title="SPORT ASIA", IRAQIA SPORT
 http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=8116&extension=ts&play_token=9toeC6kh9K
 
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", ASTRO SUPERSPORT  1
-http://humiptv.live:8080/live/tarun589853/5787489bcsh/143036.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", ASTRO SUPERSPORT  2
-http://humiptv.live:8080/live/tarun589853/5787489bcsh/143037.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", ASTRO SUPERSPORT  3
-http://humiptv.live:8080/live/tarun589853/5787489bcsh/143039.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", ASTRO SUPERSPORT  4
-http://humiptv.live:8080/live/tarun589853/5787489bcsh/143041.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", ASTRO SUPERSPORT 5
-http://humiptv.live:8080/live/tarun589853/5787489bcsh/143045.ts
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", BEIN 3
 http://humiptv.live:8080/live/tarun589853/5787489bcsh/143063.ts
 
@@ -9887,6 +9889,43 @@ http://humiptv.live:8080/live/tarun589853/5787489bcsh/151181.ts
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", SOCCER CHANEL
 http://humiptv.live:8080/live/tarun589853/5787489bcsh/151186.ts
 
+
+#EXTINF:-1 tvg-logo="______" group-title="ASTRO SPORT", SUPERSPORT ASTRO 1
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=1111034&extension=ts&play_token=esfxeh07ym
+
+#EXTINF:-1 tvg-logo="______" group-title="ASTRO SPORT", SUPERSPORT ASTRO 2
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=1111033&extension=ts&play_token=KGvJ3i1BR7
+
+#EXTINF:-1 tvg-logo="______" group-title="ASTRO SPORT", SUPERSPORT ASTRO 3
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=1111032&extension=ts&play_token=OmJQqAG3Pj
+
+#EXTINF:-1 tvg-logo="______" group-title="ASTRO SPORT", SUPERSPORT ASTRO 4
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=1111031&extension=ts&play_token=AE2WEVlm4N
+
+#EXTINF:-1 tvg-logo="-------" group-title="ASTRO SPORT", ASTRO SUPERSPORT  5
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=918982&extension=ts&play_token=E0fCypo3yb
+
+#EXTINF:-1 tvg-logo="______" group-title="ASTRO SPORT", SUPERSPORT ASTRO CRICKET
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=315181&extension=ts&play_token=ZaZSOZaSME
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO SPORT", ASTRO SUPERSPORT  1
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/143036.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO SPORT", ASTRO SUPERSPORT  2
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/143037.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO SPORT", ASTRO SUPERSPORT  3
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/143039.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO SPORT", ASTRO SUPERSPORT  4
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/143041.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO SPORT", ASTRO SUPERSPORT 5
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/143045.ts
+
+#EXTINF:-1 tvg-logo="-------" group-title="ASTRO SPORT", ASTRO CRICKET
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=1036490&extension=ts&play_token=d8mSEgcvlM
 
 
 
@@ -10018,8 +10057,6 @@ http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4330
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", ESPN CO
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4341
-
-
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn_u.png" group-title="LATIN SPORT", ESPN U HD
 http://skycastersupports.mine.nu:25461/butvultra/J5kSHUyvEe/553
@@ -11795,9 +11832,6 @@ http://s1.g6ip.us:1997/Stephane/123456/51617
 #EXTINF:-1 tvg-logo="----------------------------------/" group-title="SPORT DUNIA", |PT| SPORT TV 6 FHD
 http://s1.g6ip.us:1997/Stephane/123456/96015
 
-#EXTINF:-1 tvg-logo="----------------------------------/" group-title="SPORT DUNIA", ----●★| SPORTS FHD |★●----
-http://s1.g6ip.us:1997/Stephane/123456/75568
-
 #EXTINF:-1 tvg-logo="----------------------------------/" group-title="SPORT DUNIA", |DE| DAZN 1 FHD
 http://s1.g6ip.us:1997/Stephane/123456/75567
 
@@ -11872,24 +11906,6 @@ http://s1.g6ip.us:1997/Stephane/123456/17544
 
 #EXTINF:-1 tvg-logo="----------------------------------/" group-title="SPORT DUNIA", |DE| SKY SPORT 5 HD (event only)
 http://s1.g6ip.us:1997/Stephane/123456/17543
-
-#EXTINF:-1 tvg-logo="----------------------------------/" group-title="SPORT DUNIA", |DE| SKY SPORT 6 HD (event only)
-http://s1.g6ip.us:1997/Stephane/123456/17542
-
-#EXTINF:-1 tvg-logo="----------------------------------/" group-title="SPORT DUNIA", |DE| SKY SPORT 7 HD (event only)
-http://s1.g6ip.us:1997/Stephane/123456/17541
-
-#EXTINF:-1 tvg-logo="----------------------------------/" group-title="SPORT DUNIA", |DE| SKY SPORT 8 HD (event only)
-http://s1.g6ip.us:1997/Stephane/123456/17540
-
-#EXTINF:-1 tvg-logo="----------------------------------/" group-title="SPORT DUNIA", |DE| SKY SPORT 9 HD (event only)
-http://s1.g6ip.us:1997/Stephane/123456/17539
-
-#EXTINF:-1 tvg-logo="----------------------------------/" group-title="SPORT DUNIA", |DE| SKY SPORT 10 HD (event only)
-http://s1.g6ip.us:1997/Stephane/123456/17538
-
-#EXTINF:-1 tvg-logo="----------------------------------/" group-title="SPORT DUNIA", |DE| SKY SPORT 11 HD (event only)
-http://s1.g6ip.us:1997/Stephane/123456/17537
 
 #EXTINF:-1 tvg-logo="----------------------------------/" group-title="SPORT DUNIA", |DE| SKY SPORT AUSTRIA HD
 http://s1.g6ip.us:1997/Stephane/123456/17536
@@ -12536,14 +12552,6 @@ http://s1.g6ip.us:1997/Stephane/123456/61531
 #EXTINF:-1 tvg-logo="----------------------------------/" group-title="SPORT DUNIA", |SE| Viasat Sport Premium
 http://s1.g6ip.us:1997/Stephane/123456/61532
 
-#EXTINF:-1 tvg-logo="----------------------------------/" group-title="SPORT DUNIA", Strive Sport 3 FHD [Live During Events Only]
-http://s1.g6ip.us:1997/Stephane/123456/62243
-
-#EXTINF:-1 tvg-logo="----------------------------------/" group-title="SPORT DUNIA", Strive Sport 2 FHD [Live During Events Only]
-http://s1.g6ip.us:1997/Stephane/123456/62242
-
-#EXTINF:-1 tvg-logo="----------------------------------/" group-title="SPORT DUNIA", Strive Sport 1 FHD [Live During Events Only]
-http://s1.g6ip.us:1997/Stephane/123456/62241
 
 #EXTINF:-1 tvg-logo="----------------------------------/" group-title="SPORT DUNIA", |CZ| CT4 Sport HD
 http://s1.g6ip.us:1997/Stephane/123456/66203
@@ -13211,8 +13219,6 @@ http://s1.g6ip.us:1997/Stephane/123456/92275
 #EXTINF:-1 tvg-logo="----------------------------------/" group-title="SPORT DUNIA", |MX| TP Fox Sports 1 HD
 http://s1.g6ip.us:1997/Stephane/123456/92217
 
-#EXTINF:-1 tvg-logo="----------------------------------/" group-title="SPORT DUNIA", VIP |BR| ✦✦●✦----VIP |BR| SPORTS VIP |BR|----✦●✦
-http://s1.g6ip.us:1997/Stephane/123456/75849
 
 #EXTINF:-1 tvg-logo="----------------------------------/" group-title="SPORT DUNIA", VIP |BR| SPORTV 1 HD
 http://s1.g6ip.us:1997/Stephane/123456/75848
@@ -13487,9 +13493,6 @@ http://s1.g6ip.us:1997/Stephane/123456/99208
 #EXTINF:-1 tvg-logo="----------------------------------/" group-title="SPORT DUNIA", VIP |IT| DAZN  2 HD
 http://s1.g6ip.us:1997/Stephane/123456/99207
 
-#EXTINF:-1 tvg-logo="----------------------------------/" group-title="SPORT DUNIA", VIP |IT| DAZN 12 HD
-http://s1.g6ip.us:1997/Stephane/123456/99206
-
 #EXTINF:-1 tvg-logo="----------------------------------/" group-title="SPORT DUNIA", VIP |IT| SKY SPORT ACTION FHD
 http://s1.g6ip.us:1997/Stephane/123456/99203
 
@@ -13634,65 +13637,6 @@ http://s1.g6ip.us:1997/Stephane/123456/99251
 #EXTINF:-1 tvg-logo="----------------------------------/" group-title="SPORT DUNIA", VIP |IT| Eleven Sports Event 5
 http://s1.g6ip.us:1997/Stephane/123456/99250
 
-#EXTINF:-1 tvg-logo="----------------------------------/" group-title="SPORT DUNIA", VIP |IT| Eleven Sports Event 6
-http://s1.g6ip.us:1997/Stephane/123456/99249
-
-#EXTINF:-1 tvg-logo="----------------------------------/" group-title="SPORT DUNIA", VIP |IT| Eleven Sports Event 7
-http://s1.g6ip.us:1997/Stephane/123456/99248
-
-#EXTINF:-1 tvg-logo="----------------------------------/" group-title="SPORT DUNIA", VIP |IT| Eleven Sports Event 8
-http://s1.g6ip.us:1997/Stephane/123456/99247
-
-#EXTINF:-1 tvg-logo="----------------------------------/" group-title="SPORT DUNIA", VIP |IT| Eleven Sports Event 9
-http://s1.g6ip.us:1997/Stephane/123456/99246
-
-#EXTINF:-1 tvg-logo="----------------------------------/" group-title="SPORT DUNIA", VIP |IT| Eleven Sports Event 10
-http://s1.g6ip.us:1997/Stephane/123456/99245
-
-#EXTINF:-1 tvg-logo="----------------------------------/" group-title="SPORT DUNIA", VIP |IT| Eleven Sports Event 11
-http://s1.g6ip.us:1997/Stephane/123456/99244
-
-#EXTINF:-1 tvg-logo="----------------------------------/" group-title="SPORT DUNIA", VIP |IT| Eleven Sports Event 12
-http://s1.g6ip.us:1997/Stephane/123456/99243
-
-#EXTINF:-1 tvg-logo="----------------------------------/" group-title="SPORT DUNIA", VIP |IT| Eleven Sports Event 13
-http://s1.g6ip.us:1997/Stephane/123456/99242
-
-#EXTINF:-1 tvg-logo="----------------------------------/" group-title="SPORT DUNIA", VIP |IT| Eleven Sports Event 14
-http://s1.g6ip.us:1997/Stephane/123456/99241
-
-#EXTINF:-1 tvg-logo="----------------------------------/" group-title="SPORT DUNIA", VIP |IT| Eleven Sports Event 15
-http://s1.g6ip.us:1997/Stephane/123456/99240
-
-#EXTINF:-1 tvg-logo="----------------------------------/" group-title="SPORT DUNIA", VIP |IT| Eleven Sports Event 16
-http://s1.g6ip.us:1997/Stephane/123456/99239
-
-#EXTINF:-1 tvg-logo="----------------------------------/" group-title="SPORT DUNIA", VIP |IT| Eleven Sports Event 17
-http://s1.g6ip.us:1997/Stephane/123456/99238
-
-#EXTINF:-1 tvg-logo="----------------------------------/" group-title="SPORT DUNIA", VIP |IT| Eleven Sports Event 18
-http://s1.g6ip.us:1997/Stephane/123456/99237
-
-#EXTINF:-1 tvg-logo="----------------------------------/" group-title="SPORT DUNIA", VIP |IT| Eleven Sports Event 19
-http://s1.g6ip.us:1997/Stephane/123456/99236
-
-#EXTINF:-1 tvg-logo="----------------------------------/" group-title="SPORT DUNIA", VIP |IT| Eleven Sports Event 20
-http://s1.g6ip.us:1997/Stephane/123456/99235
-
-#EXTINF:-1 tvg-logo="----------------------------------/" group-title="SPORT DUNIA", IT|DAZN 10 FHD
-http://s1.g6ip.us:1997/Stephane/123456/94969
-
-#EXTINF:-1 tvg-logo="----------------------------------/" group-title="SPORT DUNIA", IT|DAZN 9 FHD
-http://s1.g6ip.us:1997/Stephane/123456/94968
-
-#EXTINF:-1 tvg-logo="----------------------------------/" group-title="SPORT DUNIA", IT|DAZN 8 FHD
-http://s1.g6ip.us:1997/Stephane/123456/94967
-
-#EXTINF:-1 tvg-logo="----------------------------------/" group-title="SPORT DUNIA", IT|DAZN 7 FHD
-http://s1.g6ip.us:1997/Stephane/123456/94966
-
-#EXTINF:-1 tvg-logo="----------------------------------/" group-title="SPORT DUNIA", IT|DAZN 6 FHD
-http://s1.g6ip.us:1997/Stephane/123456/94965
 
 #EXTINF:-1 tvg-logo="----------------------------------/" group-title="SPORT DUNIA", IT|DAZN 5 FHD
 http://s1.g6ip.us:1997/Stephane/123456/94964
@@ -13988,9 +13932,6 @@ http://s1.g6ip.us:1997/Stephane/123456/63432
 #EXTINF:-1 tvg-logo="----------------------------------/" group-title="SPORT DUNIA", |VUK| SKY SPORTS ARENA SD
 http://s1.g6ip.us:1997/Stephane/123456/63433
 
-#EXTINF:-1 tvg-logo="----------------------------------/" group-title="SPORT DUNIA", |VUK| SKY SPORTS RACING SD (2AM OFF-AUTO BOOT 6.30AM)
-http://s1.g6ip.us:1997/Stephane/123456/63434
-
 #EXTINF:-1 tvg-logo="----------------------------------/" group-title="SPORT DUNIA", |VUK| SKY SPORTS MIX SD
 http://s1.g6ip.us:1997/Stephane/123456/63435
 
@@ -14092,12 +14033,6 @@ http://s1.g6ip.us:1997/Stephane/123456/63813
 
 #EXTINF:-1 tvg-logo="----------------------------------/" group-title="SPORT DUNIA", |VUK| BT SPORTS ESPN SD
 http://s1.g6ip.us:1997/Stephane/123456/63814
-
-#EXTINF:-1 tvg-logo="----------------------------------/" group-title="SPORT DUNIA", |VUK| BT Sport Box Office PPV 2 (Live During Events Only)
-http://s1.g6ip.us:1997/Stephane/123456/74135
-
-#EXTINF:-1 tvg-logo="----------------------------------/" group-title="SPORT DUNIA", |VUK| BT Sport Box Office PPV (Live During Events Only)
-http://s1.g6ip.us:1997/Stephane/123456/73139
 
 #EXTINF:-1 tvg-logo="----------------------------------/" group-title="SPORT DUNIA", |UK| VIRGIN MEDIA SPORT
 http://s1.g6ip.us:1997/Stephane/123456/64832
@@ -14209,25 +14144,6 @@ http://s1.g6ip.us:1997/Stephane/123456/137986
 
 
 
-#EXTINF:-1 tvg-logo="-------" group-title="ASTRO SPORT", SUPER SPORT ASTRO 1
-http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/63112
-
-#EXTINF:-1 tvg-logo="-------" group-title="ASTRO SPORT", SUPER SPORT ASTRO 2
-http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/63113
-
-#EXTINF:-1 tvg-logo="-------" group-title="ASTRO SPORT", SUPER SPORT ASTRO 3
-http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/63114
-
-#EXTINF:-1 tvg-logo="-------" group-title="ASTRO SPORT", SUPER SPORT ASTRO 4
-http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/63598
-
-#EXTINF:-1 tvg-logo="-------" group-title="ASTRO SPORT", SUPER SPORT ASTRO 5
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=918982&extension=ts&play_token=E0fCypo3yb
-
-#EXTINF:-1 tvg-logo="-------" group-title="ASTRO SPORT", ASTRO CRICKET
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=1036490&extension=ts&play_token=d8mSEgcvlM
-
-
 
 #EXTINF:-1 tvg-logo="______" group-title="CANAL+", CANAL+ MOTOGP
 http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=507710&extension=ts&play_token=ECqMKl1s4L
@@ -14298,20 +14214,7 @@ http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=239079&ex
 #EXTINF:-1 tvg-logo="______" group-title="SUPERSPORT", SUPERSPORT MOTORSPORT
 http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=239082&extension=ts&play_token=O8R4rEHjNm
 
-#EXTINF:-1 tvg-logo="______" group-title="ASTRO SPORT", SUPERSPORT ASTRO 1
-http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=1111034&extension=ts&play_token=esfxeh07ym
 
-#EXTINF:-1 tvg-logo="______" group-title="ASTRO SPORT", SUPERSPORT ASTRO 2
-http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=1111033&extension=ts&play_token=KGvJ3i1BR7
-
-#EXTINF:-1 tvg-logo="______" group-title="ASTRO SPORT", SUPERSPORT ASTRO 3
-http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=1111032&extension=ts&play_token=OmJQqAG3Pj
-
-#EXTINF:-1 tvg-logo="______" group-title="ASTRO SPORT", SUPERSPORT ASTRO 4
-http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=1111031&extension=ts&play_token=AE2WEVlm4N
-
-#EXTINF:-1 tvg-logo="______" group-title="ASTRO SPORT", SUPERSPORT ASTRO CRICKET
-http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=315181&extension=ts&play_token=ZaZSOZaSME
 
 #EXTINF:-1 tvg-logo="______" group-title="HUB SPORT", HUB SPORT 1
 http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=1110667&extension=ts&play_token=G2rY9A0UAs
@@ -15351,8 +15254,6 @@ http://s.showplustv.pro:80/mustafaali909/8744367/68076
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="S SPORT", Is: Yes Sport 5 Stars HD
 http://s.showplustv.pro:80/mustafaali909/8744367/68075
-
-
 
 
 
