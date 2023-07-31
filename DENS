@@ -2064,6 +2064,364 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=559565&extens
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=559568&extension=ts&play_token=LfpAYDfnEh
 
 
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| 24
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490343
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| NCIS
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490342
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| ARROW
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490341
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| BOARDWALK EMPIRE
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490340
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| NCIS: LOS ANGELES
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490339
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| DAREDEVILS
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490338
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| DAVID ATTENBOROUGH
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490337
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| DEATH IN PARADISE
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490336
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| NEW AMSTERDAM
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490335
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| OZARK
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490334
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| F IS FOR FAMILY
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490333
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| PRETTY LITTLE LIARS
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490332
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| QUEEN OF THE SOUTH
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490331
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| RIVERDALE
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490330
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| HOUSE OF CARDS
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490329
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| AMERICAN HORROR STORY
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490328
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| LUCIFER
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490327
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| MALCOLM IN THE MIDDLE
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490326
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| MY FAMILY
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490325
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| NOT GOING OUT
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490324
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| SCREAM QUEENS
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490323
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| SCRUBS
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490322
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| MERICAN HOUSEWIFE
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490321
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| COLD.CASE
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490319
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| BLUE BLOODS
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490318
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| CATFISH: THE TV SHOW
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490317
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| GOOD LUCK CHARLIE
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490316
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| HILL STREET BLUES
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490315
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| DRUNK HISTORY
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490314
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| CHERNOBYL
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490313
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| CHICAGO FIRE
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490312
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| CHICAGO MED
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490311
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| COBRA KAI
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490310
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| CRIMINAL MINDS
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490309
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| DEADLY CLASS
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490308
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| DEXTERS LABORATORY
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490307
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| CSI CYBER
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490306
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| CSI MIAMI
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490305
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| ELITE
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490304
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| WILL AND GRACE
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490303
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| EMPIRE
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490302
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| THE WALKING DEAD
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490301
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| GOLD RUSH: WHITE WATER
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490300
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| THE OFFICE
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490299
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| THE GOLDBERGS
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490298
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| THE FLINTSTONES
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/501747
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| THE COSBY SHOW
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/500890
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| THE JETSONS
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/500889
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| CSI
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490297
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| GREY
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490296
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| THE.FIRST.48
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490295
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| THE A TEAM
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490294
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| ACCORDING.TO.JIM
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490293
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| ANIMAL KINGDOM
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490292
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| HAWAII FIVE-0
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490291
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| BURN NOTICE
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490290
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| DEADWOOD
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490289
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| DOC MARTIN
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490288
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| ENTOURAGE
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490287
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| HUDSON & REX
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490286
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| INSECURE
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490285
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| MARVELS JESSICA JONES
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490284
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| MARVELS GUARDIANS OF THE GALAXY
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490283
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| PJ MASKS
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490282
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| PIMP MY RIDE
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490281
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| PRISON BREAK
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490279
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| RED DWARF
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490278
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| SILICON VALLEY
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490277
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| STAR WARS REBELS
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490276
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| MARVELS AGENTS OF S.H.I.E.L.D.
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490275
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| MAN WITH A PLAN
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490274
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| ARTHUR
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490273
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| THE 100
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490272
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| THE GOOD DOCTOR
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490271
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| THE BLACKLIST
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490270
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| THE HANDMAIDS TALE
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490269
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| THE KING OF QUEENS
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490268
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US|  BEN 10: ALIEN FORCE
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490267
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| KILLING EVE
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490266
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| THE PROTECTOR
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490265
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| DOMINION
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490264
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| TAXI
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490263
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| THE PURGE
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490262
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| EUREKA
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490261
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| EXTANT
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490260
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| FARSCAPE
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490259
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| FINDING CARTER
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490258
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| FLASH FORWARD
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490257
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| THE SIMPSONS
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490256
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| CHARMED
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490255
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| MAJOR CRIMES
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490254
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| MANHATTAN
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490253
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| THE UMBRELLA ACADEMY
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490252
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| SEAL TEAM
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490251
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| SEE
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490250
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| SEX EDUCATION
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490249
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| PENNY DREADFUL
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490248
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| SHERLOCK
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490247
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| STAR TREK: DISCOVERY
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490246
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| THE SHIELD
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490245
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| STAR TREK: ENTERPRISE
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490244
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| BENIDORM
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490243
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| MRS BROWNS BOYS
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490242
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| THE YOUNG ONES
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490241
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| GLOW
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490240
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| VAN DAMME
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490239
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| STAR WARS RESISTANCE
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490238
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| ABSOLUTELY FABULOUS
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490237
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| STRANGER THINGS
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490236
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| FARGO
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490235
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| BLACK MIRROR
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490234
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| SUPERNATURAL
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490233
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| RUSH HOUR
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490232
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| STILL GAME
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490231
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| 13 REASONS WHY
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490230
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| WARRIOR
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490229
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| WESTWORLD
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490228
+
+#EXTINF:-1 tvg-logo="http://178.211.143.40:81/logos/4/247MOVIES.png" group-title="MOVIES 24 Jam", |US| AMERICAN DAD
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/490227
+
 
 
 
