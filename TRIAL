@@ -217,6 +217,12 @@ http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/898
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/04/30/Fox_Sports_3_logo.png" group-title="SPORTS ID", SPOTV 2
 http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/900
 
+#EXTINF:-1 tvg-logo="-------" group-title="SPORTS ID", SPOTV 1
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683117&extension=ts&play_token=ttKChD9xXt
+
+#EXTINF:-1 tvg-logo="-------" group-title="SPORTS ID", ONE SPORT
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=926161&extension=ts&play_token=1CpygHM1Ws
+
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032018/untitled-3_29.png" group-title="SPORTS ID", NBA TV HD
 http://androboxtv.myftp.biz:25461/rt_rw_net/testerrrr/902
 
@@ -2131,14 +2137,6 @@ http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683088&extension=
 #EXTINF:-1 tvg-logo="-------" group-title="DISCOVERY", LIFETIME
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683129&extension=ts&play_token=HwiPR2YqVX
 
-#EXTINF:-1 tvg-logo="-------" group-title="SPORT LOKAL", SPOTV 1
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683117&extension=ts&play_token=ttKChD9xXt
-
-#EXTINF:-1 tvg-logo="-------" group-title="SPORT LOKAL", Spotv 2
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=941563&extension=ts&play_token=lbfhM1YCIK
-
-#EXTINF:-1 tvg-logo="-------" group-title="SPORT LOKAL", ONE SPORT
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=926161&extension=ts&play_token=1CpygHM1Ws
 
 
 #EXTINF:-1 tvg-logo="-------" group-title="ASTRO SPORT", SUPER SPORT ASTRO 1
