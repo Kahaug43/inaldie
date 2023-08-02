@@ -748,5 +748,85 @@ http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=177354&exten
 #EXTINF:-1 tvg-logo="-------" group-title="SPORTNET", SPORTNET WORLD
 http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=177354&extension=ts&play_token=yVIFGtzLtE
 
-#EXTINF:-1 tvg-logo="-------" group-title="SPORTNET", SPORTNET WWE
+#EXTINF:-1 tvg-logo="-------" group-title="SPORTNET", NBA TV CA
+http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=1000006&extension=ts&play_token=yVIFGtzLtE
+
+#EXTINF:-1 tvg-logo="-------" group-title="SPORTNET", WILLOW CRICKET CA
+http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=1036492&extension=ts&play_token=yVIFGtzLtE
+
+
+#EXTINF:-1 tvg-logo="-------" group-title="BEIN SPORT CA", BEIN SPORT 1 CA
+http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=177356&extension=ts&play_token=yVIFGtzLtE
+
+#EXTINF:-1 tvg-logo="-------" group-title="BEIN SPORT CA", BEIN SPORT 2 CA
+http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=177357&extension=ts&play_token=yVIFGtzLtE
+
+#EXTINF:-1 tvg-logo="-------" group-title="BEIN SPORT CA", BEIN SPORT 3 CA
+http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=177358&extension=ts&play_token=yVIFGtzLtE
+
+#EXTINF:-1 tvg-logo="-------" group-title="BEIN SPORT CA", BEIN SPORT 4 CA
+http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=177359&extension=ts&play_token=yVIFGtzLtE
+
+#EXTINF:-1 tvg-logo="-------" group-title="PEACOCK SPORT", PEACOCK SPORT 1
+http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=1006285&extension=ts&play_token=yVIFGtzLtE
+
+#EXTINF:-1 tvg-logo="-------" group-title="PEACOCK SPORT", PEACOCK SPORT 2
+http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=1006286&extension=ts&play_token=yVIFGtzLtE
+
+#EXTINF:-1 tvg-logo="-------" group-title="PEACOCK SPORT", PEACOCK SPORT 3
+http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=1006287&extension=ts&play_token=yVIFGtzLtE
+
+#EXTINF:-1 tvg-logo="-------" group-title="PEACOCK SPORT", PEACOCK SPORT 4
+http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=1006288&extension=ts&play_token=yVIFGtzLtE
+
+#EXTINF:-1 tvg-logo="-------" group-title="PEACOCK SPORT", PEACOCK SPORT 5
+http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=1006289&extension=ts&play_token=yVIFGtzLtE
+
+
+#EXTINF:-1 tvg-logo="-------" group-title=" US SPORT", STADIUM
+http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=91917&extension=ts&play_token=yVIFGtzLtE
+
+#EXTINF:-1 tvg-logo="-------" group-title=" US SPORT", STADIUM 1
+http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=91918&extension=ts&play_token=yVIFGtzLtE
+
+#EXTINF:-1 tvg-logo="-------" group-title=" US SPORT", STADIUM 2
+http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=91919&extension=ts&play_token=yVIFGtzLtE
+
+#EXTINF:-1 tvg-logo="-------" group-title="US SPORT", OLIMPIC CHANNEL
+http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=806919&extension=ts&play_token=yVIFGtzLtE
+
+#EXTINF:-1 tvg-logo="-------" group-title="US SPORT", WORLD POKER
+http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=806920&extension=ts&play_token=yVIFGtzLtE
+
+#EXTINF:-1 tvg-logo="-------" group-title="US SPORT", YES NETWORK SPORT
+http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=90970&extension=ts&play_token=yVIFGtzLtE
+
+#EXTINF:-1 tvg-logo="-------" group-title="US SPORT", LONGHORN NETWORK
+http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=45540&extension=ts&play_token=yVIFGtzLtE
+
+#EXTINF:-1 tvg-logo="-------" group-title="US SPORT", WILLOW CRICKET
+http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=45463&extension=ts&play_token=yVIFGtzLtE
+
+#EXTINF:-1 tvg-logo="-------" group-title="US SPORT", WILLOW CRICKET XTRA
+http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=1141780&extension=ts&play_token=yVIFGtzLtE
+
+
+#EXTINF:-1 tvg-logo="-------" group-title="US SPORT", TENNIS CHANNEL
+http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=811667&extension=ts&play_token=yVIFGtzLtE
+
+#EXTINF:-1 tvg-logo="-------" group-title="US SPORT", REDBULL TV
+http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=1088241&extension=ts&play_token=yVIFGtzLtE
+
+#EXTINF:-1 tvg-logo="-------" group-title="US SPORT", SPORTSGRID
+http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=988340&extension=ts&play_token=yVIFGtzLtE
+
+
+
+#EXTINF:-1 tvg-logo="-------" group-title="FIGHT SPORT", SPORTNET WWE CA
 http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=735988&extension=ts&play_token=yVIFGtzLtE
+
+#EXTINF:-1 tvg-logo="-------" group-title="FIGHT SPORT", UFC USA 
+http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=91949&extension=ts&play_token=yVIFGtzLtE
+
+#EXTINF:-1 tvg-logo="-------" group-title="FIGHT SPORT", WWE USA 
+http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=45462&extension=ts&play_token=yVIFGtzLtE
