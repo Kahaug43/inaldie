@@ -15,6 +15,12 @@ https://github.com/inaldie/inaldie/raw/main/DONATE.ts
 
 
 
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="http://magott.net:80/images/643a97af82fb334f27205245937cf865.png" group-title="beIN SPORTS HD SD", beIN SPORTS GLOBAL HD
 http://magott.net:80/okota380/RvPBwTrjvRPM/3
 
@@ -304,8 +310,6 @@ http://magott.net:80/okota380/RvPBwTrjvRPM/38367
 http://magott.net:80/okota380/RvPBwTrjvRPM/38368
 
 
-
-
 #EXTINF:-1 tvg-logo="http://magott.net:80/images/37fb247fd923976c563d60dae9112c3b.png" group-title="beIN SPORTS 4K", BeINSport PREMIUM 1 UHD
 http://magott.net:80/okota380/RvPBwTrjvRPM/78
 
@@ -374,8 +378,6 @@ http://magott.net:80/okota380/RvPBwTrjvRPM/38436
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="beIN SPORTS 4K", beIN SPORTS 4 UHD (Bkp)
 http://magott.net:80/okota380/RvPBwTrjvRPM/66152
-
-
 
 #EXTINF:-1 tvg-logo="http://logo.9ip.me/picon/beinmovies/beinmovie1.png" group-title="beIN ENTERTAINMENT |HD|", beIN MOVIES 1 HD PREMIER
 http://magott.net:80/okota380/RvPBwTrjvRPM/81
@@ -467,15 +469,11 @@ http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=238271&exten
 
 
 #EXTINF:-1 tvg-logo="-------" group-title="SPORT TR", BEIN HABER
-
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=27725_&extension=ts
 #EXTINF:-1 tvg-logo="-------" group-title="SPORT TR", BEIN SPORT 1 TR
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=41811_&extension=ts
-
-
 #EXTINF:-1 tvg-logo="-------" group-title="SPORT TR", BEIN SPORT 2 TR
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=41810_&extension=ts
-
 #EXTINF:-1 tvg-logo="-------" group-title="SPORT TR", BEIN SPORT 3 TR
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=41809_&extension=ts
 #EXTINF:-1 tvg-logo="-------" group-title="SPORT TR", BEIN SPORT 4 TR
@@ -588,25 +586,18 @@ http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=122559_&exten
 http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=2351_&extension=ts&play_token=FcCkSLTtTN
 #EXTINF:-1 tvg-logo="______" group-title="NL ZIGGO SPORT", HOURSE COUNTRY TV
 http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=65011_&extension=ts&play_token=FcCkSLTtTN
-
 #EXTINF:-1 tvg-logo="______" group-title="NL ZIGGO SPORT", ZIGGO TV
 http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=64150_&extension=ts&play_token=FcCkSLTtTN
-
 #EXTINF:-1 tvg-logo="______" group-title="NL ZIGGO SPORT", ZIGGO TENNIS
 http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=1794_&extension=ts&play_token=FcCkSLTtTN
-
 #EXTINF:-1 tvg-logo="______" group-title="NL ZIGGO SPORT", ZIGGO RACING
 http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=21670_&extension=ts&play_token=FcCkSLTtTN
-
 #EXTINF:-1 tvg-logo="______" group-title="NL ZIGGO SPORT", ZIGGO GOLF
 http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=21671_&extension=ts&play_token=FcCkSLTtTN
-
 #EXTINF:-1 tvg-logo="______" group-title="NL ZIGGO SPORT", ZIGGO VOETBAL
 http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=9681_&extension=ts&play_token=FcCkSLTtTN
-
 #EXTINF:-1 tvg-logo="______" group-title="NL ZIGGO SPORT", ZIGGO SELECT
 http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=9683_&extension=ts&play_token=FcCkSLTtTN
-
 #EXTINF:-1 tvg-logo="______" group-title="NL ZIGGO SPORT", ZIGGO SPORT
 http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=9684_&extension=ts&play_token=FcCkSLTtTN
 
