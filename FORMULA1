@@ -19,6 +19,11 @@ http://pro.xviptv.com:25443/live/1232343456/1234567890/131004.ts
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FORMULA 1", CANAL+ F1
 http://pro.xviptv.com:25443/live/1232343456/1234567890/126531.ts
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FORMULA 1", SKY SPORT F1
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/25
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT GLOBAL", UK | Sky Sports F1ⓧ SD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/144
 
 
 
