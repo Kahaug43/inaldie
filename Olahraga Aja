@@ -388,9 +388,6 @@ http://magott.net:80/okota380/RvPBwTrjvRPM/88
 #EXTINF:-1 tvg-logo="http://logo.9ip.me/picon/beinmovies/beinserie2.png" group-title="beIN ENTERTAINMENT |HD|", beIN SERIES HD 2
 http://magott.net:80/okota380/RvPBwTrjvRPM/89
 
-#EXTINF:-1 tvg-logo="http://logo.9ip.me/picon/beinmovies/bein_culture.png" group-title="beIN ENTERTAINMENT |HD|", ----●★| beINS CULTURAL |★●----
-http://magott.net:80/okota380/RvPBwTrjvRPM/107
-
 #EXTINF:-1 tvg-logo="http://logo.9ip.me/picon/beinmovies/beinfatafet.png" group-title="beIN ENTERTAINMENT |HD|", beIN FATAFEAT HD
 http://magott.net:80/okota380/RvPBwTrjvRPM/108
 
@@ -405,9 +402,6 @@ http://magott.net:80/okota380/RvPBwTrjvRPM/26769
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="beIN ENTERTAINMENT |HD|", beIN OUTDOOR HD
 http://magott.net:80/okota380/RvPBwTrjvRPM/26770
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="beIN ENTERTAINMENT |HD|", ---✦●✦ KIDS ✦●✦---
-http://magott.net:80/okota380/RvPBwTrjvRPM/39279
 
 #EXTINF:-1 tvg-logo="http://logo.9ip.me/picon/beinmovies/baraeem.png" group-title="beIN ENTERTAINMENT |HD|", beIN BARAEM HD
 http://magott.net:80/okota380/RvPBwTrjvRPM/135
@@ -430,108 +424,165 @@ http://magott.net:80/okota380/RvPBwTrjvRPM/66338
 
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#♣♦♣CREATOR BY : INALDIE♣♦♣#", WELCOME MY PLAYLIST
+https://github.com/inaldie/inaldie/raw/main/WELCOM.ts
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#♣♦♣CREATOR BY : INALDIE♣♦♣#", JOINT TELEGRAM https://t.me/IPTVcostum
+https://github.com/inaldie/inaldie/raw/main/LOGO.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#♣♦♣CREATOR BY : INALDIE♣♦♣#", DONASI GRUP https://saweria.co/Inaldie22
+https://github.com/inaldie/inaldie/raw/main/DONATE.ts
+
+
+
+
+#EXTINF:-1 tvg-logo="-------" group-title="BEIN SPORT", BEIN SPORT PREMIUM 1
+http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=238261&extension=ts&play_token=yVIFGtzLtE
+#EXTINF:-1 tvg-logo="-------" group-title="BEIN SPORT", BEIN SPORT PREMIUM 2
+http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=238262&extension=ts&play_token=yVIFGtzLtE
+#EXTINF:-1 tvg-logo="-------" group-title="BEIN SPORT", BEIN SPORT PREMIUM 3
+http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=238263&extension=ts&play_token=yVIFGtzLtE
+#EXTINF:-1 tvg-logo="-------" group-title="BEIN SPORT", BEIN SPORT 1 AR
+http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=238265&extension=ts&play_token=yVIFGtzLtE
+#EXTINF:-1 tvg-logo="-------" group-title="BEIN SPORT", BEIN SPORT 2 AR
+http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=238264&extension=ts&play_token=yVIFGtzLtE
+#EXTINF:-1 tvg-logo="-------" group-title="BEIN SPORT", BEIN SPORT 3 AR
+http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=238266&extension=ts&play_token=yVIFGtzLtE
+#EXTINF:-1 tvg-logo="-------" group-title="BEIN SPORT", BEIN SPORT 4 AR
+http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=238267&extension=ts&play_token=yVIFGtzLtE
+#EXTINF:-1 tvg-logo="-------" group-title="BEIN SPORT", BEIN SPORT 5 AR
+http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=238268&extension=ts&play_token=yVIFGtzLtE
+#EXTINF:-1 tvg-logo="-------" group-title="BEIN SPORT", BEIN SPORT 6 AR
+http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=238269&extension=ts&play_token=yVIFGtzLtE
+#EXTINF:-1 tvg-logo="-------" group-title="BEIN SPORT", BEIN SPORT 7 AR
+http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=238270&extension=ts&play_token=yVIFGtzLtE
+#EXTINF:-1 tvg-logo="-------" group-title="BEIN SPORT", BEIN SPORT 8 AR
+http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=238271&extension=ts&play_token=yVIFGtzLtE
+
+
+
+
+
+#EXTINF:-1 tvg-logo="-------" group-title="SPORT TR", BEIN HABER
+
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=27725_&extension=ts
+#EXTINF:-1 tvg-logo="-------" group-title="SPORT TR", BEIN SPORT 1 TR
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=41811_&extension=ts
+
+
+#EXTINF:-1 tvg-logo="-------" group-title="SPORT TR", BEIN SPORT 2 TR
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=41810_&extension=ts
+
+#EXTINF:-1 tvg-logo="-------" group-title="SPORT TR", BEIN SPORT 3 TR
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=41809_&extension=ts
+#EXTINF:-1 tvg-logo="-------" group-title="SPORT TR", BEIN SPORT 4 TR
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=1989_&extension=ts
+#EXTINF:-1 tvg-logo="-------" group-title="SPORT TR", BEIN SPORT 5 TR
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=109251_&extension=ts
+#EXTINF:-1 tvg-logo="-------" group-title="SPORT TR", BEIN MAX 1
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13599_&extension=ts
+#EXTINF:-1 tvg-logo="-------" group-title="SPORT TR", BEIN MAX 2
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=15181_&extension=ts
+#EXTINF:-1 tvg-logo="-------" group-title="SPORT TR", TIVIBU SPORT 1
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13469_&extension=ts
+#EXTINF:-1 tvg-logo="-------" group-title="SPORT TR", TIVIBU SPORT 2
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13470_&extension=ts
+#EXTINF:-1 tvg-logo="-------" group-title="SPORT TR", TIVIBU SPORT 3
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13458_&extension=ts
+#EXTINF:-1 tvg-logo="-------" group-title="SPORT TR", SMART SPORT
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13471_&extension=ts
+#EXTINF:-1 tvg-logo="-------" group-title="SPORT TR", A SPORT
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=14824_&extension=ts
+#EXTINF:-1 tvg-logo="-------" group-title="SPORT TR", TRT SPORT
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=14828_&extension=ts
+#EXTINF:-1 tvg-logo="-------" group-title="SPORT TR", TRT SPORT 2
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=46642_&extension=ts
+#EXTINF:-1 tvg-logo="-------" group-title="SPORT TR", TRT SPORT 3
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=68255_&extension=ts
+#EXTINF:-1 tvg-logo="-------" group-title="SPORT TR", TRT SPORT PLUS
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=102765_&extension=ts
+#EXTINF:-1 tvg-logo="-------" group-title="SPORT TR", S SPORT
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=29745_&extension=ts
+#EXTINF:-1 tvg-logo="-------" group-title="SPORT TR", S SPORT 2
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=46640_&extension=ts
+#EXTINF:-1 tvg-logo="-------" group-title="SUPERSPORT", SUPERSPORT EVENT
+http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=425312&extension=ts&play_token=yVIFGtzLtE
+#EXTINF:-1 tvg-logo="-------" group-title="SUPERSPORT", SUPERSPORT MAXIMO
+http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=425666&extension=ts&play_token=yVIFGtzLtE
+#EXTINF:-1 tvg-logo="-------" group-title="SUPERSPORT", SUPERSPORT ACTION
+http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=425668&extension=ts&play_token=yVIFGtzLtE
+#EXTINF:-1 tvg-logo="-------" group-title="SUPERSPORT", SUPERSPORT PLAY 1
+http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=425313&extension=ts&play_token=yVIFGtzLtE
+#EXTINF:-1 tvg-logo="-------" group-title="SUPERSPORT", SUPERSPORT PLAY 2
+http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=425311&extension=ts&play_token=yVIFGtzLtE
+#EXTINF:-1 tvg-logo="-------" group-title="SUPERSPORT", SUPERSPORT PREMIER LEAGUE
+http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=239078&extension=ts&play_token=yVIFGtzLtE
 #EXTINF:-1 tvg-logo="______" group-title="TR SPORT", EUROSPORT 1
 http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=7774_&extension=ts&play_token=FcCkSLTtTN
-
 #EXTINF:-1 tvg-logo="______" group-title="TR SPORT", EUROSPORT 2
 http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=7877_&extension=ts&play_token=FcCkSLTtTN
-
 #EXTINF:-1 tvg-logo="______" group-title="TR SPORT", S SPORT 1
 http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=29745_&extension=ts&play_token=FcCkSLTtTN
-
 #EXTINF:-1 tvg-logo="______" group-title="TR SPORT", S SPORT 2
 http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=46640_&extension=ts&play_token=FcCkSLTtTN
-
-
 #EXTINF:-1 tvg-logo="______" group-title="TR SPORT", TRT SPORT 1
 http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=14828_&extension=ts&play_token=FcCkSLTtTN
-
 #EXTINF:-1 tvg-logo="______" group-title="TR SPORT", TRT SPORT 2
 http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=46642_&extension=ts&play_token=FcCkSLTtTN
-
-
 #EXTINF:-1 tvg-logo="______" group-title="TR SPORT", TRT SPORT 3
 http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=68255_&extension=ts&play_token=FcCkSLTtTN
-
 #EXTINF:-1 tvg-logo="______" group-title="TR SPORT", TIVIBU SPORT 1
 http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=13469_&extension=ts&play_token=FcCkSLTtTN
-
 #EXTINF:-1 tvg-logo="______" group-title="TR SPORT", TIVIBU SPORT 2
 http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=13470_&extension=ts&play_token=FcCkSLTtTN
-
 #EXTINF:-1 tvg-logo="______" group-title="TR SPORT", TIVIBU SPORT 3
 http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=13458_&extension=ts&play_token=FcCkSLTtTN
-
 #EXTINF:-1 tvg-logo="______" group-title="TR SPORT", SMART SPORT
 http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=13471_&extension=ts&play_token=FcCkSLTtTN
-
 #EXTINF:-1 tvg-logo="______" group-title="TR SPORT", A SPORT
 http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=14824_&extension=ts&play_token=FcCkSLTtTN
-
 #EXTINF:-1 tvg-logo="______" group-title="TR SPORT", SPORTS TV
 http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=1117_&extension=ts&play_token=FcCkSLTtTN
-
 #EXTINF:-1 tvg-logo="______" group-title="TR SPORT", NBA TV
 http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=63107_&extension=ts&play_token=FcCkSLTtTN
-
 #EXTINF:-1 tvg-logo="______" group-title="TR SPORT", GALTASARAY TV
 http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=7875_&extension=ts&play_token=FcCkSLTtTN
-
 #EXTINF:-1 tvg-logo="______" group-title="TR SPORT", FENERBACE TV
 http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=7874_&extension=ts&play_token=FcCkSLTtTN
-
 #EXTINF:-1 tvg-logo="______" group-title="TR SPORT", TJK TV
 http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=8708_&extension=ts&play_token=FcCkSLTtTN
-
 #EXTINF:-1 tvg-logo="______" group-title="TR SPORT", TAY TV
 http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=14836_&extension=ts&play_token=FcCkSLTtTN
-
 #EXTINF:-1 tvg-logo="______" group-title="TR BEIN SPORT", BEIN SPORT 1
 http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=1799_&extension=ts&play_token=FcCkSLTtTN
-
 #EXTINF:-1 tvg-logo="______" group-title="TR BEIN SPORT", BEIN SPORT 2
 http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=13478_&extension=ts&play_token=FcCkSLTtTN
-
 #EXTINF:-1 tvg-logo="______" group-title="TR BEIN SPORT", BEIN SPORT 3
 http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=1801_&extension=ts&play_token=FcCkSLTtTN
-
 #EXTINF:-1 tvg-logo="______" group-title="TR BEIN SPORT", BEIN SPORT 4
 http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=41808_&extension=ts&play_token=FcCkSLTtTN
-
 #EXTINF:-1 tvg-logo="______" group-title="TR BEIN SPORT", BEIN SPORT 5
 http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=109252_&extension=ts&play_token=FcCkSLTtTN
-
 #EXTINF:-1 tvg-logo="______" group-title="TR BEIN SPORT", BEIN SPORT MAX 1
 http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=13599_&extension=ts&play_token=FcCkSLTtTN
-
 #EXTINF:-1 tvg-logo="______" group-title="TR BEIN SPORT", BEIN SPORT MAX 2
 http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=15181_&extension=ts&play_token=FcCkSLTtTN
-
 #EXTINF:-1 tvg-logo="______" group-title="TR BEIN SPORT", BEIN SPORT HABER
 http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=27725_&extension=ts&play_token=FcCkSLTtTN
-
 #EXTINF:-1 tvg-logo="______" group-title="NL ZIGGO SPORT", EUROSPORT 1
 http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=9711_&extension=ts&play_token=FcCkSLTtTN
-
 #EXTINF:-1 tvg-logo="______" group-title="NL ZIGGO SPORT", EUROSPORT 2
 http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=9712_&extension=ts&play_token=FcCkSLTtTN
-
 #EXTINF:-1 tvg-logo="______" group-title="NL ZIGGO SPORT", ESPORT TV
 http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=125226_&extension=ts&play_token=FcCkSLTtTN
-
 #EXTINF:-1 tvg-logo="______" group-title="NL ZIGGO SPORT", RUMBLE UFC POWER
 http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=135161_&extension=ts&play_token=FcCkSLTtTN
-
 #EXTINF:-1 tvg-logo="______" group-title="NL ZIGGO SPORT", WRESTLING TV
 http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=124327_&extension=ts&play_token=FcCkSLTtTN
-
 #EXTINF:-1 tvg-logo="______" group-title="NL ZIGGO SPORT", WWE TV
 http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=122559_&extension=ts&play_token=FcCkSLTtTN
-
 #EXTINF:-1 tvg-logo="______" group-title="NL ZIGGO SPORT", EXTREAM SPORT TV
 http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=2351_&extension=ts&play_token=FcCkSLTtTN
-
 #EXTINF:-1 tvg-logo="______" group-title="NL ZIGGO SPORT", HOURSE COUNTRY TV
 http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=65011_&extension=ts&play_token=FcCkSLTtTN
 
@@ -557,18 +608,18 @@ http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=9683_&extensi
 http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=9684_&extension=ts&play_token=FcCkSLTtTN
 
 
-#EXTINF:-1 tvg-logo="______" group-title="NL ESPN SPORT", NL ESPN 4
+#EXTINF:-1 tvg-logo="______" group-title="ESPN SPORT", NL ESPN 4
 http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=9758_&extension=ts&play_token=FcCkSLTtTN
 
-#EXTINF:-1 tvg-logo="______" group-title="NL ESPN SPORT", NL ESPN 3
+#EXTINF:-1 tvg-logo="______" group-title="ESPN SPORT", NL ESPN 3
 http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=9708_&extension=ts&play_token=FcCkSLTtTN
 
-#EXTINF:-1 tvg-logo="______" group-title="NL ESPN SPORT", NL ESPN 2
+#EXTINF:-1 tvg-logo="______" group-title="ESPN SPORT", NL ESPN 2
 http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=9707_&extension=ts&play_token=FcCkSLTtTN
 
-#EXTINF:-1 tvg-logo="______" group-title="NL ESPN SPORT", NL ESPN 1
+#EXTINF:-1 tvg-logo="______" group-title="ESPN SPORT", NL ESPN 1
 http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=9706_&extension=ts&play_token=FcCkSLTtTN
 
-#EXTINF:-1 tvg-logo="______" group-title="NL ESPN SPORT", NL ESPN EXTRA
+#EXTINF:-1 tvg-logo="______" group-title="ESPN SPORT", NL ESPN EXTRA
 http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=128893_&extension=ts&play_token=FcCkSLTtTN
 
