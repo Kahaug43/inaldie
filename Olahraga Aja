@@ -1,525 +1,1184 @@
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#♣♦♣CREATOR BY : INALDIE♣♦♣#", WELCOME MY PLAYLIST
+
+#EXTINF:-1 tvg-
+
+logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_14
+
+1247589.png" group-title="#♣♦♣CREATOR BY : INALDIE♣♦♣#", WELCOME MY 
+
+PLAYLIST
 https://github.com/inaldie/inaldie/raw/main/WELCOM.ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#♣♦♣CREATOR BY : INALDIE♣♦♣#", JOINT TELEGRAM https://t.me/IPTVcostum
+#EXTINF:-1 
+
+tvg-
+
+logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_14
+
+1247589.png" group-title="#♣♦♣CREATOR BY : INALDIE♣♦♣#", JOINT 
+
+TELEGRAM https://t.me/IPTVcostum
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#♣♦♣CREATOR BY : INALDIE♣♦♣#", DONASI GRUP https://saweria.co/Inaldie22
+#EXTINF:-1 tvg-
+
+logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_14
+
+1247589.png" group-title="#♣♦♣CREATOR BY : INALDIE♣♦♣#", DONASI GRUP 
+
+https://saweria.co/Inaldie22
 https://github.com/inaldie/inaldie/raw/main/DONATE.ts
 
 
 
 
 
+#EXTINF:-1 tvg-
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", SONY TEN 1 SPORT
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=156017&extension=ts&play_token=PILpZukiSU
+logo="http://127.0.0.1/" group-title="SPORT ASIA", ONE SPORT
+http://protv.fun:80/play/live.php?
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", SONY TEN 2 SPORT
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=156010&extension=ts&play_token=TNzE7xL6Ki
+mac=00:1A:79:BF:D2:44&stream=926161&extension=ts&play_token=1CpygHM1Ws
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", SONY TEN 3 SPORT
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=156024&extension=ts&play_token=AbO3tBe7vP
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", TENS SPORT 
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", SONY TEN 4 SPORT
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=1114579&extension=ts&play_token=4LDPYXrgXr
+PAKISTAN
+http://backup.xp1.tv:80/play/live.php?
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", SONY TEN 5 SPORT
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=156016&extension=ts&play_token=sWYEQX5Wdw
+mac=00:1A:79:C0:17:5D&stream=65516_&extension=m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", ONE SPORT
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=926161&extension=ts&play_token=1CpygHM1Ws
+#EXTINF:-1 tvg-
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", TENS SPORT PAKISTAN
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=65516_&extension=m3u8
+logo="http://127.0.0.1/" group-title="SPORT ASIA", KASS SPORT 1
+http://z.xzzz.vip:80/play/live.php?
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", KASS SPORT 1
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=6578&extension=ts&play_token=5d1hKhqZGm
+mac=00:1a:79:4a:D7:CB&stream=6578&extension=ts&play_token=5d1hKhqZGm
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", KASS SPORT 2
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=6577&extension=ts&play_token=xG974qULZL
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", KASS SPORT 
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", KASS SPORT 4
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=167322&extension=ts&play_token=dHzsSuwllS
+2
+http://z.xzzz.vip:80/play/live.php?
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", KASS SPORT 5
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=167323&extension=ts&play_token=IIC2293js6
+mac=00:1a:79:4a:D7:CB&stream=6577&extension=ts&play_token=xG974qULZL
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", DUBAI SPORT 1
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=8086&extension=ts&play_token=echIdxK5ku
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", KASS SPORT 
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", DUBAI SPORT 2
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=84251&extension=ts&play_token=NEXHUmCXOg
+4
+http://z.xzzz.vip:80/play/live.php?
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", DUBAI SPORT 3
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=591578&extension=ts&play_token=BBWVT3hdMm
+mac=00:1a:79:4a:D7:CB&stream=167322&extension=ts&play_token=dHzsSuwllS
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", DUBAI RACING 1
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=84250&extension=ts&play_token=1ym4Ssj8Sm
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", KASS SPORT 
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", DUBAI RACING 2
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=8242&extension=ts&play_token=VVKtBL4vBS
+5
+http://z.xzzz.vip:80/play/live.php?
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", DUBAI RACING 3
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=591581&extension=ts&play_token=KD8tWVZtPg
+mac=00:1a:79:4a:D7:CB&stream=167323&extension=ts&play_token=IIC2293js6
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", DUBAI 
+
+SPORT 1
+http://z.xzzz.vip:80/play/live.php?
+
+mac=00:1a:79:4a:D7:CB&stream=8086&extension=ts&play_token=echIdxK5ku
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", DUBAI 
+
+SPORT 2
+http://z.xzzz.vip:80/play/live.php?
+
+mac=00:1a:79:4a:D7:CB&stream=84251&extension=ts&play_token=NEXHUmCXOg
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", DUBAI 
+
+SPORT 3
+http://z.xzzz.vip:80/play/live.php?
+
+mac=00:1a:79:4a:D7:CB&stream=591578&extension=ts&play_token=BBWVT3hdMm
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", DUBAI 
+
+RACING 1
+http://z.xzzz.vip:80/play/live.php?
+
+mac=00:1a:79:4a:D7:CB&stream=84250&extension=ts&play_token=1ym4Ssj8Sm
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", DUBAI 
+
+RACING 2
+http://z.xzzz.vip:80/play/live.php?
+
+mac=00:1a:79:4a:D7:CB&stream=8242&extension=ts&play_token=VVKtBL4vBS
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", DUBAI 
+
+RACING 3
+http://z.xzzz.vip:80/play/live.php?
+
+mac=00:1a:79:4a:D7:CB&stream=591581&extension=ts&play_token=KD8tWVZtPg
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", AD SPORT 1
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=7831&extension=ts&play_token=i2gNPUDXW8
+http://z.xzzz.vip:80/play/live.php?
+
+mac=00:1a:79:4a:D7:CB&stream=7831&extension=ts&play_token=i2gNPUDXW8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", AD SPORT 2
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=7830&extension=ts&play_token=KPBCm96RAY
+http://z.xzzz.vip:80/play/live.php?
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", AD SPORT ASIA 1
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=860836&extension=ts&play_token=uQH5MQ2DUQ
+mac=00:1a:79:4a:D7:CB&stream=7830&extension=ts&play_token=KPBCm96RAY
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", AD SPORT ASIA 2
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=860837&extension=ts&play_token=Td18IctXEg
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", AD SPORT 
+
+ASIA 1
+http://z.xzzz.vip:80/play/live.php?
+
+mac=00:1a:79:4a:D7:CB&stream=860836&extension=ts&play_token=uQH5MQ2DUQ
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", AD SPORT 
+
+ASIA 2
+http://z.xzzz.vip:80/play/live.php?
+
+mac=00:1a:79:4a:D7:CB&stream=860837&extension=ts&play_token=Td18IctXEg
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", YASS SPORT
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=6579&extension=ts&play_token=2VJUjjCYqP
+http://z.xzzz.vip:80/play/live.php?
+
+mac=00:1a:79:4a:D7:CB&stream=6579&extension=ts&play_token=2VJUjjCYqP
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", BEIN 3
 http://humiptv.live:8080/live/tarun589853/5787489bcsh/143063.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", BEIN 2
+#EXTINF:-1 
+
+tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", BEIN 2
 http://humiptv.live:8080/live/tarun589853/5787489bcsh/143060.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", SPOTV 1
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683117&extension=ts&play_token=ttKChD9xXt
+#EXTINF:-1 
+
+tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", SPOTV 1
+http://protv.fun:80/play/live.php?
+
+mac=00:1A:79:BF:D2:44&stream=683117&extension=ts&play_token=ttKChD9xXt
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", SPOTV 1
 http://humiptv.live:8080/live/tarun589853/5787489bcsh/143137.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", SPOTV 2
+#EXTINF:-1 
+
+tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", SPOTV 2
 http://humiptv.live:8080/live/tarun589853/5787489bcsh/151193.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", SPORTSTAR 1
+#EXTINF:-1 
+
+tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", SPORTSTAR 1
 http://humiptv.live:8080/live/tarun589853/5787489bcsh/151188.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", SPORTSTAR 2
+#EXTINF:-1 
+
+tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", SPORTSTAR 2
 http://humiptv.live:8080/live/tarun589853/5787489bcsh/151187.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", SPORTSTAR 3
+#EXTINF:-1 
+
+tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", SPORTSTAR 3
 http://humiptv.live:8080/live/tarun589853/5787489bcsh/151181.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", SOCCER CHANEL
+#EXTINF:-1 
+
+tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", SOCCER CHANEL
 http://humiptv.live:8080/live/tarun589853/5787489bcsh/151186.ts
 
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/643a97af82fb334f27205245937cf865.png" group-title="beIN SPORTS HD SD", beIN SPORTS GLOBAL HD
+#EXTINF:-1 
+
+tvg-logo="http://127.0.0.1/" group-title="SONY TEN SPORT", SONY TEN 1 
+
+SPORT
+http://protv.fun:80/play/live.php?
+
+mac=00:1A:79:BF:D2:44&stream=156017&extension=ts&play_token=PILpZukiSU
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SONY TEN SPORT", SONY 
+
+TEN 2 SPORT
+http://protv.fun:80/play/live.php?
+
+mac=00:1A:79:BF:D2:44&stream=156010&extension=ts&play_token=TNzE7xL6Ki
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SONY TEN SPORT", SONY 
+
+TEN 3 SPORT
+http://protv.fun:80/play/live.php?
+
+mac=00:1A:79:BF:D2:44&stream=156024&extension=ts&play_token=AbO3tBe7vP
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SONY TEN SPORT", SONY 
+
+TEN 4 SPORT
+http://protv.fun:80/play/live.php?
+
+mac=00:1A:79:BF:D2:44&stream=1114579&extension=ts&play_token=4LDPYXrgXr
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SONY TEN SPORT", SONY 
+
+TEN 5 SPORT
+http://protv.fun:80/play/live.php?
+
+mac=00:1A:79:BF:D2:44&stream=156016&extension=ts&play_token=sWYEQX5Wdw
+
+
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/643a97af82fb334f27205245937cf865.png" group-
+
+title="beIN SPORTS HD SD", beIN SPORTS GLOBAL HD
 http://magott.net:80/okota380/RvPBwTrjvRPM/3
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="beIN SPORTS HD SD", beIN SPORTS GLOBAL FHD
+#EXTINF:-1 tvg-
+
+logo="http://127.0.0.1/" group-title="beIN SPORTS HD SD", beIN SPORTS GLOBAL 
+
+FHD
 http://magott.net:80/okota380/RvPBwTrjvRPM/63516
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/3d7634c3635a6633539674ea72ed4ac6.png" group-title="beIN SPORTS HD SD", beIN SPORTS NEWS HD
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/3d7634c3635a6633539674ea72ed4ac6.png" 
+
+group-title="beIN SPORTS HD SD", beIN SPORTS NEWS HD
 http://magott.net:80/okota380/RvPBwTrjvRPM/5
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/3d7634c3635a6633539674ea72ed4ac6.png" group-title="beIN SPORTS HD SD", beIN SPORTS NEWS FHD
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/3d7634c3635a6633539674ea72ed4ac6.png" 
+
+group-title="beIN SPORTS HD SD", beIN SPORTS NEWS FHD
 http://magott.net:80/okota380/RvPBwTrjvRPM/63515
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/37fb247fd923976c563d60dae9112c3b.png" group-title="beIN SPORTS HD SD", BeINSport PREMIUM 1 SD s1
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/37fb247fd923976c563d60dae9112c3b.png" 
+
+group-title="beIN SPORTS HD SD", BeINSport PREMIUM 1 SD s1
 http://magott.net:80/okota380/RvPBwTrjvRPM/45
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="beIN SPORTS HD SD", BeINSport PREMIUM 1 SD s2
+#EXTINF:-1 tvg-
+
+logo="http://127.0.0.1/" group-title="beIN SPORTS HD SD", BeINSport PREMIUM 1 
+
+SD s2
 http://magott.net:80/okota380/RvPBwTrjvRPM/63911
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/37fb247fd923976c563d60dae9112c3b.png" group-title="beIN SPORTS HD SD", BeINSport PREMIUM 1 HD s1
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/37fb247fd923976c563d60dae9112c3b.png" 
+
+group-title="beIN SPORTS HD SD", BeINSport PREMIUM 1 HD s1
 http://magott.net:80/okota380/RvPBwTrjvRPM/44
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/37fb247fd923976c563d60dae9112c3b.png" group-title="beIN SPORTS HD SD", BeINSport  PREMIUM 1 HD s2
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/37fb247fd923976c563d60dae9112c3b.png" 
+
+group-title="beIN SPORTS HD SD", BeINSport  PREMIUM 1 HD s2
 http://magott.net:80/okota380/RvPBwTrjvRPM/25738
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="beIN SPORTS HD SD", BeINSport PREMIUM 1 HD s3
+#EXTINF:-1 tvg-
+
+logo="http://127.0.0.1/" group-title="beIN SPORTS HD SD", BeINSport PREMIUM 1 
+
+HD s3
 http://magott.net:80/okota380/RvPBwTrjvRPM/53278
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/37fb247fd923976c563d60dae9112c3b.png" group-title="beIN SPORTS HD SD", BeINSport PREMIUM 1 FHD
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/37fb247fd923976c563d60dae9112c3b.png" 
+
+group-title="beIN SPORTS HD SD", BeINSport PREMIUM 1 FHD
 http://magott.net:80/okota380/RvPBwTrjvRPM/43
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/6394bd5aa98278791dc02cf4f426a942.png" group-title="beIN SPORTS HD SD", BeINSport PREMIUM 2 SD s1
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/6394bd5aa98278791dc02cf4f426a942.png" 
+
+group-title="beIN SPORTS HD SD", BeINSport PREMIUM 2 SD s1
 http://magott.net:80/okota380/RvPBwTrjvRPM/48
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="beIN SPORTS HD SD", BeINSport PREMIUM 2 SD s2
+#EXTINF:-1 tvg-
+
+logo="http://127.0.0.1/" group-title="beIN SPORTS HD SD", BeINSport PREMIUM 2 
+
+SD s2
 http://magott.net:80/okota380/RvPBwTrjvRPM/63912
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/6394bd5aa98278791dc02cf4f426a942.png" group-title="beIN SPORTS HD SD", BeINSport PREMIUM 2 HD s1
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/6394bd5aa98278791dc02cf4f426a942.png" 
+
+group-title="beIN SPORTS HD SD", BeINSport PREMIUM 2 HD s1
 http://magott.net:80/okota380/RvPBwTrjvRPM/47
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/6394bd5aa98278791dc02cf4f426a942.png" group-title="beIN SPORTS HD SD", BeINSport  PREMIUM 2 HD s2
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/6394bd5aa98278791dc02cf4f426a942.png" 
+
+group-title="beIN SPORTS HD SD", BeINSport  PREMIUM 2 HD s2
 http://magott.net:80/okota380/RvPBwTrjvRPM/25739
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/6394bd5aa98278791dc02cf4f426a942.png" group-title="beIN SPORTS HD SD", BeINSport PREMIUM 2 HD S3
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/6394bd5aa98278791dc02cf4f426a942.png" 
+
+group-title="beIN SPORTS HD SD", BeINSport PREMIUM 2 HD S3
 http://magott.net:80/okota380/RvPBwTrjvRPM/61460
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/6394bd5aa98278791dc02cf4f426a942.png" group-title="beIN SPORTS HD SD", BeINSport PREMIUM 2 FHD
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/6394bd5aa98278791dc02cf4f426a942.png" 
+
+group-title="beIN SPORTS HD SD", BeINSport PREMIUM 2 FHD
 http://magott.net:80/okota380/RvPBwTrjvRPM/46
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/b9e870a58ac11fa5224a2fa1463e6010.png" group-title="beIN SPORTS HD SD", BeINSport PREMIUM 3 SD s1
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/b9e870a58ac11fa5224a2fa1463e6010.png" group-
+
+title="beIN SPORTS HD SD", BeINSport PREMIUM 3 SD s1
 http://magott.net:80/okota380/RvPBwTrjvRPM/51
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="beIN SPORTS HD SD", BeINSport PREMIUM 3 SD s2
+#EXTINF:-1 tvg-
+
+logo="http://127.0.0.1/" group-title="beIN SPORTS HD SD", BeINSport PREMIUM 3 
+
+SD s2
 http://magott.net:80/okota380/RvPBwTrjvRPM/63913
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/b9e870a58ac11fa5224a2fa1463e6010.png" group-title="beIN SPORTS HD SD", BeINSport PREMIUM 3 HD s1
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/b9e870a58ac11fa5224a2fa1463e6010.png" group-
+
+title="beIN SPORTS HD SD", BeINSport PREMIUM 3 HD s1
 http://magott.net:80/okota380/RvPBwTrjvRPM/50
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/b9e870a58ac11fa5224a2fa1463e6010.png" group-title="beIN SPORTS HD SD", BeINSport  PREMIUM 3 HD s2
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/b9e870a58ac11fa5224a2fa1463e6010.png" group-
+
+title="beIN SPORTS HD SD", BeINSport  PREMIUM 3 HD s2
 http://magott.net:80/okota380/RvPBwTrjvRPM/25740
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/b9e870a58ac11fa5224a2fa1463e6010.png" group-title="beIN SPORTS HD SD", BeINSport PREMIUM 3 HD s3
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/b9e870a58ac11fa5224a2fa1463e6010.png" group-
+
+title="beIN SPORTS HD SD", BeINSport PREMIUM 3 HD s3
 http://magott.net:80/okota380/RvPBwTrjvRPM/61461
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/b9e870a58ac11fa5224a2fa1463e6010.png" group-title="beIN SPORTS HD SD", BeINSport PREMIUM 3 FHD
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/b9e870a58ac11fa5224a2fa1463e6010.png" group-
+
+title="beIN SPORTS HD SD", BeINSport PREMIUM 3 FHD
 http://magott.net:80/okota380/RvPBwTrjvRPM/49
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/d4c9a82eabcea9ef8c626da20887aa40.png" group-title="beIN SPORTS HD SD", beIN SPORTS 1 SD s1
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/d4c9a82eabcea9ef8c626da20887aa40.png" group-
+
+title="beIN SPORTS HD SD", beIN SPORTS 1 SD s1
 http://magott.net:80/okota380/RvPBwTrjvRPM/24
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="beIN SPORTS HD SD", beIN SPORTS 1 SD s2
+#EXTINF:-1 tvg-
+
+logo="http://127.0.0.1/" group-title="beIN SPORTS HD SD", beIN SPORTS 1 SD s2
 http://magott.net:80/okota380/RvPBwTrjvRPM/65472
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/d4c9a82eabcea9ef8c626da20887aa40.png" group-title="beIN SPORTS HD SD", beIN SPORTS 1 HD s1
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/d4c9a82eabcea9ef8c626da20887aa40.png" group-
+
+title="beIN SPORTS HD SD", beIN SPORTS 1 HD s1
 http://magott.net:80/okota380/RvPBwTrjvRPM/23
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/d4c9a82eabcea9ef8c626da20887aa40.png" group-title="beIN SPORTS HD SD", beIN SPORTS 1 HD s2
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/d4c9a82eabcea9ef8c626da20887aa40.png" group-
+
+title="beIN SPORTS HD SD", beIN SPORTS 1 HD s2
 http://magott.net:80/okota380/RvPBwTrjvRPM/26533
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/d4c9a82eabcea9ef8c626da20887aa40.png" group-title="beIN SPORTS HD SD", beIN SPORTS 1 FHD
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/d4c9a82eabcea9ef8c626da20887aa40.png" group-
+
+title="beIN SPORTS HD SD", beIN SPORTS 1 FHD
 http://magott.net:80/okota380/RvPBwTrjvRPM/22
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/c843d8b8effaf68a539ebe0ba25e8d8e.png" group-title="beIN SPORTS HD SD", beIN SPORTS 2 SD s1
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/c843d8b8effaf68a539ebe0ba25e8d8e.png" group-
+
+title="beIN SPORTS HD SD", beIN SPORTS 2 SD s1
 http://magott.net:80/okota380/RvPBwTrjvRPM/27
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/3fe05b7b5fa9e0c4f4e647e0dd514177.png" group-title="beIN SPORTS HD SD", beIN SPORTS 2 SD s2
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/3fe05b7b5fa9e0c4f4e647e0dd514177.png" group-
+
+title="beIN SPORTS HD SD", beIN SPORTS 2 SD s2
 http://magott.net:80/okota380/RvPBwTrjvRPM/65484
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/c843d8b8effaf68a539ebe0ba25e8d8e.png" group-title="beIN SPORTS HD SD", beIN SPORTS 2 HD s1
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/c843d8b8effaf68a539ebe0ba25e8d8e.png" group-
+
+title="beIN SPORTS HD SD", beIN SPORTS 2 HD s1
 http://magott.net:80/okota380/RvPBwTrjvRPM/26
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/c843d8b8effaf68a539ebe0ba25e8d8e.png" group-title="beIN SPORTS HD SD", beIN SPORTS 2 HD s2
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/c843d8b8effaf68a539ebe0ba25e8d8e.png" group-
+
+title="beIN SPORTS HD SD", beIN SPORTS 2 HD s2
 http://magott.net:80/okota380/RvPBwTrjvRPM/26534
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/c843d8b8effaf68a539ebe0ba25e8d8e.png" group-title="beIN SPORTS HD SD", beIN SPORTS 2 FHD
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/c843d8b8effaf68a539ebe0ba25e8d8e.png" group-
+
+title="beIN SPORTS HD SD", beIN SPORTS 2 FHD
 http://magott.net:80/okota380/RvPBwTrjvRPM/25
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/16e477b068241cc66b0034bbffa682e8.png" group-title="beIN SPORTS HD SD", beIN SPORTS 3 SD s1
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/16e477b068241cc66b0034bbffa682e8.png" group-
+
+title="beIN SPORTS HD SD", beIN SPORTS 3 SD s1
 http://magott.net:80/okota380/RvPBwTrjvRPM/30
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="beIN SPORTS HD SD", beINSPORTS 3 SD s2
+#EXTINF:-1 tvg-
+
+logo="http://127.0.0.1/" group-title="beIN SPORTS HD SD", beINSPORTS 3 SD s2
 http://magott.net:80/okota380/RvPBwTrjvRPM/65485
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/16e477b068241cc66b0034bbffa682e8.png" group-title="beIN SPORTS HD SD", beIN SPORTS 3 HD s1
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/16e477b068241cc66b0034bbffa682e8.png" group-
+
+title="beIN SPORTS HD SD", beIN SPORTS 3 HD s1
 http://magott.net:80/okota380/RvPBwTrjvRPM/29
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/16e477b068241cc66b0034bbffa682e8.png" group-title="beIN SPORTS HD SD", beIN SPORTS 3 HD s2
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/16e477b068241cc66b0034bbffa682e8.png" group-
+
+title="beIN SPORTS HD SD", beIN SPORTS 3 HD s2
 http://magott.net:80/okota380/RvPBwTrjvRPM/26535
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/16e477b068241cc66b0034bbffa682e8.png" group-title="beIN SPORTS HD SD", beIN SPORTS 3 FHD
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/16e477b068241cc66b0034bbffa682e8.png" group-
+
+title="beIN SPORTS HD SD", beIN SPORTS 3 FHD
 http://magott.net:80/okota380/RvPBwTrjvRPM/28
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/11a736e3ce515928d57c8eda23b5c1a1.png" group-title="beIN SPORTS HD SD", beIN SPORTS 4 SD s1
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/11a736e3ce515928d57c8eda23b5c1a1.png" 
+
+group-title="beIN SPORTS HD SD", beIN SPORTS 4 SD s1
 http://magott.net:80/okota380/RvPBwTrjvRPM/33
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="beIN SPORTS HD SD", beIN SPORTS 4 SD s2
+#EXTINF:-1 tvg-
+
+logo="http://127.0.0.1/" group-title="beIN SPORTS HD SD", beIN SPORTS 4 SD s2
 http://magott.net:80/okota380/RvPBwTrjvRPM/65486
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/11a736e3ce515928d57c8eda23b5c1a1.png" group-title="beIN SPORTS HD SD", beIN SPORTS 4 HD s1
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/11a736e3ce515928d57c8eda23b5c1a1.png" 
+
+group-title="beIN SPORTS HD SD", beIN SPORTS 4 HD s1
 http://magott.net:80/okota380/RvPBwTrjvRPM/32
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/11a736e3ce515928d57c8eda23b5c1a1.png" group-title="beIN SPORTS HD SD", beIN SPORTS 4 HD s2
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/11a736e3ce515928d57c8eda23b5c1a1.png" 
+
+group-title="beIN SPORTS HD SD", beIN SPORTS 4 HD s2
 http://magott.net:80/okota380/RvPBwTrjvRPM/26536
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/11a736e3ce515928d57c8eda23b5c1a1.png" group-title="beIN SPORTS HD SD", beIN SPORTS 4 FHD
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/11a736e3ce515928d57c8eda23b5c1a1.png" 
+
+group-title="beIN SPORTS HD SD", beIN SPORTS 4 FHD
 http://magott.net:80/okota380/RvPBwTrjvRPM/31
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/85d51d7b19570162c6547dee3ee792fd.png" group-title="beIN SPORTS HD SD", beIN SPORTS 5 SD s1
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/85d51d7b19570162c6547dee3ee792fd.png" 
+
+group-title="beIN SPORTS HD SD", beIN SPORTS 5 SD s1
 http://magott.net:80/okota380/RvPBwTrjvRPM/36
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="beIN SPORTS HD SD", beIN SPORTS 5 SD s2
+#EXTINF:-1 tvg-
+
+logo="http://127.0.0.1/" group-title="beIN SPORTS HD SD", beIN SPORTS 5 SD s2
 http://magott.net:80/okota380/RvPBwTrjvRPM/65487
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/85d51d7b19570162c6547dee3ee792fd.png" group-title="beIN SPORTS HD SD", beIN SPORTS 5 HD s1
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/85d51d7b19570162c6547dee3ee792fd.png" 
+
+group-title="beIN SPORTS HD SD", beIN SPORTS 5 HD s1
 http://magott.net:80/okota380/RvPBwTrjvRPM/35
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/85d51d7b19570162c6547dee3ee792fd.png" group-title="beIN SPORTS HD SD", beIN SPORTS 5 HD s2
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/85d51d7b19570162c6547dee3ee792fd.png" 
+
+group-title="beIN SPORTS HD SD", beIN SPORTS 5 HD s2
 http://magott.net:80/okota380/RvPBwTrjvRPM/26537
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/85d51d7b19570162c6547dee3ee792fd.png" group-title="beIN SPORTS HD SD", beIN SPORTS 5 FHD
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/85d51d7b19570162c6547dee3ee792fd.png" 
+
+group-title="beIN SPORTS HD SD", beIN SPORTS 5 FHD
 http://magott.net:80/okota380/RvPBwTrjvRPM/34
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/463fb9476be3ce96f22a732e7e8ed6cb.png" group-title="beIN SPORTS HD SD", beIN SPORTS 6 SD s1
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/463fb9476be3ce96f22a732e7e8ed6cb.png" group-
+
+title="beIN SPORTS HD SD", beIN SPORTS 6 SD s1
 http://magott.net:80/okota380/RvPBwTrjvRPM/39
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="beIN SPORTS HD SD", beIN SPORTS 6 SD s2
+#EXTINF:-1 tvg-
+
+logo="http://127.0.0.1/" group-title="beIN SPORTS HD SD", beIN SPORTS 6 SD s2
 http://magott.net:80/okota380/RvPBwTrjvRPM/65488
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/463fb9476be3ce96f22a732e7e8ed6cb.png" group-title="beIN SPORTS HD SD", beIN SPORTS 6 HD s1
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/463fb9476be3ce96f22a732e7e8ed6cb.png" group-
+
+title="beIN SPORTS HD SD", beIN SPORTS 6 HD s1
 http://magott.net:80/okota380/RvPBwTrjvRPM/38
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/463fb9476be3ce96f22a732e7e8ed6cb.png" group-title="beIN SPORTS HD SD", beIN SPORTS 6 HD s2
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/463fb9476be3ce96f22a732e7e8ed6cb.png" group-
+
+title="beIN SPORTS HD SD", beIN SPORTS 6 HD s2
 http://magott.net:80/okota380/RvPBwTrjvRPM/26538
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/463fb9476be3ce96f22a732e7e8ed6cb.png" group-title="beIN SPORTS HD SD", beIN SPORTS 6 FHD
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/463fb9476be3ce96f22a732e7e8ed6cb.png" group-
+
+title="beIN SPORTS HD SD", beIN SPORTS 6 FHD
 http://magott.net:80/okota380/RvPBwTrjvRPM/37
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/3fe05b7b5fa9e0c4f4e647e0dd514177.png" group-title="beIN SPORTS HD SD", beIN SPORTS 7 SD s1
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/3fe05b7b5fa9e0c4f4e647e0dd514177.png" group-
+
+title="beIN SPORTS HD SD", beIN SPORTS 7 SD s1
 http://magott.net:80/okota380/RvPBwTrjvRPM/42
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="beIN SPORTS HD SD", beIN SPORTS 7 SD s2
+#EXTINF:-1 tvg-
+
+logo="http://127.0.0.1/" group-title="beIN SPORTS HD SD", beIN SPORTS 7 SD s2
 http://magott.net:80/okota380/RvPBwTrjvRPM/65489
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/3fe05b7b5fa9e0c4f4e647e0dd514177.png" group-title="beIN SPORTS HD SD", beIN SPORTS 7 HD s1
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/3fe05b7b5fa9e0c4f4e647e0dd514177.png" group-
+
+title="beIN SPORTS HD SD", beIN SPORTS 7 HD s1
 http://magott.net:80/okota380/RvPBwTrjvRPM/41
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/3fe05b7b5fa9e0c4f4e647e0dd514177.png" group-title="beIN SPORTS HD SD", beIN SPORTS 7 HD s2
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/3fe05b7b5fa9e0c4f4e647e0dd514177.png" group-
+
+title="beIN SPORTS HD SD", beIN SPORTS 7 HD s2
 http://magott.net:80/okota380/RvPBwTrjvRPM/26539
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/3fe05b7b5fa9e0c4f4e647e0dd514177.png" group-title="beIN SPORTS HD SD", beIN SPORTS 7 FHD
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/3fe05b7b5fa9e0c4f4e647e0dd514177.png" group-
+
+title="beIN SPORTS HD SD", beIN SPORTS 7 FHD
 http://magott.net:80/okota380/RvPBwTrjvRPM/40
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/91fee2f3adee5c6887032093f5216560.png" group-title="beIN SPORTS HD SD", BeINSport FRENCH 1 HD
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/91fee2f3adee5c6887032093f5216560.png" group-
+
+title="beIN SPORTS HD SD", BeINSport FRENCH 1 HD
 http://magott.net:80/okota380/RvPBwTrjvRPM/59
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/eb106688e865cd89283a075021c69292.png" group-title="beIN SPORTS HD SD", BeINSport FRENCH 2 HD
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/eb106688e865cd89283a075021c69292.png" 
+
+group-title="beIN SPORTS HD SD", BeINSport FRENCH 2 HD
 http://magott.net:80/okota380/RvPBwTrjvRPM/61
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/40a0592195823a4b39c095751efde887.png" group-title="beIN SPORTS HD SD", BeINSport FRENCH 3 HD
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/40a0592195823a4b39c095751efde887.png" 
+
+group-title="beIN SPORTS HD SD", BeINSport FRENCH 3 HD
 http://magott.net:80/okota380/RvPBwTrjvRPM/63
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/fea5ba992444812ee6103f4fd938582b.png" group-title="beIN SPORTS HD SD", BeINSport ENGLISH 1 HD
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/fea5ba992444812ee6103f4fd938582b.png" group-
+
+title="beIN SPORTS HD SD", BeINSport ENGLISH 1 HD
 http://magott.net:80/okota380/RvPBwTrjvRPM/53
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/735aa3b1184a00afb42a4f6bf4ee6557.png" group-title="beIN SPORTS HD SD", BeINSport ENGLISH 2 HD
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/735aa3b1184a00afb42a4f6bf4ee6557.png" group-
+
+title="beIN SPORTS HD SD", BeINSport ENGLISH 2 HD
 http://magott.net:80/okota380/RvPBwTrjvRPM/55
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/4629368f3ebfb96fecf3f35c9263d9c6.png" group-title="beIN SPORTS HD SD", BeINSport ENGLISH 3 HD
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/4629368f3ebfb96fecf3f35c9263d9c6.png" group-
+
+title="beIN SPORTS HD SD", BeINSport ENGLISH 3 HD
 http://magott.net:80/okota380/RvPBwTrjvRPM/57
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/46e05d07c053612c9f2afca326c48745.png" group-title="beIN SPORTS HD SD", beIN SPORTS XTRA 1 HD
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/46e05d07c053612c9f2afca326c48745.png" group-
+
+title="beIN SPORTS HD SD", beIN SPORTS XTRA 1 HD
 http://magott.net:80/okota380/RvPBwTrjvRPM/25734
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/65c0418bdb8bab39f5287fdd40d211f7.png" group-title="beIN SPORTS HD SD", beIN SPORTS XTRA 2 HD
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/65c0418bdb8bab39f5287fdd40d211f7.png" 
+
+group-title="beIN SPORTS HD SD", beIN SPORTS XTRA 2 HD
 http://magott.net:80/okota380/RvPBwTrjvRPM/25735
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/25f8473b19e0aa22e3d21720674a1578.png" group-title="beIN SPORTS HD SD", beIN SPORTS NBA HD
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/25f8473b19e0aa22e3d21720674a1578.png" 
+
+group-title="beIN SPORTS HD SD", beIN SPORTS NBA HD
 http://magott.net:80/okota380/RvPBwTrjvRPM/38943
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="beIN SPORTS HD SD", beIN SPORTS AFC SD
+#EXTINF:-1 tvg-
+
+logo="http://127.0.0.1/" group-title="beIN SPORTS HD SD", beIN SPORTS AFC SD
 http://magott.net:80/okota380/RvPBwTrjvRPM/65427
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/d4c9a82eabcea9ef8c626da20887aa40.png" group-title="beIN SPORTS HD SD", beIN SPORTS AFC HD
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/d4c9a82eabcea9ef8c626da20887aa40.png" group-
+
+title="beIN SPORTS HD SD", beIN SPORTS AFC HD
 http://magott.net:80/okota380/RvPBwTrjvRPM/50461
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/d4c9a82eabcea9ef8c626da20887aa40.png" group-title="beIN SPORTS HD SD", beIN SPORTS AFC 1 HD
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/d4c9a82eabcea9ef8c626da20887aa40.png" group-
+
+title="beIN SPORTS HD SD", beIN SPORTS AFC 1 HD
 http://magott.net:80/okota380/RvPBwTrjvRPM/50462
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/c843d8b8effaf68a539ebe0ba25e8d8e.png" group-title="beIN SPORTS HD SD", beIN SPORTS AFC 2 HD
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/c843d8b8effaf68a539ebe0ba25e8d8e.png" group-
+
+title="beIN SPORTS HD SD", beIN SPORTS AFC 2 HD
 http://magott.net:80/okota380/RvPBwTrjvRPM/50463
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/16e477b068241cc66b0034bbffa682e8.png" group-title="beIN SPORTS HD SD", beIN SPORTS AFC 3 HD
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/16e477b068241cc66b0034bbffa682e8.png" group-
+
+title="beIN SPORTS HD SD", beIN SPORTS AFC 3 HD
 http://magott.net:80/okota380/RvPBwTrjvRPM/50464
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/91fee2f3adee5c6887032093f5216560.png" group-title="beIN SPORTS HD SD", BeINSport FRENCH 1 FHD
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/91fee2f3adee5c6887032093f5216560.png" group-
+
+title="beIN SPORTS HD SD", BeINSport FRENCH 1 FHD
 http://magott.net:80/okota380/RvPBwTrjvRPM/58
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/eb106688e865cd89283a075021c69292.png" group-title="beIN SPORTS HD SD", BeINSport FRENCH 2 FHD
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/eb106688e865cd89283a075021c69292.png" 
+
+group-title="beIN SPORTS HD SD", BeINSport FRENCH 2 FHD
 http://magott.net:80/okota380/RvPBwTrjvRPM/60
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/40a0592195823a4b39c095751efde887.png" group-title="beIN SPORTS HD SD", BeINSport FRENCH 3 FHD
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/40a0592195823a4b39c095751efde887.png" 
+
+group-title="beIN SPORTS HD SD", BeINSport FRENCH 3 FHD
 http://magott.net:80/okota380/RvPBwTrjvRPM/62
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/46e05d07c053612c9f2afca326c48745.png" group-title="beIN SPORTS HD SD", beIN SPORTS XTRA 1 FHD
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/46e05d07c053612c9f2afca326c48745.png" group-
+
+title="beIN SPORTS HD SD", beIN SPORTS XTRA 1 FHD
 http://magott.net:80/okota380/RvPBwTrjvRPM/38639
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/65c0418bdb8bab39f5287fdd40d211f7.png" group-title="beIN SPORTS HD SD", beIN SPORTS XTRA 2 FHD
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/65c0418bdb8bab39f5287fdd40d211f7.png" 
+
+group-title="beIN SPORTS HD SD", beIN SPORTS XTRA 2 FHD
 http://magott.net:80/okota380/RvPBwTrjvRPM/38640
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/7171543a96849e8a754f3deebd15ba48.png" group-title="beIN SPORTS HD SD", beIN SPORTS MAX 1 SD
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/7171543a96849e8a754f3deebd15ba48.png" 
+
+group-title="beIN SPORTS HD SD", beIN SPORTS MAX 1 SD
 http://magott.net:80/okota380/RvPBwTrjvRPM/38353
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/7171543a96849e8a754f3deebd15ba48.png" group-title="beIN SPORTS HD SD", beIN SPORTS MAX 1 HD
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/7171543a96849e8a754f3deebd15ba48.png" 
+
+group-title="beIN SPORTS HD SD", beIN SPORTS MAX 1 HD
 http://magott.net:80/okota380/RvPBwTrjvRPM/38354
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/7171543a96849e8a754f3deebd15ba48.png" group-title="beIN SPORTS HD SD", beIN SPORTS MAX 1 HD+ (MatchOnly)
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/7171543a96849e8a754f3deebd15ba48.png" 
+
+group-title="beIN SPORTS HD SD", beIN SPORTS MAX 1 HD+ (MatchOnly)
 http://magott.net:80/okota380/RvPBwTrjvRPM/38431
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/255b7043dcedff89dc098baa522183a8.png" group-title="beIN SPORTS HD SD", beIN SPORTS MAX 2 SD
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/255b7043dcedff89dc098baa522183a8.png" group-
+
+title="beIN SPORTS HD SD", beIN SPORTS MAX 2 SD
 http://magott.net:80/okota380/RvPBwTrjvRPM/38355
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/255b7043dcedff89dc098baa522183a8.png" group-title="beIN SPORTS HD SD", beIN SPORTS MAX 2 HD
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/255b7043dcedff89dc098baa522183a8.png" group-
+
+title="beIN SPORTS HD SD", beIN SPORTS MAX 2 HD
 http://magott.net:80/okota380/RvPBwTrjvRPM/38356
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/255b7043dcedff89dc098baa522183a8.png" group-title="beIN SPORTS HD SD", beIN SPORTS MAX 2 HD+ (MatchOnly)
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/255b7043dcedff89dc098baa522183a8.png" group-
+
+title="beIN SPORTS HD SD", beIN SPORTS MAX 2 HD+ (MatchOnly)
 http://magott.net:80/okota380/RvPBwTrjvRPM/38432
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/63f2b476303c5b5a8a92cf6e1947ee4a.png" group-title="beIN SPORTS HD SD", beIN SPORTS MAX 3 SD
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/63f2b476303c5b5a8a92cf6e1947ee4a.png" group-
+
+title="beIN SPORTS HD SD", beIN SPORTS MAX 3 SD
 http://magott.net:80/okota380/RvPBwTrjvRPM/38357
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/63f2b476303c5b5a8a92cf6e1947ee4a.png" group-title="beIN SPORTS HD SD", beIN SPORTS MAX 3 HD
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/63f2b476303c5b5a8a92cf6e1947ee4a.png" group-
+
+title="beIN SPORTS HD SD", beIN SPORTS MAX 3 HD
 http://magott.net:80/okota380/RvPBwTrjvRPM/38358
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/455473fe447cbdf6292849e0acd04bf0.png" group-title="beIN SPORTS HD SD", beIN SPORTS MAX 4 SD
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/455473fe447cbdf6292849e0acd04bf0.png" group-
+
+title="beIN SPORTS HD SD", beIN SPORTS MAX 4 SD
 http://magott.net:80/okota380/RvPBwTrjvRPM/38359
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/455473fe447cbdf6292849e0acd04bf0.png" group-title="beIN SPORTS HD SD", beIN SPORTS MAX 4 HD
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/455473fe447cbdf6292849e0acd04bf0.png" group-
+
+title="beIN SPORTS HD SD", beIN SPORTS MAX 4 HD
 http://magott.net:80/okota380/RvPBwTrjvRPM/38360
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="beIN SPORTS HD SD", beIN SPORTS MAX 5 SD
+#EXTINF:-1 tvg-
+
+logo="http://127.0.0.1/" group-title="beIN SPORTS HD SD", beIN SPORTS MAX 5 
+
+SD
 http://magott.net:80/okota380/RvPBwTrjvRPM/63514
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/bf582e59022e51c43e8b21db3b4035e4.png" group-title="beIN SPORTS HD SD", beIN SPORTS MAX 5 HD
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/bf582e59022e51c43e8b21db3b4035e4.png" 
+
+group-title="beIN SPORTS HD SD", beIN SPORTS MAX 5 HD
 http://magott.net:80/okota380/RvPBwTrjvRPM/38361
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="beIN SPORTS HD SD", beIN SPORTS MAX 6 SD
+#EXTINF:-1 tvg-
+
+logo="http://127.0.0.1/" group-title="beIN SPORTS HD SD", beIN SPORTS MAX 6 
+
+SD
 http://magott.net:80/okota380/RvPBwTrjvRPM/63506
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/829edfdba382ff898d553f1f2968a892.png" group-title="beIN SPORTS HD SD", beIN SPORTS MAX 6 HD
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/829edfdba382ff898d553f1f2968a892.png" group-
+
+title="beIN SPORTS HD SD", beIN SPORTS MAX 6 HD
 http://magott.net:80/okota380/RvPBwTrjvRPM/38362
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/7171543a96849e8a754f3deebd15ba48.png" group-title="beIN SPORTS HD SD", beIN SPORTS MAX 1 FHD
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/7171543a96849e8a754f3deebd15ba48.png" 
+
+group-title="beIN SPORTS HD SD", beIN SPORTS MAX 1 FHD
 http://magott.net:80/okota380/RvPBwTrjvRPM/38363
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/255b7043dcedff89dc098baa522183a8.png" group-title="beIN SPORTS HD SD", beIN SPORTS MAX 2 FHD
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/255b7043dcedff89dc098baa522183a8.png" group-
+
+title="beIN SPORTS HD SD", beIN SPORTS MAX 2 FHD
 http://magott.net:80/okota380/RvPBwTrjvRPM/38364
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/63f2b476303c5b5a8a92cf6e1947ee4a.png" group-title="beIN SPORTS HD SD", beIN SPORTS MAX 3 FHD
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/63f2b476303c5b5a8a92cf6e1947ee4a.png" group-
+
+title="beIN SPORTS HD SD", beIN SPORTS MAX 3 FHD
 http://magott.net:80/okota380/RvPBwTrjvRPM/38365
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/455473fe447cbdf6292849e0acd04bf0.png" group-title="beIN SPORTS HD SD", beIN SPORTS MAX 4 FHD
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/455473fe447cbdf6292849e0acd04bf0.png" group-
+
+title="beIN SPORTS HD SD", beIN SPORTS MAX 4 FHD
 http://magott.net:80/okota380/RvPBwTrjvRPM/38366
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/bf582e59022e51c43e8b21db3b4035e4.png" group-title="beIN SPORTS HD SD", beIN SPORTS MAX 5 FHD
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/bf582e59022e51c43e8b21db3b4035e4.png" 
+
+group-title="beIN SPORTS HD SD", beIN SPORTS MAX 5 FHD
 http://magott.net:80/okota380/RvPBwTrjvRPM/38367
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/829edfdba382ff898d553f1f2968a892.png" group-title="beIN SPORTS HD SD", beIN SPORTS MAX 6 FHD
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/829edfdba382ff898d553f1f2968a892.png" group-
+
+title="beIN SPORTS HD SD", beIN SPORTS MAX 6 FHD
 http://magott.net:80/okota380/RvPBwTrjvRPM/38368
 
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/37fb247fd923976c563d60dae9112c3b.png" group-title="beIN SPORTS 4K", BeINSport PREMIUM 1 UHD
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/37fb247fd923976c563d60dae9112c3b.png" 
+
+group-title="beIN SPORTS 4K", BeINSport PREMIUM 1 UHD
 http://magott.net:80/okota380/RvPBwTrjvRPM/78
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/6394bd5aa98278791dc02cf4f426a942.png" group-title="beIN SPORTS 4K", BeINSport PREMIUM 2 UHD
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/6394bd5aa98278791dc02cf4f426a942.png" 
+
+group-title="beIN SPORTS 4K", BeINSport PREMIUM 2 UHD
 http://magott.net:80/okota380/RvPBwTrjvRPM/79
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/b9e870a58ac11fa5224a2fa1463e6010.png" group-title="beIN SPORTS 4K", BeINSport PREMIUM 3 UHD
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/b9e870a58ac11fa5224a2fa1463e6010.png" group-
+
+title="beIN SPORTS 4K", BeINSport PREMIUM 3 UHD
 http://magott.net:80/okota380/RvPBwTrjvRPM/80
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/d4c9a82eabcea9ef8c626da20887aa40.png" group-title="beIN SPORTS 4K", beIN SPORTS 1 UHD
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/d4c9a82eabcea9ef8c626da20887aa40.png" group-
+
+title="beIN SPORTS 4K", beIN SPORTS 1 UHD
 http://magott.net:80/okota380/RvPBwTrjvRPM/71
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/c843d8b8effaf68a539ebe0ba25e8d8e.png" group-title="beIN SPORTS 4K", beIN SPORTS 2 UHD
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/c843d8b8effaf68a539ebe0ba25e8d8e.png" group-
+
+title="beIN SPORTS 4K", beIN SPORTS 2 UHD
 http://magott.net:80/okota380/RvPBwTrjvRPM/72
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/16e477b068241cc66b0034bbffa682e8.png" group-title="beIN SPORTS 4K", beIN SPORTS 3 UHD
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/16e477b068241cc66b0034bbffa682e8.png" group-
+
+title="beIN SPORTS 4K", beIN SPORTS 3 UHD
 http://magott.net:80/okota380/RvPBwTrjvRPM/73
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/11a736e3ce515928d57c8eda23b5c1a1.png" group-title="beIN SPORTS 4K", beIN SPORTS 4 UHD
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/11a736e3ce515928d57c8eda23b5c1a1.png" 
+
+group-title="beIN SPORTS 4K", beIN SPORTS 4 UHD
 http://magott.net:80/okota380/RvPBwTrjvRPM/74
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/85d51d7b19570162c6547dee3ee792fd.png" group-title="beIN SPORTS 4K", beIN SPORTS 5 UHD
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/85d51d7b19570162c6547dee3ee792fd.png" 
+
+group-title="beIN SPORTS 4K", beIN SPORTS 5 UHD
 http://magott.net:80/okota380/RvPBwTrjvRPM/75
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/463fb9476be3ce96f22a732e7e8ed6cb.png" group-title="beIN SPORTS 4K", beIN SPORTS 6 UHD
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/463fb9476be3ce96f22a732e7e8ed6cb.png" group-
+
+title="beIN SPORTS 4K", beIN SPORTS 6 UHD
 http://magott.net:80/okota380/RvPBwTrjvRPM/76
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/3fe05b7b5fa9e0c4f4e647e0dd514177.png" group-title="beIN SPORTS 4K", beIN SPORTS 7 UHD
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/3fe05b7b5fa9e0c4f4e647e0dd514177.png" group-
+
+title="beIN SPORTS 4K", beIN SPORTS 7 UHD
 http://magott.net:80/okota380/RvPBwTrjvRPM/77
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/91fee2f3adee5c6887032093f5216560.png" group-title="beIN SPORTS 4K", BeINSport FRENCH 1 UHD
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/91fee2f3adee5c6887032093f5216560.png" group-
+
+title="beIN SPORTS 4K", BeINSport FRENCH 1 UHD
 http://magott.net:80/okota380/RvPBwTrjvRPM/16368
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/eb106688e865cd89283a075021c69292.png" group-title="beIN SPORTS 4K", BeINSport FRENCH 2 UHD
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/eb106688e865cd89283a075021c69292.png" 
+
+group-title="beIN SPORTS 4K", BeINSport FRENCH 2 UHD
 http://magott.net:80/okota380/RvPBwTrjvRPM/16369
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/40a0592195823a4b39c095751efde887.png" group-title="beIN SPORTS 4K", BeINSport FRENCH 3 UHD
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/40a0592195823a4b39c095751efde887.png" 
+
+group-title="beIN SPORTS 4K", BeINSport FRENCH 3 UHD
 http://magott.net:80/okota380/RvPBwTrjvRPM/16370
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/fea5ba992444812ee6103f4fd938582b.png" group-title="beIN SPORTS 4K", BeINSport ENGLISH 1 UHD
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/fea5ba992444812ee6103f4fd938582b.png" group-
+
+title="beIN SPORTS 4K", BeINSport ENGLISH 1 UHD
 http://magott.net:80/okota380/RvPBwTrjvRPM/16365
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/735aa3b1184a00afb42a4f6bf4ee6557.png" group-title="beIN SPORTS 4K", BeINSport ENGLISH 2 UHD
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/735aa3b1184a00afb42a4f6bf4ee6557.png" group-
+
+title="beIN SPORTS 4K", BeINSport ENGLISH 2 UHD
 http://magott.net:80/okota380/RvPBwTrjvRPM/16366
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/4629368f3ebfb96fecf3f35c9263d9c6.png" group-title="beIN SPORTS 4K", BeINSport ENGLISH 3 UHD
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/4629368f3ebfb96fecf3f35c9263d9c6.png" group-
+
+title="beIN SPORTS 4K", BeINSport ENGLISH 3 UHD
 http://magott.net:80/okota380/RvPBwTrjvRPM/16367
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/7171543a96849e8a754f3deebd15ba48.png" group-title="beIN SPORTS 4K", beIN SPORTS MAX 1 |UHD HEVC|
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/7171543a96849e8a754f3deebd15ba48.png" 
+
+group-title="beIN SPORTS 4K", beIN SPORTS MAX 1 |UHD HEVC|
 http://magott.net:80/okota380/RvPBwTrjvRPM/38369
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/255b7043dcedff89dc098baa522183a8.png" group-title="beIN SPORTS 4K", beIN SPORTS MAX 2 |UHD HEVC|
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/255b7043dcedff89dc098baa522183a8.png" group-
+
+title="beIN SPORTS 4K", beIN SPORTS MAX 2 |UHD HEVC|
 http://magott.net:80/okota380/RvPBwTrjvRPM/38370
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/63f2b476303c5b5a8a92cf6e1947ee4a.png" group-title="beIN SPORTS 4K", beIN SPORTS MAX 3 |UHD HEVC|
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/63f2b476303c5b5a8a92cf6e1947ee4a.png" group-
+
+title="beIN SPORTS 4K", beIN SPORTS MAX 3 |UHD HEVC|
 http://magott.net:80/okota380/RvPBwTrjvRPM/38371
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/455473fe447cbdf6292849e0acd04bf0.png" group-title="beIN SPORTS 4K", beIN SPORTS MAX 4 |UHD HEVC|
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/455473fe447cbdf6292849e0acd04bf0.png" group-
+
+title="beIN SPORTS 4K", beIN SPORTS MAX 4 |UHD HEVC|
 http://magott.net:80/okota380/RvPBwTrjvRPM/38372
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/bf582e59022e51c43e8b21db3b4035e4.png" group-title="beIN SPORTS 4K", beIN SPORTS MAX 5 |UHD HEVC|
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/bf582e59022e51c43e8b21db3b4035e4.png" 
+
+group-title="beIN SPORTS 4K", beIN SPORTS MAX 5 |UHD HEVC|
 http://magott.net:80/okota380/RvPBwTrjvRPM/38435
 
-#EXTINF:-1 tvg-logo="http://magott.net:80/images/829edfdba382ff898d553f1f2968a892.png" group-title="beIN SPORTS 4K", beIN SPORTS MAX 6 |UHD HEVC|
+#EXTINF:-1 tvg-
+
+logo="http://magott.net:80/images/829edfdba382ff898d553f1f2968a892.png" group-
+
+title="beIN SPORTS 4K", beIN SPORTS MAX 6 |UHD HEVC|
 http://magott.net:80/okota380/RvPBwTrjvRPM/38436
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="beIN SPORTS 4K", beIN SPORTS 4 UHD (Bkp)
+#EXTINF:-1 tvg-
+
+logo="http://127.0.0.1/" group-title="beIN SPORTS 4K", beIN SPORTS 4 UHD 
+
+(Bkp)
 http://magott.net:80/okota380/RvPBwTrjvRPM/66152
 
-#EXTINF:-1 tvg-logo="http://logo.9ip.me/picon/beinmovies/beinmovie1.png" group-title="beIN ENTERTAINMENT |HD|", beIN MOVIES 1 HD PREMIER
+#EXTINF:-1 tvg-
+
+logo="http://logo.9ip.me/picon/beinmovies/beinmovie1.png" group-title="beIN 
+
+ENTERTAINMENT |HD|", beIN MOVIES 1 HD PREMIER
 http://magott.net:80/okota380/RvPBwTrjvRPM/81
 
-#EXTINF:-1 tvg-logo="http://logo.9ip.me/picon/beinmovies/beinmovie2.png" group-title="beIN ENTERTAINMENT |HD|", beIN MOVIES 2 HD ACTION
+#EXTINF:-1 tvg-
+
+logo="http://logo.9ip.me/picon/beinmovies/beinmovie2.png" group-title="beIN 
+
+ENTERTAINMENT |HD|", beIN MOVIES 2 HD ACTION
 http://magott.net:80/okota380/RvPBwTrjvRPM/82
 
-#EXTINF:-1 tvg-logo="http://logo.9ip.me/picon/beinmovies/beinmovie3.png" group-title="beIN ENTERTAINMENT |HD|", beIN MOVIES 3 HD DRAMA
+#EXTINF:-1 tvg-
+
+logo="http://logo.9ip.me/picon/beinmovies/beinmovie3.png" group-title="beIN 
+
+ENTERTAINMENT |HD|", beIN MOVIES 3 HD DRAMA
 http://magott.net:80/okota380/RvPBwTrjvRPM/83
 
-#EXTINF:-1 tvg-logo="http://logo.9ip.me/picon/beinmovies/beinmovie4.png" group-title="beIN ENTERTAINMENT |HD|", beIN MOVIES 4 HD FAMILY
+#EXTINF:-1 tvg-
+
+logo="http://logo.9ip.me/picon/beinmovies/beinmovie4.png" group-title="beIN 
+
+ENTERTAINMENT |HD|", beIN MOVIES 4 HD FAMILY
 http://magott.net:80/okota380/RvPBwTrjvRPM/84
 
-#EXTINF:-1 tvg-logo="http://logo.9ip.me/picon/beinmovies/foxmovie.png" group-title="beIN ENTERTAINMENT |HD|", beIN FOX ACTION MOVIES HD
+#EXTINF:-1 tvg-
+
+logo="http://logo.9ip.me/picon/beinmovies/foxmovie.png" group-title="beIN 
+
+ENTERTAINMENT |HD|", beIN FOX ACTION MOVIES HD
 http://magott.net:80/okota380/RvPBwTrjvRPM/98
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="beIN ENTERTAINMENT |HD|", beIN DRAMA HD
+#EXTINF:-1 tvg-
+
+logo="http://127.0.0.1/" group-title="beIN ENTERTAINMENT |HD|", beIN 
+
+DRAMA HD
 http://magott.net:80/okota380/RvPBwTrjvRPM/66337
 
-#EXTINF:-1 tvg-logo="http://logo.9ip.me/picon/beinmovies/beinserie1.png" group-title="beIN ENTERTAINMENT |HD|", beIN SERIES HD 1
+#EXTINF:-1 
+
+tvg-logo="http://logo.9ip.me/picon/beinmovies/beinserie1.png" group-title="beIN 
+
+ENTERTAINMENT |HD|", beIN SERIES HD 1
 http://magott.net:80/okota380/RvPBwTrjvRPM/88
 
-#EXTINF:-1 tvg-logo="http://logo.9ip.me/picon/beinmovies/beinserie2.png" group-title="beIN ENTERTAINMENT |HD|", beIN SERIES HD 2
+#EXTINF:-1 tvg-
+
+logo="http://logo.9ip.me/picon/beinmovies/beinserie2.png" group-title="beIN 
+
+ENTERTAINMENT |HD|", beIN SERIES HD 2
 http://magott.net:80/okota380/RvPBwTrjvRPM/89
 
-#EXTINF:-1 tvg-logo="http://logo.9ip.me/picon/beinmovies/beinfatafet.png" group-title="beIN ENTERTAINMENT |HD|", beIN FATAFEAT HD
+#EXTINF:-1 tvg-
+
+logo="http://logo.9ip.me/picon/beinmovies/beinfatafet.png" group-title="beIN 
+
+ENTERTAINMENT |HD|", beIN FATAFEAT HD
 http://magott.net:80/okota380/RvPBwTrjvRPM/108
 
-#EXTINF:-1 tvg-logo="http://logo.9ip.me/picon/beinmovies/natgeo.png" group-title="beIN ENTERTAINMENT |HD|", beIN NAT GEO HD
+#EXTINF:-1 tvg-
+
+logo="http://logo.9ip.me/picon/beinmovies/natgeo.png" group-title="beIN 
+
+ENTERTAINMENT |HD|", beIN NAT GEO HD
 http://magott.net:80/okota380/RvPBwTrjvRPM/123
 
-#EXTINF:-1 tvg-logo="http://logo.9ip.me/picon/beinmovies/natgeowild.png" group-title="beIN ENTERTAINMENT |HD|", beIN NAT GEO WILD HD
+#EXTINF:-1 tvg-
+
+logo="http://logo.9ip.me/picon/beinmovies/natgeowild.png" group-title="beIN 
+
+ENTERTAINMENT |HD|", beIN NAT GEO WILD HD
 http://magott.net:80/okota380/RvPBwTrjvRPM/124
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="beIN ENTERTAINMENT |HD|", beIN HG TV HD
+#EXTINF:-1 tvg-
+
+logo="http://127.0.0.1/" group-title="beIN ENTERTAINMENT |HD|", beIN HG TV 
+
+HD
 http://magott.net:80/okota380/RvPBwTrjvRPM/26769
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="beIN ENTERTAINMENT |HD|", beIN OUTDOOR HD
+#EXTINF:-1 tvg-
+
+logo="http://127.0.0.1/" group-title="beIN ENTERTAINMENT |HD|", beIN 
+
+OUTDOOR HD
 http://magott.net:80/okota380/RvPBwTrjvRPM/26770
 
-#EXTINF:-1 tvg-logo="http://logo.9ip.me/picon/beinmovies/baraeem.png" group-title="beIN ENTERTAINMENT |HD|", beIN BARAEM HD
+#EXTINF:-1 
+
+tvg-logo="http://logo.9ip.me/picon/beinmovies/baraeem.png" group-title="beIN 
+
+ENTERTAINMENT |HD|", beIN BARAEM HD
 http://magott.net:80/okota380/RvPBwTrjvRPM/135
 
-#EXTINF:-1 tvg-logo="http://logo.9ip.me/picon/beinmovies/boomerang_.png" group-title="beIN ENTERTAINMENT |HD|", beIN BOOMERANG HD
+#EXTINF:-1 tvg-
+
+logo="http://logo.9ip.me/picon/beinmovies/boomerang_.png" group-title="beIN 
+
+ENTERTAINMENT |HD|", beIN BOOMERANG HD
 http://magott.net:80/okota380/RvPBwTrjvRPM/137
 
-#EXTINF:-1 tvg-logo="http://logo.9ip.me/picon/beinmovies/cartoon.png" group-title="beIN ENTERTAINMENT |HD|", beIN CARTOON NETWORK HD
+#EXTINF:-1 tvg-
+
+logo="http://logo.9ip.me/picon/beinmovies/cartoon.png" group-title="beIN 
+
+ENTERTAINMENT |HD|", beIN CARTOON NETWORK HD
 http://magott.net:80/okota380/RvPBwTrjvRPM/138
 
-#EXTINF:-1 tvg-logo="http://logo.9ip.me/picon/beinmovies/JeemTV.png" group-title="beIN ENTERTAINMENT |HD|", beIN JEEM HD
+#EXTINF:-1 tvg-
+
+logo="http://logo.9ip.me/picon/beinmovies/JeemTV.png" group-title="beIN 
+
+ENTERTAINMENT |HD|", beIN JEEM HD
 http://magott.net:80/okota380/RvPBwTrjvRPM/141
 
-#EXTINF:-1 tvg-logo="http://logo.9ip.me/picon/beinmovies/dreamworks.png" group-title="beIN ENTERTAINMENT |HD|", beIN DREAMWORKS HD
+#EXTINF:-1 tvg-
+
+logo="http://logo.9ip.me/picon/beinmovies/dreamworks.png" group-title="beIN 
+
+ENTERTAINMENT |HD|", beIN DREAMWORKS HD
 http://magott.net:80/okota380/RvPBwTrjvRPM/144
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="beIN ENTERTAINMENT |HD|", beIN GOURMET HD
+#EXTINF:-1 tvg-
+
+logo="http://127.0.0.1/" group-title="beIN ENTERTAINMENT |HD|", beIN 
+
+GOURMET HD
 http://magott.net:80/okota380/RvPBwTrjvRPM/66338
 
 
@@ -527,179 +1186,487 @@ http://magott.net:80/okota380/RvPBwTrjvRPM/66338
 
 
 
-#EXTINF:-1 tvg-logo="-------" group-title="BEIN SPORT", BEIN SPORT PREMIUM 1
-http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=238261&extension=ts&play_token=yVIFGtzLtE
-#EXTINF:-1 tvg-logo="-------" group-title="BEIN SPORT", BEIN SPORT PREMIUM 2
-http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=238262&extension=ts&play_token=yVIFGtzLtE
-#EXTINF:-1 tvg-logo="-------" group-title="BEIN SPORT", BEIN SPORT PREMIUM 3
-http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=238263&extension=ts&play_token=yVIFGtzLtE
+#EXTINF:-1 
+
+tvg-logo="-------" group-title="BEIN SPORT", BEIN SPORT PREMIUM 1
+http://pxy.proxytx.cloud/play/live.php?
+
+mac=00:1A:79:b4:d6:f4&stream=238261&extension=ts&play_token=yVIFGtzLtE
+#EXTINF:-1 tvg-logo="-------" group-title="BEIN SPORT", BEIN SPORT PREMIUM 
+
+2
+http://pxy.proxytx.cloud/play/live.php?
+
+mac=00:1A:79:b4:d6:f4&stream=238262&extension=ts&play_token=yVIFGtzLtE
+#EXTINF:-1 tvg-logo="-------" group-title="BEIN SPORT", BEIN SPORT PREMIUM 
+
+3
+http://pxy.proxytx.cloud/play/live.php?
+
+mac=00:1A:79:b4:d6:f4&stream=238263&extension=ts&play_token=yVIFGtzLtE
 #EXTINF:-1 tvg-logo="-------" group-title="BEIN SPORT", BEIN SPORT 1 AR
-http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=238265&extension=ts&play_token=yVIFGtzLtE
+http://pxy.proxytx.cloud/play/live.php?
+
+mac=00:1A:79:b4:d6:f4&stream=238265&extension=ts&play_token=yVIFGtzLtE
 #EXTINF:-1 tvg-logo="-------" group-title="BEIN SPORT", BEIN SPORT 2 AR
-http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=238264&extension=ts&play_token=yVIFGtzLtE
+http://pxy.proxytx.cloud/play/live.php?
+
+mac=00:1A:79:b4:d6:f4&stream=238264&extension=ts&play_token=yVIFGtzLtE
 #EXTINF:-1 tvg-logo="-------" group-title="BEIN SPORT", BEIN SPORT 3 AR
-http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=238266&extension=ts&play_token=yVIFGtzLtE
+http://pxy.proxytx.cloud/play/live.php?
+
+mac=00:1A:79:b4:d6:f4&stream=238266&extension=ts&play_token=yVIFGtzLtE
 #EXTINF:-1 tvg-logo="-------" group-title="BEIN SPORT", BEIN SPORT 4 AR
-http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=238267&extension=ts&play_token=yVIFGtzLtE
+http://pxy.proxytx.cloud/play/live.php?
+
+mac=00:1A:79:b4:d6:f4&stream=238267&extension=ts&play_token=yVIFGtzLtE
 #EXTINF:-1 tvg-logo="-------" group-title="BEIN SPORT", BEIN SPORT 5 AR
-http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=238268&extension=ts&play_token=yVIFGtzLtE
+http://pxy.proxytx.cloud/play/live.php?
+
+mac=00:1A:79:b4:d6:f4&stream=238268&extension=ts&play_token=yVIFGtzLtE
 #EXTINF:-1 tvg-logo="-------" group-title="BEIN SPORT", BEIN SPORT 6 AR
-http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=238269&extension=ts&play_token=yVIFGtzLtE
+http://pxy.proxytx.cloud/play/live.php?
+
+mac=00:1A:79:b4:d6:f4&stream=238269&extension=ts&play_token=yVIFGtzLtE
 #EXTINF:-1 tvg-logo="-------" group-title="BEIN SPORT", BEIN SPORT 7 AR
-http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=238270&extension=ts&play_token=yVIFGtzLtE
+http://pxy.proxytx.cloud/play/live.php?
+
+mac=00:1A:79:b4:d6:f4&stream=238270&extension=ts&play_token=yVIFGtzLtE
 #EXTINF:-1 tvg-logo="-------" group-title="BEIN SPORT", BEIN SPORT 8 AR
-http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=238271&extension=ts&play_token=yVIFGtzLtE
+http://pxy.proxytx.cloud/play/live.php?
+
+mac=00:1A:79:b4:d6:f4&stream=238271&extension=ts&play_token=yVIFGtzLtE
 
 
 
 
 
 #EXTINF:-1 tvg-logo="-------" group-title="SPORT TR", BEIN HABER
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=27725_&extension=ts
-#EXTINF:-1 tvg-logo="-------" group-title="SPORT TR", BEIN SPORT 1 TR
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=41811_&extension=ts
-#EXTINF:-1 tvg-logo="-------" group-title="SPORT TR", BEIN SPORT 2 TR
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=41810_&extension=ts
-#EXTINF:-1 tvg-logo="-------" group-title="SPORT TR", BEIN SPORT 3 TR
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=41809_&extension=ts
-#EXTINF:-1 tvg-logo="-------" group-title="SPORT TR", BEIN SPORT 4 TR
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=1989_&extension=ts
-#EXTINF:-1 tvg-logo="-------" group-title="SPORT TR", BEIN SPORT 5 TR
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=109251_&extension=ts
-#EXTINF:-1 tvg-logo="-------" group-title="SPORT TR", BEIN MAX 1
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13599_&extension=ts
-#EXTINF:-1 tvg-logo="-------" group-title="SPORT TR", BEIN MAX 2
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=15181_&extension=ts
-#EXTINF:-1 tvg-logo="-------" group-title="SPORT TR", TIVIBU SPORT 1
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13469_&extension=ts
-#EXTINF:-1 tvg-logo="-------" group-title="SPORT TR", TIVIBU SPORT 2
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13470_&extension=ts
-#EXTINF:-1 tvg-logo="-------" group-title="SPORT TR", TIVIBU SPORT 3
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13458_&extension=ts
-#EXTINF:-1 tvg-logo="-------" group-title="SPORT TR", SMART SPORT
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13471_&extension=ts
-#EXTINF:-1 tvg-logo="-------" group-title="SPORT TR", A SPORT
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=14824_&extension=ts
-#EXTINF:-1 tvg-logo="-------" group-title="SPORT TR", TRT SPORT
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=14828_&extension=ts
-#EXTINF:-1 tvg-logo="-------" group-title="SPORT TR", TRT SPORT 2
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=46642_&extension=ts
-#EXTINF:-1 tvg-logo="-------" group-title="SPORT TR", TRT SPORT 3
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=68255_&extension=ts
-#EXTINF:-1 tvg-logo="-------" group-title="SPORT TR", TRT SPORT PLUS
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=102765_&extension=ts
-#EXTINF:-1 tvg-logo="-------" group-title="SPORT TR", S SPORT
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=29745_&extension=ts
-#EXTINF:-1 tvg-logo="-------" group-title="SPORT TR", S SPORT 2
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=46640_&extension=ts
-#EXTINF:-1 tvg-logo="-------" group-title="SUPERSPORT", SUPERSPORT EVENT
-http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=425312&extension=ts&play_token=yVIFGtzLtE
-#EXTINF:-1 tvg-logo="-------" group-title="SUPERSPORT", SUPERSPORT MAXIMO
-http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=425666&extension=ts&play_token=yVIFGtzLtE
-#EXTINF:-1 tvg-logo="-------" group-title="SUPERSPORT", SUPERSPORT ACTION
-http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=425668&extension=ts&play_token=yVIFGtzLtE
+http://backup.xp1.tv:80/play/live.php?
+
+mac=00:1A:79:C0:17:5D&stream=27725_&extension=ts
+#EXTINF:-1 tvg-logo="-------" 
+
+group-title="SPORT TR", BEIN SPORT 1 TR
+http://backup.xp1.tv:80/play/live.php?
+
+mac=00:1A:79:C0:17:5D&stream=41811_&extension=ts
+#EXTINF:-1 tvg-logo="-------" 
+
+group-title="SPORT TR", BEIN SPORT 2 TR
+http://backup.xp1.tv:80/play/live.php?
+
+mac=00:1A:79:C0:17:5D&stream=41810_&extension=ts
+#EXTINF:-1 tvg-logo="-------" 
+
+group-title="SPORT TR", BEIN SPORT 3 TR
+http://backup.xp1.tv:80/play/live.php?
+
+mac=00:1A:79:C0:17:5D&stream=41809_&extension=ts
+#EXTINF:-1 tvg-logo="-------" 
+
+group-title="SPORT TR", BEIN SPORT 4 TR
+http://backup.xp1.tv:80/play/live.php?
+
+mac=00:1A:79:C0:17:5D&stream=1989_&extension=ts
+#EXTINF:-1 tvg-logo="-------" 
+
+group-title="SPORT TR", BEIN SPORT 5 TR
+http://backup.xp1.tv:80/play/live.php?
+
+mac=00:1A:79:C0:17:5D&stream=109251_&extension=ts
+#EXTINF:-1 tvg-
+
+logo="-------" group-title="SPORT TR", BEIN MAX 1
+http://backup.xp1.tv:80/play/live.php?
+
+mac=00:1A:79:C0:17:5D&stream=13599_&extension=ts
+#EXTINF:-1 tvg-logo="-------" 
+
+group-title="SPORT TR", BEIN MAX 2
+http://backup.xp1.tv:80/play/live.php?
+
+mac=00:1A:79:C0:17:5D&stream=15181_&extension=ts
+#EXTINF:-1 tvg-logo="-------" 
+
+group-title="SPORT TR", TIVIBU SPORT 1
+http://backup.xp1.tv:80/play/live.php?
+
+mac=00:1A:79:C0:17:5D&stream=13469_&extension=ts
+#EXTINF:-1 tvg-logo="-------" 
+
+group-title="SPORT TR", TIVIBU SPORT 2
+http://backup.xp1.tv:80/play/live.php?
+
+mac=00:1A:79:C0:17:5D&stream=13470_&extension=ts
+#EXTINF:-1 tvg-logo="-------" 
+
+group-title="SPORT TR", TIVIBU SPORT 3
+http://backup.xp1.tv:80/play/live.php?
+
+mac=00:1A:79:C0:17:5D&stream=13458_&extension=ts
+#EXTINF:-1 tvg-logo="-------" 
+
+group-title="SPORT TR", SMART SPORT
+http://backup.xp1.tv:80/play/live.php?
+
+mac=00:1A:79:C0:17:5D&stream=13471_&extension=ts
+#EXTINF:-1 tvg-logo="-------" 
+
+group-title="SPORT TR", A SPORT
+http://backup.xp1.tv:80/play/live.php?
+
+mac=00:1A:79:C0:17:5D&stream=14824_&extension=ts
+#EXTINF:-1 tvg-logo="-------" 
+
+group-title="SPORT TR", TRT SPORT
+http://backup.xp1.tv:80/play/live.php?
+
+mac=00:1A:79:C0:17:5D&stream=14828_&extension=ts
+#EXTINF:-1 tvg-logo="-------" 
+
+group-title="SPORT TR", TRT SPORT 2
+http://backup.xp1.tv:80/play/live.php?
+
+mac=00:1A:79:C0:17:5D&stream=46642_&extension=ts
+#EXTINF:-1 tvg-logo="-------" 
+
+group-title="SPORT TR", TRT SPORT 3
+http://backup.xp1.tv:80/play/live.php?
+
+mac=00:1A:79:C0:17:5D&stream=68255_&extension=ts
+#EXTINF:-1 tvg-logo="-------" 
+
+group-title="SPORT TR", TRT SPORT PLUS
+http://backup.xp1.tv:80/play/live.php?
+
+mac=00:1A:79:C0:17:5D&stream=102765_&extension=ts
+#EXTINF:-1 tvg-
+
+logo="-------" group-title="SPORT TR", S SPORT
+http://backup.xp1.tv:80/play/live.php?
+
+mac=00:1A:79:C0:17:5D&stream=29745_&extension=ts
+#EXTINF:-1 tvg-logo="-------" 
+
+group-title="SPORT TR", S SPORT 2
+http://backup.xp1.tv:80/play/live.php?
+
+mac=00:1A:79:C0:17:5D&stream=46640_&extension=ts
+#EXTINF:-1 tvg-logo="-------" 
+
+group-title="SUPERSPORT", SUPERSPORT EVENT
+http://pxy.proxytx.cloud/play/live.php?
+
+mac=00:1A:79:b4:d6:f4&stream=425312&extension=ts&play_token=yVIFGtzLtE
+#EXTINF:-1 tvg-logo="-------" group-title="SUPERSPORT", SUPERSPORT 
+
+MAXIMO
+http://pxy.proxytx.cloud/play/live.php?
+
+mac=00:1A:79:b4:d6:f4&stream=425666&extension=ts&play_token=yVIFGtzLtE
+#EXTINF:-1 tvg-logo="-------" group-title="SUPERSPORT", SUPERSPORT 
+
+ACTION
+http://pxy.proxytx.cloud/play/live.php?
+
+mac=00:1A:79:b4:d6:f4&stream=425668&extension=ts&play_token=yVIFGtzLtE
 #EXTINF:-1 tvg-logo="-------" group-title="SUPERSPORT", SUPERSPORT PLAY 1
-http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=425313&extension=ts&play_token=yVIFGtzLtE
+http://pxy.proxytx.cloud/play/live.php?
+
+mac=00:1A:79:b4:d6:f4&stream=425313&extension=ts&play_token=yVIFGtzLtE
 #EXTINF:-1 tvg-logo="-------" group-title="SUPERSPORT", SUPERSPORT PLAY 2
-http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=425311&extension=ts&play_token=yVIFGtzLtE
-#EXTINF:-1 tvg-logo="-------" group-title="SUPERSPORT", SUPERSPORT PREMIER LEAGUE
-http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=239078&extension=ts&play_token=yVIFGtzLtE
+http://pxy.proxytx.cloud/play/live.php?
+
+mac=00:1A:79:b4:d6:f4&stream=425311&extension=ts&play_token=yVIFGtzLtE
+#EXTINF:-1 tvg-logo="-------" group-title="SUPERSPORT", SUPERSPORT 
+
+PREMIER LEAGUE
+http://pxy.proxytx.cloud/play/live.php?
+
+mac=00:1A:79:b4:d6:f4&stream=239078&extension=ts&play_token=yVIFGtzLtE
 #EXTINF:-1 tvg-logo="______" group-title="TR SPORT", EUROSPORT 1
-http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=7774_&extension=ts&play_token=FcCkSLTtTN
+http://jb.worldip.nl:80/play/live.php?
+
+mac=00:1A:79:B4:FD:02&stream=7774_&extension=ts&play_token=FcCkSLTtTN
 #EXTINF:-1 tvg-logo="______" group-title="TR SPORT", EUROSPORT 2
-http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=7877_&extension=ts&play_token=FcCkSLTtTN
+http://jb.worldip.nl:80/play/live.php?
+
+mac=00:1A:79:B4:FD:02&stream=7877_&extension=ts&play_token=FcCkSLTtTN
 #EXTINF:-1 tvg-logo="______" group-title="TR SPORT", S SPORT 1
-http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=29745_&extension=ts&play_token=FcCkSLTtTN
+http://jb.worldip.nl:80/play/live.php?
+
+mac=00:1A:79:B4:FD:02&stream=29745_&extension=ts&play_token=FcCkSLTtTN
 #EXTINF:-1 tvg-logo="______" group-title="TR SPORT", S SPORT 2
-http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=46640_&extension=ts&play_token=FcCkSLTtTN
+http://jb.worldip.nl:80/play/live.php?
+
+mac=00:1A:79:B4:FD:02&stream=46640_&extension=ts&play_token=FcCkSLTtTN
 #EXTINF:-1 tvg-logo="______" group-title="TR SPORT", TRT SPORT 1
-http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=14828_&extension=ts&play_token=FcCkSLTtTN
+http://jb.worldip.nl:80/play/live.php?
+
+mac=00:1A:79:B4:FD:02&stream=14828_&extension=ts&play_token=FcCkSLTtTN
 #EXTINF:-1 tvg-logo="______" group-title="TR SPORT", TRT SPORT 2
-http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=46642_&extension=ts&play_token=FcCkSLTtTN
+http://jb.worldip.nl:80/play/live.php?
+
+mac=00:1A:79:B4:FD:02&stream=46642_&extension=ts&play_token=FcCkSLTtTN
 #EXTINF:-1 tvg-logo="______" group-title="TR SPORT", TRT SPORT 3
-http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=68255_&extension=ts&play_token=FcCkSLTtTN
+http://jb.worldip.nl:80/play/live.php?
+
+mac=00:1A:79:B4:FD:02&stream=68255_&extension=ts&play_token=FcCkSLTtTN
 #EXTINF:-1 tvg-logo="______" group-title="TR SPORT", TIVIBU SPORT 1
-http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=13469_&extension=ts&play_token=FcCkSLTtTN
+http://jb.worldip.nl:80/play/live.php?
+
+mac=00:1A:79:B4:FD:02&stream=13469_&extension=ts&play_token=FcCkSLTtTN
 #EXTINF:-1 tvg-logo="______" group-title="TR SPORT", TIVIBU SPORT 2
-http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=13470_&extension=ts&play_token=FcCkSLTtTN
+http://jb.worldip.nl:80/play/live.php?
+
+mac=00:1A:79:B4:FD:02&stream=13470_&extension=ts&play_token=FcCkSLTtTN
 #EXTINF:-1 tvg-logo="______" group-title="TR SPORT", TIVIBU SPORT 3
-http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=13458_&extension=ts&play_token=FcCkSLTtTN
+http://jb.worldip.nl:80/play/live.php?
+
+mac=00:1A:79:B4:FD:02&stream=13458_&extension=ts&play_token=FcCkSLTtTN
 #EXTINF:-1 tvg-logo="______" group-title="TR SPORT", SMART SPORT
-http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=13471_&extension=ts&play_token=FcCkSLTtTN
+http://jb.worldip.nl:80/play/live.php?
+
+mac=00:1A:79:B4:FD:02&stream=13471_&extension=ts&play_token=FcCkSLTtTN
 #EXTINF:-1 tvg-logo="______" group-title="TR SPORT", A SPORT
-http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=14824_&extension=ts&play_token=FcCkSLTtTN
+http://jb.worldip.nl:80/play/live.php?
+
+mac=00:1A:79:B4:FD:02&stream=14824_&extension=ts&play_token=FcCkSLTtTN
 #EXTINF:-1 tvg-logo="______" group-title="TR SPORT", SPORTS TV
-http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=1117_&extension=ts&play_token=FcCkSLTtTN
+http://jb.worldip.nl:80/play/live.php?
+
+mac=00:1A:79:B4:FD:02&stream=1117_&extension=ts&play_token=FcCkSLTtTN
 #EXTINF:-1 tvg-logo="______" group-title="TR SPORT", NBA TV
-http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=63107_&extension=ts&play_token=FcCkSLTtTN
+http://jb.worldip.nl:80/play/live.php?
+
+mac=00:1A:79:B4:FD:02&stream=63107_&extension=ts&play_token=FcCkSLTtTN
 #EXTINF:-1 tvg-logo="______" group-title="TR SPORT", GALTASARAY TV
-http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=7875_&extension=ts&play_token=FcCkSLTtTN
+http://jb.worldip.nl:80/play/live.php?
+
+mac=00:1A:79:B4:FD:02&stream=7875_&extension=ts&play_token=FcCkSLTtTN
 #EXTINF:-1 tvg-logo="______" group-title="TR SPORT", FENERBACE TV
-http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=7874_&extension=ts&play_token=FcCkSLTtTN
+http://jb.worldip.nl:80/play/live.php?
+
+mac=00:1A:79:B4:FD:02&stream=7874_&extension=ts&play_token=FcCkSLTtTN
 #EXTINF:-1 tvg-logo="______" group-title="TR SPORT", TJK TV
-http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=8708_&extension=ts&play_token=FcCkSLTtTN
+http://jb.worldip.nl:80/play/live.php?
+
+mac=00:1A:79:B4:FD:02&stream=8708_&extension=ts&play_token=FcCkSLTtTN
 #EXTINF:-1 tvg-logo="______" group-title="TR SPORT", TAY TV
-http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=14836_&extension=ts&play_token=FcCkSLTtTN
+http://jb.worldip.nl:80/play/live.php?
+
+mac=00:1A:79:B4:FD:02&stream=14836_&extension=ts&play_token=FcCkSLTtTN
 #EXTINF:-1 tvg-logo="______" group-title="TR BEIN SPORT", BEIN SPORT 1
-http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=1799_&extension=ts&play_token=FcCkSLTtTN
+http://jb.worldip.nl:80/play/live.php?
+
+mac=00:1A:79:B4:FD:02&stream=1799_&extension=ts&play_token=FcCkSLTtTN
 #EXTINF:-1 tvg-logo="______" group-title="TR BEIN SPORT", BEIN SPORT 2
-http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=13478_&extension=ts&play_token=FcCkSLTtTN
+http://jb.worldip.nl:80/play/live.php?
+
+mac=00:1A:79:B4:FD:02&stream=13478_&extension=ts&play_token=FcCkSLTtTN
 #EXTINF:-1 tvg-logo="______" group-title="TR BEIN SPORT", BEIN SPORT 3
-http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=1801_&extension=ts&play_token=FcCkSLTtTN
+http://jb.worldip.nl:80/play/live.php?
+
+mac=00:1A:79:B4:FD:02&stream=1801_&extension=ts&play_token=FcCkSLTtTN
 #EXTINF:-1 tvg-logo="______" group-title="TR BEIN SPORT", BEIN SPORT 4
-http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=41808_&extension=ts&play_token=FcCkSLTtTN
+http://jb.worldip.nl:80/play/live.php?
+
+mac=00:1A:79:B4:FD:02&stream=41808_&extension=ts&play_token=FcCkSLTtTN
 #EXTINF:-1 tvg-logo="______" group-title="TR BEIN SPORT", BEIN SPORT 5
-http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=109252_&extension=ts&play_token=FcCkSLTtTN
-#EXTINF:-1 tvg-logo="______" group-title="TR BEIN SPORT", BEIN SPORT MAX 1
-http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=13599_&extension=ts&play_token=FcCkSLTtTN
-#EXTINF:-1 tvg-logo="______" group-title="TR BEIN SPORT", BEIN SPORT MAX 2
-http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=15181_&extension=ts&play_token=FcCkSLTtTN
-#EXTINF:-1 tvg-logo="______" group-title="TR BEIN SPORT", BEIN SPORT HABER
-http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=27725_&extension=ts&play_token=FcCkSLTtTN
+http://jb.worldip.nl:80/play/live.php?
+
+mac=00:1A:79:B4:FD:02&stream=109252_&extension=ts&play_token=FcCkSLTtTN
+#EXTINF:-1 tvg-logo="______" group-title="TR BEIN SPORT", BEIN SPORT MAX 
+
+1
+http://jb.worldip.nl:80/play/live.php?
+
+mac=00:1A:79:B4:FD:02&stream=13599_&extension=ts&play_token=FcCkSLTtTN
+#EXTINF:-1 tvg-logo="______" group-title="TR BEIN SPORT", BEIN SPORT MAX 
+
+2
+http://jb.worldip.nl:80/play/live.php?
+
+mac=00:1A:79:B4:FD:02&stream=15181_&extension=ts&play_token=FcCkSLTtTN
+#EXTINF:-1 tvg-logo="______" group-title="TR BEIN SPORT", BEIN SPORT 
+
+HABER
+http://jb.worldip.nl:80/play/live.php?
+
+mac=00:1A:79:B4:FD:02&stream=27725_&extension=ts&play_token=FcCkSLTtTN
 #EXTINF:-1 tvg-logo="______" group-title="NL ZIGGO SPORT", EUROSPORT 1
-http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=9711_&extension=ts&play_token=FcCkSLTtTN
+http://jb.worldip.nl:80/play/live.php?
+
+mac=00:1A:79:B4:FD:02&stream=9711_&extension=ts&play_token=FcCkSLTtTN
 #EXTINF:-1 tvg-logo="______" group-title="NL ZIGGO SPORT", EUROSPORT 2
-http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=9712_&extension=ts&play_token=FcCkSLTtTN
+http://jb.worldip.nl:80/play/live.php?
+
+mac=00:1A:79:B4:FD:02&stream=9712_&extension=ts&play_token=FcCkSLTtTN
 #EXTINF:-1 tvg-logo="______" group-title="NL ZIGGO SPORT", ESPORT TV
-http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=125226_&extension=ts&play_token=FcCkSLTtTN
-#EXTINF:-1 tvg-logo="______" group-title="NL ZIGGO SPORT", RUMBLE UFC POWER
-http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=135161_&extension=ts&play_token=FcCkSLTtTN
-#EXTINF:-1 tvg-logo="______" group-title="NL ZIGGO SPORT", WRESTLING TV
-http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=124327_&extension=ts&play_token=FcCkSLTtTN
+http://jb.worldip.nl:80/play/live.php?
+
+mac=00:1A:79:B4:FD:02&stream=125226_&extension=ts&play_token=FcCkSLTtTN
+#EXTINF:-1 tvg-logo="______" group-title="NL ZIGGO SPORT", RUMBLE UFC 
+
+POWER
+http://jb.worldip.nl:80/play/live.php?
+
+mac=00:1A:79:B4:FD:02&stream=135161_&extension=ts&play_token=FcCkSLTtTN
+#EXTINF:-1 tvg-logo="______" group-title="NL ZIGGO SPORT", WRESTLING 
+
+TV
+http://jb.worldip.nl:80/play/live.php?
+
+mac=00:1A:79:B4:FD:02&stream=124327_&extension=ts&play_token=FcCkSLTtTN
 #EXTINF:-1 tvg-logo="______" group-title="NL ZIGGO SPORT", WWE TV
-http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=122559_&extension=ts&play_token=FcCkSLTtTN
-#EXTINF:-1 tvg-logo="______" group-title="NL ZIGGO SPORT", EXTREAM SPORT TV
-http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=2351_&extension=ts&play_token=FcCkSLTtTN
-#EXTINF:-1 tvg-logo="______" group-title="NL ZIGGO SPORT", HOURSE COUNTRY TV
-http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=65011_&extension=ts&play_token=FcCkSLTtTN
+http://jb.worldip.nl:80/play/live.php?
+
+mac=00:1A:79:B4:FD:02&stream=122559_&extension=ts&play_token=FcCkSLTtTN
+#EXTINF:-1 tvg-logo="______" group-title="NL ZIGGO SPORT", EXTREAM 
+
+SPORT TV
+http://jb.worldip.nl:80/play/live.php?
+
+mac=00:1A:79:B4:FD:02&stream=2351_&extension=ts&play_token=FcCkSLTtTN
+#EXTINF:-1 tvg-logo="______" group-title="NL ZIGGO SPORT", HOURSE 
+
+COUNTRY TV
+http://jb.worldip.nl:80/play/live.php?
+
+mac=00:1A:79:B4:FD:02&stream=65011_&extension=ts&play_token=FcCkSLTtTN
 #EXTINF:-1 tvg-logo="______" group-title="NL ZIGGO SPORT", ZIGGO TV
-http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=64150_&extension=ts&play_token=FcCkSLTtTN
+http://jb.worldip.nl:80/play/live.php?
+
+mac=00:1A:79:B4:FD:02&stream=64150_&extension=ts&play_token=FcCkSLTtTN
 #EXTINF:-1 tvg-logo="______" group-title="NL ZIGGO SPORT", ZIGGO TENNIS
-http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=1794_&extension=ts&play_token=FcCkSLTtTN
-#EXTINF:-1 tvg-logo="______" group-title="NL ZIGGO SPORT", ZIGGO RACING
-http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=21670_&extension=ts&play_token=FcCkSLTtTN
+http://jb.worldip.nl:80/play/live.php?
+
+mac=00:1A:79:B4:FD:02&stream=1794_&extension=ts&play_token=FcCkSLTtTN
+#EXTINF:-1 tvg-logo="______" group-title="NL ZIGGO SPORT", ZIGGO 
+
+RACING
+http://jb.worldip.nl:80/play/live.php?
+
+mac=00:1A:79:B4:FD:02&stream=21670_&extension=ts&play_token=FcCkSLTtTN
 #EXTINF:-1 tvg-logo="______" group-title="NL ZIGGO SPORT", ZIGGO GOLF
-http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=21671_&extension=ts&play_token=FcCkSLTtTN
-#EXTINF:-1 tvg-logo="______" group-title="NL ZIGGO SPORT", ZIGGO VOETBAL
-http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=9681_&extension=ts&play_token=FcCkSLTtTN
-#EXTINF:-1 tvg-logo="______" group-title="NL ZIGGO SPORT", ZIGGO SELECT
-http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=9683_&extension=ts&play_token=FcCkSLTtTN
+http://jb.worldip.nl:80/play/live.php?
+
+mac=00:1A:79:B4:FD:02&stream=21671_&extension=ts&play_token=FcCkSLTtTN
+#EXTINF:-1 tvg-logo="______" group-title="NL ZIGGO SPORT", ZIGGO 
+
+VOETBAL
+http://jb.worldip.nl:80/play/live.php?
+
+mac=00:1A:79:B4:FD:02&stream=9681_&extension=ts&play_token=FcCkSLTtTN
+#EXTINF:-1 tvg-logo="______" group-title="NL ZIGGO SPORT", ZIGGO 
+
+SELECT
+http://jb.worldip.nl:80/play/live.php?
+
+mac=00:1A:79:B4:FD:02&stream=9683_&extension=ts&play_token=FcCkSLTtTN
 #EXTINF:-1 tvg-logo="______" group-title="NL ZIGGO SPORT", ZIGGO SPORT
-http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=9684_&extension=ts&play_token=FcCkSLTtTN
+http://jb.worldip.nl:80/play/live.php?
+
+mac=00:1A:79:B4:FD:02&stream=9684_&extension=ts&play_token=FcCkSLTtTN
 
 
 #EXTINF:-1 tvg-logo="______" group-title="ESPN SPORT", NL ESPN 4
-http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=9758_&extension=ts&play_token=FcCkSLTtTN
+http://jb.worldip.nl:80/play/live.php?
+
+mac=00:1A:79:B4:FD:02&stream=9758_&extension=ts&play_token=FcCkSLTtTN
 
 #EXTINF:-1 tvg-logo="______" group-title="ESPN SPORT", NL ESPN 3
-http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=9708_&extension=ts&play_token=FcCkSLTtTN
+http://jb.worldip.nl:80/play/live.php?
+
+mac=00:1A:79:B4:FD:02&stream=9708_&extension=ts&play_token=FcCkSLTtTN
 
 #EXTINF:-1 tvg-logo="______" group-title="ESPN SPORT", NL ESPN 2
-http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=9707_&extension=ts&play_token=FcCkSLTtTN
+http://jb.worldip.nl:80/play/live.php?
+
+mac=00:1A:79:B4:FD:02&stream=9707_&extension=ts&play_token=FcCkSLTtTN
 
 #EXTINF:-1 tvg-logo="______" group-title="ESPN SPORT", NL ESPN 1
-http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=9706_&extension=ts&play_token=FcCkSLTtTN
+http://jb.worldip.nl:80/play/live.php?
+
+mac=00:1A:79:B4:FD:02&stream=9706_&extension=ts&play_token=FcCkSLTtTN
 
 #EXTINF:-1 tvg-logo="______" group-title="ESPN SPORT", NL ESPN EXTRA
-http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=128893_&extension=ts&play_token=FcCkSLTtTN
+http://jb.worldip.nl:80/play/live.php?
 
+mac=00:1A:79:B4:FD:02&stream=128893_&extension=ts&play_token=FcCkSLTtTN
+
+
+
+#EXTINF:-1 tvg-logo="-------" group-title="TSN SPORT", TSN SPORT 1 CA
+http://pxy.proxytx.cloud/play/live.php?
+
+mac=00:1A:79:b4:d6:f4&stream=904216&extension=ts&play_token=yVIFGtzLtE
+
+
+#EXTINF:-1 tvg-logo="-------" group-title="TSN SPORT", TSN SPORT 2 CA
+http://pxy.proxytx.cloud/play/live.php?
+
+mac=00:1A:79:b4:d6:f4&stream=904215&extension=ts&play_token=yVIFGtzLtE
+
+
+#EXTINF:-1 tvg-logo="-------" group-title="TSN SPORT", TSN SPORT 3 CA
+http://pxy.proxytx.cloud/play/live.php?
+
+mac=00:1A:79:b4:d6:f4&stream=904214&extension=ts&play_token=yVIFGtzLtE
+
+
+#EXTINF:-1 tvg-logo="-------" group-title="TSN SPORT", TSN SPORT 4 CA
+http://pxy.proxytx.cloud/play/live.php?
+
+mac=00:1A:79:b4:d6:f4&stream=904213&extension=ts&play_token=yVIFGtzLtE
+
+#EXTINF:-1 tvg-logo="-------" group-title="TSN SPORT", TSN SPORT 5 CA
+http://pxy.proxytx.cloud/play/live.php?
+
+mac=00:1A:79:b4:d6:f4&stream=177348&extension=ts&play_token=yVIFGtzLtE
+
+#EXTINF:-1 tvg-logo="-------" group-title="SPORTNET", ONE SPORT CA
+http://pxy.proxytx.cloud/play/live.php?
+
+mac=00:1A:79:b4:d6:f4&stream=950327&extension=ts&play_token=yVIFGtzLtE
+
+#EXTINF:-1 tvg-logo="-------" group-title="SPORTNET", SPORTNET 360
+http://pxy.proxytx.cloud/play/live.php?
+
+mac=00:1A:79:b4:d6:f4&stream=177349&extension=ts&play_token=yVIFGtzLtE
+
+#EXTINF:-1 tvg-logo="-------" group-title="SPORTNET", SPORTNET EAST
+http://pxy.proxytx.cloud/play/live.php?
+
+mac=00:1A:79:b4:d6:f4&stream=177350&extension=ts&play_token=yVIFGtzLtE
+
+#EXTINF:-1 tvg-logo="-------" group-title="SPORTNET", SPORTNET WEST
+http://pxy.proxytx.cloud/play/live.php?
+
+mac=00:1A:79:b4:d6:f4&stream=177351&extension=ts&play_token=yVIFGtzLtE
+
+#EXTINF:-1 tvg-logo="-------" group-title="SPORTNET", SPORTNET ONE
+http://pxy.proxytx.cloud/play/live.php?
+
+mac=00:1A:79:b4:d6:f4&stream=177352&extension=ts&play_token=yVIFGtzLtE
+
+#EXTINF:-1 tvg-logo="-------" group-title="SPORTNET", SPORTNET ONTARIO
+http://pxy.proxytx.cloud/play/live.php?
+
+mac=00:1A:79:b4:d6:f4&stream=177353&extension=ts&play_token=yVIFGtzLtE
+
+#EXTINF:-1 tvg-logo="-------" group-title="SPORTNET", SPORTNET PASIFIC
+http://pxy.proxytx.cloud/play/live.php?
+
+mac=00:1A:79:b4:d6:f4&stream=177354&extension=ts&play_token=yVIFGtzLtE
+
+#EXTINF:-1 tvg-logo="-------" group-title="SPORTNET", SPORTNET WORLD
+http://pxy.proxytx.cloud/play/live.php?
+
+mac=00:1A:79:b4:d6:f4&stream=177354&extension=ts&play_token=yVIFGtzLtE
+
+#EXTINF:-1 tvg-logo="-------" group-title="SPORTNET", SPORTNET WWE
+http://pxy.proxytx.cloud/play/live.php?
+
+mac=00:1A:79:b4:d6:f4&stream=735988&extension=ts&play_token=yVIFGtzLtE
