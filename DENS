@@ -4446,11 +4446,11 @@ http://humiptv.live:8080/live/tarun589853/5787489bcsh/151181.ts
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", SOCCER CHANEL
 http://humiptv.live:8080/live/tarun589853/5787489bcsh/151186.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", BEIN 3
-http://humiptv.live:8080/live/tarun589853/5787489bcsh/143063.ts
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", BEIN 2
 http://humiptv.live:8080/live/tarun589853/5787489bcsh/143060.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", BEIN 3
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/143063.ts
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", ONE SPORT
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=926161&extension=ts&play_token=1CpygHM1Ws
@@ -4503,23 +4503,6 @@ http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=860837&extension
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", YASS SPORT
 http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=6579&extension=ts&play_token=2VJUjjCYqP
 
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png" group-title="SPORT ASIA", Sportstars 3 HD
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
-
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_88.png" group-title="SPORT ASIA", Sportstars 4 HD
-https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", ASTRO SUPERSPORT  2
-http://humiptv.live:8080/live/tarun589853/5787489bcsh/143037.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", ASTRO SUPERSPORT  3
-http://humiptv.live:8080/live/tarun589853/5787489bcsh/143039.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", ASTRO SUPERSPORT  4
-http://humiptv.live:8080/live/tarun589853/5787489bcsh/143041.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", ASTRO SUPERSPORT 5
-http://humiptv.live:8080/live/tarun589853/5787489bcsh/143045.ts
 
 
 
