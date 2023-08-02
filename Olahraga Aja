@@ -1,3 +1,70 @@
+
+
+#EXTINF:-1 tvg-logo="http://logo.9ip.me/picon/beinmovies/beinmovie1.png" group-title="beIN ENTERTAINMENT |HD|", beIN MOVIES 1 HD PREMIER
+http://magott.net:80/okota380/RvPBwTrjvRPM/81
+
+#EXTINF:-1 tvg-logo="http://logo.9ip.me/picon/beinmovies/beinmovie2.png" group-title="beIN ENTERTAINMENT |HD|", beIN MOVIES 2 HD ACTION
+http://magott.net:80/okota380/RvPBwTrjvRPM/82
+
+#EXTINF:-1 tvg-logo="http://logo.9ip.me/picon/beinmovies/beinmovie3.png" group-title="beIN ENTERTAINMENT |HD|", beIN MOVIES 3 HD DRAMA
+http://magott.net:80/okota380/RvPBwTrjvRPM/83
+
+#EXTINF:-1 tvg-logo="http://logo.9ip.me/picon/beinmovies/beinmovie4.png" group-title="beIN ENTERTAINMENT |HD|", beIN MOVIES 4 HD FAMILY
+http://magott.net:80/okota380/RvPBwTrjvRPM/84
+
+#EXTINF:-1 tvg-logo="http://logo.9ip.me/picon/beinmovies/foxmovie.png" group-title="beIN ENTERTAINMENT |HD|", beIN FOX ACTION MOVIES HD
+http://magott.net:80/okota380/RvPBwTrjvRPM/98
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="beIN ENTERTAINMENT |HD|", beIN DRAMA HD
+http://magott.net:80/okota380/RvPBwTrjvRPM/66337
+
+#EXTINF:-1 tvg-logo="http://logo.9ip.me/picon/beinmovies/beinserie1.png" group-title="beIN ENTERTAINMENT |HD|", beIN SERIES HD 1
+http://magott.net:80/okota380/RvPBwTrjvRPM/88
+
+#EXTINF:-1 tvg-logo="http://logo.9ip.me/picon/beinmovies/beinserie2.png" group-title="beIN ENTERTAINMENT |HD|", beIN SERIES HD 2
+http://magott.net:80/okota380/RvPBwTrjvRPM/89
+
+#EXTINF:-1 tvg-logo="http://logo.9ip.me/picon/beinmovies/bein_culture.png" group-title="beIN ENTERTAINMENT |HD|", ----●★| beINS CULTURAL |★●----
+http://magott.net:80/okota380/RvPBwTrjvRPM/107
+
+#EXTINF:-1 tvg-logo="http://logo.9ip.me/picon/beinmovies/beinfatafet.png" group-title="beIN ENTERTAINMENT |HD|", beIN FATAFEAT HD
+http://magott.net:80/okota380/RvPBwTrjvRPM/108
+
+#EXTINF:-1 tvg-logo="http://logo.9ip.me/picon/beinmovies/natgeo.png" group-title="beIN ENTERTAINMENT |HD|", beIN NAT GEO HD
+http://magott.net:80/okota380/RvPBwTrjvRPM/123
+
+#EXTINF:-1 tvg-logo="http://logo.9ip.me/picon/beinmovies/natgeowild.png" group-title="beIN ENTERTAINMENT |HD|", beIN NAT GEO WILD HD
+http://magott.net:80/okota380/RvPBwTrjvRPM/124
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="beIN ENTERTAINMENT |HD|", beIN HG TV HD
+http://magott.net:80/okota380/RvPBwTrjvRPM/26769
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="beIN ENTERTAINMENT |HD|", beIN OUTDOOR HD
+http://magott.net:80/okota380/RvPBwTrjvRPM/26770
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="beIN ENTERTAINMENT |HD|", ---✦●✦ KIDS ✦●✦---
+http://magott.net:80/okota380/RvPBwTrjvRPM/39279
+
+#EXTINF:-1 tvg-logo="http://logo.9ip.me/picon/beinmovies/baraeem.png" group-title="beIN ENTERTAINMENT |HD|", beIN BARAEM HD
+http://magott.net:80/okota380/RvPBwTrjvRPM/135
+
+#EXTINF:-1 tvg-logo="http://logo.9ip.me/picon/beinmovies/boomerang_.png" group-title="beIN ENTERTAINMENT |HD|", beIN BOOMERANG HD
+http://magott.net:80/okota380/RvPBwTrjvRPM/137
+
+#EXTINF:-1 tvg-logo="http://logo.9ip.me/picon/beinmovies/cartoon.png" group-title="beIN ENTERTAINMENT |HD|", beIN CARTOON NETWORK HD
+http://magott.net:80/okota380/RvPBwTrjvRPM/138
+
+#EXTINF:-1 tvg-logo="http://logo.9ip.me/picon/beinmovies/JeemTV.png" group-title="beIN ENTERTAINMENT |HD|", beIN JEEM HD
+http://magott.net:80/okota380/RvPBwTrjvRPM/141
+
+#EXTINF:-1 tvg-logo="http://logo.9ip.me/picon/beinmovies/dreamworks.png" group-title="beIN ENTERTAINMENT |HD|", beIN DREAMWORKS HD
+http://magott.net:80/okota380/RvPBwTrjvRPM/144
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="beIN ENTERTAINMENT |HD|", beIN GOURMET HD
+http://magott.net:80/okota380/RvPBwTrjvRPM/66338
+
+
+
 #EXTINF:-1 tvg-logo="______" group-title="TR SPORT", EUROSPORT 1
 http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=7774_&extension=ts&play_token=FcCkSLTtTN
 
