@@ -793,19 +793,19 @@ http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=91896&extens
 http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=45539&extension=ts&play_token=yVIFGtzLtE
 #EXTINF:-1 tvg-logo="-------" group-title="US SPORT", GOLF NBC
 http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=45532&extension=ts&play_token=yVIFGtzLtE
-
-
 #EXTINF:-1 tvg-logo="-------" group-title="US SPORT", GOLF CHANNEL
 http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=45554&extension=ts&play_token=yVIFGtzLtE
 #EXTINF:-1 tvg-logo="-------" group-title="US SPORT", FUBU SPORT
 http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=738902&extension=ts&play_token=yVIFGtzLtE
+
 #EXTINF:-1 tvg-logo="-------" group-title="FIGHT SPORT", SPORTNET WWE CA
 http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=735988&extension=ts&play_token=yVIFGtzLtE
 #EXTINF:-1 tvg-logo="-------" group-title="FIGHT SPORT", UFC USA 
 http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=91949&extension=ts&play_token=yVIFGtzLtE
 #EXTINF:-1 tvg-logo="-------" group-title="FIGHT SPORT", WWE USA 
 http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=45462&extension=ts&play_token=yVIFGtzLtE
-
+#EXTINF:-1 tvg-logo="-------" group-title="FIGHT SPORT", FIGHT NETWORK
+http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=91897&extension=ts&play_token=yVIFGtzLtE
 
 #EXTINF:-1 tvg-logo="-------" group-title="FOX SPORT", FOX SPORT 1 US
 http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=45571&extension=ts&play_token=yVIFGtzLtE
