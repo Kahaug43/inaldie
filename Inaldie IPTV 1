@@ -57,6 +57,436 @@ https://github.com/inaldie/inaldie/raw/main/DONATE.ts
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/MNCTV_MNC-Group.svg" group-title="DENS TV", MNCTV
+http://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2020/07/12/84162435.jpg" group-title="DENS TV", GTV
+http://nyanv-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png" group-title="DENS TV", INEWS
+http://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4urMukgFxOsmKR06xskG4LzwSbtbwosJ0oQ&usqp=CAU" group-title="DENS TV", RCTI
+http://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqjRjYQzeZXe4kOyrHIaWlcGMLzdHQcFjg6w&usqp=CAU" group-title="DENS TV", TRANS 7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1LAR1UUsYqpBTkO5W4bnL-bWT3V5bReOiIA&usqp=CAU" group-title="DENS TV", TRANS TV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/3.jpg" group-title="DENS TV", DENS LIVE 1
+http://210.210.155.37/x6bnqe/s/s100/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/75.jpg" group-title="DENS TV", DENS LIVE 2
+http://210.210.155.37/uq2663/h/h998/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/107.jpg" group-title="DENS TV", DENS PLAY
+http://210.210.155.37/x6bnqe/s/s37/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/42.jpg" group-title="DENS TV", DENS LIFESTYLE
+http://210.210.155.37/x6bnqe/s/s101/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/1.jpg" group-title="DENS TV", LEARNING & KNOWLEDGE
+http://210.210.155.37/x6bnqe/s/s36/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/102.jpg" group-title="DENS TV", DENS SHOWBIZ
+http://210.210.155.37/x6bnqe/s/s35/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/117.jpg" group-title="DENS TV", DENS FOOD CHANNEL
+http://210.210.155.37/x6bnqe/s/s38/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/6.jpg" group-title="DENS TV", METRO TV
+http://210.210.155.37/uq2663/h/h12/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/7.jpg" group-title="DENS TV", TVONE
+http://210.210.155.37/qwr9ew/s/s105/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/14.jpg" group-title="DENS TV", KOMPAS TV
+http://210.210.155.37/qwr9ew/s/s104/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/80.jpg" group-title="DENS TV", BERITA SATU
+https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/9.jpg" group-title="DENS TV", SCTV
+http://210.210.155.37/qwr9ew/s/s03/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqjRjYQzeZXe4kOyrHIaWlcGMLzdHQcFjg6w&usqp=CAU" group-title="DENS TV", TRANS 7
+https://cdn09jtedge.indihometv.com/dvr/139/trans7/manifest.mpd?stime=1685935945&etime=1685935945&encoded=01a68ca7040a7e8134afc
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqjRjYQzeZXe4kOyrHIaWlcGMLzdHQcFjg6w&usqp=CAU" group-title="DENS TV", TRANS 7 1
+http://kuchini.site:8080/live/myhdosama/cjydA4ncmMqx55pf/162502.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/10.jpg" group-title="DENS TV", INDOSIAR
+http://210.210.155.37/qwr9ew/s/s04/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1LAR1UUsYqpBTkO5W4bnL-bWT3V5bReOiIA&usqp=CAU" group-title="DENS TV", TRANS TV
+http://kuchini.site:8080/multi6741/ab72059e/162503
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1LAR1UUsYqpBTkO5W4bnL-bWT3V5bReOiIA&usqp=CAU" group-title="DENS TV", TRANS TV 1
+https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/8.jpg" group-title="DENS TV", ANTV
+http://210.210.155.37/qwr9ew/s/s07/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/13.jpg" group-title="DENS TV", NET
+http://210.210.155.37/uq2663/h/h06/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/22.jpg" group-title="DENS TV", RTV
+http://210.210.155.37/dr9445/h/h10/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/94.jpg" group-title="DENS TV", ELSHINTA TV
+http://210.210.155.37/qwr9ew/s/s10/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/111.jpg" group-title="DENS TV", MOJI
+http://210.210.155.37/qwr9ew/s/s41/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/17.jpg" group-title="DENS TV", TVRI
+http://210.210.155.37/qwr9ew/s/s11/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/112.jpg" group-title="DENS TV", JAK TV
+http://210.210.155.37/x6bnqe/s/s46/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/21.jpg" group-title="DENS TV", RODJA TV
+http://210.210.155.37/qwr9ew/s/s14/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/23.jpg" group-title="DENS TV", DAAI TV
+http://210.210.155.37/qwr9ew/s/s13/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/76.jpg" group-title="DENS TV", U CHANNEL
+http://210.210.155.37/qwr9ew/s/s41/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/26.jpg" group-title="DENS TV", EGG NETWORK TV
+http://210.210.155.37/uq2663/h/h22/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/38.jpg" group-title="DENS TV", ANIPLUS
+http://210.210.155.37/dr9445/h/h02/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/96.jpg" group-title="DENS TV", MY KIDZ
+http://210.210.155.37/uq2663/h/h191/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/116.jpg" group-title="DENS TV", TOONZ KIDZ
+http://210.210.155.37/x6bnqe/s/s14/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/101.jpg" group-title="DENS TV", HITS
+http://210.210.155.37/dr9445/h/h37/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/119.jpg" group-title="DENS TV", HITS MOVIES
+http://210.210.155.37/dr9445/h/h38/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/39.jpg" group-title="DENS TV", ROCK ENTERTAINMENT
+http://210.210.155.37/dr9445/h/h16/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/44.jpg" group-title="DENS TV", ROCK ACTION
+http://210.210.155.37/dr9445/h/h15/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DENS TV", ROCK ACTION
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/151142.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DENS TV", ROCK ENTERTAINMENT
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/151143.ts
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/49.jpg" group-title="DENS TV", KIX
+http://210.210.155.37/dr9445/h/h07/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/5.jpg" group-title="DENS TV", GEM
+http://210.210.155.37/uq2663/h/h19/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/100.jpg" group-title="DENS TV", K+
+http://210.210.155.37/uq2663/h/h08/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/59.jpg" group-title="DENS TV", TVN
+http://210.210.155.37/dr9445/h/h20/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/58.jpg" group-title="DENS TV", TVN MOVIES
+http://210.210.155.37/dr9445/h/h21/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/99.jpg" group-title="DENS TV", CELESTIAL MOVIES
+http://210.210.155.37/dr9445/h/h14/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/110.jpg" group-title="DENS TV", CCM
+http://210.210.155.37/qwr9ew/s/s31/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/103.jpg" group-title="DENS TV", ZEE BIOSKOP
+http://210.210.155.37/qwr9ew/s/s32/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/55.jpg" group-title="DENS TV", THRILL
+http://210.210.155.37/qwr9ew/s/s34/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/87.jpg" group-title="DENS TV", CINEMA WORLD
+http://210.210.155.37/dr9445/h/h04/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/95.jpg" group-title="DENS TV", MY CINEMA
+http://210.210.155.37/uq2663/h/h192/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/109.jpg" group-title="DENS TV", MY CINEMA ASIA
+http://210.210.155.37/uq2663/h/h193/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/92.jpg" group-title="DENS TV", CINEMA EUROPE
+http://210.210.155.37/uq2663/h/h18/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/114.jpg" group-title="DENS TV", MY FAMILY CHANNEL
+http://210.210.155.37/uq2663/h/h194/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/37.jpg" group-title="DENS TV", Monde STYLE
+http://210.210.155.37/dr9445/h/h01/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/60.jpg" group-title="DENS TV", FIGHT SPORTS
+http://210.210.155.37/dr9445/h/h05/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/98.jpg" group-title="DENS TV", MOTORVISION
+http://210.210.155.37/uq2663/h/h09/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/61.jpg" group-title="DENS TV", CNA
+http://210.210.155.37/uq2663/h/h29/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/77.jpg" group-title="DENS TV", NHK WORLD JAPAN
+http://210.210.155.37/uq2663/h/h23/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/56.jpg" group-title="DENS TV", AL JAZEERA ARABIC
+http://210.210.155.37/qwr9ew/s/s16/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/41.jpg" group-title="DENS TV", TRT WORLD
+http://210.210.155.37/uq2663/h/h156/index2.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/79.jpg" group-title="DENS TV", WION
+http://210.210.155.37/uq2663/h/h91/index2.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/104.jpg" group-title="DENS TV", UA
+http://210.210.155.37/uq2663/h/h101/index2.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/56.jpg" group-title="DENS TV", AL JAZEERA ENGLISH
+http://210.210.155.37/qwr9ew/s/s17/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/85.jpg" group-title="DENS TV", CCTV 4
+http://210.210.155.37/qwr9ew/s/s19/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/69.jpg" group-title="DENS TV", FRANCE 24
+http://210.210.155.37/qwr9ew/s/s22/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/118.jpg" group-title="DENS TV", TVRI SPORT
+http://210.210.155.37/qwr9ew/s/s107/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/121.jpg" group-title="DENS TV", HORIZON SPORT
+http://210.210.155.37/uq2663/h/h124/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/120.jpg" group-title="DENS TV", MOTO RACING
+http://210.210.155.37/uq2663/h/h223/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", MOJI HD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch26)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", TRANSTV HD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch396)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", TRANS7 HD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch397)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", ANTV HD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch390)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", BTV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch360)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", BERITASATU WORLD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch19)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", JAKARTA GLOBE
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch2)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", KOMPASTV HD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch410)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", METROTV HD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch394)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", IDX CHANNEL
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch389)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", GARUDATV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch45)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", DAAITV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch128)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", HOREE!
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch375)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", JAKTV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch392)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", JTV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch17)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", TV9 NUSANTARA
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch352)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", WESTJAVA NETWORK
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch50)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", BALAIKOTA CHANNEL
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch73)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", BALAIKOTA BANDUNG
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch102)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", FIRST WARRIORS
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch999)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", FIRST LIFESTYLE
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", CITRA MUSLIM
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch334)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", CITRA BIOSKOP
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch376)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", CITRA DRAMA
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch378)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", CITRA DANGDUT
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch377)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", CITRA ENTERTAINMENT
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch379)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", TVRI
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch399)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", AXN
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch332)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", PARAMOUNT NETWORK
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch309)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", ROCK ACTION
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch330)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", ROCK ENTERTAINMENT
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch335)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", HITSMOVIE
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch324)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", HITS
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch326)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", SONY MAX
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch174)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", KIX
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch336)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", TVN
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch339)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", TVNMOVIES
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch343)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", KBSWORLD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch262)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", ONE
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch338)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", ZEEBIOSKOP
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch161)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", SPOTV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch329)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", SPOTV2
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3300)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", EUROSPORT
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch21)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", CGTN DOCUMENTARY
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch405)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", DISCOVERY CHANNEL
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch29)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", ANIMAL PLANET
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch31)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", LOVENATURE
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch368)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", HISTORY
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch131)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", CRIMEINVESTIGATION
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch349)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", TECHSTORM
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch333)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", GLOBAL TREKKER
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch366)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", DREAMWORK
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch374)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", LIFETIME
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch155)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", HGTV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch354)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", TLC
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch35)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", AFN
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch76)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", FOOD NETWORK
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch355)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", FASHIONTV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch168)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", DAVINCI
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch371)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", ANIMAX
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch52)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", BOOMERANG
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch372)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", CARTOON NETWORK
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch103)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", NICKELODEON
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch105)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", NICKJR.
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch124)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", MTV 90S
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch241)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", MTV STAGE
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch242)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", STINGRAY NATURESCAPE
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch367)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", STINGRAY DJAZZ
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3344)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", GEM
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3400)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FIRSTMEDIA", CH3888
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3888)/index.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ID MY SIA", MY Astro AEC (D)
 http://humiptv.live:8080/live/tarun589853/5787489bcsh/142969.ts
 
