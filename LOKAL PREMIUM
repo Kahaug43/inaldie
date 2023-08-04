@@ -752,6 +752,890 @@ http://kuchini.site:8080/devtv/5af3eeb538/297499
 http://kuchini.site:8080/devtv/5af3eeb538/157550
 
 
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] TV1
+https://ktpremium.com:443/live/90025543/78802/25808.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] TV1 (B)
+https://ktpremium.com:443/live/90025543/78802/912825.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] TV2
+https://ktpremium.com:443/live/90025543/78802/25809.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] TV2 (B)
+https://ktpremium.com:443/live/90025543/78802/912826.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] TV3
+https://ktpremium.com:443/live/90025543/78802/25810.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] TV3 (A)
+https://ktpremium.com:443/live/90025543/78802/912827.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] TV3 (B)
+https://ktpremium.com:443/live/90025543/78802/912828.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] NTV7
+https://ktpremium.com:443/live/90025543/78802/25811.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] NTV7 (B)
+https://ktpremium.com:443/live/90025543/78802/912829.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] 8TV
+https://ktpremium.com:443/live/90025543/78802/25812.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] 8TV (B)
+https://ktpremium.com:443/live/90025543/78802/912830.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] TV9
+https://ktpremium.com:443/live/90025543/78802/25813.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] TV9 (B)
+https://ktpremium.com:443/live/90025543/78802/912831.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] Awesome tv
+https://ktpremium.com:443/live/90025543/78802/25828.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] Awesome tv (B)
+https://ktpremium.com:443/live/90025543/78802/912832.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] TVS
+https://ktpremium.com:443/live/90025543/78802/656643.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] TV IKIM
+https://ktpremium.com:443/live/90025543/78802/656644.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] OKEY TV
+https://ktpremium.com:443/live/90025543/78802/656682.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] Berita RTM
+https://ktpremium.com:443/live/90025543/78802/900904.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] TV6
+https://ktpremium.com:443/live/90025543/78802/900905.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] ASTRO Citra (not 24/7)
+https://ktpremium.com:443/live/90025543/78802/25852.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] ASTRO Citra (recording)
+https://ktpremium.com:443/live/90025543/78802/913177.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] ASTRO RIA HD(not 24/7)
+https://ktpremium.com:443/live/90025543/78802/25855.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] ASTRO RIA HD (B)
+https://ktpremium.com:443/live/90025543/78802/912833.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] ASTRO PRIMA HD
+https://ktpremium.com:443/live/90025543/78802/25862.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] ASTRO OASIS HD
+https://ktpremium.com:443/live/90025543/78802/25864.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] ASTRO OASIS HD (B)
+https://ktpremium.com:443/live/90025543/78802/912835.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] ASTRO WARNA HD (not 24/7)
+https://ktpremium.com:443/live/90025543/78802/25867.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] ASTRO WARNA HD (B)
+https://ktpremium.com:443/live/90025543/78802/912836.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] Astro Sensasi
+https://ktpremium.com:443/live/90025543/78802/910978.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] Go Shop 111
+https://ktpremium.com:443/live/90025543/78802/916394.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] Astro Rania HD
+https://ktpremium.com:443/live/90025543/78802/908356.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] Astro Aura HD
+https://ktpremium.com:443/live/90025543/78802/908357.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] Dunia Sinema
+https://ktpremium.com:443/live/90025543/78802/910753.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] GO SHOP 118
+https://ktpremium.com:443/live/90025543/78802/25875.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] TV ALHIJRAH
+https://ktpremium.com:443/live/90025543/78802/25906.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] COLORS HD
+https://ktpremium.com:443/live/90025543/78802/25928.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] Astro Vellithirai
+https://ktpremium.com:443/live/90025543/78802/918423.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] Sun Life
+https://ktpremium.com:443/live/90025543/78802/25934.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] Sun TV
+https://ktpremium.com:443/live/90025543/78802/911358.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] SUN MUSIC
+https://ktpremium.com:443/live/90025543/78802/25933.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] Adithaya
+https://ktpremium.com:443/live/90025543/78802/905517.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] Sun news
+https://ktpremium.com:443/live/90025543/78802/911013.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] KTV
+https://ktpremium.com:443/live/90025543/78802/511756.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] ASTRO Star Vijay HD
+https://ktpremium.com:443/live/90025543/78802/25944.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] ASTRO Star Vijay HD (B)
+https://ktpremium.com:443/live/90025543/78802/912838.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] COLORS TAMIL
+https://ktpremium.com:443/live/90025543/78802/25947.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] COLORS TAMIL (B)
+https://ktpremium.com:443/live/90025543/78802/912839.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] ZEE Tamil HD
+https://ktpremium.com:443/live/90025543/78802/25949.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] Astro Vinmeen HD
+https://ktpremium.com:443/live/90025543/78802/25959.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] ABO Thangathirai
+https://ktpremium.com:443/live/90025543/78802/911365.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] Zee Cinema HD
+https://ktpremium.com:443/live/90025543/78802/911366.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] Go Shop 303
+https://ktpremium.com:443/live/90025543/78802/916395.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] TVB Magic
+https://ktpremium.com:443/live/90025543/78802/924367.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] 爱奇艺 iQiyi
+https://ktpremium.com:443/live/90025543/78802/25961.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] 爱奇艺 iQiyi (B)
+https://ktpremium.com:443/live/90025543/78802/912840.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] 小太阳 HD
+https://ktpremium.com:443/live/90025543/78802/25964.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] 小太阳 HD (B)
+https://ktpremium.com:443/live/90025543/78802/912841.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] AEC HD
+https://ktpremium.com:443/live/90025543/78802/25968.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] AEC HD(B)
+https://ktpremium.com:443/live/90025543/78802/916396.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] 双星 HD(block)
+https://ktpremium.com:443/live/90025543/78802/25970.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] 双星 HD (B)
+https://ktpremium.com:443/live/90025543/78802/912843.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] 全佳 HD
+https://ktpremium.com:443/live/90025543/78802/25971.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] 翡翠华丽台
+https://ktpremium.com:443/live/90025543/78802/25972.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] 翡翠华丽台 (B)
+https://ktpremium.com:443/live/90025543/78802/912845.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY]  欢喜台
+https://ktpremium.com:443/live/90025543/78802/25973.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY]  欢喜台  (B)
+https://ktpremium.com:443/live/90025543/78802/912847.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] ASTRO Awani HD(B)
+https://ktpremium.com:443/live/90025543/78802/913137.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] TVB 星河(粤语)
+https://ktpremium.com:443/live/90025543/78802/25977.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] TVB 星河 HD (中文)
+https://ktpremium.com:443/live/90025543/78802/912848.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] TVB 经典台
+https://ktpremium.com:443/live/90025543/78802/25979.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] TVB 经典台 (B)
+https://ktpremium.com:443/live/90025543/78802/912849.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] TVB Entertainment News HD
+https://ktpremium.com:443/live/90025543/78802/918425.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] 天映频道 HD
+https://ktpremium.com:443/live/90025543/78802/25981.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] 天映经典
+https://ktpremium.com:443/live/90025543/78802/25982.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] Phoenix Chinese Channel HD
+https://ktpremium.com:443/live/90025543/78802/25984.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] Phoenix Info News HD
+https://ktpremium.com:443/live/90025543/78802/25985.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] TVBS ASIA HD
+https://ktpremium.com:443/live/90025543/78802/25986.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] 中天亚洲
+https://ktpremium.com:443/live/90025543/78802/25987.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] AOD 311 HD
+https://ktpremium.com:443/live/90025543/78802/25990.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] AOD 352 HD
+https://ktpremium.com:443/live/90025543/78802/25991.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] AOD 354 HD
+https://ktpremium.com:443/live/90025543/78802/25993.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] tvN HD
+https://ktpremium.com:443/live/90025543/78802/26001.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] tvN Movies
+https://ktpremium.com:443/live/90025543/78802/26003.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] KBS World HD
+https://ktpremium.com:443/live/90025543/78802/26006.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] One HD
+https://ktpremium.com:443/live/90025543/78802/26009.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] BOO
+https://ktpremium.com:443/live/90025543/78802/26011.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] K-plus
+https://ktpremium.com:443/live/90025543/78802/26029.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] HBO HD
+https://ktpremium.com:443/live/90025543/78802/916397.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] HBO HD(sub)
+https://ktpremium.com:443/live/90025543/78802/26076.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] HBO Hits
+https://ktpremium.com:443/live/90025543/78802/916401.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] HBO Hits (sub)
+https://ktpremium.com:443/live/90025543/78802/26077.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] HBO Signature (sub)
+https://ktpremium.com:443/live/90025543/78802/26080.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] HBO Family
+https://ktpremium.com:443/live/90025543/78802/916400.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] HBO Family (sub)
+https://ktpremium.com:443/live/90025543/78802/656642.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] Cinemax
+https://ktpremium.com:443/live/90025543/78802/916398.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] Cinemax (sub)
+https://ktpremium.com:443/live/90025543/78802/901187.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] Showcase Movie
+https://ktpremium.com:443/live/90025543/78802/916399.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] Primetime
+https://ktpremium.com:443/live/90025543/78802/901189.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] Paramount Network
+https://ktpremium.com:443/live/90025543/78802/901190.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] CINEMA WORLD
+https://ktpremium.com:443/live/90025543/78802/901191.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] Thrill
+https://ktpremium.com:443/live/90025543/78802/26094.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] WARNER TV
+https://ktpremium.com:443/live/90025543/78802/26097.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] Hits Movies HD
+https://ktpremium.com:443/live/90025543/78802/26102.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] SKY NEWS HD
+https://ktpremium.com:443/live/90025543/78802/26156.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] Euronews
+https://ktpremium.com:443/live/90025543/78802/26158.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] ABC AUSTRALIA
+https://ktpremium.com:443/live/90025543/78802/26160.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] DW HD
+https://ktpremium.com:443/live/90025543/78802/26162.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] FRANCE24 HD
+https://ktpremium.com:443/live/90025543/78802/26165.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] ASTRO Awani HD
+https://ktpremium.com:443/live/90025543/78802/26167.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] Bernama News
+https://ktpremium.com:443/live/90025543/78802/26169.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] CNN HD
+https://ktpremium.com:443/live/90025543/78802/26171.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] BBC News HD
+https://ktpremium.com:443/live/90025543/78802/26174.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] Al-Jazzera HD
+https://ktpremium.com:443/live/90025543/78802/26177.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] Bloomberg TV
+https://ktpremium.com:443/live/90025543/78802/26179.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] CCTV4 HD
+https://ktpremium.com:443/live/90025543/78802/26181.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] CGTN
+https://ktpremium.com:443/live/90025543/78802/26192.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] NHK World
+https://ktpremium.com:443/live/90025543/78802/834387.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] CNBC Asia HD
+https://ktpremium.com:443/live/90025543/78802/26195.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] Love Nature
+https://ktpremium.com:443/live/90025543/78802/916402.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] Global Trekker
+https://ktpremium.com:443/live/90025543/78802/916403.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] NatGeo HD
+https://ktpremium.com:443/live/90025543/78802/26197.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] NatGeo Wild HD
+https://ktpremium.com:443/live/90025543/78802/26205.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] Discovery HD
+https://ktpremium.com:443/live/90025543/78802/26207.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] Discovery Asia
+https://ktpremium.com:443/live/90025543/78802/26209.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] Animal Planet HD
+https://ktpremium.com:443/live/90025543/78802/26211.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] History HD
+https://ktpremium.com:443/live/90025543/78802/26213.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] ASTRO CERIA HD
+https://ktpremium.com:443/live/90025543/78802/26238.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] Ceria (B)
+https://ktpremium.com:443/live/90025543/78802/912821.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] Tutor TV SK
+https://ktpremium.com:443/live/90025543/78802/912560.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] Tutor TV SMK
+https://ktpremium.com:443/live/90025543/78802/912561.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] DreamWorks
+https://ktpremium.com:443/live/90025543/78802/912562.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] ANIMAX
+https://ktpremium.com:443/live/90025543/78802/26240.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] ANIPLUS HD
+https://ktpremium.com:443/live/90025543/78802/26242.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] Moonbug Kids
+https://ktpremium.com:443/live/90025543/78802/26200.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] Boomerang HD
+https://ktpremium.com:443/live/90025543/78802/26245.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY]  CBeebies
+https://ktpremium.com:443/live/90025543/78802/26247.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] CARTOON NTWK HD
+https://ktpremium.com:443/live/90025543/78802/26273.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] NICKELODEON HD
+https://ktpremium.com:443/live/90025543/78802/26275.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] NICK JR
+https://ktpremium.com:443/live/90025543/78802/26276.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] Baby TV
+https://ktpremium.com:443/live/90025543/78802/26277.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] AXN HD
+https://ktpremium.com:443/live/90025543/78802/26282.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] Prime time
+https://ktpremium.com:443/live/90025543/78802/901198.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] HITS HD
+https://ktpremium.com:443/live/90025543/78802/26284.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] TLC HD
+https://ktpremium.com:443/live/90025543/78802/26285.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] FOOD NTWK HD
+https://ktpremium.com:443/live/90025543/78802/26286.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] Asian Food Network
+https://ktpremium.com:443/live/90025543/78802/916125.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] LIFETIME
+https://ktpremium.com:443/live/90025543/78802/656641.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] Blue Ant Entertainment HD
+https://ktpremium.com:443/live/90025543/78802/656633.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] Blue Ant Extreme HD
+https://ktpremium.com:443/live/90025543/78802/656639.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] C&I HD
+https://ktpremium.com:443/live/90025543/78802/26288.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] BBC Earth HD
+https://ktpremium.com:443/live/90025543/78802/26290.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] BBC Lifestyle
+https://ktpremium.com:443/live/90025543/78802/26291.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] HGTV HD
+https://ktpremium.com:443/live/90025543/78802/26294.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] DMAX HD
+https://ktpremium.com:443/live/90025543/78802/26296.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] COMEDY CENTRAL
+https://ktpremium.com:443/live/90025543/78802/26297.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] MTV live
+https://ktpremium.com:443/live/90025543/78802/26298.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] Net. TV
+https://ktpremium.com:443/live/90025543/78802/73605.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] RCTI
+https://ktpremium.com:443/live/90025543/78802/73606.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] SCTV
+https://ktpremium.com:443/live/90025543/78802/73607.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] Trans TV
+https://ktpremium.com:443/live/90025543/78802/73608.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] Trans 7
+https://ktpremium.com:443/live/90025543/78802/73609.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] TV One
+https://ktpremium.com:443/live/90025543/78802/73610.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] Metro TV
+https://ktpremium.com:443/live/90025543/78802/73611.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] Kompas TV
+https://ktpremium.com:443/live/90025543/78802/73612.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] CNN Indonesia
+https://ktpremium.com:443/live/90025543/78802/73613.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] Berita Satu
+https://ktpremium.com:443/live/90025543/78802/73614.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] Indonesiana tv
+https://ktpremium.com:443/live/90025543/78802/73615.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] MNC TV
+https://ktpremium.com:443/live/90025543/78802/73616.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] Indosiar
+https://ktpremium.com:443/live/90025543/78802/73617.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] ANTV
+https://ktpremium.com:443/live/90025543/78802/73618.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] GTV
+https://ktpremium.com:443/live/90025543/78802/73619.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] TVRI
+https://ktpremium.com:443/live/90025543/78802/73620.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] JakTV
+https://ktpremium.com:443/live/90025543/78802/73626.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] JTV
+https://ktpremium.com:443/live/90025543/78802/73627.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] TV9 NU
+https://ktpremium.com:443/live/90025543/78802/73629.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] Rajawali TV
+https://ktpremium.com:443/live/90025543/78802/73631.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] Citra drama
+https://ktpremium.com:443/live/90025543/78802/901193.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] Citra Dangdut
+https://ktpremium.com:443/live/90025543/78802/901194.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] Entertainment
+https://ktpremium.com:443/live/90025543/78802/73636.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] Aljazeera
+https://ktpremium.com:443/live/90025543/78802/73642.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] CNN International
+https://ktpremium.com:443/live/90025543/78802/73643.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] DW (English)
+https://ktpremium.com:443/live/90025543/78802/73644.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] France 24
+https://ktpremium.com:443/live/90025543/78802/73645.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] News Asia
+https://ktpremium.com:443/live/90025543/78802/73646.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] KBS World
+https://ktpremium.com:443/live/90025543/78802/73647.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] ABC Australia
+https://ktpremium.com:443/live/90025543/78802/73648.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] NHK World HD
+https://ktpremium.com:443/live/90025543/78802/73649.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] Euronews
+https://ktpremium.com:443/live/90025543/78802/73650.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] BBC World News
+https://ktpremium.com:443/live/90025543/78802/73651.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] CNBC Indonesia
+https://ktpremium.com:443/live/90025543/78802/73652.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] TRT World
+https://ktpremium.com:443/live/90025543/78802/73653.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] MNC News
+https://ktpremium.com:443/live/90025543/78802/73654.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] IMC
+https://ktpremium.com:443/live/90025543/78802/73869.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] SGem HD(FHD)
+https://ktpremium.com:443/live/90025543/78802/73989.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] Bioskop Indonesia
+https://ktpremium.com:443/live/90025543/78802/73873.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] Crime & Investigation
+https://ktpremium.com:443/live/90025543/78802/73870.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] Reformed 21
+https://ktpremium.com:443/live/90025543/78802/73875.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] Jiangsu TV
+https://ktpremium.com:443/live/90025543/78802/73878.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] Hunan TV
+https://ktpremium.com:443/live/90025543/78802/73879.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] Shanghai Dragon TV
+https://ktpremium.com:443/live/90025543/78802/73880.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] Anhui TV
+https://ktpremium.com:443/live/90025543/78802/73882.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] Aniplus
+https://ktpremium.com:443/live/90025543/78802/73884.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] Animax
+https://ktpremium.com:443/live/90025543/78802/73883.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] Boomerang
+https://ktpremium.com:443/live/90025543/78802/73885.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] Cartoon Network
+https://ktpremium.com:443/live/90025543/78802/73934.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] Cbeebies
+https://ktpremium.com:443/live/90025543/78802/73935.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] Disney Channel
+https://ktpremium.com:443/live/90025543/78802/73938.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] Miao Mi
+https://ktpremium.com:443/live/90025543/78802/73945.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] Nick Junior
+https://ktpremium.com:443/live/90025543/78802/73946.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] Nickelodeon
+https://ktpremium.com:443/live/90025543/78802/73947.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] NatGeo Wild
+https://ktpremium.com:443/live/90025543/78802/73965.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] NatGeo
+https://ktpremium.com:443/live/90025543/78802/73966.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] History
+https://ktpremium.com:443/live/90025543/78802/73968.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] Animal Planet
+https://ktpremium.com:443/live/90025543/78802/73969.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] Discovery Channel
+https://ktpremium.com:443/live/90025543/78802/73970.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] HGTV
+https://ktpremium.com:443/live/90025543/78802/73975.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] TLC
+https://ktpremium.com:443/live/90025543/78802/73977.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] TvN
+https://ktpremium.com:443/live/90025543/78802/73985.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] TvN Movies
+https://ktpremium.com:443/live/90025543/78802/73986.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] Sony One
+https://ktpremium.com:443/live/90025543/78802/73987.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] Arirang
+https://ktpremium.com:443/live/90025543/78802/73990.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] ASTRO ARENA HD
+https://ktpremium.com:443/live/90025543/78802/26308.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] ASTRO ARENA HD (B)
+https://ktpremium.com:443/live/90025543/78802/913178.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] Arena 2
+https://ktpremium.com:443/live/90025543/78802/26306.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] Arena 2 (B)
+https://ktpremium.com:443/live/90025543/78802/913179.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] Arena Bola 1 (VIP)
+https://ktpremium.com:443/live/90025543/78802/912889.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] Arena Bola 2  (VIP)
+https://ktpremium.com:443/live/90025543/78802/912890.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] Arena Bola 3 (VIP)
+https://ktpremium.com:443/live/90025543/78802/913533.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY]  Arena Bola 4 (VIP)
+https://ktpremium.com:443/live/90025543/78802/922304.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] ASTRO CRICKET
+https://ktpremium.com:443/live/90025543/78802/26309.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] ASTRO ASSP (VIP)
+https://ktpremium.com:443/live/90025543/78802/26312.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY]ASTRO ASSP FHD
+https://ktpremium.com:443/live/90025543/78802/694537.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] ASTRO ASSP 2 (VIP)
+https://ktpremium.com:443/live/90025543/78802/26313.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] ASTRO ASSP 2 FHD
+https://ktpremium.com:443/live/90025543/78802/694538.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] ASTRO ASSP 3 (VIP)
+https://ktpremium.com:443/live/90025543/78802/26314.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] ASTRO ASSP 3 FHD
+https://ktpremium.com:443/live/90025543/78802/694540.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] ASTRO ASSP 4 (VIP)
+https://ktpremium.com:443/live/90025543/78802/26315.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] ASTRO ASSP 4 FHD
+https://ktpremium.com:443/live/90025543/78802/694542.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] W-Sports
+https://ktpremium.com:443/live/90025543/78802/26317.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] SPOTV
+https://ktpremium.com:443/live/90025543/78802/26318.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] Sukan RTM
+https://ktpremium.com:443/live/90025543/78802/793981.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] beIN Sports 1
+https://ktpremium.com:443/live/90025543/78802/26321.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] beIN Sports 2
+https://ktpremium.com:443/live/90025543/78802/912557.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] beIN Sports 3
+https://ktpremium.com:443/live/90025543/78802/26322.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] EUROSPORT HD
+https://ktpremium.com:443/live/90025543/78802/26324.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] GOLF CHANNEL HD
+https://ktpremium.com:443/live/90025543/78802/26326.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] WWE NETWORK
+https://ktpremium.com:443/live/90025543/78802/26328.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] Fight Sports
+https://ktpremium.com:443/live/90025543/78802/73960.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] Spotv
+https://ktpremium.com:443/live/90025543/78802/73956.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] Spotv 2
+https://ktpremium.com:443/live/90025543/78802/73957.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] Celestial Movies
+https://ktpremium.com:443/live/90025543/78802/73655.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] Celestial Classic Movie
+https://ktpremium.com:443/live/90025543/78802/73656.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] Thrill
+https://ktpremium.com:443/live/90025543/78802/73660.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] AXN
+https://ktpremium.com:443/live/90025543/78802/73661.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] Hits
+https://ktpremium.com:443/live/90025543/78802/73662.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] Hits Movies
+https://ktpremium.com:443/live/90025543/78802/73855.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] HBO
+https://ktpremium.com:443/live/90025543/78802/73858.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] HBO Hits
+https://ktpremium.com:443/live/90025543/78802/73860.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] HBO Signature
+https://ktpremium.com:443/live/90025543/78802/73861.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] HBO Family
+https://ktpremium.com:443/live/90025543/78802/901195.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] Cinemax
+https://ktpremium.com:443/live/90025543/78802/901196.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] Paramount Network
+https://ktpremium.com:443/live/90025543/78802/901199.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] CINEMA WORLD
+https://ktpremium.com:443/live/90025543/78802/901200.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] Warner TV
+https://ktpremium.com:443/live/90025543/78802/73866.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] Galaxy Premium
+https://ktpremium.com:443/live/90025543/78802/73863.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] Galaxy HD
+https://ktpremium.com:443/live/90025543/78802/812074.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] Disney.jr
+https://ktpremium.com:443/live/90025543/78802/511324.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] Disney XD
+https://ktpremium.com:443/live/90025543/78802/511328.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] Nusantaratv
+https://ktpremium.com:443/live/90025543/78802/34721.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] TV3 (C)
+https://ktpremium.com:443/live/90025543/78802/694449.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] Arirang
+https://ktpremium.com:443/live/90025543/78802/694473.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] CGTN Documentary
+https://ktpremium.com:443/live/90025543/78802/694497.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] LifeStyle Fashion
+https://ktpremium.com:443/live/90025543/78802/73982.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] ZooMoo Kids
+https://ktpremium.com:443/live/90025543/78802/695556.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] KBS World
+https://ktpremium.com:443/live/90025543/78802/870506.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] Berita Satu World
+https://ktpremium.com:443/live/90025543/78802/886796.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] Dhamma TV
+https://ktpremium.com:443/live/90025543/78802/886807.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] Huma Betang TV
+https://ktpremium.com:443/live/90025543/78802/886811.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] Jogja Istimewa TV
+https://ktpremium.com:443/live/90025543/78802/886828.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] Madu TV
+https://ktpremium.com:443/live/90025543/78802/886833.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] MQTV
+https://ktpremium.com:443/live/90025543/78802/886836.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] Sangaji TV
+https://ktpremium.com:443/live/90025543/78802/886841.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] Inspiratv
+https://ktpremium.com:443/live/90025543/78802/886843.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] TVKU
+https://ktpremium.com:443/live/90025543/78802/900813.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA TV", [MY] Premier Sports
+https://ktpremium.com:443/live/90025543/78802/916970.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] Hope Channel
+https://ktpremium.com:443/live/90025543/78802/917012.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] DAAI TV
+https://ktpremium.com:443/live/90025543/78802/921746.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] Bandung TV
+https://ktpremium.com:443/live/90025543/78802/921747.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] Dreamworks
+https://ktpremium.com:443/live/90025543/78802/921749.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] Biznet Adventure
+https://ktpremium.com:443/live/90025543/78802/923599.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] Biznet Lifestyle
+https://ktpremium.com:443/live/90025543/78802/923600.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA TV", [ID] Biznet Kids
+https://ktpremium.com:443/live/90025543/78802/923601.m3u8
+
+
+
+
 <==================<==================<==================<==================<==================<================== DENSTV ====================>
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/MNCTV_MNC-Group.svg" group-title="NASIONAL ID", MNCTV
