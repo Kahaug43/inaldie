@@ -15095,10 +15095,6 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:4b:61:87&stream=1350557_&ext
 http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=7774_&extension=ts&play_token=FcCkSLTtTN
 #EXTINF:-1 tvg-logo="______" group-title="TR SPORT", EUROSPORT 2
 http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=7877_&extension=ts&play_token=FcCkSLTtTN
-#EXTINF:-1 tvg-logo="______" group-title="TR SPORT", S SPORT 1
-http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=29745_&extension=ts&play_token=FcCkSLTtTN
-#EXTINF:-1 tvg-logo="______" group-title="TR SPORT", S SPORT 2
-http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=46640_&extension=ts&play_token=FcCkSLTtTN
 #EXTINF:-1 tvg-logo="______" group-title="TR SPORT", TRT SPORT 1
 http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=14828_&extension=ts&play_token=FcCkSLTtTN
 #EXTINF:-1 tvg-logo="______" group-title="TR SPORT", TRT SPORT 2
@@ -16017,304 +16013,253 @@ http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=132527&extension=
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=132726&extension=ts&play_token=vlJ3fcNuMu
 
 
-
 #EXTINF:-1 tvg-logo="-------" group-title="SUPERSPORT", Super Sport Premier League B
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239078&extension=ts&play_token=WIj93CqWrq
-
 #EXTINF:-1 tvg-logo="-------" group-title="SUPERSPORT", Super Sport LIGA B
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239076&extension=ts&play_token=WDliZuSmkz
-
 #EXTINF:-1 tvg-logo="-------" group-title="SUPERSPORT", Super Sport TENNIS B
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=425314&extension=ts&play_token=KmNBsBy8G3
-
 #EXTINF:-1 tvg-logo="-------" group-title="SUPERSPORT", Super Sport BLITZ B
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=425310&extension=ts&play_token=cB75vs6tv4
-
 #EXTINF:-1 tvg-logo="-------" group-title="SUPERSPORT", Super Sport PSL B
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239077&extension=ts&play_token=wAy6FmsPtA
-
 #EXTINF:-1 tvg-logo="-------" group-title="SUPERSPORT", Super Sport GOLF B
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=425667&extension=ts&play_token=Sh0E1BOGwg
-
 #EXTINF:-1 tvg-logo="-------" group-title="SUPERSPORT", Super Sport UNDERSTAND B
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239079&extension=ts&play_token=iplWY8qXC5
-
 #EXTINF:-1 tvg-logo="-------" group-title="SUPERSPORT", Super Sport MOTOR SPORT B
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239082&extension=ts&play_token=a0dyarOiLA
-
 #EXTINF:-1 tvg-logo="-------" group-title="SUPERSPORT", Super Sport FOOTBALL B
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239083&extension=ts&play_token=tJv2b2KNwD
-
 #EXTINF:-1 tvg-logo="-------" group-title="SUPERSPORT", Super Sport RUGBY B
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239086&extension=ts&play_token=TCL5qFctcH
-
 #EXTINF:-1 tvg-logo="-------" group-title="SUPERSPORT", SUPER Sport CRICKET B
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239087&extension=ts&play_token=blkGUKpfD1
-
 #EXTINF:-1 tvg-logo="-------" group-title="SUPERSPORT", SUPER Sport Variety 1 B
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239081&extension=ts&play_token=7C6v0BjPnK
-
 #EXTINF:-1 tvg-logo="-------" group-title="SUPERSPORT", Super Sport Variety 2 B
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239080&extension=ts&play_token=kt1XRyNjAK
-
 #EXTINF:-1 tvg-logo="-------" group-title="SUPERSPORT", Super Sport Variety 3 B
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239085&extension=ts&play_token=EJNtH2IgAS
-
 #EXTINF:-1 tvg-logo="-------" group-title="SUPERSPORT", Super Sport Variety 4 B
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239084&extension=ts&play_token=Tj5rP8kRtc
 
-
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PEACOCK", NBC SPORT
 http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1032458&extension=ts&play_token=Km5mJBAKNm
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PEACOCK", PEACOCK PL
 http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1032457&extension=ts&play_token=cvcqACl3FV
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PEACOCK", PEACOCK 1
 http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1032456&extension=ts&play_token=sxawlwRtqd
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PEACOCK", PEACOCK 2
 http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1032455&extension=ts&play_token=Y03rpkUlFR
-
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PEACOCK", PEACOCK 3
 http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1032454&extension=ts&play_token=Y03rpkUlFR
-
+#EXTINF:-1 tvg-logo="-------" group-title="PEACOCK SPORT", PEACOCK SPORT 1
+http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=1006285&extension=ts&play_token=yVIFGtzLtE
+#EXTINF:-1 tvg-logo="-------" group-title="PEACOCK SPORT", PEACOCK SPORT 2
+http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=1006286&extension=ts&play_token=yVIFGtzLtE
+#EXTINF:-1 tvg-logo="-------" group-title="PEACOCK SPORT", PEACOCK SPORT 3
+http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=1006287&extension=ts&play_token=yVIFGtzLtE
+#EXTINF:-1 tvg-logo="-------" group-title="PEACOCK SPORT", PEACOCK SPORT 4
+http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=1006288&extension=ts&play_token=yVIFGtzLtE
+#EXTINF:-1 tvg-logo="-------" group-title="PEACOCK SPORT", PEACOCK SPORT 5
+http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=1006289&extension=ts&play_token=yVIFGtzLtE
 
 
 #EXTINF:-1 tvg-logo="-------" group-title="S SPORT", S SPORT TV 1
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=161952&extension=ts&play_token=49oVKQPh3R
-
 #EXTINF:-1 tvg-logo="-------" group-title="S SPORT", S SPORT TV 2
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=110924&extension=ts&play_token=yiUpfOxIe1
-
+#EXTINF:-1 tvg-logo="______" group-title="S SPORT", S SPORT 1
+http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=29745_&extension=ts&play_token=FcCkSLTtTN
+#EXTINF:-1 tvg-logo="______" group-title="S SPORT", S SPORT 2
+http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=46640_&extension=ts&play_token=FcCkSLTtTN
 #EXTINF:-1 tvg-logo="-------" group-title="S SPORT", S SPORT TV 3
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=161954&extension=ts&play_token=j8BcJVGfou
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="S SPORT", Ar: YAS Sports HD
-http://s.showplustv.pro:80/mustafaali909/8744367/46766
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="S SPORT", TR: S Sport 1 HD
-http://dk.tgt6373.online:8080/dvrm3265/dvrm.1924/140781
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="S SPORT", TR: S Sport 2 HD
-http://dk.tgt6373.online:8080/dvrm3265/dvrm.1924/140784
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="S SPORT", TR: S SPORT 2 FHD
-http://s.showplustv.pro:80/mustafaali909/8744367/65743
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="S SPORT", USA: CBS Sports Network
-http://s.showplustv.pro:80/mustafaali909/8744367/64060
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="S SPORT", Is: Yes Sport 1 FHD
-http://s.showplustv.pro:80/mustafaali909/8744367/68082
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="S SPORT", Is: Yes Sport 2 HD
-http://s.showplustv.pro:80/mustafaali909/8744367/68081
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="S SPORT", Is: Yes Sport 3 FHD
-http://s.showplustv.pro:80/mustafaali909/8744367/68080
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="S SPORT", Is: Yes Sport 4 FHD
-http://s.showplustv.pro:80/mustafaali909/8744367/68079
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="S SPORT", Is: Yes Sport 5 HD
-http://s.showplustv.pro:80/mustafaali909/8744367/68078
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="S SPORT", Is: Yes Sport 5 Live HD
-http://s.showplustv.pro:80/mustafaali909/8744367/68077
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="S SPORT", Is: Yes Sport 5 Plus
-http://s.showplustv.pro:80/mustafaali909/8744367/68076
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="S SPORT", Is: Yes Sport 5 Stars HD
-http://s.showplustv.pro:80/mustafaali909/8744367/68075
 
 
-
-
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/508692b4bb39baaa5fc257367b5d799e.png" group-title="RMC SPORT", ||FR|| RMC SPORT 1 HD
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/508692b4bb39baaa5fc257367b5d799e.png" group-title="RMC SPORT", RMC SPORT 1 HD
 http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/92
 
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/23bf89ddfb161b3421e73c78b16d2145.png" group-title="RMC SPORT", ||FR|| RMC SPORT 2 HD
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/23bf89ddfb161b3421e73c78b16d2145.png" group-title="RMC SPORT", RMC SPORT 2 HD
 http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/93
 
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/0d1c01fd13c353330ad9a25c1484db80.png" group-title="RMC SPORT", ||FR|| RMC SPORT 3 HD
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/0d1c01fd13c353330ad9a25c1484db80.png" group-title="RMC SPORT", RMC SPORT 3 HD
 http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/94
 
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/c0ba8f5d77423a254a5f6c8e3b8c0c45.png" group-title="RMC SPORT", ||FR|| RMC SPORT 4 HD
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/c0ba8f5d77423a254a5f6c8e3b8c0c45.png" group-title="RMC SPORT", RMC SPORT 4 HD
 http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/95
 
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/e6d0b47b757e61f99c72576c5d86c465.png" group-title="RMC SPORT", ||FR|| RMC SPORT LIVE 5 HD
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/e6d0b47b757e61f99c72576c5d86c465.png" group-title="RMC SPORT", RMC SPORT LIVE 5 HD
 http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/482
 
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/869ae135e38dd15dbf5fc0119c4a1a96.png" group-title="RMC SPORT", ||FR|| RMC SPORT LIVE 6 HD
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/869ae135e38dd15dbf5fc0119c4a1a96.png" group-title="RMC SPORT", RMC SPORT LIVE 6 HD
 
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/23bf89ddfb161b3421e73c78b16d2145.png" group-title="RMC SPORT", ||FR|| RMC SPORT 2 FHD
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/23bf89ddfb161b3421e73c78b16d2145.png" group-title="RMC SPORT", RMC SPORT 2 FHD
 http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/1091
 
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/0d1c01fd13c353330ad9a25c1484db80.png" group-title="RMC SPORT", ||FR|| RMC SPORT 3 FHD
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/0d1c01fd13c353330ad9a25c1484db80.png" group-title="RMC SPORT", RMC SPORT 3 FHD
 http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/1092
 
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/c0ba8f5d77423a254a5f6c8e3b8c0c45.png" group-title="RMC SPORT", ||FR|| RMC SPORT 4 FHD
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/c0ba8f5d77423a254a5f6c8e3b8c0c45.png" group-title="RMC SPORT", RMC SPORT 4 FHD
 http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/1093
 
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/e6d0b47b757e61f99c72576c5d86c465.png" group-title="RMC SPORT", ||FR|| RMC SPORT 5 FHD
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/e6d0b47b757e61f99c72576c5d86c465.png" group-title="RMC SPORT", RMC SPORT 5 FHD
 http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/1094
 
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/869ae135e38dd15dbf5fc0119c4a1a96.png" group-title="RMC SPORT", ||FR|| RMC NEWS SPORT FHD
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/869ae135e38dd15dbf5fc0119c4a1a96.png" group-title="RMC SPORT", RMC NEWS SPORT FHD
 http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/1986
 
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/625897a32beb61135c431c6da534f1fe.png" group-title="RMC SPORT", ||FR|| RMC STORY FHD+
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/625897a32beb61135c431c6da534f1fe.png" group-title="RMC SPORT", RMC STORY FHD+
 http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/11028
 
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/2bbf7fb2d2d7ba71f71229f8454c3b6b.png" group-title="RMC SPORT", ||FR|| RMC DECOUVERTE FHD+
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/2bbf7fb2d2d7ba71f71229f8454c3b6b.png" group-title="RMC SPORT", RMC DECOUVERTE FHD+
 http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/11029
 
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/625897a32beb61135c431c6da534f1fe.png" group-title="RMC SPORT", ||FR|| RMC STORY HD
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/625897a32beb61135c431c6da534f1fe.png" group-title="RMC SPORT", RMC STORY HD
 http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/61
 
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/2bbf7fb2d2d7ba71f71229f8454c3b6b.png" group-title="RMC SPORT", ||FR|| RMC DECOUVERTE HD
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/2bbf7fb2d2d7ba71f71229f8454c3b6b.png" group-title="RMC SPORT", RMC DECOUVERTE HD
 http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/83
 
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/869ae135e38dd15dbf5fc0119c4a1a96.png" group-title="RMC SPORT", ||FR|| RMC SPORT NEWS HD
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/869ae135e38dd15dbf5fc0119c4a1a96.png" group-title="RMC SPORT", RMC SPORT NEWS HD
 http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/91
 
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/625897a32beb61135c431c6da534f1fe.png" group-title="RMC SPORT", ||FR|| RMC STORY FHD
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/625897a32beb61135c431c6da534f1fe.png" group-title="RMC SPORT", RMC STORY FHD
 http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/418
 
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/2bbf7fb2d2d7ba71f71229f8454c3b6b.png" group-title="RMC SPORT", ||FR|| RMC DECOUVERTE FHD
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/2bbf7fb2d2d7ba71f71229f8454c3b6b.png" group-title="RMC SPORT", RMC DECOUVERTE FHD
 http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/431
 
 
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/aa90afdf229de2f0257dd0fae2cb8f38.png" group-title="MOVISTAR GRUP", ||ES|| M+ LALIGA FHD
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/aa90afdf229de2f0257dd0fae2cb8f38.png" group-title="MOVISTAR GRUP", M+ LALIGA FHD
 http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/1924
 
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/f6aba6fff30a9d28c83ea33605a7451c.png" group-title="MOVISTAR GRUP", ||ES|| MOVISTAR ACCION FHD
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/f6aba6fff30a9d28c83ea33605a7451c.png" group-title="MOVISTAR GRUP", MOVISTAR ACCION FHD
 http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/1925
 
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/239e96821f4b96fd967cc09e81df9055.png" group-title="MOVISTAR GRUP", ||ES|| MOVISTAR CINEDOC&ROLL FHD
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/239e96821f4b96fd967cc09e81df9055.png" group-title="MOVISTAR GRUP", MOVISTAR CINEDOC&ROLL FHD
 http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/1926
 
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/a51408c106b854002cbe634c851738e3.png" group-title="MOVISTAR GRUP", ||ES|| MOVISTAR COMEDIA FHD
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/a51408c106b854002cbe634c851738e3.png" group-title="MOVISTAR GRUP", MOVISTAR COMEDIA FHD
 http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/1927
 
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/bd96d2c2f74f7dc60bdc5404703a83f5.png" group-title="MOVISTAR GRUP", ||ES|| MOVISTAR DEPORTES FHD
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/bd96d2c2f74f7dc60bdc5404703a83f5.png" group-title="MOVISTAR GRUP", MOVISTAR DEPORTES FHD
 http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/1928
 
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/630ddb1ff05322a4b02b74ccf22f816e.png" group-title="MOVISTAR GRUP", ||ES|| MOVISTAR DRAMA FHD
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/630ddb1ff05322a4b02b74ccf22f816e.png" group-title="MOVISTAR GRUP", MOVISTAR DRAMA FHD
 http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/1929
 
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/3c2cb700b87231ae33e6d2f1f2548d82.png" group-title="MOVISTAR GRUP", ||ES|| MOVISTAR ESTRENOS FHD
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/3c2cb700b87231ae33e6d2f1f2548d82.png" group-title="MOVISTAR GRUP", MOVISTAR ESTRENOS FHD
 http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/1930
 
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/7ccc72037477a18bc857a423caa99782.png" group-title="MOVISTAR GRUP", ||ES|| MOVISTAR FORMULA 1 FHD
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/7ccc72037477a18bc857a423caa99782.png" group-title="MOVISTAR GRUP", MOVISTAR FORMULA 1 FHD
 http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/1931
 
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/6d6ca5aab7ca4523edf5dad3584b99b8.png" group-title="MOVISTAR GRUP", ||ES|| MOVISTAR GOLF FHD
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/6d6ca5aab7ca4523edf5dad3584b99b8.png" group-title="MOVISTAR GRUP", MOVISTAR GOLF FHD
 http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/1932
 
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/23bff39caa6c38314464ef754ca4a5e2.png" group-title="MOVISTAR GRUP", ||ES|| MOVISTAR LIGA DE CAMPEONES FHD
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/23bff39caa6c38314464ef754ca4a5e2.png" group-title="MOVISTAR GRUP", MOVISTAR LIGA DE CAMPEONES FHD
 http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/1933
 
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/fa93244c9bffb41d922f5943147959e0.png" group-title="MOVISTAR GRUP", ||ES|| MOVISTAR SERIES FHD
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/fa93244c9bffb41d922f5943147959e0.png" group-title="MOVISTAR GRUP", MOVISTAR SERIES FHD
 http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/1934
 
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/9ab18b0fd3d1628fff091e5d8a595b87.png" group-title="MOVISTAR GRUP", ||ES|| MOVISTAR SERIESMANIA FHD
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/9ab18b0fd3d1628fff091e5d8a595b87.png" group-title="MOVISTAR GRUP", MOVISTAR SERIESMANIA FHD
 http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/1935
 
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/72e8b408ad016bbbcad039f9684e96fd.png" group-title="MOVISTAR GRUP", ||ES|| MOVISTAR DCINE FHD
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/72e8b408ad016bbbcad039f9684e96fd.png" group-title="MOVISTAR GRUP", MOVISTAR DCINE FHD
 http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/3610
 
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/63a6b4b6fef92487702fd6ea9c40b442.png" group-title="MOVISTAR GRUP", ||ES|| MOVISTAR VAMOS FHD
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/63a6b4b6fef92487702fd6ea9c40b442.png" group-title="MOVISTAR GRUP",MOVISTAR VAMOS FHD
 http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/3619
 
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/d866c3d532c52f34a886aeeed76407e3.png" group-title="MOVISTAR GRUP", ||ES|| MOVISTAR XTRA FHD
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/d866c3d532c52f34a886aeeed76407e3.png" group-title="MOVISTAR GRUP", MOVISTAR XTRA FHD
 http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/3620
 
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/3d22a1382bf25a4a1219e8d36d4a5ada.png" group-title="MOVISTAR GRUP", ||ES|| LIGA123 FHD
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/3d22a1382bf25a4a1219e8d36d4a5ada.png" group-title="MOVISTAR GRUP", LIGA123 FHD
 http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/5353
 
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/3c2cb700b87231ae33e6d2f1f2548d82.png" group-title="MOVISTAR GRUP", ||ES|| MOVISTAR  ESTRENOS HD
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/3c2cb700b87231ae33e6d2f1f2548d82.png" group-title="MOVISTAR GRUP", MOVISTAR  ESTRENOS HD
 http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/1526
 
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/f6aba6fff30a9d28c83ea33605a7451c.png" group-title="MOVISTAR GRUP", ||ES|| MOVISTAR ACCION HD
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/f6aba6fff30a9d28c83ea33605a7451c.png" group-title="MOVISTAR GRUP", MOVISTAR ACCION HD
 http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/3561
 
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/72e8b408ad016bbbcad039f9684e96fd.png" group-title="MOVISTAR GRUP", ||ES|| MOVISTAR DCINE HD
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/72e8b408ad016bbbcad039f9684e96fd.png" group-title="MOVISTAR GRUP", MOVISTAR DCINE HD
 http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/3563
 
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/d866c3d532c52f34a886aeeed76407e3.png" group-title="MOVISTAR GRUP", ||ES|| MOVISTAR XTRA HD
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/d866c3d532c52f34a886aeeed76407e3.png" group-title="MOVISTAR GRUP", MOVISTAR XTRA HD
 http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/3564
 
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/9d0ee2e69f50e432625efb6097b3df7e.png" group-title="MOVISTAR GRUP", ||ES|| MOVISTAR ALQUILER 1 HD
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/9d0ee2e69f50e432625efb6097b3df7e.png" group-title="MOVISTAR GRUP", MOVISTAR ALQUILER 1 HD
 http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/3599
 
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/9d0ee2e69f50e432625efb6097b3df7e.png" group-title="MOVISTAR GRUP", ||ES|| MOVISTAR ALQUILER 2 HD
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/9d0ee2e69f50e432625efb6097b3df7e.png" group-title="MOVISTAR GRUP", MOVISTAR ALQUILER 2 HD
 http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/3600
 
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/9d0ee2e69f50e432625efb6097b3df7e.png" group-title="MOVISTAR GRUP", ||ES|| MOVISTAR ALQUILER 3 HD
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/9d0ee2e69f50e432625efb6097b3df7e.png" group-title="MOVISTAR GRUP", MOVISTAR ALQUILER 3 HD
 http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/3601
 
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/9d0ee2e69f50e432625efb6097b3df7e.png" group-title="MOVISTAR GRUP", ||ES|| MOVISTAR ALQUILER 4 HD
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/9d0ee2e69f50e432625efb6097b3df7e.png" group-title="MOVISTAR GRUP", MOVISTAR ALQUILER 4 HD
 http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/3602
 
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/9d0ee2e69f50e432625efb6097b3df7e.png" group-title="MOVISTAR GRUP", ||ES|| MOVISTAR ALQUILER 5 HD
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/9d0ee2e69f50e432625efb6097b3df7e.png" group-title="MOVISTAR GRUP", MOVISTAR ALQUILER 5 HD
 http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/3603
 
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/9d0ee2e69f50e432625efb6097b3df7e.png" group-title="MOVISTAR GRUP", ||ES|| MOVISTAR ALQUILER 6 HD
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/9d0ee2e69f50e432625efb6097b3df7e.png" group-title="MOVISTAR GRUP", MOVISTAR ALQUILER 6 HD
 http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/3604
 
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/9d0ee2e69f50e432625efb6097b3df7e.png" group-title="MOVISTAR GRUP", ||ES|| MOVISTAR ALQUILER 7 HD
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/9d0ee2e69f50e432625efb6097b3df7e.png" group-title="MOVISTAR GRUP", MOVISTAR ALQUILER 7 HD
 http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/3605
 
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/9d0ee2e69f50e432625efb6097b3df7e.png" group-title="MOVISTAR GRUP", ||ES|| MOVISTAR ALQUILER 8 HD
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/9d0ee2e69f50e432625efb6097b3df7e.png" group-title="MOVISTAR GRUP", MOVISTAR ALQUILER 8 HD
 http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/3606
 
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/9d0ee2e69f50e432625efb6097b3df7e.png" group-title="MOVISTAR GRUP", ||ES|| MOVISTAR ALQUILER 9 HD
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/9d0ee2e69f50e432625efb6097b3df7e.png" group-title="MOVISTAR GRUP", MOVISTAR ALQUILER 9 HD
 http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/3607
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/MovistarCine%C3%91.png" group-title="MOVISTAR GRUP", ||ES|| MOVISTAR CINE N HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/MovistarCine%C3%91.png" group-title="MOVISTAR GRUP", MOVISTAR CINE N HD
 http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/3608
 
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/239e96821f4b96fd967cc09e81df9055.png" group-title="MOVISTAR GRUP", ||ES|| MOVISTAR CINEDOC&ROLL HD
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/239e96821f4b96fd967cc09e81df9055.png" group-title="MOVISTAR GRUP", MOVISTAR CINEDOC&ROLL HD
 http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/3609
 
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/630ddb1ff05322a4b02b74ccf22f816e.png" group-title="MOVISTAR GRUP", ||ES|| MOVISTAR DRAMA HD
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/630ddb1ff05322a4b02b74ccf22f816e.png" group-title="MOVISTAR GRUP", MOVISTAR DRAMA HD
 http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/3611
 
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/3bc7bd0c0d7c674814b95854fe822497.png" group-title="MOVISTAR GRUP", ||ES|| MOVISTAR F1 HD
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/3bc7bd0c0d7c674814b95854fe822497.png" group-title="MOVISTAR GRUP", MOVISTAR F1 HD
 http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/3612
 
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/3a60d4659a9c5cc1d91adeaac161931b.png" group-title="MOVISTAR GRUP", ||ES|| MOVISTAR FUTBOL HD
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/3a60d4659a9c5cc1d91adeaac161931b.png" group-title="MOVISTAR GRUP", MOVISTAR FUTBOL HD
 http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/3613
 
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/6d6ca5aab7ca4523edf5dad3584b99b8.png" group-title="MOVISTAR GRUP", ||ES|| MOVISTAR GOLF HD
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/6d6ca5aab7ca4523edf5dad3584b99b8.png" group-title="MOVISTAR GRUP", MOVISTAR GOLF HD
 http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/3614
 
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/7ccc72037477a18bc857a423caa99782.png" group-title="MOVISTAR GRUP", ||ES|| MOVISTAR LIGA CAMPEONES HD
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/7ccc72037477a18bc857a423caa99782.png" group-title="MOVISTAR GRUP", MOVISTAR LIGA CAMPEONES HD
 http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/3615
 
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/b696dcc26d730cf2087f3b2bdd50021d.png" group-title="MOVISTAR GRUP", ||ES|| MOVISTAR MOTO GP HD
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/b696dcc26d730cf2087f3b2bdd50021d.png" group-title="MOVISTAR GRUP", MOVISTAR MOTO GP HD
 http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/3616
 
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/b73d774dc28822a76de3d5575237cb7e.png" group-title="MOVISTAR GRUP", ||ES|| MOVISTAR SERIES HD
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/b73d774dc28822a76de3d5575237cb7e.png" group-title="MOVISTAR GRUP", MOVISTAR SERIES HD
 http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/3617
 
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/9ab18b0fd3d1628fff091e5d8a595b87.png" group-title="MOVISTAR GRUP", ||ES|| MOVISTAR SERIESMANIA HD
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/9ab18b0fd3d1628fff091e5d8a595b87.png" group-title="MOVISTAR GRUP", MOVISTAR SERIESMANIA HD
 http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/3618
 
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/e2b44c8908559da092950702153566ee.png" group-title="MOVISTAR GRUP", ||ES|| MOVISTAR DISNEY HD
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/e2b44c8908559da092950702153566ee.png" group-title="MOVISTAR GRUP", MOVISTAR DISNEY HD
 http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/5356
 
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/3a579d1722d7aa667a7e0497b53547ab.png" group-title="MOVISTAR GRUP", ||ES|| M. DEPORTE 1 HD
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/3a579d1722d7aa667a7e0497b53547ab.png" group-title="MOVISTAR GRUP", M. DEPORTE 1 HD
 http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/6947
 
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/23bff39caa6c38314464ef754ca4a5e2.png" group-title="MOVISTAR GRUP", ||ES|| LIGA DE CAMPEONES 2 HD
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/23bff39caa6c38314464ef754ca4a5e2.png" group-title="MOVISTAR GRUP", LIGA DE CAMPEONES 2 HD
 http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/6953
 
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/23bff39caa6c38314464ef754ca4a5e2.png" group-title="MOVISTAR GRUP", ||ES|| LIGA DE CAMPEONES 1 HD
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/23bff39caa6c38314464ef754ca4a5e2.png" group-title="MOVISTAR GRUP", LIGA DE CAMPEONES 1 HD
 http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/6960
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Movistar_Series_Xtra.svg/1200px-Movistar_Series_Xtra.svg.png" group-title="MOVISTAR GRUP", ||ES|| CINE+ SERIES XTRA
@@ -16563,8 +16508,6 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=91017&extensi
 
 #EXTINF:-1 tvg-logo="-------" group-title="FIGHT SPORT", PRIMIER FIGHT
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1121749&extension=ts&play_token=zIhRRcBhiR
-
-
 
 
 
