@@ -18636,6 +18636,12 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=45324&extensi
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CLUB FOOTBALL", BAYER FC
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=411413&extension=ts&play_token=1U3jpWdf0t
 
+#EXTINF:-1 tvg-logo="______" group-title="SPORT TV PR", SPORTING TV
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=107430&extension=ts&play_token=l3FEluZCt1
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT TV PR", BTV BENFICA
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=983567&extension=ts&play_token=KIl56CmfeQ
+
 #EXTINF:-1 tvg-logo="______" group-title="CLUB FOOTBALL", REAL MADRID TV
 http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=55543_&extension=ts
 
@@ -18657,19 +18663,6 @@ http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=222558_&exten
 #EXTINF:-1 tvg-logo="-------" group-title="TRING SPORT", TRING SPORT 4
 http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=222556_&extension=ts
 
-
-
-#EXTINF:-1 tvg-logo="-------" group-title="ELEVEN SPORT", ELEVEN SPORT 1 PL
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=97264_&extension=ts
-
-#EXTINF:-1 tvg-logo="-------" group-title="ELEVEN SPORT", ELEVEN SPORT 2 PL
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=97265_&extension=ts
-
-#EXTINF:-1 tvg-logo="-------" group-title="ELEVEN SPORT", ELEVEN SPORT 3 PL
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=97266_&extension=ts
-
-#EXTINF:-1 tvg-logo="-------" group-title="ELEVEN SPORT", ELEVEN SPORT 4 PL
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=97267_&extension=ts
 
 #EXTINF:-1 tvg-logo="-------" group-title="ELEVEN SPORT", ELEVEN SPORT 1
 http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=992_&extension=ts
@@ -18718,6 +18711,44 @@ http://humiptv.live:8080/live/tarun589853/5787489bcsh/170907.ts
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ELEVEN SPORT", PL | Eleven Sports 3 HD
 http://humiptv.live:8080/live/tarun589853/5787489bcsh/170908.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ELEVEN SPORT", Eleven Sports 1 FHD PL
+http://ipflix.click:80/tzt2ehk7od/p3cwfpdkkg/524331
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ELEVEN SPORT", Eleven Sports 2 FHD PL
+http://ipflix.click:80/tzt2ehk7od/p3cwfpdkkg/99803
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ELEVEN SPORT", Eleven Sports 3 FHD PL
+http://ipflix.click:80/tzt2ehk7od/p3cwfpdkkg/99930
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ELEVEN SPORT", Eleven Sports 4 HD PL
+http://ipflix.click:80/tzt2ehk7od/p3cwfpdkkg/167186
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ELEVEN SPORT", Eleven Sports 1 FHD PL
+http://ipflix.click:80/chris17493/dahl10163/524331
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ELEVEN SPORT", Eleven Sports 2 FHD PL
+http://ipflix.click:80/chris17493/dahl10163/99803
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ELEVEN SPORT", Eleven Sports 3 FHD PL
+http://ipflix.click:80/chris17493/dahl10163/99930
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ELEVEN SPORT", Eleven Sports 4 HD PL
+http://ipflix.click:80/chris17493/dahl10163/167186
+
+#EXTINF:-1 tvg-logo="-------" group-title="ELEVEN SPORT", ELEVEN SPORT 1 PL
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=97264_&extension=ts
+
+#EXTINF:-1 tvg-logo="-------" group-title="ELEVEN SPORT", ELEVEN SPORT 2 PL
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=97265_&extension=ts
+
+#EXTINF:-1 tvg-logo="-------" group-title="ELEVEN SPORT", ELEVEN SPORT 3 PL
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=97266_&extension=ts
+
+#EXTINF:-1 tvg-logo="-------" group-title="ELEVEN SPORT", ELEVEN SPORT 4 PL
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=97267_&extension=ts
+
+
 
 
 
@@ -18928,11 +18959,6 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=107522&extens
 #EXTINF:-1 tvg-logo="______" group-title="SPORT TV PR", MOTORVISION
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=107468&extension=ts&play_token=GgCLNN0iWq
 
-#EXTINF:-1 tvg-logo="______" group-title="SPORT TV PR", SPORTING TV
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=107430&extension=ts&play_token=l3FEluZCt1
-
-#EXTINF:-1 tvg-logo="______" group-title="SPORT TV PR", BTV BENFICA
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=983567&extension=ts&play_token=KIl56CmfeQ
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTV BR", SPORTV FHD
@@ -18941,14 +18967,11 @@ http://joao-1-us.mainbkonline.shop:80/368658477088/530145744781/776
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTV BR", SPORTV HD
 http://joao-1-us.mainbkonline.shop:80/368658477088/530145744781/73
 
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTV BR", SPORTV SD
 http://joao-1-us.mainbkonline.shop:80/368658477088/530145744781/544
 
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTV BR", SPORTV 2 FHD
 http://joao-1-us.mainbkonline.shop:80/368658477088/530145744781/777
-
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTV BR", SPORTV 2 HD
 http://joao-1-us.mainbkonline.shop:80/368658477088/530145744781/71
@@ -18958,7 +18981,6 @@ http://joao-1-us.mainbkonline.shop:80/368658477088/530145744781/545
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTV BR", SPORTV 3 FHD
 http://joao-1-us.mainbkonline.shop:80/368658477088/530145744781/778
-
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTV BR", SPORTV 3 HD
 http://joao-1-us.mainbkonline.shop:80/368658477088/530145744781/72
