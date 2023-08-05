@@ -814,14 +814,8 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298514
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0" group-title="INDONE_SIA 1", ID: Champion TV 5
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298491
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0" group-title="INDONE_SIA 1", ID: Champion TV 5 (2)
-https://production-drm-vidio-com-ctv-5.akamaized.net/out/v1/6b83fda0adee41598d5e1a7097ddb8b5/index.mpd
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0" group-title="INDONE_SIA 1", ID: Champion TV 6
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298492
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0" group-title="INDONE_SIA 1", ID: Champion TV 6 (2)
-https://prod-drm-vidio-com-ctv-6.akamaized.net/out/v1/8ecc1b702b4a4871b51304a9cb82d561/index.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0" group-title="INDONE_SIA 1", ID: Channel News Asia
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/157602
@@ -1411,6 +1405,12 @@ http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298513
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/676a8a5e1a9ddc807d4c646db2863591.png" group-title="INDONE_SIA 2", ID: Champion TV 3
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298514
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0" group-title="INDONE_SIA 1", ID: Champion TV 5
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298491
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0" group-title="INDONE_SIA 1", ID: Champion TV 6
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298492
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ef1ee75b73bdfcb0056cd605e00a2bca.png" group-title="INDONE_SIA 2", ID: Channel News Asia
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157602
