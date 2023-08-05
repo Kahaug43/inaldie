@@ -18671,7 +18671,6 @@ http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=97266_&extens
 #EXTINF:-1 tvg-logo="-------" group-title="ELEVEN SPORT", ELEVEN SPORT 4 PL
 http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=97267_&extension=ts
 
-
 #EXTINF:-1 tvg-logo="-------" group-title="ELEVEN SPORT", ELEVEN SPORT 1
 http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=992_&extension=ts
 
@@ -18695,6 +18694,30 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63304_&extens
 
 #EXTINF:-1 tvg-logo="-------" group-title="ELEVEN SPORT", ELEVEN SPORT 6
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63305_&extension=ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ELEVEN SPORT", PT: ELEVEN SPORT 1 HD
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/327.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ELEVEN SPORT", PT : ELEVEN SPORTS 2
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/1645.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ELEVEN SPORT", PT: ELEVEN SPORT 3 HD
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/329.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ELEVEN SPORT", PL | ELEVEN SPORTS 4 HD
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/170904.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ELEVEN SPORT", PL | Eleven Sports 1 4K
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/170905.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ELEVEN SPORT", PL | Eleven Sports 1 HD
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/170906.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ELEVEN SPORT", PL | Eleven Sports 2 HD
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/170907.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ELEVEN SPORT", PL | Eleven Sports 3 HD
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/170908.ts
 
 
 
