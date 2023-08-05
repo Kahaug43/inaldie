@@ -10907,24 +10907,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-H
 https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
 
-#EXTINF:-1 tvg-logo="______" group-title="ASTRO SPORT", SUPERSPORT ASTRO 1
-http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=1111034&extension=ts&play_token=esfxeh07ym
-
-#EXTINF:-1 tvg-logo="______" group-title="ASTRO SPORT", SUPERSPORT ASTRO 2
-http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=1111033&extension=ts&play_token=KGvJ3i1BR7
-
-#EXTINF:-1 tvg-logo="______" group-title="ASTRO SPORT", SUPERSPORT ASTRO 3
-http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=1111032&extension=ts&play_token=OmJQqAG3Pj
-
-#EXTINF:-1 tvg-logo="______" group-title="ASTRO SPORT", SUPERSPORT ASTRO 4
-http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=1111031&extension=ts&play_token=AE2WEVlm4N
-
-#EXTINF:-1 tvg-logo="______" group-title="ASTRO SPORT", SUPERSPORT ASTRO CRICKET
-http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=315181&extension=ts&play_token=ZaZSOZaSME
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MT4FX66Y/CDF-PREMIUM.jpg" group-title="LATIN SPORT", TNT Sports 2
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/1
@@ -16557,12 +16539,11 @@ http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=1111032&e
 #EXTINF:-1 tvg-logo="______" group-title="ASTRO SPORT", SUPERSPORT ASTRO 4
 http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=1111031&extension=ts&play_token=AE2WEVlm4N
 
-#EXTINF:-1 tvg-logo="-------" group-title="ASTRO SPORT", ASTRO SUPERSPORT  5
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=918982&extension=ts&play_token=E0fCypo3yb
-
 #EXTINF:-1 tvg-logo="______" group-title="ASTRO SPORT", SUPERSPORT ASTRO CRICKET
 http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=315181&extension=ts&play_token=ZaZSOZaSME
 
+#EXTINF:-1 tvg-logo="-------" group-title="ASTRO SPORT", ASTRO SUPERSPORT  5
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=918982&extension=ts&play_token=E0fCypo3yb
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO SPORT", ASTRO SUPERSPORT  1
 http://humiptv.live:8080/live/tarun589853/5787489bcsh/143036.ts
@@ -16581,6 +16562,8 @@ http://humiptv.live:8080/live/tarun589853/5787489bcsh/143045.ts
 
 #EXTINF:-1 tvg-logo="-------" group-title="ASTRO SPORT", ASTRO CRICKET
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=1036490&extension=ts&play_token=d8mSEgcvlM
+
+
 
 
 #EXTINF:-1 tvg-logo="______" group-title="CANAL+", CANAL+ MOTOGP
