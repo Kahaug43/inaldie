@@ -3433,44 +3433,322 @@ http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/13121
 
 
 
-#EXTINF:-1 tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-SPORTFHD/BEIN1FRFHD.png" group-title="BEIN Sport & Entertainment"", |FR| BEIN SPORTS 1 FHD
+#EXTINF:-1 tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-SPORTFHD/BEIN1FRFHD.png" group-title="BEIN Sport & Entertainment", |FR| BEIN SPORTS 1 FHD
 http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/170
 
-#EXTINF:-1 tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-SPORTFHD/BEIN2FRFHD.png" group-title="BEIN Sport & Entertainment"", |FR| BEIN SPORTS 2 FHD
+#EXTINF:-1 tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-SPORTFHD/BEIN2FRFHD.png" group-title="BEIN Sport & Entertainment", |FR| BEIN SPORTS 2 FHD
 http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/171
 
-#EXTINF:-1 tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-SPORTFHD/BEIN3FRFHD.png" group-title="BEIN Sport & Entertainment"", |FR| BEIN SPORTS 3 FHD
+#EXTINF:-1 tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-SPORTFHD/BEIN3FRFHD.png" group-title="BEIN Sport & Entertainment", |FR| BEIN SPORTS 3 FHD
 http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/172
 
-#EXTINF:-1 tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-SPORTHD/BEIN1FRHD.png" group-title="BEIN Sport & Entertainment"", |FR| BeIN Sports 1
+#EXTINF:-1 tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-SPORTHD/BEIN1FRHD.png" group-title="BEIN Sport & Entertainment", |FR| BeIN Sports 1
 http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/173
 
-#EXTINF:-1 tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-SPORTHD/BEINFR2HD.png" group-title="BEIN Sport & Entertainment"", |FR| BeIN Sports 2
+#EXTINF:-1 tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-SPORTHD/BEINFR2HD.png" group-title="BEIN Sport & Entertainment", |FR| BeIN Sports 2
 http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/174
 
-#EXTINF:-1 tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-SPORTHD/BEINFR3HD.png" group-title="BEIN Sport & Entertainment"", |FR| BeIN Sports 3
+#EXTINF:-1 tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-SPORTHD/BEINFR3HD.png" group-title="BEIN Sport & Entertainment", |FR| BeIN Sports 3
 http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/175
 
-#EXTINF:-1 tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-SPORTHD/BEINMAX4HD.png" group-title="BEIN Sport & Entertainment"", |FR| BeIN Sports MAX 4
+#EXTINF:-1 tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-SPORTHD/BEINMAX4HD.png" group-title="BEIN Sport & Entertainment", |FR| BeIN Sports MAX 4
 http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/176
 
-#EXTINF:-1 tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-SPORTHD/BEINMAX5HD.png" group-title="BEIN Sport & Entertainment"", |FR| BeIN Sports MAX 5
+#EXTINF:-1 tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-SPORTHD/BEINMAX5HD.png" group-title="BEIN Sport & Entertainment", |FR| BeIN Sports MAX 5
 http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/177
 
-#EXTINF:-1 tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-SPORTHD/BEINMAX6HD.png" group-title="BEIN Sport & Entertainment"", |FR| BeIN Sports MAX 6
+#EXTINF:-1 tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-SPORTHD/BEINMAX6HD.png" group-title="BEIN Sport & Entertainment", |FR| BeIN Sports MAX 6
 http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/178
 
-#EXTINF:-1 tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-SPORTHD/BEINMAX7HD.png" group-title="BEIN Sport & Entertainment"", |FR| BeIN Sports MAX 7
+#EXTINF:-1 tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-SPORTHD/BEINMAX7HD.png" group-title="BEIN Sport & Entertainment", |FR| BeIN Sports MAX 7
 http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/179
 
-#EXTINF:-1 tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-SPORTHD/BEINMAX8HD.png" group-title="BEIN Sport & Entertainment"", |FR| BeIN Sports MAX 8
+#EXTINF:-1 tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-SPORTHD/BEINMAX8HD.png" group-title="BEIN Sport & Entertainment", |FR| BeIN Sports MAX 8
 http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/180
 
-#EXTINF:-1 tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-SPORTHD/BEINMAX9.png" group-title="BEIN Sport & Entertainment"", |FR| BeIN Sports MAX 9
+#EXTINF:-1 tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-SPORTHD/BEINMAX9.png" group-title="BEIN Sport & Entertainment", |FR| BeIN Sports MAX 9
 http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/181
 
-#EXTINF:-1 tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-SPORTHD/BEINMAX10HD.png" group-title="BEIN Sport & Entertainment"", |FR| BeIN Sports MAX 10
+#EXTINF:-1 tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-SPORTHD/BEINMAX10HD.png" group-title="BEIN Sport & Entertainment", |FR| BeIN Sports MAX 10
 http://s1.pubnow.info:8080/Achraf-charaf/G8PMwKY3JqcR/182
+
+
+
+#EXTINF:-1 tvg-logo="http://octagon-4k.live:2095/images/5c4e33780da157d88be99c46038144b7.png" group-title="BEIN SPORT & ENTERTAIMEN 2", BEIN SPORTS PREMIUM 1 4K
+http://en-gma.com:2095/45043710716724/1680722643/250070
+
+#EXTINF:-1 tvg-logo="http://octagon-4k.live:2095/images/3b6da1256e2b1ea79edaa3d7b3bff6ca.png" group-title="BEIN SPORT & ENTERTAIMEN 2", BEIN SPORTS PREMIUM 2 4K
+http://en-gma.com:2095/45043710716724/1680722643/250071
+
+#EXTINF:-1 tvg-logo="http://octagon-4k.live:2095/images/f171be55c3322e8370132267c6817b17.png" group-title="BEIN SPORT & ENTERTAIMEN 2", BEIN SPORTS PREMIUM 3 4K
+http://en-gma.com:2095/45043710716724/1680722643/250072
+
+#EXTINF:-1 tvg-logo="http://octagon-4k.live:2095/images/47c575a215f19e74b607800702c8bcdc.png" group-title="BEIN SPORT & ENTERTAIMEN 2", BEIN SPORTS 1 4K
+http://en-gma.com:2095/45043710716724/1680722643/250073
+
+#EXTINF:-1 tvg-logo="http://octagon-4k.live:2095/images/a4cc78087f0d3e7eeaa1770f03301edf.png" group-title="BEIN SPORT & ENTERTAIMEN 2", BEIN SPORTS 2 4K
+http://en-gma.com:2095/45043710716724/1680722643/250074
+
+#EXTINF:-1 tvg-logo="http://octagon-4k.live:2095/images/fefadb57212a28ebc13aa90c7201cd15.png" group-title="BEIN SPORT & ENTERTAIMEN 2", BEIN SPORTS 3 4K
+http://en-gma.com:2095/45043710716724/1680722643/250075
+
+#EXTINF:-1 tvg-logo="http://octagon-4k.live:2095/images/21e169127f4132a2c3ec2aefb9b169aa.png" group-title="BEIN SPORT & ENTERTAIMEN 2", BEIN SPORTS 4 4K
+http://en-gma.com:2095/45043710716724/1680722643/250076
+
+#EXTINF:-1 tvg-logo="http://octagon-4k.live:2095/images/62008d0031761e98d5df36bb5c41d32b.png" group-title="BEIN SPORT & ENTERTAIMEN 2", BEIN SPORTS 6 4K
+http://en-gma.com:2095/45043710716724/1680722643/250077
+
+#EXTINF:-1 tvg-logo="http://octagon-4k.live:2095/images/db4e2133506d3214631369f8d3ddb894.png" group-title="BEIN SPORT & ENTERTAIMEN 2", BEIN SPORTS 7 4K
+http://en-gma.com:2095/45043710716724/1680722643/250078
+
+#EXTINF:-1 tvg-logo="http://octagon-4k.live:2095/images/849c7d260c9b67a8e3be438a747ad96d.png" group-title="BEIN SPORT & ENTERTAIMEN 2", BEIN XTRA 1 4K
+http://en-gma.com:2095/45043710716724/1680722643/250079
+
+#EXTINF:-1 tvg-logo="http://octagon-4k.live:2095/images/2603a1498504e947a4fccd44fc724213.png" group-title="BEIN SPORT & ENTERTAIMEN 2", BEIN XTRA 2 4K
+http://en-gma.com:2095/45043710716724/1680722643/250080
+
+#EXTINF:-1 tvg-logo="http://octagon-4k.live:2095/images/4f807613b70be2387e362a3c2bf974d1.png" group-title="BEIN SPORT & ENTERTAIMEN 2", beIN 4K HDR
+http://en-gma.com:2095/45043710716724/1680722643/250920
+
+#EXTINF:-1 tvg-logo="http://octagon-4k.live:2095/images/5c4e33780da157d88be99c46038144b7.png" group-title="BEIN SPORT & ENTERTAIMEN 2", BEIN SPORTS PREMIUM 1 SD
+http://en-gma.com:2095/45043710716724/1680722643/250053
+
+#EXTINF:-1 tvg-logo="http://octagon-4k.live:2095/images/3b6da1256e2b1ea79edaa3d7b3bff6ca.png" group-title="BEIN SPORT & ENTERTAIMEN 2", BEIN SPORTS PREMIUM 2 SD
+http://en-gma.com:2095/45043710716724/1680722643/250054
+
+#EXTINF:-1 tvg-logo="http://octagon-4k.live:2095/images/f171be55c3322e8370132267c6817b17.png" group-title="BEIN SPORT & ENTERTAIMEN 2", BEIN SPORTS PREMIUM 3 SD
+http://en-gma.com:2095/45043710716724/1680722643/250055
+
+#EXTINF:-1 tvg-logo="http://octagon-4k.live:2095/images/47c575a215f19e74b607800702c8bcdc.png" group-title="BEIN SPORT & ENTERTAIMEN 2", BEIN SPORTS 1 SD
+http://en-gma.com:2095/45043710716724/1680722643/250056
+
+#EXTINF:-1 tvg-logo="http://octagon-4k.live:2095/images/a4cc78087f0d3e7eeaa1770f03301edf.png" group-title="BEIN SPORT & ENTERTAIMEN 2", BEIN SPORTS 2 SD
+http://en-gma.com:2095/45043710716724/1680722643/250057
+
+#EXTINF:-1 tvg-logo="http://octagon-4k.live:2095/images/fefadb57212a28ebc13aa90c7201cd15.png" group-title="BEIN SPORT & ENTERTAIMEN 2", BEIN SPORTS 3 SD
+http://en-gma.com:2095/45043710716724/1680722643/250058
+
+#EXTINF:-1 tvg-logo="http://octagon-4k.live:2095/images/81d06e5ec8cb341c6fdc57f8595f7c1b.png" group-title="BEIN SPORT & ENTERTAIMEN 2", BEIN SPORTS 5 SD
+http://en-gma.com:2095/45043710716724/1680722643/250060
+
+#EXTINF:-1 tvg-logo="http://octagon-4k.live:2095/images/62008d0031761e98d5df36bb5c41d32b.png" group-title="BEIN SPORT & ENTERTAIMEN 2", BEIN SPORTS 6 SD
+http://en-gma.com:2095/45043710716724/1680722643/250061
+
+#EXTINF:-1 tvg-logo="http://octagon-4k.live:2095/images/db4e2133506d3214631369f8d3ddb894.png" group-title="BEIN SPORT & ENTERTAIMEN 2", BEIN SPORTS 7 SD
+http://en-gma.com:2095/45043710716724/1680722643/250062
+
+#EXTINF:-1 tvg-logo="http://octagon-4k.live:2095/images/849c7d260c9b67a8e3be438a747ad96d.png" group-title="BEIN SPORT & ENTERTAIMEN 2", BEIN XTRA 1 SD
+http://en-gma.com:2095/45043710716724/1680722643/250063
+
+#EXTINF:-1 tvg-logo="http://octagon-4k.live:2095/images/2603a1498504e947a4fccd44fc724213.png" group-title="BEIN SPORT & ENTERTAIMEN 2", BEIN XTRA 2 SD
+http://en-gma.com:2095/45043710716724/1680722643/250064
+
+#EXTINF:-1 tvg-logo="http://octagon-4k.live:2095/images/e021bdc1eba00e63447559e45588b223.png" group-title="BEIN SPORT & ENTERTAIMEN 2", BEIN SPORTS NEWS HD
+http://en-gma.com:2095/45043710716724/1680722643/250028
+
+#EXTINF:-1 tvg-logo="http://octagon-4k.live:2095/images/07023edf39b07778d1a34e3fc5ba25e0.png" group-title="BEIN SPORT & ENTERTAIMEN 2", BEIN GLOBAL HD
+http://en-gma.com:2095/45043710716724/1680722643/250029
+
+#EXTINF:-1 tvg-logo="http://octagon-4k.live:2095/images/5c4e33780da157d88be99c46038144b7.png" group-title="BEIN SPORT & ENTERTAIMEN 2", BEIN SPORTS PREMIUM 1 HD
+http://en-gma.com:2095/45043710716724/1680722643/250030
+
+#EXTINF:-1 tvg-logo="http://octagon-4k.live:2095/images/3b6da1256e2b1ea79edaa3d7b3bff6ca.png" group-title="BEIN SPORT & ENTERTAIMEN 2", BEIN SPORTS PREMIUM 2 HD
+http://en-gma.com:2095/45043710716724/1680722643/250031
+
+#EXTINF:-1 tvg-logo="http://octagon-4k.live:2095/images/f171be55c3322e8370132267c6817b17.png" group-title="BEIN SPORT & ENTERTAIMEN 2", BEIN SPORTS PREMIUM 3 HD
+http://en-gma.com:2095/45043710716724/1680722643/250032
+
+#EXTINF:-1 tvg-logo="http://octagon-4k.live:2095/images/47c575a215f19e74b607800702c8bcdc.png" group-title="BEIN SPORT & ENTERTAIMEN 2", BEIN SPORTS 1 HD
+http://en-gma.com:2095/45043710716724/1680722643/250033
+
+#EXTINF:-1 tvg-logo="http://octagon-4k.live:2095/images/a4cc78087f0d3e7eeaa1770f03301edf.png" group-title="BEIN SPORT & ENTERTAIMEN 2", BEIN SPORTS 2 HD
+http://en-gma.com:2095/45043710716724/1680722643/250521
+
+#EXTINF:-1 tvg-logo="http://en-gma.com:2095/images/fefadb57212a28ebc13aa90c7201cd15.png" group-title="BEIN SPORT & ENTERTAIMEN 2", BEIN SPORTS 3 HD
+http://en-gma.com:2095/45043710716724/1680722643/250034
+
+#EXTINF:-1 tvg-logo="http://octagon-4k.live:2095/images/81d06e5ec8cb341c6fdc57f8595f7c1b.png" group-title="BEIN SPORT & ENTERTAIMEN 2", BEIN SPORTS 5 HD
+http://en-gma.com:2095/45043710716724/1680722643/250036
+
+#EXTINF:-1 tvg-logo="http://octagon-4k.live:2095/images/62008d0031761e98d5df36bb5c41d32b.png" group-title="BEIN SPORT & ENTERTAIMEN 2", BEIN SPORTS 6 HD
+http://en-gma.com:2095/45043710716724/1680722643/250037
+
+#EXTINF:-1 tvg-logo="http://octagon-4k.live:2095/images/db4e2133506d3214631369f8d3ddb894.png" group-title="BEIN SPORT & ENTERTAIMEN 2", BEIN SPORTS 7 HD
+http://en-gma.com:2095/45043710716724/1680722643/250038
+
+#EXTINF:-1 tvg-logo="http://octagon-4k.live:2095/images/849c7d260c9b67a8e3be438a747ad96d.png" group-title="BEIN SPORT & ENTERTAIMEN 2", BEIN XTRA 1 HD
+http://en-gma.com:2095/45043710716724/1680722643/250039
+
+#EXTINF:-1 tvg-logo="http://octagon-4k.live:2095/images/2603a1498504e947a4fccd44fc724213.png" group-title="BEIN SPORT & ENTERTAIMEN 2", BEIN XTRA 2 HD
+http://en-gma.com:2095/45043710716724/1680722643/250040
+
+#EXTINF:-1 tvg-logo="http://octagon-4k.live:2095/images/1488918322c50685ca3d0705d7937755.png" group-title="BEIN SPORT & ENTERTAIMEN 2", BEIN SPORTS NBA HD
+http://en-gma.com:2095/45043710716724/1680722643/250041
+
+#EXTINF:-1 tvg-logo="http://octagon-4k.live:2095/images/6ad1ca9d0ff2466bb27df7a2b26ae9b4.png" group-title="BEIN SPORT & ENTERTAIMEN 2", BEIN SPORTS ENGLISH 1 HD
+http://en-gma.com:2095/45043710716724/1680722643/250047
+
+#EXTINF:-1 tvg-logo="http://octagon-4k.live:2095/images/1035733be5794519620d95fb3af64856.png" group-title="BEIN SPORT & ENTERTAIMEN 2", BEIN SPORTS ENGLISH 2 HD
+http://en-gma.com:2095/45043710716724/1680722643/250048
+
+#EXTINF:-1 tvg-logo="http://octagon-4k.live:2095/images/08d81c9bcbab4876b93dfb9d8ccf9f47.png" group-title="BEIN SPORT & ENTERTAIMEN 2", BEIN SPORTS ENGLISH 3 HD
+http://en-gma.com:2095/45043710716724/1680722643/250049
+
+#EXTINF:-1 tvg-logo="http://octagon-4k.live:2095/images/c6136fdb2a4936e8a2f2b286523a9c93.png" group-title="BEIN SPORT & ENTERTAIMEN 2", BEIN SPORTS FRENCH 1 HD
+http://en-gma.com:2095/45043710716724/1680722643/250050
+
+#EXTINF:-1 tvg-logo="http://octagon-4k.live:2095/images/6a2f73bb820cbb6c99c2f01ed4c7b376.png" group-title="BEIN SPORT & ENTERTAIMEN 2", BEIN SPORTS FRENCH 2 HD
+http://en-gma.com:2095/45043710716724/1680722643/250051
+
+#EXTINF:-1 tvg-logo="http://octagon-4k.live:2095/images/6541f3da0027499490d93591c2335b50.png" group-title="BEIN SPORT & ENTERTAIMEN 2", BEIN SPORTS FRENCH 3 HD
+http://en-gma.com:2095/45043710716724/1680722643/250052
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORT & ENTERTAIMEN 2", beIN SPORTS PREM 1HD
+http://en-gma.com:2095/45043710716724/1680722643/262542
+
+#EXTINF:-1 tvg-logo="http://octagon-4k.live:2095/images/21e169127f4132a2c3ec2aefb9b169aa.png" group-title="BEIN SPORT & ENTERTAIMEN 2", BEIN SPORTS 4 HD
+http://en-gma.com:2095/45043710716724/1680722643/250035
+
+#EXTINF:-1 tvg-logo="http://octagon-4k.live:2095/images/21e169127f4132a2c3ec2aefb9b169aa.png" group-title="BEIN SPORT & ENTERTAIMEN 2", BEIN SPORTS 4 SD
+http://en-gma.com:2095/45043710716724/1680722643/250059
+
+#EXTINF:-1 tvg-logo="http://smartes-plus.com:2095/images/94260e63c085dc1200fad2d4a65c61af.png" group-title="BEIN SPORT & ENTERTAIMEN 2", beIN Sports 1 HD FR
+http://en-gma.com:2095/45043710716724/1680722643/108243
+
+#EXTINF:-1 tvg-logo="http://smartes-plus.com:1996/images/0ee338a60a77f5012d04f769d4e922e7.png" group-title="BEIN SPORT & ENTERTAIMEN 2", beIN Sports 2 HD FR
+http://en-gma.com:2095/45043710716724/1680722643/108244
+
+#EXTINF:-1 tvg-logo="http://smartes-plus.com:1996/images/df1000747d015461c9c5a98a31c59979.png" group-title="BEIN SPORT & ENTERTAIMEN 2", beIN Sports 3 HD FR
+http://en-gma.com:2095/45043710716724/1680722643/108245
+
+#EXTINF:-1 tvg-logo="http://smartes-plus.com:1996/images/f0b4a876149ef76f9b20582ec1f5bbd4.png" group-title="BEIN SPORT & ENTERTAIMEN 2", beIN Sports Max 4 HD
+http://en-gma.com:2095/45043710716724/1680722643/108246
+
+#EXTINF:-1 tvg-logo="http://smartes-plus.com:1996/images/c6854fbb452fea877d01ab8ff9ca3df6.png" group-title="BEIN SPORT & ENTERTAIMEN 2", beIN Sports Max 5 HD
+http://en-gma.com:2095/45043710716724/1680722643/108247
+
+#EXTINF:-1 tvg-logo="http://smartes-plus.com:1996/images/72ae25dd3ccee6d868d5974433408dce.png" group-title="BEIN SPORT & ENTERTAIMEN 2", beIN Sports Max 6 HD
+http://en-gma.com:2095/45043710716724/1680722643/108248
+
+#EXTINF:-1 tvg-logo="http://smartes-plus.com:1996/images/0092c0c82938ff4b690cec83257e7ded.png" group-title="BEIN SPORT & ENTERTAIMEN 2", beIN Sports Max 7 HD
+http://en-gma.com:2095/45043710716724/1680722643/108249
+
+#EXTINF:-1 tvg-logo="http://smartes-plus.com:1996/images/121af553b6e12ea66fe5405b25e102d7.png" group-title="BEIN SPORT & ENTERTAIMEN 2", beIN Sports Max 8 HD
+http://en-gma.com:2095/45043710716724/1680722643/108250
+
+#EXTINF:-1 tvg-logo="http://neotv.gq:2052/images/618c14c81484316628cd6919bff20ef4.png" group-title="BEIN SPORT & ENTERTAIMEN 2", beIN Sports Max 9 HD
+http://en-gma.com:2095/45043710716724/1680722643/108251
+
+#EXTINF:-1 tvg-logo="http://smartes-plus.com:1996/images/473d7a8ae97aafef2d54f92cebd28c95.png" group-title="BEIN SPORT & ENTERTAIMEN 2", beIN Sports Max 10 HD
+http://en-gma.com:2095/45043710716724/1680722643/108252
+
+
+
+#EXTINF:-1 tvg-logo="http://en-gma.com:2095/images/0ad4a83660cba111f24982aa8e2eedc1.png" group-title="BEIN SPORT & ENTERTAIMEN 2", BEIN MOVIES ACTION 2 HD
+http://en-gma.com:2095/45043710716724/1680722643/250457
+
+#EXTINF:-1 tvg-logo="http://en-gma.com:2095/images/9736c07b5aae10a55b50725e96242b5f.png" group-title="BEIN SPORT & ENTERTAIMEN 2", BEIN MOVIES DRAMA 3 HD
+http://en-gma.com:2095/45043710716724/1680722643/250458
+
+#EXTINF:-1 tvg-logo="http://en-gma.com:2095/images/9f59873bd7e11cc5410288ba2441cf50.png" group-title="BEIN SPORT & ENTERTAIMEN 2", BEIN MOVIES FAMILY 4 HD
+http://en-gma.com:2095/45043710716724/1680722643/250459
+
+#EXTINF:-1 tvg-logo="http://en-gma.com:2095/images/09bf0d3083f0d1695d47a00afcac5b84.png" group-title="BEIN SPORT & ENTERTAIMEN 2", BEIN SERIES 1 HD
+http://en-gma.com:2095/45043710716724/1680722643/250460
+
+#EXTINF:-1 tvg-logo="http://en-gma.com:2095/images/0494679b66a7bed29bc7156b286c7e23.png" group-title="BEIN SPORT & ENTERTAIMEN 2", BEIN SERIES 2 HD
+http://en-gma.com:2095/45043710716724/1680722643/250461
+
+#EXTINF:-1 tvg-logo="http://en-gma.com:2095/images/1677ce8985993f82947918ff2451dde2.png" group-title="BEIN SPORT & ENTERTAIMEN 2", BEIN DRAMA 1 HD
+http://en-gma.com:2095/45043710716724/1680722643/250462
+
+#EXTINF:-1 tvg-logo="http://en-gma.com:2095/images/e187660bd8192f9805e4846c3b5bd33c.png" group-title="BEIN SPORT & ENTERTAIMEN 2", BEIN FOX MOVIES HD
+http://en-gma.com:2095/45043710716724/1680722643/250463
+
+#EXTINF:-1 tvg-logo="http://en-gma.com:2095/images/d820df19d590b5c688bc684b2652844b.png" group-title="BEIN SPORT & ENTERTAIMEN 2", BEIN FOX ACTION MOVIES HD
+http://en-gma.com:2095/45043710716724/1680722643/250464
+
+#EXTINF:-1 tvg-logo="http://en-gma.com:2095/images/31c2a3c4747d27890bf48a1759074f2c.png" group-title="BEIN SPORT & ENTERTAIMEN 2", BEIN FOX LIFE HD
+http://en-gma.com:2095/45043710716724/1680722643/250465
+
+#EXTINF:-1 tvg-logo="http://en-gma.com:2095/images/4a93b03ab9b60e5e1450257fa5e7a688.png" group-title="BEIN SPORT & ENTERTAIMEN 2", BEIN FOX CRIME HD
+http://en-gma.com:2095/45043710716724/1680722643/250466
+
+#EXTINF:-1 tvg-logo="http://en-gma.com:2095/images/f8db156e0debeaa9aa1b5e0b781a1ee2.png" group-title="BEIN SPORT & ENTERTAIMEN 2", BEIN GOURMET HD
+http://en-gma.com:2095/45043710716724/1680722643/250467
+
+#EXTINF:-1 tvg-logo="http://en-gma.com:2095/images/c24980b1aa8943ec0017abd52ef3d529.png" group-title="BEIN SPORT & ENTERTAIMEN 2", BEIN JEEM HD
+http://en-gma.com:2095/45043710716724/1680722643/250468
+
+#EXTINF:-1 tvg-logo="http://en-gma.com:2095/images/56ef9daa646ec51b14df43075f532fa1.png" group-title="BEIN SPORT & ENTERTAIMEN 2", BEIN BARAEM HD
+http://en-gma.com:2095/45043710716724/1680722643/250469
+
+#EXTINF:-1 tvg-logo="http://en-gma.com:2095/images/27c0d3f99472abca8685795a4227d05b.png" group-title="BEIN SPORT & ENTERTAIMEN 2", BEIN FATAFEAT
+http://en-gma.com:2095/45043710716724/1680722643/250470
+
+#EXTINF:-1 tvg-logo="http://en-gma.com:2095/images/8589a5babf3257043350e35a76efe612.png" group-title="BEIN SPORT & ENTERTAIMEN 2", BEIN NAT GEO HD
+http://en-gma.com:2095/45043710716724/1680722643/250471
+
+#EXTINF:-1 tvg-logo="http://en-gma.com:2095/images/1e0432c198a2a2b108a1e7343965fb7e.png" group-title="BEIN SPORT & ENTERTAIMEN 2", BEIN NAT GEO WILD HD
+http://en-gma.com:2095/45043710716724/1680722643/250472
+
+#EXTINF:-1 tvg-logo="http://en-gma.com:2095/images/80b0b0d881622b27923be7dd7a230c54.png" group-title="BEIN SPORT & ENTERTAIMEN 2", BEIN STAR WORLD HD
+http://en-gma.com:2095/45043710716724/1680722643/250473
+
+#EXTINF:-1 tvg-logo="http://en-gma.com:2095/images/f78d4657111b0418552231652a1afadb.png" group-title="BEIN SPORT & ENTERTAIMEN 2", BEIN STAR MOVIES HD
+http://en-gma.com:2095/45043710716724/1680722643/250474
+
+#EXTINF:-1 tvg-logo="http://en-gma.com:2095/images/ab05a86cbfb4d536701d1011f132b36a.png" group-title="BEIN SPORT & ENTERTAIMEN 2", BEIN BBC EARTH HD
+http://en-gma.com:2095/45043710716724/1680722643/250475
+
+#EXTINF:-1 tvg-logo="http://en-gma.com:2095/images/f06c0b7198b9dd33353982f58755735b.png" group-title="BEIN SPORT & ENTERTAIMEN 2", ------ BEIN MOVIES 4K -----------
+http://en-gma.com:2095/45043710716724/1680722643/250476
+
+#EXTINF:-1 tvg-logo="http://en-gma.com:2095/images/53f4ed5561d34ca2235508ef75aea2f7.png" group-title="BEIN SPORT & ENTERTAIMEN 2", beIN MOVIES PREMIER 1 4K
+http://en-gma.com:2095/45043710716724/1680722643/250477
+
+#EXTINF:-1 tvg-logo="http://en-gma.com:2095/images/0ad4a83660cba111f24982aa8e2eedc1.png" group-title="BEIN SPORT & ENTERTAIMEN 2", beIN MOVIES ACTION 2 4K
+http://en-gma.com:2095/45043710716724/1680722643/250478
+
+#EXTINF:-1 tvg-logo="http://en-gma.com:2095/images/9736c07b5aae10a55b50725e96242b5f.png" group-title="BEIN SPORT & ENTERTAIMEN 2", beIN MOVIES DRAMA 3 4K
+http://en-gma.com:2095/45043710716724/1680722643/250479
+
+#EXTINF:-1 tvg-logo="http://en-gma.com:2095/images/9f59873bd7e11cc5410288ba2441cf50.png" group-title="BEIN SPORT & ENTERTAIMEN 2", beIN MOVIES FAMILY 4 4K
+http://en-gma.com:2095/45043710716724/1680722643/250480
+
+#EXTINF:-1 tvg-logo="http://en-gma.com:2095/images/09bf0d3083f0d1695d47a00afcac5b84.png" group-title="BEIN SPORT & ENTERTAIMEN 2", beIN SERIES 1 4K
+http://en-gma.com:2095/45043710716724/1680722643/250481
+
+#EXTINF:-1 tvg-logo="http://en-gma.com:2095/images/0494679b66a7bed29bc7156b286c7e23.png" group-title="BEIN SPORT & ENTERTAIMEN 2", beIN SERIES 2 4K
+http://en-gma.com:2095/45043710716724/1680722643/250482
+
+#EXTINF:-1 tvg-logo="http://en-gma.com:2095/images/1677ce8985993f82947918ff2451dde2.png" group-title="BEIN SPORT & ENTERTAIMEN 2", beIN DRAMA 1 4K
+http://en-gma.com:2095/45043710716724/1680722643/250483
+
+#EXTINF:-1 tvg-logo="http://en-gma.com:2095/images/e187660bd8192f9805e4846c3b5bd33c.png" group-title="BEIN SPORT & ENTERTAIMEN 2", BEIN FOX MOVIES 4K
+http://en-gma.com:2095/45043710716724/1680722643/250484
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORT & ENTERTAIMEN 2", BEIN FOX MOV ACTION 4K
+http://en-gma.com:2095/45043710716724/1680722643/250485
+
+#EXTINF:-1 tvg-logo="http://en-gma.com:2095/images/31c2a3c4747d27890bf48a1759074f2c.png" group-title="BEIN SPORT & ENTERTAIMEN 2", BEIN FOX LIFE 4K
+http://en-gma.com:2095/45043710716724/1680722643/250486
+
+#EXTINF:-1 tvg-logo="http://en-gma.com:2095/images/f8db156e0debeaa9aa1b5e0b781a1ee2.png" group-title="BEIN SPORT & ENTERTAIMEN 2", BEIN GORMENT 4K
+http://en-gma.com:2095/45043710716724/1680722643/250487
+
+#EXTINF:-1 tvg-logo="http://en-gma.com:2095/images/27c0d3f99472abca8685795a4227d05b.png" group-title="BEIN SPORT & ENTERTAIMEN 2", BEIN FATAFEAT 4K
+http://en-gma.com:2095/45043710716724/1680722643/250488
+
+#EXTINF:-1 tvg-logo="http://en-gma.com:2095/images/56ef9daa646ec51b14df43075f532fa1.png" group-title="BEIN SPORT & ENTERTAIMEN 2", BEIN BARAEAM 4K
+http://en-gma.com:2095/45043710716724/1680722643/250489
+
+#EXTINF:-1 tvg-logo="http://en-gma.com:2095/images/c24980b1aa8943ec0017abd52ef3d529.png" group-title="BEIN SPORT & ENTERTAIMEN 2", BEIN JEEM 4K
+http://en-gma.com:2095/45043710716724/1680722643/250490
+
+#EXTINF:-1 tvg-logo="http://en-gma.com:2095/images/ab05a86cbfb4d536701d1011f132b36a.png" group-title="BEIN SPORT & ENTERTAIMEN 2", BEIN BBC EARTH 4K
+http://en-gma.com:2095/45043710716724/1680722643/250491
+
 
 
 
