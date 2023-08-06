@@ -1,11 +1,6 @@
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#♦WELCOME MY PLAYLIST INALDIE♦#", WELCOME MY PLAYLIST
-https://github.com/inaldie/inaldie/raw/main/WELCOM.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#♦♣JOIN GRUP TELE♦♣#", JOINT TELEGRAM https://t.me/IPTVcostum
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#♣♦♥️DONASI FOR GRUP♣♦♥️#", DONASI KE https://saweria.co/Inaldie22
-https://github.com/inaldie/inaldie/raw/main/DONATE.ts
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#⚽LIVE EVENT BOLA⚽#", BOLA 1 Touloase vs Roma
@@ -25,10 +20,12 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508148&extens
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#🏍️LIVE EVENT MOTOGP🏍️#", GP 1
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=507710&extension=ts&play_token=ECqMKl1s4L
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#🏍️LIVE EVENT MOTOGP🏍️#", GP 2
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692422&extension=ts&play_token=Nc9qifjsYN
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#🏍️LIVE EVENT MOTOGP🏍️#", GP 3
-
+http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/3616
 
 
