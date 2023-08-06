@@ -8,11 +8,11 @@ https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 https://github.com/inaldie/inaldie/raw/main/DONATE.ts
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#⚽LIVE EVENT BOLA⚽#", BOLA 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#⚽LIVE EVENT BOLA⚽#", BOLA 1 Touloase vs Roma
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=107436&extension=ts&play_token=Aj5Ctlhy7i
 
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#⚽LIVE EVENT BOLA⚽#", BOLA 2
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#⚽LIVE EVENT BOLA⚽#", BOLA 2 Sunderland vs ipswich
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508148&extension=ts&play_token=JQ2YqBARcU.
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#⚽LIVE EVENT BOLA⚽#", BOLA 3
 
