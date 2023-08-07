@@ -11332,27 +11332,27 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13599_&extens
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=15181_&extension=ts
 
 
-#EXTINF:-1 tvg-logo="-------" group-title="SPORT TR", TIVIBU SPORT 1
+#EXTINF:-1 tvg-logo="-------" group-title="TR SPORT", TIVIBU SPORT 1
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13469_&extension=ts
-#EXTINF:-1 tvg-logo="-------" group-title="SPORT TR", TIVIBU SPORT 2
+#EXTINF:-1 tvg-logo="-------" group-title="TR SPORT", TIVIBU SPORT 2
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13470_&extension=ts
-#EXTINF:-1 tvg-logo="-------" group-title="SPORT TR", TIVIBU SPORT 3
+#EXTINF:-1 tvg-logo="-------" group-title="TR SPORT", TIVIBU SPORT 3
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13458_&extension=ts
-#EXTINF:-1 tvg-logo="-------" group-title="SPORT TR", SMART SPORT
+#EXTINF:-1 tvg-logo="-------" group-title="TR SPORT", SMART SPORT
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13471_&extension=ts
-#EXTINF:-1 tvg-logo="-------" group-title="SPORT TR", A SPORT
+#EXTINF:-1 tvg-logo="-------" group-title="TR SPORT", A SPORT
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=14824_&extension=ts
-#EXTINF:-1 tvg-logo="-------" group-title="SPORT TR", TRT SPORT
+#EXTINF:-1 tvg-logo="-------" group-title="TR SPORT", TRT SPORT
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=14828_&extension=ts
-#EXTINF:-1 tvg-logo="-------" group-title="SPORT TR", TRT SPORT 2
+#EXTINF:-1 tvg-logo="-------" group-title="TR SPORT", TRT SPORT 2
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=46642_&extension=ts
-#EXTINF:-1 tvg-logo="-------" group-title="SPORT TR", TRT SPORT 3
+#EXTINF:-1 tvg-logo="-------" group-title="TR SPORT", TRT SPORT 3
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=68255_&extension=ts
-#EXTINF:-1 tvg-logo="-------" group-title="SPORT TR", TRT SPORT PLUS
+#EXTINF:-1 tvg-logo="-------" group-title="TR SPORT", TRT SPORT PLUS
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=102765_&extension=ts
-#EXTINF:-1 tvg-logo="-------" group-title="SPORT TR", S SPORT
+#EXTINF:-1 tvg-logo="-------" group-title="TR SPORT", S SPORT
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=29745_&extension=ts
-#EXTINF:-1 tvg-logo="-------" group-title="SPORT TR", S SPORT 2
+#EXTINF:-1 tvg-logo="-------" group-title="TR SPORT", S SPORT 2
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=46640_&extension=ts
 
 
