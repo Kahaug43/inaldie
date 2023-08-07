@@ -17194,25 +17194,25 @@ http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=239082&ex
 
 
 
-#EXTINF:-1 tvg-logo="______" group-title="HUB SPORT", HUB SPORT 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/HUB%201.png" group-title="HUB SPORT", HUB SPORT 1
 http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=1110667&extension=ts&play_token=G2rY9A0UAs
 
-#EXTINF:-1 tvg-logo="______" group-title="HUB SPORT", HUB SPORT 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/HUB%202.png" group-title="HUB SPORT", HUB SPORT 2
 http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=1110666&extension=ts&play_token=qvKqeFTWLv
 
-#EXTINF:-1 tvg-logo="______" group-title="HUB SPORT", HUB SPORT 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/HUB%203.png" group-title="HUB SPORT", HUB SPORT 3
 http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=1110665&extension=ts&play_token=sHTg5uWxvd
 
-#EXTINF:-1 tvg-logo="-------" group-title="HUB SPORT", HUB SPORT 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/HUB%201.png" group-title="HUB SPORT", HUB SPORT 1
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=941573&extension=ts&play_token=TAdJtgtiEy
 
-#EXTINF:-1 tvg-logo="-------" group-title="HUB SPORT", HUB SPORT 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/HUB%202.png" group-title="HUB SPORT", HUB SPORT 2
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=941572&extension=ts&play_token=ovwFKh7V4Z
 
-#EXTINF:-1 tvg-logo="-------" group-title="HUB SPORT", HUB SPORT 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/HUB%203.png" group-title="HUB SPORT", HUB SPORT 3
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=941571&extension=ts&play_token=NHeBnDUEaP
 
-#EXTINF:-1 tvg-logo="______" group-title="HUB SPORT", HUB SPORT PREMIER 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/HUB%20Premier.png" group-title="HUB SPORT", HUB SPORT PREMIER 1
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:4b:61:87&stream=1350557_&extension=ts
 
 #EXTINF:-1 tvg-logo="______" group-title="TR SPORT", EUROSPORT 1
