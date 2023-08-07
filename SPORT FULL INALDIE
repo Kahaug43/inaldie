@@ -17045,16 +17045,16 @@ http://ghostiptv.vip:80/live/162CBD98400E/63769b7dd9734/47641.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:Astro_ASSP1.png#/media/Berkas:Astro_ASSP1.png" group-title="ASTRO SPORT", SUPERSPORT ASTRO 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/Astro_ASSP1.png" group-title="ASTRO SPORT", SUPERSPORT ASTRO 1
 http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=1111034&extension=ts&play_token=esfxeh07ym
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" group-title="ASTRO SPORT", SUPERSPORT ASTRO 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/Astro_ASSP2.png" group-title="ASTRO SPORT", SUPERSPORT ASTRO 2
 http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=1111033&extension=ts&play_token=KGvJ3i1BR7
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png" group-title="ASTRO SPORT", SUPERSPORT ASTRO 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/Astro_ASSP3.png" group-title="ASTRO SPORT", SUPERSPORT ASTRO 3
 http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=1111032&extension=ts&play_token=OmJQqAG3Pj
 
-#EXTINF:-1 tvg-logo="______" group-title="ASTRO SPORT", SUPERSPORT ASTRO 4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/Astro_ASSP4.png" group-title="ASTRO SPORT", SUPERSPORT ASTRO 4
 http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=1111031&extension=ts&play_token=AE2WEVlm4N
 
 #EXTINF:-1 tvg-logo="______" group-title="ASTRO SPORT", SUPERSPORT ASTRO CRICKET
@@ -17063,16 +17063,16 @@ http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=315181&ex
 #EXTINF:-1 tvg-logo="-------" group-title="ASTRO SPORT", ASTRO SUPERSPORT  5
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=918982&extension=ts&play_token=E0fCypo3yb
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO SPORT", ASTRO SUPERSPORT  1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/Astro_ASSP1.png" group-title="ASTRO SPORT", ASTRO SUPERSPORT  1
 http://humiptv.live:8080/live/tarun589853/5787489bcsh/143036.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO SPORT", ASTRO SUPERSPORT  2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/Astro_ASSP2.png" group-title="ASTRO SPORT", ASTRO SUPERSPORT  2
 http://humiptv.live:8080/live/tarun589853/5787489bcsh/143037.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO SPORT", ASTRO SUPERSPORT  3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/Astro_ASSP3.png" group-title="ASTRO SPORT", ASTRO SUPERSPORT  3
 http://humiptv.live:8080/live/tarun589853/5787489bcsh/143039.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO SPORT", ASTRO SUPERSPORT  4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/Astro_ASSP4.png" group-title="ASTRO SPORT", ASTRO SUPERSPORT  4
 http://humiptv.live:8080/live/tarun589853/5787489bcsh/143041.ts
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO SPORT", ASTRO SUPERSPORT 5
