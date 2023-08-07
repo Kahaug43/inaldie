@@ -17344,10 +17344,10 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032474&exten
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%207.png" group-title="NOW SPORT", HK| Now Sports 7 FHD
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032473&extension=ts&play_token=699aMCZA2z 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%201.png" group-title="NOW SPORT", HK| Now Sports 1A
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%201.png" group-title="NOW SPORT", HK| Now Sports 1B
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032487&extension=ts&play_token=f8v6LXbTnv 
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", HK| Now Sports Prime
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%20PREMIER.png" group-title="NOW SPORT", HK| Now Sports Prime
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032480&extension=ts&play_token=Ybjpa2BRhQ
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%201.png" group-title="NOW SPORT", NOW SPORT 1
@@ -17371,7 +17371,7 @@ http://washerorg.h1ott.com:80/play/live.php?mac=00:1A:79:78:1f:28&stream=1110620
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%207.png" group-title="NOW SPORT", NOW SPORT 7
 http://washerorg.h1ott.com:80/play/live.php?mac=00:1A:79:78:1f:28&stream=1110621&extension=ts&play_token=D2mN6Yu4YU
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", NOW SPORT PREMIER 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%20PREMIER.png" group-title="NOW SPORT", NOW SPORT PREMIER 1
 http://washerorg.h1ott.com:80/play/live.php?mac=00:1A:79:78:1f:28&stream=1110622&extension=ts&play_token=5KA2QVMYYj
 
 
