@@ -1269,7 +1269,7 @@ https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/1.m3u8
 <================== Premium Movies ====================>
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmudrmpunyaku.garudatvvip.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.deerem-12537iptv.workers.dev/license-proxy-widevine/cenc/?specConform=true
 #EXTINF:-1 group-title="Premium Movies" tvg-id="HBO HD" tvg-url="-----------------------l" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115",HBO
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
@@ -1277,15 +1277,30 @@ https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b9
 #http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/197972
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmudrmpunyaku.garudatvvip.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.deerem-12537iptv.workers.dev/license-proxy-widevine/cenc/?specConform=true
 #EXTINF:-1 group-title="Premium Movies" tvg-id="HBO Family HD" tvg-url="-----------------------l" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_160_115",HBO Family
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="Premium Movies", ID: HBO
+http://iptvtree.net:8080/14e17190/58U55mXw5dX2fsbu/197972
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="Premium Movies", ID: HBO Family
+http://iptvtree.net:8080/14e17190/58U55mXw5dX2fsbu/197055
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="Premium Movies", ID: HBO Hits
+http://iptvtree.net:8080/14e17190/58U55mXw5dX2fsbu/196480
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="Premium Movies", ID: HBO Signature
+http://iptvtree.net:8080/14e17190/58U55mXw5dX2fsbu/221948
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="Premium Movies", ID: Cinemax
+http://iptvtree.net:8080/14e17190/58U55mXw5dX2fsbu/197964
 
 #EXTINF:-1 group-title="Premium Movies" tvg-id="HBO Family HD" tvg-url="-----------------------" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_160_115",HBO Family
 #http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/197055
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmudrmpunyaku.garudatvvip.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.deerem-12537iptv.workers.dev/license-proxy-widevine/cenc/?specConform=true
 #EXTINF:-1 group-title="Premium Movies" tvg-id="HBO Hits HD" tvg-url="-----------------------" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_160_115",HBO Hits
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
@@ -1293,7 +1308,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf6
 #http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/196480
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmudrmpunyaku.garudatvvip.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.deerem-12537iptv.workers.dev/license-proxy-widevine/cenc/?specConform=true
 #EXTINF:-1 group-title="Premium Movies" tvg-id="HBO Signature HD" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115",HBO Signature
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
@@ -1301,7 +1316,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0c
 #http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/221948
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmudrmpunyaku.garudatvvip.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.deerem-12537iptv.workers.dev/license-proxy-widevine/cenc/?specConform=true
 #EXTINF:-1 group-title="Premium Movies" tvg-id="Cinemax" tvg-url="-----------------------l" tvg-logo="https://i.imgur.com/uB76Ft0.png",Cinemax
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
