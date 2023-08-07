@@ -17351,28 +17351,26 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032487&exten
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032480&extension=ts&play_token=Ybjpa2BRhQ
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%201.png" group-title="NOW SPORT", NOW SPORT 1
-http://washerorg.h1ott.com:80/play/live.php?mac=00:1A:79:78:1f:28&stream=1110615&extension=ts&play_token=2cMF0TEA1C
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497551&extension=ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%202.png" group-title="NOW SPORT", NOW SPORT 2
-http://washerorg.h1ott.com:80/play/live.php?mac=00:1A:79:78:1f:28&stream=1110616&extension=ts&play_token=wXzS1TkgZd
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497552&extension=ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%203.png" group-title="NOW SPORT", NOW SPORT 3
-http://washerorg.h1ott.com:80/play/live.php?mac=00:1A:79:78:1f:28&stream=1110617&extension=ts&play_token=MhMA5XAcQq
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497553&extension=ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%204.png" group-title="NOW SPORT", NOW SPORT 4
-http://washerorg.h1ott.com:80/play/live.php?mac=00:1A:79:78:1f:28&stream=1110618&extension=ts&play_token=rszlAjhaJv
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497554&extension=ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%205.png" group-title="NOW SPORT", NOW SPORT 5
-http://washerorg.h1ott.com:80/play/live.php?mac=00:1A:79:78:1f:28&stream=1110619&extension=ts&play_token=aLufcNCbFv
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497555&extension=ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%206.png" group-title="NOW SPORT", NOW SPORT 6
-http://washerorg.h1ott.com:80/play/live.php?mac=00:1A:79:78:1f:28&stream=1110620&extension=ts&play_token=FPFTklYZGw
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497556&extension=ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%207.png" group-title="NOW SPORT", NOW SPORT 7
-http://washerorg.h1ott.com:80/play/live.php?mac=00:1A:79:78:1f:28&stream=1110621&extension=ts&play_token=D2mN6Yu4YU
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497557&extension=ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%20PREMIER.png" group-title="NOW SPORT", NOW SPORT PREMIER 1
-http://washerorg.h1ott.com:80/play/live.php?mac=00:1A:79:78:1f:28&stream=1110622&extension=ts&play_token=5KA2QVMYYj
 
 
 
@@ -18773,26 +18771,6 @@ http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=97267_&extens
 #EXTINF:-1 tvg-logo="-------" group-title="IND SPORT", START SPORT Select 1
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=946250&extension=ts&play_token=oNt6MZbYyo
 
-#EXTINF:-1 tvg-logo="-------" group-title="NOW SPORT", NOW SPORT 1
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497551&extension=ts
-
-#EXTINF:-1 tvg-logo="-------" group-title="NOW SPORT", NOW SPORT 2
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497552&extension=ts
-
-#EXTINF:-1 tvg-logo="-------" group-title="NOW SPORT", NOW SPORT 3
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497553&extension=ts
-
-#EXTINF:-1 tvg-logo="-------" group-title="NOW SPORT", NOW SPORT 4
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497554&extension=ts
-
-#EXTINF:-1 tvg-logo="-------" group-title="NOW SPORT", NOW SPORT 5
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497555&extension=ts
-
-#EXTINF:-1 tvg-logo="-------" group-title="NOW SPORT", NOW SPORT 6
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497556&extension=ts
-
-#EXTINF:-1 tvg-logo="-------" group-title="NOW SPORT", NOW SPORT 7
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497557&extension=ts
 
 
 #EXTINF:-1 tvg-logo="-------" group-title="ZIGGO SPORT", ZIGGO SPORT FOOTBALL
