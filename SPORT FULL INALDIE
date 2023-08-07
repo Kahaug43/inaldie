@@ -17057,10 +17057,10 @@ http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=1111032&e
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/Astro_ASSP4.png" group-title="ASTRO SPORT", SUPERSPORT ASTRO 4
 http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=1111031&extension=ts&play_token=AE2WEVlm4N
 
-#EXTINF:-1 tvg-logo="______" group-title="ASTRO SPORT", SUPERSPORT ASTRO CRICKET
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/Astro_ASSP5.png" group-title="ASTRO SPORT", SUPERSPORT ASTRO CRICKET
 http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=315181&extension=ts&play_token=ZaZSOZaSME
 
-#EXTINF:-1 tvg-logo="-------" group-title="ASTRO SPORT", ASTRO SUPERSPORT  5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/Astro_Cricket.png" group-title="ASTRO SPORT", ASTRO SUPERSPORT  5
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=918982&extension=ts&play_token=E0fCypo3yb
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/Astro_ASSP1.png" group-title="ASTRO SPORT", ASTRO SUPERSPORT  1
@@ -17075,10 +17075,10 @@ http://humiptv.live:8080/live/tarun589853/5787489bcsh/143039.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/Astro_ASSP4.png" group-title="ASTRO SPORT", ASTRO SUPERSPORT  4
 http://humiptv.live:8080/live/tarun589853/5787489bcsh/143041.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO SPORT", ASTRO SUPERSPORT 5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/Astro_ASSP5.png" group-title="ASTRO SPORT", ASTRO SUPERSPORT 5
 http://humiptv.live:8080/live/tarun589853/5787489bcsh/143045.ts
 
-#EXTINF:-1 tvg-logo="-------" group-title="ASTRO SPORT", ASTRO CRICKET
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/Astro_Cricket.png" group-title="ASTRO SPORT", ASTRO CRICKET
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=1036490&extension=ts&play_token=d8mSEgcvlM
 
 
