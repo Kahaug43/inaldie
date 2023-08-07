@@ -1,23 +1,25 @@
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#♦WELCOME MY PLAYLIST INALDIE♦#", WELCOME MY PLAYLIST
+https://github.com/inaldie/inaldie/raw/main/WELCOM.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#♦♣JOIN GRUP TELE♦♣#", JOINT TELEGRAM https://t.me/IPTVcostum
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#♣♦♥️DONASI FOR GRUP♣♦♥️#", DONASI KE https://saweria.co/Inaldie22
+https://github.com/inaldie/inaldie/raw/main/DONATE.ts
+
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#⚽LIVE EVENT BOLA⚽#", BOLA 1 WC cw INGRIS vs NIGERIA
-http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=238261&extension=ts&play_token=yVIFGtzLtE
-
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=14828_&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#⚽LIVE EVENT BOLA⚽#", BOLA 2 WC cw INGRIS vs NIGERIA
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=177344&extension=ts&play_token=9WV10w3wHZ
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#⚽LIVE EVENT BOLA⚽#", BOLA 3 WC cw INGRIS vs NIGERIA
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032471&extension=ts&play_token=InCwgv0Zsg
+http://moboton.com:80/live/u6gAEkqRg/Z6URtqZhcp/2177.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#⚽LIVE EVENT BOLA⚽#", BOLA 4 WC cw AUSTRALIA vs DENMARK
-http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=29745_&extension=ts&play_token=FcCkSLTtTN
-
+http://moboton.com:80/live/u6gAEkqRg/Z6URtqZhcp/2177.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#⚽LIVE EVENT BOLA⚽#", BOLA 5 WC cw AUSTRALIA vs DENMARK
 http://s1.g6ip.us:1997/Stephane/123456/9645
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#⚽LIVE EVENT BOLA⚽#", BOLA 6 WC cw AUSTRALIA vs DENMARK
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=864_&extension=ts
 
@@ -39,13 +41,10 @@ http://humiptv.live:8080/live/tarun589853/5787489bcsh/151181.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#🏍️LIVE EVENT MOTOGP🏍️#", GP 1
 http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=507710&extension=ts&play_token=ECqMKl1s4L
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#🏍️LIVE EVENT MOTOGP🏍️#", GP 2
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692422&extension=ts&play_token=Nc9qifjsYN
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#🏍️LIVE EVENT MOTOGP🏍️#", GP 3
 http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/3616
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#🏍️LIVE EVENT MOTOGP🏍️#", GP 4
 http://aflaxtv.xyz:8080/Vladisergeevic/7eef2c4388/11638
 
