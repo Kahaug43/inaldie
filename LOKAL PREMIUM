@@ -22,7 +22,7 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=864_&extensio
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#⚽LIVE EVENT BOLA⚽#", BOLA 5 
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=177344&extension=ts&play_token=9WV10w3wHZ 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#⚽LIVE EVENT BOLA⚽#", BOLA 6
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=9250_&extension=ts
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032471&extension=ts&play_token=InCwgv0Zsg 
 
 
 
