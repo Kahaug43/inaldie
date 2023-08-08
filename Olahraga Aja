@@ -3918,3 +3918,153 @@ http://en-gma.com:2095/live/45526590751446/1713079430/184008.m3u8
 http://en-gma.com:2095/live/45526590751446/1713079430/218165.m3u8
 
 
+
+
+
+
+#EXTINF:-1 tvg-logo="______" group-title="BG SPORT", EURO SPORT 1
+http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=61796&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="BG SPORT", EURO SPORT 2
+http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=61797&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="BG SPORT", TRACE SPORT STAR
+http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=61843&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="BG SPORT", AUTO MOTO SPORT
+http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=61759&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="BG SPORT", AUTOMOTO TV
+http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=61760&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="BG SPORT", SPORTAL
+http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=61840&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="BG SPORT", KLH 1
+http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=61857&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="BG SPORT", F PLUS
+http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=61799&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="DIEMA SPORT", DIEMA SPORT 1
+http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=14249&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="DIEMA SPORT", DIEMA SPORT 2
+http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=14250&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="DIEMA SPORT", DIEMA SPORT 3
+http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=14240&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="MAX SPORT", MAX SPORT 1
+http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=61815&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="MAX SPORT", MAX SPORT 2
+http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=61816&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="MAX SPORT", MAX SPORT 3
+http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=61817&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="MAX SPORT", MAX SPORT 4
+http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=61818&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT RO", EUROSPORT 1
+http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=9189&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT RO", EUROSPORT 2
+http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=9177&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT RO", FIGHT BOX
+http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=9173&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT RO", EXTREME SPORT
+http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=38423&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT RO", PRIMA SPORT 1
+http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=61894&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="ORANGE RO", ORANGE SPORT 1
+http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=38422&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="ORANGE RO", ORANGE SPORT 2
+http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=65476&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="ORANGE RO", ORANGE SPORT 3
+http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=38424&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="ORANGE RO", ORANGE SPORT 4
+http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=38425&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="DIGI RO", DIGI SPORT 1
+http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=802&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="DIGI RO", DIGI SPORT 2
+http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=803&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="DIGI RO", DIGI SPORT 3
+http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=804&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="DIGI RO", DIGI SPORT 4
+http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=9180&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="DIGI HU", DIGI SPORT 1
+http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=23626&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="DIGI HU", DIGI SPORT 2 
+http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=23632&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="DIGI HU", SPORT 1
+http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=23635&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="DIGI HU", SPORT 2
+http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=23634&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="DIGI HU", M4 SPORT
+http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=49326&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="NOVA SPORT CZ", NOVA SPORT BG
+http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=23626&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="NOVA SPORT CZ", NOVA SPORT 1
+http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=23580&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="NOVA SPORT CZ", NOVA SPORT 2
+http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=23581&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="NOVA SPORT CZ", SPORT 2 CZ
+http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=23581&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORTV BT", BAND SPORT
+http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=64180&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORTV BT", TNT SPORT
+http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=64184&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORTV BT", FOX SPORT 2
+http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=64185&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORTV BT", SPORTV VIVO
+http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=64200&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORTV BT", SPORTV 2 VIVO
+http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=64201&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORTV BT", SPORTV 3 VIVO
+http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=64202&extension=ts
+
+
+#EXTINF:-1 tvg-logo="______" group-title="ESPN SPORT", ESPN MEX
+http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=24969&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="ESPN SPORT", ESPN 2 MEX
+http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=24982&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="ESPN SPORT", ESPN 3 MEX
+http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=24981&extension=ts
+
+
+#EXTINF:-1 tvg-logo="______" group-title="FIGHT SPORT", FIGHT BOX
+http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=61800&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="FIGHT SPORT", RING TV
+http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=9247&extension=ts
+
