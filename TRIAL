@@ -18,11 +18,11 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch396)/index.m3u
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch397)/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/ANTV.png", group-title="FIRSTMEDIA",ANTV HD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch390)/index.m3u8
-#EXTINF:-1 tvg-logo="_____", group-title="FIRSTMEDIA",BTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/BTV.png", group-title="FIRSTMEDIA",BTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch360)/index.m3u8
-#EXTINF:-1 tvg-logo="_____", group-title="FIRSTMEDIA",BERITASATU WORLD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/BERITASATU.png", group-title="FIRSTMEDIA",BERITASATU WORLD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch19)/index.m3u8
-#EXTINF:-1 tvg-logo="_____", group-title="FIRSTMEDIA",JAKARTA GLOBE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/JAKARTAG.png", group-title="FIRSTMEDIA",JAKARTA GLOBE
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch2)/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/KOMPAS.png", group-title="FIRSTMEDIA",KOMPASTV HD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch410)/index.m3u8
