@@ -10,11 +10,11 @@ https://github.com/inaldie/inaldie/raw/main/DONATE.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="FIRSTMEDIA", ###FIRSMEDIA CHANNEL###
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
-#EXTINF:-1 group-title="FIRSTMEDIA",MOJI HD
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/MOJI.png" group-title="FIRSTMEDIA",MOJI HD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch26)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",TRANSTV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/TRANS.png" group-title="FIRSTMEDIA",TRANSTV HD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch396)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",TRANS7 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/TRANS%207.png" group-title="FIRSTMEDIA",TRANS7 HD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch397)/index.m3u8
 #EXTINF:-1 group-title="FIRSTMEDIA",ANTV HD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch390)/index.m3u8
@@ -24,13 +24,13 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch360)/index.m3u
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch19)/index.m3u8
 #EXTINF:-1 group-title="FIRSTMEDIA",JAKARTA GLOBE
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch2)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",KOMPASTV HD
+#EXTINF:-1 https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/KOMPAS.png" group-title="FIRSTMEDIA",KOMPASTV HD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch410)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",METROTV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/METRO.png" group-title="FIRSTMEDIA",METROTV HD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch394)/index.m3u8
 #EXTINF:-1 group-title="FIRSTMEDIA",IDX CHANNEL
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch389)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",GARUDATV
+#EXTINF:-1 https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/GARUDAtv.png" group-title="FIRSTMEDIA",GARUDATV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch45)/index.m3u8
 #EXTINF:-1 group-title="FIRSTMEDIA",DAAITV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch128)/index.m3u8
