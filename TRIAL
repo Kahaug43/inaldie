@@ -349,6 +349,27 @@ https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 
 
 
+#######################
+BEIN SPORT
+################################################################################################################################################################################# SPORT ASIA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="BEIN SPORT", ###BEIN SPORT###
+https://github.com/inaldie/inaldie/raw/main/LOGO.ts
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=59305_&extension=m3u8
+#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT AR", BEIN SPORT PREMIUM 1
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=809826&extension=ts&play_token=IciJ4ngHwc
+#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT AR", BEIN SPORT PREMIUM 2
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=809825&extension=ts&play_token=dk2lqgibJa
+#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT AR", BEIN SPORT PREMIUM 3
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=809824&extension=ts&play_token=6JcHidDsby
+#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT AR", BEIN SPORT 1
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=59306_&extension=m3u8
+#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT AR", BEIN SPORT 2
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=59307_&extension=m3u8
+#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT AR", BEIN SPORT 3
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=59308_&extension=m3u8
+#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT AR", BEIN SPORT GLOBAL
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=809828&extension=ts&play_token=r8IbIdKx0o
+
 
 
 #######################
@@ -424,6 +445,38 @@ http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115433_&exte
 http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115805_&extension=ts
 #EXTINF:-1 tvg-logo="_______" group-title="SPORT ASIA", TRUE FIGHT
 http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115500_&extension=ts
+#EXTINF:-1 tvg-logo="-------" group-title="SPORT ASIA", ONE SPORT
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=926161&extension=ts&play_token=1CpygHM1Ws
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT ASIA", TENS SPORT PAKISTAN
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=65516_&extension=m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", BEIN 3
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/143063.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", BEIN 2
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/143060.ts
+
+#EXTINF:-1 tvg-logo="-------" group-title="SPORT ASIA", SPOTV 1
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683117&extension=ts&play_token=ttKChD9xXt
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", SPOTV 1
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/143137.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", SPOTV 2
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/151193.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", SPORTSTAR 1
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/151188.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", SPORTSTAR 2
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/151187.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", SPORTSTAR 3
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/151181.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", SOCCER CHANEL
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/151186.ts
 
 
 
@@ -433,6 +486,28 @@ SPORT EROPA
 ################################################################################################################################################################################# SPORT EROPA
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT EROPA", ###SPORT EROPA###
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
+
+/backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13469_&extension=ts
+#EXTINF:-1 tvg-logo="-------" group-title="SPORT EROPA", TIVIBU SPORT 2
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13470_&extension=ts
+#EXTINF:-1 tvg-logo="-------" group-title="SPORT EROPA", TIVIBU SPORT 3
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13458_&extension=ts
+#EXTINF:-1 tvg-logo="-------" group-title="SPORT EROPA", SMART SPORT
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13471_&extension=ts
+#EXTINF:-1 tvg-logo="-------" group-title="SPORT EROPA", A SPORT
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=14824_&extension=ts
+#EXTINF:-1 tvg-logo="-------" group-title="SPORT EROPA", TRT SPORT
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=14828_&extension=ts
+#EXTINF:-1 tvg-logo="-------" group-title="SPORT EROPA", TRT SPORT 2
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=46642_&extension=ts
+#EXTINF:-1 tvg-logo="-------" group-title="SPORT EROPA", TRT SPORT 3
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=68255_&extension=ts
+#EXTINF:-1 tvg-logo="-------" group-title="SPORT EROPA", TRT SPORT PLUS
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=102765_&extension=ts
+#EXTINF:-1 tvg-logo="-------" group-title="SPORT EROPA", S SPORT
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=29745_&extension=ts
+#EXTINF:-1 tvg-logo="-------" group-title="TR SPORT", S SPORT 2
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=46640_&extension=ts
 
 
 
