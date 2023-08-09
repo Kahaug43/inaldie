@@ -24,7 +24,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch360)/index.m3u
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch19)/index.m3u8
 #EXTINF:-1 tvg-logo="_____", group-title="FIRSTMEDIA",JAKARTA GLOBE
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch2)/index.m3u8
-#EXTINF:-1 https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/KOMPAS.png" group-title="FIRSTMEDIA",KOMPASTV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/KOMPAS.png" group-title="FIRSTMEDIA",KOMPASTV HD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch410)/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/METRO.png" group-title="FIRSTMEDIA",METROTV HD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch394)/index.m3u8
