@@ -596,34 +596,34 @@ SPORT EROPA
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT EROPA", ###SPORT EROPA###
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 
-#EXTINF:-1 tvg-logo="-------" group-title="ARENA SPORT", ARENA SPORT 1 SR
+#EXTINF:-1 tvg-logo="-------" group-title="SPORT EROPA", ARENA SPORT 1 SR
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=213666&extension=ts
 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="ARENA SPORT", ARENA SPORT 2 SR
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT EROPA", ARENA SPORT 2 SR
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=213665&extension=ts
 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="ARENA SPORT", ARENA SPORT 3 SR
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT EROPA", ARENA SPORT 3 SR
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=213664&extension=ts
 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="ARENA SPORT", ARENA SPORT 4 SR
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT EROPA", ARENA SPORT 4 SR
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=213663&extension=ts
 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="ARENA SPORT", ARENA SPORT 5 SR
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT EROPA", ARENA SPORT 5 SR
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=213662&extension=ts
 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="ARENA SPORT", ARENA SPORT 1 HR
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT EROPA", ARENA SPORT 1 HR
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=213637&extension=ts
 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="ARENA SPORT", ARENA SPORT 2 HR
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT EROPA", ARENA SPORT 2 HR
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=213638&extension=ts
 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="ARENA SPORT", ARENA SPORT 3 HR
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT EROPA", ARENA SPORT 3 HR
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=213639&extension=ts
 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="ARENA SPORT", ARENA SPORT 4 HR
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT EROPA", ARENA SPORT 4 HR
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=213640&extension=ts
 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="ARENA SPORT", ARENA SPORT 5 HR
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT EROPA", ARENA SPORT 5 HR
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=213641&extension=ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/TNT%201.png" group-title="SPORT EROPA", BT SPORT 1
@@ -671,61 +671,61 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=1022_&extensi
 #EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT EROPA", NBA TV SPORT
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63308_&extension=ts
 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="KLUB SPORT", KLUB SPORT 1 
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT EROPA", KLUB SPORT 1 
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=213644&extension=ts
 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="KLUB SPORT", KLUB SPORT 2
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT EROPA", KLUB SPORT 2
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=213643&extension=ts
 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="KLUB SPORT", KLUB SPORT 3
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT EROPA", KLUB SPORT 3
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=213642&extension=ts
 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="KLUB SPORT", KLUB SPORT 4
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT EROPA", KLUB SPORT 4
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=213659&extension=ts
 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="KLUB SPORT", KLUB SPORT 5
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT EROPA", KLUB SPORT 5
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=213658&extension=ts
 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="KLUB SPORT", KLUB SPORT 6
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT EROPA", KLUB SPORT 6
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=213657&extension=ts
 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="KLUB SPORT", KLUB SPORT GOLF
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT EROPA", KLUB SPORT GOLF
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=213653&extension=ts
 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="POLSAT SPORT", POLSAT SPORT
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT EROPA", POLSAT SPORT
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=97238&extension=ts
 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="POLSAT SPORT", POLSAT SPORT FIGHT
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT EROPA", POLSAT SPORT FIGHT
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=97239&extension=ts
 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="POLSAT SPORT", Polsat SPORT NEWS
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT EROPA", Polsat SPORT NEWS
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=97240&extension=ts
 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="POLSAT SPORT", Polsat SPORT EXTRA
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT EROPA", Polsat SPORT EXTRA
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=97241&extension=ts
 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="POLSAT SPORT", Polsat SPORT PREMIUM 1
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT EROPA", Polsat SPORT PREMIUM 1
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=97242&extension=ts
 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="POLSAT SPORT", Polsat SPORT PREMIUM 2
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT EROPA", Polsat SPORT PREMIUM 2
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=97243&extension=ts
 
-#EXTINF:-1 tvg-logo="______" group-title="PLAY SPORT", PLAY SPORT 1
+#EXTINF:-1 tvg-logo="______" group-title="SPORT EROPA", PLAY SPORT 1
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=811941&extension=ts&play_token=0PGpJWMoeq
 
-#EXTINF:-1 tvg-logo="______" group-title="PLAY SPORT", PLAY SPORT 2
+#EXTINF:-1 tvg-logo="______" group-title="SPORT EROPA", PLAY SPORT 2
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=811940&extension=ts&play_token=7Qz7wdixwA
 
-#EXTINF:-1 tvg-logo="______" group-title="PLAY SPORT", PLAY SPORT 3
+#EXTINF:-1 tvg-logo="______" group-title="SPORT EROPA", PLAY SPORT 3
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=811939&extension=ts&play_token=c2oclzwFiK
 
-#EXTINF:-1 tvg-logo="______" group-title="PLAY SPORT", PLAY SPORT 4
+#EXTINF:-1 tvg-logo="______" group-title="SPORT EROPA", PLAY SPORT 4
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=811938&extension=ts&play_token=pumZRcTXZt
 
-#EXTINF:-1 tvg-logo="______" group-title="PLAY SPORT", PLAY SPORT 5
+#EXTINF:-1 tvg-logo="______" group-title="SPORT EROPA", PLAY SPORT 5
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=811937&extension=ts&play_token=v7JIxP47xk
 
-#EXTINF:-1 tvg-logo="______" group-title="PLAY SPORT", PLAY SPORT GOLF
+#EXTINF:-1 tvg-logo="______" group-title="SPORT EROPA", PLAY SPORT GOLF
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=811936&extension=ts&play_token=gec2IMAjS7
 
 #EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT EROPA", TV2 SPORT 1
@@ -817,7 +817,7 @@ http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=819624&extension=
 
 
 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="ZIGGO SPORT", ZIGGO SPORT TENNIS
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT EROPA", ZIGGO SPORT TENNIS
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=80532&extension=ts
 
 #EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT EROPA", ZIGGO SPORT DOCU
@@ -896,19 +896,19 @@ SPORT VIP
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT VIP", ##SPORT VIP###
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="OPTUS SPORT", OPTUS SPORT 1
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT VIP", OPTUS SPORT 1
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032471&extension=ts&play_token=InCwgv0Zsg 
 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="OPTUS SPORT", OPTUS SPORT 2
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT VIP", OPTUS SPORT 2
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032470&extension=ts&play_token=qBeBPHlYKO 
 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="OPTUS SPORT", OPTUS SPORT 3
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT VIP", OPTUS SPORT 3
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032469&extension=ts&play_token=WZ8jVxGqCR 
 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="OPTUS SPORT", OPTUS SPORT 4
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT VIP", OPTUS SPORT 4
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032468&extension=ts&play_token=rNx65mVDBT 
 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="OPTUS SPORT", OPTUS SPORT 5
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT VIP", OPTUS SPORT 5
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032467&extension=ts&play_token=raIZRUj5Fn 
 
 
@@ -937,10 +937,10 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=45324&extensi
 #EXTINF:-1 tvg-logo="xxxxxxxx" group-title="CLUB FOOTBALL", BAYER FC
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=411413&extension=ts&play_token=1U3jpWdf0t
 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT TV PR", SPORTING TV
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="CLUB FOOTBALL", SPORTING TV
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=107430&extension=ts&play_token=l3FEluZCt1
 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT TV PR", BTV BENFICA
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="CLUB FOOTBALL", BTV BENFICA
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=983567&extension=ts&play_token=KIl56CmfeQ
 
 #EXTINF:-1 tvg-logo="xxxxxxxx" group-title="CLUB FOOTBALL", REAL MADRID TV
