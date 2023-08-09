@@ -1094,31 +1094,40 @@ http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=819623&extension=
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=819624&extension=ts&play_token=oNt6MZbYyo
 
 
-#EXTINF:-1 tvg-logo="-------" group-title="SPORT EROPA", YES SPORT 1B
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT EROPA", Viaplay Sport 1
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=45235&extension=ts&play_token=L5v3eNkEQU
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT EROPA", Viaplay Sport 2
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=163608&extension=ts&play_token=weRjYwEZxO
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT EROPA", VIAPLAY EXTRA
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1014260&extension=ts&play_token=QmzgBvbonr
+
+
+
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT EROPA", YES SPORT 1B
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=1035203&extension=ts&play_token=5K0N5VJWTW
-#EXTINF:-1 tvg-logo="-------" group-title="SPORT EROPA", YES SPORT 2B
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT EROPA", YES SPORT 2B
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=1035201&extension=ts&play_token=ce2QOqrR2P
-#EXTINF:-1 tvg-logo="-------" group-title="SPORT EROPA", YES SPORT 3B
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT EROPA", YES SPORT 3B
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=1035199&extension=ts&play_token=fb6FyjAOr6
-#EXTINF:-1 tvg-logo="-------" group-title="SPORT EROPA", YES SPORT 4B
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT EROPA", YES SPORT 4B
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=1035197&extension=ts&play_token=9v4jik5FMi
-#EXTINF:-1 tvg-logo="-------" group-title="SPORT EROPA", YES SPORT 5
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT EROPA", YES SPORT 5
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=1035196&extension=ts&play_token=Ypu8S5SThQ
-#EXTINF:-1 tvg-logo="-------" group-title="SPORT EROPA", YES SPORT 5 PLUS
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT EROPA", YES SPORT 5 PLUS
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=1035193&extension=ts&play_token=UOms3f1HPe
-#EXTINF:-1 tvg-logo="-------" group-title="SPORT EROPA", YES SPORT 5 PLUS LIVE 
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT EROPA", YES SPORT 5 PLUS LIVE 
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=1035191&extension=ts&play_token=x09ZgJAZu4
-#EXTINF:-1 tvg-logo="-------" group-title="SPORT EROPA", YES SPORT 5 STAR
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT EROPA", YES SPORT 5 STAR
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=1035190&extension=ts&play_token=QRKwS3Jwu1
 
 
-#EXTINF:-1 tvg-logo="-------" group-title="SPORT EROPA", YES SPORT 1 IL
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT EROPA", YES SPORT 1 IL
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=37664&extension=ts&play_token=5FEDZ1lGve
-#EXTINF:-1 tvg-logo="-------" group-title="SPORT EROPA", YES SPORT 2 IL
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT EROPA", YES SPORT 2 IL
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=37663&extension=ts&play_token=2dPfTtV20H
-#EXTINF:-1 tvg-logo="-------" group-title="SPORT EROPA", YES SPORT 3 IL
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT EROPA", YES SPORT 3 IL
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=37662&extension=ts&play_token=aUNhBj5TX4
-#EXTINF:-1 tvg-logo="-------" group-title="SPORT EROPA", YES SPORT 4 IL
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT EROPA", YES SPORT 4 IL
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=37659&extension=ts&play_token=sFhj6fQFl5
 
 #EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT EROPA", ZIGGO SPORT TENNIS
@@ -1138,7 +1147,7 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=80538&extension
 
 
 
-/backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13469_&extension=ts
+
 #EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT EROPA", TIVIBU SPORT 2
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13470_&extension=ts
 #EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT EROPA", TIVIBU SPORT 3
@@ -1157,15 +1166,15 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=68255_&extens
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=102765_&extension=ts
 #EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT EROPA", S SPORT
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=29745_&extension=ts
-#EXTINF:-1 tvg-logo="-------" group-title="SPORT EROPA", S SPORT TV 1
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT EROPA", S SPORT TV 1
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=161952&extension=ts&play_token=49oVKQPh3R
-#EXTINF:-1 tvg-logo="-------" group-title="SPORT EROPA", S SPORT TV 2
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT EROPA", S SPORT TV 2
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=110924&extension=ts&play_token=yiUpfOxIe1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/S_POR.png" group-title="SPORT EROPA", S SPORT 1
 http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=29745_&extension=ts&play_token=FcCkSLTtTN
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/S_POR%202.png" group-title="SPORT EROPA", S SPORT 2
 http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=46640_&extension=ts&play_token=FcCkSLTtTN
-#EXTINF:-1 tvg-logo="-------" group-title="SPORT EROPA", S SPORT TV 3
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT EROPA", S SPORT TV 3
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=161954&extension=ts&play_token=j8BcJVGfou
 
 
@@ -1181,32 +1190,32 @@ http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=79284&extension=t
 #EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT LATIN", TYC SPORT BK
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=25306&extension=ts&play_token=spmMNxKLPF
 
-#EXTINF:-1 tvg-logo="--------" group-title="SPORT LATIN", TSN 1
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT LATIN", TSN 1
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=177344&extension=ts&play_token=9WV10w3wHZ 
  
-#EXTINF:-1 tvg-logo="--------" group-title="SPORT LATIN", TSN 2
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT LATIN", TSN 2
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=177345&extension=ts&play_token=H0P1T4ifR8 
 
-#EXTINF:-1 tvg-logo="--------" group-title="SPORT LATIN", TSN 3
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT LATIN", TSN 3
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=177346&extension=ts&play_token=I4WnM2pics 
 
-#EXTINF:-1 tvg-logo="--------" group-title="SPORT LATIN", TSN 4 
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT LATIN", TSN 4 
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=177347&extension=ts&play_token=vBeq3z0dWP 
 
-#EXTINF:-1 tvg-logo="--------" group-title="SPORT LATIN", TSN 5 
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT LATIN", TSN 5 
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=177348&extension=ts&play_token=CN2xBNmpdp 
 
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT LATIN", SPORTV HD
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT LATIN", SPORTV HD
 http://joao-1-us.mainbkonline.shop:80/368658477088/530145744781/73
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT LATIN", SPORTV 2 HD
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT LATIN", SPORTV 2 HD
 http://joao-1-us.mainbkonline.shop:80/368658477088/530145744781/71
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT LATIN", SPORTV 3 HD
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT LATIN", SPORTV 3 HD
 http://joao-1-us.mainbkonline.shop:80/368658477088/530145744781/72
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT LATIN", BAND SPORT HD
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT LATIN", BAND SPORT HD
 http://joao-1-us.mainbkonline.shop:80/368658477088/530145744781/5
 
 
@@ -1222,25 +1231,25 @@ http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115318_&exte
 #EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT LAIN-LAIN", AUTOMOTO 
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508154&extension=ts&play_token=MQYoRJeFcv 
 
-#EXTINF:-1 tvg-logo="-------" group-title="SPORT LAIN-LAIN", XTREAM SPORT
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT LAIN-LAIN", XTREAM SPORT
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=132483&extension=ts&play_token=8PbUT9DUDQ
 
-#EXTINF:-1 tvg-logo="-------" group-title="SPORT LAIN-LAIN", MOTOSPORT
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT LAIN-LAIN", MOTOSPORT
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=132601&extension=ts&play_token=VTr50vx2fK
 
-#EXTINF:-1 tvg-logo="-------" group-title="SPORT LAIN-LAIN", MATCH IGRA
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT LAIN-LAIN", MATCH IGRA
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=300843&extension=ts&play_token=pjLO5fLIpP
 
-#EXTINF:-1 tvg-logo="-------" group-title="SPORT LAIN-LAIN", MATCH STRANA
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT LAIN-LAIN", MATCH STRANA
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=132595&extension=ts&play_token=rV6ezDgCJH
 
-#EXTINF:-1 tvg-logo="-------" group-title="SPORT LAIN-LAIN", STAR TV
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT LAIN-LAIN", STAR TV
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=841862&extension=ts&play_token=50kr8jEPAY
 
-#EXTINF:-1 tvg-logo="-------" group-title="SPORT LAIN-LAIN", KHL PRIME
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT LAIN-LAIN", KHL PRIME
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=132527&extension=ts&play_token=1p5Qyp7EY8
 
-#EXTINF:-1 tvg-logo="-------" group-title="SPORT LAIN-LAIN", TELEKANAL
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT LAIN-LAIN", TELEKANAL
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=132726&extension=ts&play_token=vlJ3fcNuMu
 
 
