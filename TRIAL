@@ -330,7 +330,7 @@ https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 
 
 
- 
+
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/e0ca9c22b972add893fdad34af4255bc.png" group-title="MALAY_SIA 1", MY: Animax
 http://kuchini.site:8080/live/atlantis/FTZ7w6KRM2fHZ94s/157486.m3u8
@@ -1717,6 +1717,45 @@ http://premiumiptvmk.com:8080/live/myhdosama/cjydA4ncmMqx55pf/157584.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONE_SIA 2", ID: ZooMoo
 http://premiumiptvmk.com:8080/live/myhdosama/cjydA4ncmMqx55pf/264751.m3u8
+
+#EXTINF:-1 tvg-logo="_______" group-title="SPORT ASIA", HUB SPORT 1
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=941573&extension=ts&play_token=TAdJtgtiEy
+#EXTINF:-1 tvg-logo="_______" group-title="SPORT ASIA", HUB SPORT 2
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=941572&extension=ts&play_token=ovwFKh7V4Z
+#EXTINF:-1 tvg-logo="_______" group-title="SPORT ASIA", HUB SPORT 3
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=941571&extension=ts&play_token=NHeBnDUEaP
+#EXTINF:-1 tvg-logo="_______" group-title="SPORT ASIA", HUB SPORT PREMIER 1
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:4b:61:87&stream=1350557_&extension=ts
+
+#EXTINF:-1 tvg-logo="_______" group-title="SPORT ASIA", NOW SPORT 1
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032479&extension=ts&play_token=hGRrjPUyyU
+#EXTINF:-1 tvg-logo="_______" group-title="SPORT ASIA", NOW SPORT 2
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032478&extension=ts&play_token=SRT0eR0mbX
+#EXTINF:-1 tvg-logo="_______" group-title="SPORT ASIA", NOW SPORT 3
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032477&extension=ts&play_token=erpep0elTG
+#EXTINF:-1 tvg-logo="_______" group-title="SPORT ASIA", NOW SPORT 4
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032476&extension=ts&play_token=uVa5K2kJum
+#EXTINF:-1 tvg-logo="_______" group-title="SPORT ASIA", NOW SPORT 5
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032475&extension=ts&play_token=1e8lAvJ0Lu
+#EXTINF:-1 tvg-logo="_______" group-title="SPORT ASIA", NOW SPORT 6
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032474&extension=ts&play_token=eLcCOeOgYn
+#EXTINF:-1 tvg-logo="_______" group-title="SPORT ASIA", NOW SPORT 7
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032473&extension=ts&play_token=699aMCZA2z
+#EXTINF:-1 tvg-logo="_______" group-title="SPORT ASIA", NOW SPORT PREMIER 1
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032487&extension=ts&play_token=f8v6LXbTnv
+#EXTINF:-1 tvg-logo="_______" group-title="SPORT ASIA", NOW SPORT PRIME
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032480&extension=ts&play_token=Ybjpa2BRhQ
+#EXTINF:-1 tvg-logo="_______" group-title="SPORT ASIA", SONY TEN SPORT 1
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=14795_&extension=ts
+#EXTINF:-1 tvg-logo="_______" group-title="SPORT ASIA", SONY TEN SPORT 2
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=14794_&extension=ts
+#EXTINF:-1 tvg-logo="_______" group-title="SPORT ASIA", SONY TEN SPORT 3
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=14798_&extension=ts
+#EXTINF:-1 tvg-logo="_______" group-title="SPORT ASIA", SONY TEN SPORT 4
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=1114579&extension=ts&play_token=4LDPYXrgXr
+#EXTINF:-1 tvg-logo="_______" group-title="SPORT ASIA", SONY TEN SPORT 5
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=156016&extension=ts&play_token=sWYEQX5Wdw
+
 
 
 
