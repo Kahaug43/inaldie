@@ -1755,7 +1755,32 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=14798_&extens
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=1114579&extension=ts&play_token=4LDPYXrgXr
 #EXTINF:-1 tvg-logo="_______" group-title="SPORT ASIA", SONY TEN SPORT 5
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=156016&extension=ts&play_token=sWYEQX5Wdw
+#EXTINF:-1 tvg-logo="_______" group-title="SPORT ASIA", TRUE SPORT PREMIER 1
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115758_&extension=ts
+#EXTINF:-1 tvg-logo="_______" group-title="SPORT ASIA", TRUE SPORT PREMIER 2
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115508_&extension=ts
+#EXTINF:-1 tvg-logo="_______" group-title="SPORT ASIA", TRUE SPORT 1
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115531_&extension=ts
+#EXTINF:-1 tvg-logo="_______" group-title="SPORT ASIA", TRUE SPORT 2
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115533_&extension=ts
+#EXTINF:-1 tvg-logo="_______" group-title="SPORT ASIA", TRUE SPORT 5
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115541_&extension=ts
+#EXTINF:-1 tvg-logo="_______" group-title="SPORT ASIA", TRUE SPORT 7
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115798_&extension=ts
+#EXTINF:-1 tvg-logo="_______" group-title="SPORT ASIA", TRUE SPOTV 1
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115684_&extension=ts
+#EXTINF:-1 tvg-logo="_______" group-title="SPORT ASIA", TRUE SPOTV 2
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115433_&extension=ts
+#EXTINF:-1 tvg-logo="_______" group-title="SPORT ASIA", TRUE TENNIS
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115805_&extension=ts
+#EXTINF:-1 tvg-logo="_______" group-title="SPORT ASIA", TRUE FIGHT
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115500_&extension=ts
 
+
+
+
+#EXTINF:-1 tvg-logo="_______" group-title="SPORT LAIN-LAIN", TRACE SPORT STARS
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115318_&extension=ts
 
 
 
