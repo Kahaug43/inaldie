@@ -819,17 +819,17 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=61817_&extens
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/MAX%204.png" group-title="SPORT EROPA", MAX SPORT 4
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=61818_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/508692b4bb39baaa5fc257367b5d799e.png" group-title="RMC SPORT", RMC SPORT 1 HD
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/508692b4bb39baaa5fc257367b5d799e.png" group-title="SPORT EROPA", RMC SPORT 1 HD
 http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/92
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/23bf89ddfb161b3421e73c78b16d2145.png" group-title="RMC SPORT", RMC SPORT 2 HD
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/23bf89ddfb161b3421e73c78b16d2145.png" group-title="SPORT EROPA", RMC SPORT 2 HD
 http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/93
 #EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT EROPA", RMC 2 B
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508156&extension=ts&play_token=Z6JZQHmj4P 
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/0d1c01fd13c353330ad9a25c1484db80.png" group-title="RMC SPORT", RMC SPORT 3 HD
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/0d1c01fd13c353330ad9a25c1484db80.png" group-title="SPORT EROPA", RMC SPORT 3 HD
 http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/94
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/c0ba8f5d77423a254a5f6c8e3b8c0c45.png" group-title="RMC SPORT", RMC SPORT 4 HD
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/c0ba8f5d77423a254a5f6c8e3b8c0c45.png" group-title="SPORT EROPA", RMC SPORT 4 HD
 http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/95
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/e6d0b47b757e61f99c72576c5d86c465.png" group-title="RMC SPORT", RMC SPORT LIVE 5 HD
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/e6d0b47b757e61f99c72576c5d86c465.png" group-title="SPORT EROPA", RMC SPORT LIVE 5 HD
 http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/482
 
 
@@ -948,7 +948,7 @@ http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/10255
 
 #EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT EROPA", NOVA SPORT 
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=9250_&extension=ts
-#EXTINF:-1 tvg-logo="-------" group-title="DIEMA SPORT", S NOVA Sport
+#EXTINF:-1 tvg-logo="-------" group-title="SPORT EROPA", S NOVA Sport
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=154889&extension=ts&play_token=FqNEQrm00y
 
 #EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT EROPA", NOVA SPORT 1
