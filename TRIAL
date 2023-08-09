@@ -475,7 +475,7 @@ http://aca3b.tk:8080/Moskovic/g94XfRcTck/20438
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN GRUP", BEIN SPORTS 7 HD
 http://aca3b.tk:8080/Moskovic/g94XfRcTck/20410
 
-#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT AR", BEIN SPORT NEWS
+#EXTINF:-1 tvg-logo="______" group-title="BEIN GRUP", BEIN SPORT NEWS
 http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=59305_&extension=m3u8
 #EXTINF:-1 tvg-logo="-------" group-title="BEIN GRUP", BEIN HABER
 http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=57793_&extension=ts
@@ -1248,15 +1248,15 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239084&extens
 
 
 
-#EXTINF:-1 tvg-logo="-------" group-title="POLSAT SPORT", Polsat SPORT PREMIUM 1
+#EXTINF:-1 tvg-logo="-------" group-title="SPORT EROPA", POLSAT SPORT PREMIUM 1
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=880327&extension=ts&play_token=bCMdGjsMaP
-#EXTINF:-1 tvg-logo="-------" group-title="SPORT EROPA", Polsat SPORT PREMIUM 2
+#EXTINF:-1 tvg-logo="-------" group-title="SPORT EROPA", POLSAT SPORT PREMIUM 2
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=880326&extension=ts&play_token=gvVtWYd1gP
-#EXTINF:-1 tvg-logo="-------" group-title="SPORT EROPA", Polsat SPORT PREMIUM 3
+#EXTINF:-1 tvg-logo="-------" group-title="SPORT EROPA", POLSAT SPORT PREMIUM 3
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=880326&extension=ts&play_token=gvVtWYd1gP
-#EXTINF:-1 tvg-logo="-------" group-title="SPORT EROPA", Polsat SPORT PREMIUM 4
+#EXTINF:-1 tvg-logo="-------" group-title="SPORT EROPA", POLSAT SPORT PREMIUM 4
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=880324&extension=ts&play_token=Eje4e8RkKj
-#EXTINF:-1 tvg-logo="-------" group-title="SPORT EROPA", Polsat SPORT PREMIUM 5
+#EXTINF:-1 tvg-logo="-------" group-title="SPORT EROPA", POLSAT SPORT PREMIUM 5
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=880323&extension=ts&play_token=2SxlpKQ2ri
 #EXTINF:-1 tvg-logo="-------" group-title="SPORT EROPA", POLSAT SPORT
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=880330&extension=ts&play_token=mZ2Ppbzov0
@@ -1770,14 +1770,16 @@ ESPN SPORT  ##########
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="ESPN SPORT", ##ESPN SPORT###
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 
-
-#EXTINF:-1 tvg-logo="-------" group-title="ESPN SPORT", US ESPN SPORT 1
-http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=45579&extension=ts&play_token=yVIFGtzLtE
-#EXTINF:-1 tvg-logo="-------" group-title="ESPN SPORT", US ESPN SPORT 2
-http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=45580&extension=ts&play_token=yVIFGtzLtE
-#EXTINF:-1 tvg-logo="-------" group-title="ESPN SPORT", US ESPN SPORT U
-http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:b4:d6:f4&stream=90958&extension=ts&play_token=yVIFGtzLtE
-
+#EXTINF:-1 tvg-logo="______" group-title="ESPN SPORT", ESPN 1
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=460917&extension=ts&play_token=FcCkSLTtTN
+#EXTINF:-1 tvg-logo="______" group-title="ESPN SPORT", ESPN 2
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=460916&extension=ts&play_token=Z04RGuetmU
+#EXTINF:-1 tvg-logo="______" group-title="ESPN SPORT", ESPN Vivo 1 LATIN
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=90793&extension=ts&play_token=PaP2loP7oQ
+#EXTINF:-1 tvg-logo="______" group-title="ESPN SPORT", ESPN Vivo 2 LATIN
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=90792&extension=ts&play_token=dlsyxcAlya
+#EXTINF:-1 tvg-logo="______" group-title="ESPN SPORT", ESPN EXTRA LATIN
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=90791&extension=ts&play_token=pzz51R3Gq2
 
 #EXTINF:-1 tvg-logo="______" group-title="ESPN SPORT", NL ESPN 4
 http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=9758_&extension=ts&play_token=FcCkSLTtTN
@@ -1791,18 +1793,7 @@ http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=9706_&extensi
 http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=128893_&extension=ts&play_token=FcCkSLTtTN
 
 
-
-#EXTINF:-1 tvg-logo="______" group-title="ESPN SPORT", ESPN 1
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=460917&extension=ts&play_token=FcCkSLTtTN
-#EXTINF:-1 tvg-logo="______" group-title="ESPN SPORT", ESPN 2
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=460916&extension=ts&play_token=Z04RGuetmU
-#EXTINF:-1 tvg-logo="______" group-title="ESPN SPORT", ESPN Vivo 1 LATIN
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=90793&extension=ts&play_token=PaP2loP7oQ
-#EXTINF:-1 tvg-logo="______" group-title="ESPN SPORT", ESPN Vivo 2 LATIN
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=90792&extension=ts&play_token=dlsyxcAlya
-#EXTINF:-1 tvg-logo="______" group-title="ESPN SPORT", ESPN EXTRA LATIN
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=90791&extension=ts&play_token=pzz51R3Gq2
-EXTINF:-1 tvg-logo="______" group-title="ESPN SPORT", ESPN PREMIUM
+#EXTINF:-1 tvg-logo="______" group-title="ESPN SPORT", ESPN PREMIUM
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=926450&extension=ts&play_token=gpJGAEeMqs
 #EXTINF:-1 tvg-logo="______" group-title="ESPN SPORT", ESPN DEPORTES VIVO
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=75284&extension=ts&play_token=iL6JMBF6Bx
