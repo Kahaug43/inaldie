@@ -1718,6 +1718,24 @@ http://premiumiptvmk.com:8080/live/myhdosama/cjydA4ncmMqx55pf/157584.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONE_SIA 2", ID: ZooMoo
 http://premiumiptvmk.com:8080/live/myhdosama/cjydA4ncmMqx55pf/264751.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo//astrosupersport.png" group-title="SPORT ASIA", ASTRO SUPERSPORT 1
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571245&extension=ts&play_token=oatD6LI1Qd
+
+#EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo//astrosupersport2.png" group-title="SPORT ASIA", ASTRO SUPERSPORT 2
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571248&extension=ts&play_token=KwS7LBpk2j
+
+#EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo//astrosupersport3.png" group-title="SPORT ASIA", ASTRO SUPERSPORT 3
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571247&extension=ts&play_token=YQu2x70UI7
+
+#EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo//astrosupersport3.png" group-title="SPORT ASIA", ASTRO SUPERSPORT 4
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571246&extension=ts&play_token=mionprXuno
+
+#EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo//ASTRORUGBYPASSTV.png" group-title="SPORT ASIA", ASTRO RUGBY PASS TV
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571253&extension=ts&play_token=OqkrNxqNnQ
+
+#EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo/astrocricket.png" group-title="SPORT ASIA", ASTRO CRICKET
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=1036490&extension=ts&play_token=83HkgGZDVI
 #EXTINF:-1 tvg-logo="_______" group-title="SPORT ASIA", HUB SPORT 1
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=941573&extension=ts&play_token=TAdJtgtiEy
 #EXTINF:-1 tvg-logo="_______" group-title="SPORT ASIA", HUB SPORT 2
