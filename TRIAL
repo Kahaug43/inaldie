@@ -871,10 +871,10 @@ SPORT LATIN
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="SPORT LATIN", ###SPORT LATIN###
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 
-#EXTINF:-1 tvg-logo="-------" group-title="TYC SPORT", TYC SPORT
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT LATIN", TYC SPORT
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=79284&extension=ts&play_token=N7EmQhXfa1
 
-#EXTINF:-1 tvg-logo="-------" group-title="TYC SPORT", TYC SPORT BK
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT LATIN", TYC SPORT BK
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=25306&extension=ts&play_token=spmMNxKLPF
 
 
