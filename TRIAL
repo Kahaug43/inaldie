@@ -28,21 +28,21 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch2)/index.m3u8
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch410)/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/METRO.png", group-title="FIRSTMEDIA",METROTV HD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch394)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",IDX CHANNEL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/IDX.png", group-title="FIRSTMEDIA",IDX CHANNEL
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch389)/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/GARUDAtv.png", group-title="FIRSTMEDIA",GARUDATV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch45)/index.m3u8
-#EXTINF:-1 tvg-logo="_____", group-title="FIRSTMEDIA",DAAITV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/DAAI.png", group-title="FIRSTMEDIA",DAAITV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch128)/index.m3u8
-#EXTINF:-1 tvg-logo="_____", group-title="FIRSTMEDIA",HOREE!
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/HOREE.png", group-title="FIRSTMEDIA",HOREE!
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch375)/index.m3u8
-#EXTINF:-1 tvg-logo="_____", group-title="FIRSTMEDIA",JAKTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/JAKTV.png", group-title="FIRSTMEDIA",JAKTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch392)/index.m3u8
-#EXTINF:-1 tvg-logo="_____", group-title="FIRSTMEDIA",JTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/JTV.png", group-title="FIRSTMEDIA",JTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch17)/index.m3u8
-#EXTINF:-1 tvg-logo="_____", group-title="FIRSTMEDIA",TV9 NUSANTARA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/TV9.png", group-title="FIRSTMEDIA",TV9 NUSANTARA
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch352)/index.m3u8
-#EXTINF:-1 tvg-logo="_____", group-title="FIRSTMEDIA",WESTJAVA NETWORK
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/WestJ.png", group-title="FIRSTMEDIA",WESTJAVA NETWORK
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch50)/index.m3u8
 #EXTINF:-1 tvg-logo="_____", group-title="FIRSTMEDIA",BALAIKOTA CHANNEL
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch73)/index.m3u8
