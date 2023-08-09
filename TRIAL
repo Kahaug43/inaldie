@@ -615,7 +615,7 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=68255_&extens
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=102765_&extension=ts
 #EXTINF:-1 tvg-logo="-------" group-title="SPORT EROPA", S SPORT
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=29745_&extension=ts
-#EXTINF:-1 tvg-logo="-------" group-title="TR SPORT", S SPORT 2
+#EXTINF:-1 tvg-logo="-------" group-title="SPORT EROPA", S SPORT 2
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=46640_&extension=ts
 
 
