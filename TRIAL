@@ -3317,24 +3317,6 @@ http://31.42.184.159:2082/Spada/Spada12/211730
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", US: Music Choice Y2K
 http://31.42.184.159:2082/Spada/Spada12/211731
 
-#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/b49882eae96bb41a7fa1feb6aa7acc18.png" group-title="Canada", CA: MTV 2
-http://31.42.184.159:2082/Spada/Spada12/224468
-
-#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/d0411ba8d62b11c0cfcb88a446c9201b.png" group-title="Canada", CA: FR Music Plus
-http://31.42.184.159:2082/Spada/Spada12/135359
-
-#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/8077bcf1febdc27d012cdd54d696e58c.png" group-title="MUSIC MTV", LEB: MTV HD
-http://31.42.184.159:2082/Spada/Spada12/43984
-
-#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/8077bcf1febdc27d012cdd54d696e58c.png" group-title="MUSIC MTV", LEB: MTV HEVC
-http://31.42.184.159:2082/Spada/Spada12/39338
-
-#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/8077bcf1febdc27d012cdd54d696e58c.png" group-title="MUSIC MTV", LEB: MTV 4k
-http://31.42.184.159:2082/Spada/Spada12/66157
-
-#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/8077bcf1febdc27d012cdd54d696e58c.png" group-title="MUSIC MTV", +6h MTV
-http://31.42.184.159:2082/Spada/Spada12/235924
-
 #EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/6f5bd34cb9b2b45c90e028d7f1a17c29.png" group-title="MUSIC MTV", OSN ALFA MUSIC NOW HD
 http://31.42.184.159:2082/Spada/Spada12/85635
 
@@ -3560,9 +3542,6 @@ http://31.42.184.159:2082/Spada/Spada12/143448
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC MTV", BG: BALKANIKA MTV
 http://31.42.184.159:2082/Spada/Spada12/229418
 
-#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/cf23addc4cc2130a6e9341531f90719f.png" group-title="MUSIC MTV", ➤ Music
-http://31.42.184.159:2082/Spada/Spada12/225844
-
 #EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/b49882eae96bb41a7fa1feb6aa7acc18.png" group-title="MUSIC MTV", HU: MTV EU
 http://31.42.184.159:2082/Spada/Spada12/157640
 
@@ -3754,8 +3733,6 @@ http://31.42.184.159:2082/Spada/Spada12/226779
 #EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/0b4b41a4738cb128a455cf4e7d4ecc2c.png" group-title="DISCOVERY", beIN Discovery Turbo Xtra DTX
 http://31.42.184.159:2082/Spada/Spada12/24030
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Africa", AF: Investigation Discovery
-http://31.42.184.159:2082/Spada/Spada12/232624
 
 #EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/e42be2028f3a5db71c140fef7d466508.png" group-title="DISCOVERY", TR: Discovery Channel
 http://31.42.184.159:2082/Spada/Spada12/77303
