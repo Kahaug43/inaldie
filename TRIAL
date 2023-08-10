@@ -346,7 +346,7 @@ http://210.210.155.37/uq2663/h/h223/index.m3u8
 #######################
 MNC GRUP    ############
 ################################################################################################################################################################################# MOVIE ASIA
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="MNC GRUP", ###MNC GRUP###
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="MNC GRUP", ###MNC GRUP (OTT)###
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
