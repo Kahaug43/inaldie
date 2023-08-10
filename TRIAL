@@ -8305,6 +8305,16 @@ ARAB SPORT  ###########
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 
 
+#EXTINF:-1 tvg-logo="______" group-title="ARAB SPORT",  SSC SPORT 1
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1022746_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="ARAB SPORT",  SSC SPORT 2
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1022747_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="ARAB SPORT",  SSC SPORT 3
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1022648_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="ARAB SPORT",  SSC SPORT 4
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1022748_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="ARAB SPORT",  SSC SPORT 5
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1022749_&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="ARAB SPORT",  SSC SPORT EXTRA 1
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1022750_&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="ARAB SPORT",  SSC SPORT EXTRA 2
