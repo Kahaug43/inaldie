@@ -8305,6 +8305,49 @@ ARAB SPORT  ###########
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 
 
+#EXTINF:-1 tvg-logo="______" group-title="ARAB SPORT",  SSC SPORT EXTRA 1
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1022750_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="ARAB SPORT",  SSC SPORT EXTRA 2
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1022751_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="ARAB SPORT",  KSA SPORT 1
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1022664_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="ARAB SPORT",  KSA SPORT 2
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1022666_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="ARAB SPORT",  KSA SPORT 3
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1022667_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="ARAB SPORT",  KSA SPORT 4
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1022668_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="ARAB SPORT",  AL KASS SPORT 1
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1022519_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="ARAB SPORT",  AL KASS SPORT 2
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1022521_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="ARAB SPORT",  AL KASS SPORT 3
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1022520_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="ARAB SPORT",  AL KASS SPORT 4
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1022518_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="ARAB SPORT",  ON TIME SPORT 1
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1022439_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="ARAB SPORT",  ON TIME SPORT 2
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1022441_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="ARAB SPORT",  ABU DHABI SPORT 1
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1022256_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="ARAB SPORT",  ABU DHABI SPORT 2
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1022257_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="ARAB SPORT",  LIBYA SPORT 
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1022249_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="ARAB SPORT",  IRAQIA SPORT 
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1022169_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="ARAB SPORT",  KUWAIT SPORT
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1022797_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="ARAB SPORT",  KUWAIT SPORT+
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1022796_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="ARAB SPORT",  NILE SPORT
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1022433_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="ARAB SPORT",  ZAMALEK TV
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1022467_&extension=ts
+
+
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARAB SPORT", SSC 1 
 http://ghostiptv.vip:80/live/162CBD98400E/63769b7dd9734/78274.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARAB SPORT", SSC 2 
