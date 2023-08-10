@@ -1,20 +1,16 @@
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#♦WELCOME MY PLAYLIST INALDIE♦#", WELCOME MY PLAYLIST
 https://github.com/inaldie/inaldie/raw/main/WELCOM.ts
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#♦♣JOIN GRUP TELE♦♣#", JOINT TELEGRAM https://t.me/IPTVcostum
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#♣♦♥️DONASI FOR GRUP♣♦♥️#", DONASI KE https://saweria.co/Inaldie22
 https://github.com/inaldie/inaldie/raw/main/DONATE.ts
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#⚽LIVE EVENT BOLA⚽#", BOLA 1
 http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=23580&extension=ts
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#⚽LIVE EVENT BOLA⚽#", BOLA 2
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=107436&extension=ts&play_token=Aj5Ctlhy7i
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#⚽LIVE EVENT BOLA⚽#", BOLA 3
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=14828_&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#⚽LIVE EVENT BOLA⚽#", BOLA 4
@@ -44,13 +40,10 @@ http://humiptv.live:8080/live/tarun589853/5787489bcsh/151181.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#🏍️LIVE EVENT MOTOGP🏍️#", GP 1
 http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=507710&extension=ts&play_token=ECqMKl1s4L
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#🏍️LIVE EVENT MOTOGP🏍️#", GP 2
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692422&extension=ts&play_token=Nc9qifjsYN
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#🏍️LIVE EVENT MOTOGP🏍️#", GP 3
 http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/3616
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#🏍️LIVE EVENT MOTOGP🏍️#", GP 4
 http://aflaxtv.xyz:8080/Vladisergeevic/7eef2c4388/11638
 
