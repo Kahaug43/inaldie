@@ -872,6 +872,22 @@ ASIA SPORT  ###########
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 
 
+
+#EXTINF:-1 tvg-logo="-------" group-title="ASIA SPORT", SPOTV 1
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683117&extension=ts&play_token=ttKChD9xXt
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASIA SPORT", SPOTV 1
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/143137.ts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASIA SPORT", SPOTV 2
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/151193.ts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASIA SPORT", SPORTSTAR 1
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/151188.ts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASIA SPORT", SPORTSTAR 2
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/151187.ts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASIA SPORT", SPORTSTAR 3
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/151181.ts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASIA SPORT", SOCCER CHANEL
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/151186.ts
+
 #EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo//astrosupersport.png" group-title="ASIA SPORT", ASTRO SUPERSPORT 1
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571245&extension=ts&play_token=oatD6LI1Qd
 #EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo//astrosupersport2.png" group-title="ASIA SPORT", ASTRO SUPERSPORT 2
@@ -955,22 +971,6 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=65516_&extens
 http://humiptv.live:8080/live/tarun589853/5787489bcsh/143063.ts
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASIA SPORT", BEIN 2
 http://humiptv.live:8080/live/tarun589853/5787489bcsh/143060.ts
-
-
-#EXTINF:-1 tvg-logo="-------" group-title="ASIA SPORT", SPOTV 1
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683117&extension=ts&play_token=ttKChD9xXt
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASIA SPORT", SPOTV 1
-http://humiptv.live:8080/live/tarun589853/5787489bcsh/143137.ts
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASIA SPORT", SPOTV 2
-http://humiptv.live:8080/live/tarun589853/5787489bcsh/151193.ts
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASIA SPORT", SPORTSTAR 1
-http://humiptv.live:8080/live/tarun589853/5787489bcsh/151188.ts
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASIA SPORT", SPORTSTAR 2
-http://humiptv.live:8080/live/tarun589853/5787489bcsh/151187.ts
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASIA SPORT", SPORTSTAR 3
-http://humiptv.live:8080/live/tarun589853/5787489bcsh/151181.ts
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASIA SPORT", SOCCER CHANEL
-http://humiptv.live:8080/live/tarun589853/5787489bcsh/151186.ts
 
 
 
@@ -1074,36 +1074,42 @@ http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=591559&extension
 http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=8116&extension=ts&play_token=9toeC6kh9K
 
 
+
+
+
 #######################
-TR SPORT  ###########
+TURKY SPORT  ###########
 ################################################################################################################################################################################# ARAB SPORT
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="TR SPORT", ###TURKY SPORT###
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="TURKY SPORT", ###TURKY SPORT###
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 
-#EXTINF:-1 tvg-logo="______" group-title="TR SPORT", TRT SPORT 1
+#EXTINF:-1 tvg-logo="______" group-title="TURKY SPORT", TRT SPORT 1
 http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=14828_&extension=ts&play_token=FcCkSLTtTN
-#EXTINF:-1 tvg-logo="______" group-title="TR SPORT", TRT SPORT 2
+#EXTINF:-1 tvg-logo="______" group-title="TURKY SPORT", TRT SPORT 2
 http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=46642_&extension=ts&play_token=FcCkSLTtTN
-#EXTINF:-1 tvg-logo="______" group-title="TR SPORT", TRT SPORT 3
+#EXTINF:-1 tvg-logo="______" group-title="TURKY SPORT", TRT SPORT 3
 http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=68255_&extension=ts&play_token=FcCkSLTtTN
-#EXTINF:-1 tvg-logo="______" group-title="TR SPORT", TIVIBU SPORT 1
+#EXTINF:-1 tvg-logo="______" group-title="TURKY SPORT", TIVIBU SPORT 1
 http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=13469_&extension=ts&play_token=FcCkSLTtTN
-#EXTINF:-1 tvg-logo="______" group-title="TR SPORT", TIVIBU SPORT 2
+#EXTINF:-1 tvg-logo="______" group-title="TURKY SPORT", TIVIBU SPORT 2
 http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=13470_&extension=ts&play_token=FcCkSLTtTN
-#EXTINF:-1 tvg-logo="______" group-title="TR SPORT", TIVIBU SPORT 3
+#EXTINF:-1 tvg-logo="______" group-title="TURKY SPORT", TIVIBU SPORT 3
 http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=13458_&extension=ts&play_token=FcCkSLTtTN
-#EXTINF:-1 tvg-logo="______" group-title="TR SPORT", SMART SPORT
+#EXTINF:-1 tvg-logo="______" group-title="TURKY SPORT", SMART SPORT
 http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=13471_&extension=ts&play_token=FcCkSLTtTN
-#EXTINF:-1 tvg-logo="______" group-title="TR SPORT", A SPORT
+#EXTINF:-1 tvg-logo="______" group-title="TURKY SPORT", A SPORT
 http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=14824_&extension=ts&play_token=FcCkSLTtTN
-#EXTINF:-1 tvg-logo="______" group-title="TR SPORT", SPORTS TV
+#EXTINF:-1 tvg-logo="______" group-title="TURKY SPORT", SPORTS TV
 http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=1117_&extension=ts&play_token=FcCkSLTtTN
-#EXTINF:-1 tvg-logo="______" group-title="TR SPORT", NBA TV
+#EXTINF:-1 tvg-logo="______" group-title="TURKY SPORT", NBA TV
 http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=63107_&extension=ts&play_token=FcCkSLTtTN
-#EXTINF:-1 tvg-logo="______" group-title="TR SPORT", TJK TV
+#EXTINF:-1 tvg-logo="______" group-title="TURKY SPORT", TJK TV
 http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=8708_&extension=ts&play_token=FcCkSLTtTN
-#EXTINF:-1 tvg-logo="______" group-title="TR SPORT", TAY TV
+#EXTINF:-1 tvg-logo="______" group-title="TURKY SPORT", TAY TV
 http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=14836_&extension=ts&play_token=FcCkSLTtTN
+
+
+
 
 
 #######################
