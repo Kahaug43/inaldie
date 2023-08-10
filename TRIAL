@@ -2079,13 +2079,175 @@ MOVIE MANCANAGARA  #######
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 
 
+#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/68ef0f174963fe248d689cd52d10170b.png/" group-title="MOVIE MANCANEGARA", UK: CineBox 2 Animation
+http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/297178
+#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/68ef0f174963fe248d689cd52d10170b.png/" group-title="MOVIE MANCANEGARA", UK: CineBox 3 Blockbuster
+http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/297179
+#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/68ef0f174963fe248d689cd52d10170b.png/" group-title="MOVIE MANCANEGARA", UK: CineBox 4 Classic
+http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/297180
+#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/68ef0f174963fe248d689cd52d10170b.png/" group-title="MOVIE MANCANEGARA", UK: CineBox 5 Comedy
+http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/297181
+#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/68ef0f174963fe248d689cd52d10170b.png/" group-title="MOVIE MANCANEGARA", UK: CineBox 6 Cult
+http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/297182
+#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/68ef0f174963fe248d689cd52d10170b.png/" group-title="MOVIE MANCANEGARA", UK: CineBox 7 Family
+http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/297183
+#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/68ef0f174963fe248d689cd52d10170b.png/" group-title="MOVIE MANCANEGARA", UK: CineBox 8 Greats
+http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/297184
+#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/68ef0f174963fe248d689cd52d10170b.png/" group-title="MOVIE MANCANEGARA", UK: CineBox 9
+http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/297185
+#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/68ef0f174963fe248d689cd52d10170b.png/" group-title="MOVIE MANCANEGARA", UK: CineBox 10
+http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/297186
+#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/68ef0f174963fe248d689cd52d10170b.png/" group-title="MOVIE MANCANEGARA", UK: CineBox 4 Classic
+http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/297180
+
+
+
 #######################
 KIDS DISNEY  ##########
 ################################################################################################################################################################################# KIDS DISNEY
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="KIDS DISNEY", ###KIDS DISNEY###
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 
+#EXTINF:-1 tvg-logo="-------" group-title="KIDS DISNEY", BABY TV
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683167&extension=ts&play_token=YxD3RNpNHh
+#EXTINF:-1 tvg-logo="-------" group-title="KIDS DISNEY", DISNEY XD
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683171&extension=ts&play_token=roQs0qUXIk
+#EXTINF:-1 tvg-logo="-------" group-title="KIDS DISNEY", MIAOMI
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683169&extension=ts&play_token=5WRxJE0JKa
+#EXTINF:-1 tvg-logo="-------" group-title="KIDS DISNEY", KIDS TV
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683169&extension=ts&play_token=5WRxJE0JKa
+#EXTINF:-1 tvg-logo="-------" group-title="KIDS DISNEY", KIDS T
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683166&extension=ts&play_token=ll1pa9CLOm
+#EXTINF:-1 tvg-logo="-------" group-title="KIDS DISNEY", NICKELODEON
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683175&extension=ts&play_token=YL3Z9Itv9E
+#EXTINF:-1 tvg-logo="-------" group-title="KIDS DISNEY", NICK+
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=282630&extension=ts&play_token=2gnESSZM7r
+#EXTINF:-1 tvg-logo="-------" group-title="KIDS DISNEY", DREAMWORK
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=941656&extension=ts&play_token=7zXwQYPWKf
+#EXTINF:-1 tvg-logo="-------" group-title="KIDS DISNEY", CARTOON NETWORK
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=1110636&extension=ts&play_token=3JzEl5a3Hl
+#EXTINF:-1 tvg-logo="-------" group-title="KIDS DISNEY", ZOOMOO
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683172&extension=ts&play_token=JftQIP2w9r
 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", US: CARTOON NETWORK EAST HD
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/117390
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", US: CARTOON NETWORK WEST HD
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/117358
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", US: DISNEY CHANNEL EAST HD
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/117337
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", US: DISNEY CHANNEL WEST HD
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/151254
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", US: DISNEY JR EAST HD
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/117341
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", US: DISNEY JR WEST HD
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/151253
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", US: DISNEY XD EAST HD
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/117344
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", US: DISNEY XD WEST HD
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/151252
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", US: NICKELODEON EAST HD
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/117469
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", US: NICKELODEON WEST HD
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/117357
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", US: NICK JR EAST HD
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/117467
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", US: NICK JR WEST HD
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/117356
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", US: NICKTOONS HD
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/117347
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", US: NICK MUSIC
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/117550
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", US: TEENNICK HD (WEST)
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/173365
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", US: TEENNICK  HD (EAST)
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/211294
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", US: CARTOON NETWORK / ADULT SWIM
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/211305
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", US: NICKTOONS EAST HD
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/340345
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", US: NICKTOONS WEST HD
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/340346
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", US: CARTOON NETWORK EN ESPAÑOL HD
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/340445
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", CA: CARTOON NETWORK HD
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/150450
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", CA: DISNEY CHANNEL HD
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/150531
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", CA: DISNEY JR HD
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/150532
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", CA: DISNEY XD HD
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/150535
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", CA: NICKELODEN HD
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/150641
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", US: NICKELODEON HD (V)
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/375909
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", US: NICK JR HD (V)
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/375910
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", US: TEENNICK HD (V)
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/375911
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", US: NICKTOONS HD (V)
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/375912
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", US: DISNEY CHANNEL HD (V)
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/375913
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", US: DISNEY JR HD (V)
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/375914
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", US: DISNEY XD HD (V)
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/375915
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", US| DISNEY CHANNEL (EAST) (SP)
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/376392
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", US| DISNEY CHANNEL (WEST) (SP)
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/376393
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", US| DISNEY JR (EAST) (SP)
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/376394
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", US| DISNEY JR (WEST) (SP)
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/376395
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", US| DISNEY XD (EAST) (SP)
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/376396
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", US| DISNEY XD (WEST) (SP)
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/376397
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", US| NICKELODEON (EAST) (SP)
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/376398
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", US| NICKELODEON (WEST) (SP)
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/376399
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", US| NICK JR (EAST) (SP)
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/376400
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", US| NICK JR (WEST) (SP)
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/376401
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", US| NICKTOONS (EAST) (SP)
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/376402
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", US| NICKTOONS (WEST) (SP)
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/376403
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", US| TEENNICK (EAST) (SP)
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/376404
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", US| TEENNICK (WEST) (SP)
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/376405
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", US| NICK MUSIC (SP)
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/376406
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", US| CARTOON NETWORK (EAST) (SP)
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/376407
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", US| CARTOON NETWORK (WEST) (SP)
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/376408
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", US| BOOMERANG (SP)
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/376409
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", US| CARTOON NETWORK EN ESPANOL (SP)
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/377684
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", US| CARTOON NETWORK EN ESPANOL (SP)
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/377685
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", US| DISNEY XD ESPANOL EAST (SP)
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/377686
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", US| DISNEY XD ESPANOL WEST (SP)
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/377687
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", US| BOOMERANG ESPANOL (SP)
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/377819
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", Pluto US| After School Cartoons
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/377969
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", Pluto US| NICK JR LATINO
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/378087
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", Pluto US| NICKELODEON LATINO
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/378088
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", NZ: NICKELODEON
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/392423
 
 
 
