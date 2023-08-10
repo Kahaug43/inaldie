@@ -1108,6 +1108,28 @@ http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=8708_&extensi
 #EXTINF:-1 tvg-logo="______" group-title="TURKY SPORT", TAY TV
 http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=14836_&extension=ts&play_token=FcCkSLTtTN
 
+#EXTINF:-1 tvg-logo="-------" group-title="TURKY SPORT", TIVIBU SPORT 1
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13469_&extension=ts
+#EXTINF:-1 tvg-logo="-------" group-title="TURKY SPORT", TIVIBU SPORT 2
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13470_&extension=ts
+#EXTINF:-1 tvg-logo="-------" group-title="TURKY SPORT", TIVIBU SPORT 3
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13458_&extension=ts
+#EXTINF:-1 tvg-logo="-------" group-title="TURKY SPORT", SMART SPORT
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13471_&extension=ts
+#EXTINF:-1 tvg-logo="-------" group-title="TURKY SPORT", A SPORT
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=14824_&extension=ts
+#EXTINF:-1 tvg-logo="-------" group-title="TURKY SPORT", TRT SPORT
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=14828_&extension=ts
+#EXTINF:-1 tvg-logo="-------" group-title="TURKY SPORT", TRT SPORT 2
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=46642_&extension=ts
+#EXTINF:-1 tvg-logo="-------" group-title="TURKY SPORT", TRT SPORT 3
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=68255_&extension=ts
+#EXTINF:-1 tvg-logo="-------" group-title="TURKY SPORT", TRT SPORT PLUS
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=102765_&extension=ts
+#EXTINF:-1 tvg-logo="-------" group-title="TURKY SPORT", S SPORT
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=29745_&extension=ts
+#EXTINF:-1 tvg-logo="-------" group-title="TURKY SPORT", S SPORT 2
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=46640_&extension=ts
 
 
 
@@ -1739,30 +1761,6 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=80537&extension
 #EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT EROPA", ZIGGO SPORT VOETBALL
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=80538&extension=ts
 
-
-
-#EXTINF:-1 tvg-logo="-------" group-title="TR SPORT", TIVIBU SPORT 1
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13469_&extension=ts
-#EXTINF:-1 tvg-logo="-------" group-title="TR SPORT", TIVIBU SPORT 2
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13470_&extension=ts
-#EXTINF:-1 tvg-logo="-------" group-title="TR SPORT", TIVIBU SPORT 3
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13458_&extension=ts
-#EXTINF:-1 tvg-logo="-------" group-title="TR SPORT", SMART SPORT
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13471_&extension=ts
-#EXTINF:-1 tvg-logo="-------" group-title="TR SPORT", A SPORT
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=14824_&extension=ts
-#EXTINF:-1 tvg-logo="-------" group-title="TR SPORT", TRT SPORT
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=14828_&extension=ts
-#EXTINF:-1 tvg-logo="-------" group-title="TR SPORT", TRT SPORT 2
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=46642_&extension=ts
-#EXTINF:-1 tvg-logo="-------" group-title="TR SPORT", TRT SPORT 3
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=68255_&extension=ts
-#EXTINF:-1 tvg-logo="-------" group-title="TR SPORT", TRT SPORT PLUS
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=102765_&extension=ts
-#EXTINF:-1 tvg-logo="-------" group-title="TR SPORT", S SPORT
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=29745_&extension=ts
-#EXTINF:-1 tvg-logo="-------" group-title="TR SPORT", S SPORT 2
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=46640_&extension=ts
 
 #EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT EROPA", S SPORT TV 1
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=161952&extension=ts&play_token=49oVKQPh3R
