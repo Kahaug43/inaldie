@@ -1999,8 +1999,78 @@ MOVIE ASIA  ###########
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="MOVIE ASIA", ###MOVIE ASIA###
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 
-
-
+#EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA", ASTRO OASIS
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571238&extension=ts&play_token=Pxw1nnzhzz
+#EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA", ASTRO Vaanavil
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571233&extension=ts&play_token=piYCPCqJGG
+#EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA", ASTRO IQIYI
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571198&extension=ts&play_token=hRuuLYo00p
+#EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA", ASTRO XIAO TAI YANG
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571230&extension=ts&play_token=Yta3e8Qsnk
+#EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA", ASTRO AOD 351
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571226&extension=ts&play_token=LqvcYpx38K
+#EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA", ASTRO AOD 352
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571225&extension=ts&play_token=wt0kwXcvFs
+#EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA", ASTRO AOD 353
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571229&extension=ts&play_token=mV27xOjoHh
+#EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA", ASTRO ONE
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571193&extension=ts&play_token=Xe6hMCZOQT
+#EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA", ASTRO AWANI
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571243&extension=ts&play_token=vHCxA4VVCN
+#EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA", ASTRO RANIA
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571256&extension=ts&play_token=jeUFBopj40
+#EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA", ASTRO AURA
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571257&extension=ts&play_token=F7zkuEWiDN
+#EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA", ASTRO Star Vijay
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571235&extension=ts&play_token=M8aovx7mOs
+#EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA", Astro Vinmeen
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571232&extension=ts&play_token=g6qpv2nU7t
+#EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA", CELESTIAL MOVIE
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683142&extension=ts&play_token=Y8cesKbc2P
+#EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA",CELESTIAL CLASIC MOVIE
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683110&extension=ts&play_token=0HEhkPx95c
+#EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA", AXN
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683144&extension=ts&play_token=yFbPL6JUPE
+#EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA", CINEMAX
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571214&extension=ts&play_token=O60MNTrHns
+#EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA", MOVIE NOW
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=1116477&extension=ts&play_token=DqUbaz9inn
+#EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA", &Flix
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=282632&extension=ts&play_token=D0oyMUxS3A
+#EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA", &Prive
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=155746&extension=ts&play_token=uG6cJPH2FF
+#EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA", STAR MOVIE
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=282639&extension=ts&play_token=gjQNgDXxy7
+#EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA", STAR MOVIE SELECT
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=155729&extension=ts&play_token=0PPEjDb7oS
+#EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA", MNX+
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=1110624&extension=ts&play_token=cT3SQ9NFiW
+#EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA", PARAMOUNT
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=926158&extension=ts&play_token=aAJE4w4Gau
+#EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA", SONY PIX
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=282631&extension=ts&play_token=8uyVaHXjlG
+#EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA", HITS
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683145&extension=ts&play_token=RsXf2Szbxq
+#EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA", HITS MOVIE
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683163&extension=ts&play_token=KFFVNJuNdd
+#EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA", CINEMA WORLD
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683146&extension=ts&play_token=GMmKMoGPZ3
+#EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA", TVN
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683148&extension=ts&play_token=tFKAbCwzok
+#EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA",TVN MOVIE
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683149&extension=ts&play_token=iZbICZTGQ4
+#EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA",THRILL
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683154&extension=ts&play_token=W6sqoxb1Px
+#EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA", SONY ONE
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683130&extension=ts&play_token=MqzhIAfDY8
+#EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA", KIX
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683134&extension=ts&play_token=maTP7oXtlI
+#EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA", KBS WORLD
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=941631&extension=ts&play_token=rDN5xOMx4v
+#EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA", FMN TELENOVELA
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683143&extension=ts&play_token=TeIVxddeud
+#EXTINF:-1 tvg-logo="xxxxxxxxxxxxxxxx" group-title="MOVIE ASIA", ZEE BIOSKOP
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683155&extension=ts&play_token=RMCZ5rD42m
 
 ##########################
 MOVIE MANCANAGARA  #######
