@@ -1776,30 +1776,30 @@ LATIN SPORT
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="LATIN SPORT", ###LATIN SPORT###
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="LATIN SPORT", TYC SPORT
+#EXTINF:-1 https://github.com/inaldie/LOGO-CHANEL/blob/main/TYC.png" group-title="LATIN SPORT", TYC SPORT
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=79284&extension=ts&play_token=N7EmQhXfa1
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="LATIN SPORT", TYC SPORT BK
+#EXTINF:-1 https://github.com/inaldie/LOGO-CHANEL/blob/main/TYC.png" group-title="LATIN SPORT", TYC SPORT BK
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=25306&extension=ts&play_token=spmMNxKLPF
 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="LATIN SPORT", TSN 1
+#EXTINF:-1 tvg-logo="http://stmgroup.xyz/logo/tsn1.png" group-title="LATIN SPORT", TSN 1
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=177344&extension=ts&play_token=9WV10w3wHZ 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="LATIN SPORT", TSN 2
+#EXTINF:-1 tvg-logo="http://stmgroup.xyz/logo/tsn2.png" group-title="LATIN SPORT", TSN 2
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=177345&extension=ts&play_token=H0P1T4ifR8 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="LATIN SPORT", TSN 3
+#EXTINF:-1 tvg-logo="http://stmgroup.xyz/logo/tsn3.png" group-title="LATIN SPORT", TSN 3
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=177346&extension=ts&play_token=I4WnM2pics 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="LATIN SPORT", TSN 4 
+#EXTINF:-1 tvg-logo="http://stmgroup.xyz/logo/tsn4.png" group-title="LATIN SPORT", TSN 4 
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=177347&extension=ts&play_token=vBeq3z0dWP 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="LATIN SPORT", TSN 5 
+#EXTINF:-1 tvg-logo="http://stmgroup.xyz/logo/tsn5.png" group-title="LATIN SPORT", TSN 5 
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=177348&extension=ts&play_token=CN2xBNmpdp 
 
 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="LATIN SPORT", SPORTV HD
+#EXTINF:-1 tvg-logo="https://s8.postimg.cc/qthzouo05/1516325501_a57d469ee395de417336e66ec14dd41ddbf22918.jpg" group-title="LATIN SPORT", SPORTV HD
 http://joao-1-us.mainbkonline.shop:80/368658477088/530145744781/73
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="LATIN SPORT", SPORTV 2 HD
+#EXTINF:-1 tvg-logo="https://s8.postimg.cc/7oeqf3h1x/1516325624_37a7dacc74e5ee85edf0c0c2074a56e4bb894bca.jpg" group-title="LATIN SPORT", SPORTV 2 HD
 http://joao-1-us.mainbkonline.shop:80/368658477088/530145744781/71
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="LATIN SPORT", SPORTV 3 HD
+#EXTINF:-1 tvg-logo="https://s8.postimg.cc/7oeqf3h1x/1516325624_37a7dacc74e5ee85edf0c0c2074a56e4bb894bca.jpg" group-title="LATIN SPORT", SPORTV 3 HD
 http://joao-1-us.mainbkoine.shop:80/368658477088/530145744781/72
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="LATIN SPORT", BAND SPORT HD
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="LATIN SPORT", BAND SPORT HD 
 http://joao-1-us.mainbkonline.shop:80/368658477088/530145744781/5
 
 
