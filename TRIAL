@@ -7267,8 +7267,6 @@ ASIA SPORT  ###########
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="ASIA SPORT", ###ASIA SPORT###
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 
-
-
 #EXTINF:-1 tvg-logo="-------" group-title="ASIA SPORT", SPOTV 1
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683117&extension=ts&play_token=ttKChD9xXt
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASIA SPORT", SPOTV 1
@@ -7296,32 +7294,50 @@ http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571246&extension=
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571253&extension=ts&play_token=OqkrNxqNnQ
 #EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo/astrocricket.png" group-title="ASIA SPORT", ASTRO CRICKET
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=1036490&extension=ts&play_token=83HkgGZDVI
-#EXTINF:-1 tvg-logo="_______" group-title="ASIA SPORT", HUB SPORT 1
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/HUB%201.png" group-title="HUB SPORT", HUB SPORT 1
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=941573&extension=ts&play_token=TAdJtgtiEy
-#EXTINF:-1 tvg-logo="_______" group-title="ASIA SPORT", HUB SPORT 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/HUB%202.png" group-title="HUB SPORT", HUB SPORT 2
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=941572&extension=ts&play_token=ovwFKh7V4Z
-#EXTINF:-1 tvg-logo="_______" group-title="ASIA SPORT", HUB SPORT 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/HUB%203.png" group-title="HUB SPORT", HUB SPORT 3
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=941571&extension=ts&play_token=NHeBnDUEaP
-#EXTINF:-1 tvg-logo="_______" group-title="ASIA SPORT", HUB SPORT PREMIER 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/HUB%20Premier.png" group-title="HUB SPORT", HUB SPORT PREMIER 1
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:4b:61:87&stream=1350557_&extension=ts
-#EXTINF:-1 tvg-logo="_______" group-title="ASIA SPORT", NOW SPORT 1
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032479&extension=ts&play_token=hGRrjPUyyU
-#EXTINF:-1 tvg-logo="_______" group-title="ASIA SPORT", NOW SPORT 2
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032478&extension=ts&play_token=SRT0eR0mbX
-#EXTINF:-1 tvg-logo="_______" group-title="ASIA SPORT", NOW SPORT 3
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032477&extension=ts&play_token=erpep0elTG
-#EXTINF:-1 tvg-logo="_______" group-title="ASIA SPORT", NOW SPORT 4
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032476&extension=ts&play_token=uVa5K2kJum
-#EXTINF:-1 tvg-logo="_______" group-title="ASIA SPORT", NOW SPORT 5
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032475&extension=ts&play_token=1e8lAvJ0Lu
-#EXTINF:-1 tvg-logo="_______" group-title="ASIA SPORT", NOW SPORT 6
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%201.png" group-title="NOW SPORT", HK| NOW SPORT 1 HD
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032479&extension=ts&play_token=hGRrjPUyyU 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%202.png" group-title="NOW SPORT", HK| NOW SPORT 2 HD
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032478&extension=ts&play_token=SRT0eR0mbX 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%203.png" group-title="NOW SPORT", HK| NOW SPORT 3 HD
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032477&extension=ts&play_token=erpep0elTG 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%204.png" group-title="NOW SPORT", HK| NOW SPORT 4 HD
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032476&extension=ts&play_token=uVa5K2kJum 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%205.png" group-title="NOW SPORT", HK| NOW SPORT 5 HD
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032475&extension=ts&play_token=1e8lAvJ0Lu 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%206.png" group-title="NOW SPORT", HK| NOW SPORT 6 HD
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032474&extension=ts&play_token=eLcCOeOgYn
-#EXTINF:-1 tvg-logo="_______" group-title="ASIA SPORT", NOW SPORT 7
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032473&extension=ts&play_token=699aMCZA2z
-#EXTINF:-1 tvg-logo="_______" group-title="ASIA SPORT", NOW SPORT PREMIER 1
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032487&extension=ts&play_token=f8v6LXbTnv
-#EXTINF:-1 tvg-logo="_______" group-title="ASIA SPORT", NOW SPORT PRIME
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%207.png" group-title="NOW SPORT", HK| NOW SPORT 7 HD
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032473&extension=ts&play_token=699aMCZA2z 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%201.png" group-title="NOW SPORT", HK| Now SPORT 1 B
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032487&extension=ts&play_token=f8v6LXbTnv 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%20PREMIER.png" group-title="NOW SPORT", HK| NOW SPORT PRIME
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032480&extension=ts&play_token=Ybjpa2BRhQ
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%201.png" group-title="NOW SPORT", NOW SPORT 1
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497551&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%202.png" group-title="NOW SPORT", NOW SPORT 2
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497552&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%203.png" group-title="NOW SPORT", NOW SPORT 3
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497553&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%204.png" group-title="NOW SPORT", NOW SPORT 4
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497554&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%205.png" group-title="NOW SPORT", NOW SPORT 5
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497555&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%206.png" group-title="NOW SPORT", NOW SPORT 6
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497556&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%207.png" group-title="NOW SPORT", NOW SPORT 7
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497557&extension=ts
+
 #EXTINF:-1 tvg-logo="_______" group-title="ASIA SPORT", SONY TEN SPORT 1
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=14795_&extension=ts
 #EXTINF:-1 tvg-logo="_______" group-title="ASIA SPORT", SONY TEN SPORT 2
@@ -7336,6 +7352,8 @@ http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=156016&extension=
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=7892_&extension=ts
 #EXTINF:-1 tvg-logo="_______" group-title="ASIA SPORT", STAR SPORT 2
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=7893_&extension=ts
+
+
 #EXTINF:-1 tvg-logo="_______" group-title="ASIA SPORT", TRUE SPORT PREMIER 1
 http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115758_&extension=ts
 #EXTINF:-1 tvg-logo="_______" group-title="ASIA SPORT", TRUE SPORT PREMIER 2
@@ -7367,7 +7385,6 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=65516_&extens
 http://humiptv.live:8080/live/tarun589853/5787489bcsh/143063.ts
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASIA SPORT", BEIN 2
 http://humiptv.live:8080/live/tarun589853/5787489bcsh/143060.ts
-
 
 
 
