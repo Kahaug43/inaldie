@@ -7605,7 +7605,7 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=14828_&extens
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=46642_&extension=ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ03PBd3Q2V3VKxXOJnHRfU3vOPe9lAM5guA&usqp=CAU" group-title="TURKY SPORT", TRT SPORT 3 HD
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=68255_&extension=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvdTuh0zFrmDEmSVHx99kSCay3-GPBzVtCTQ&usqp=CAU" group-title="TURKY SPORT", TRT SPORT PLUS
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXcfLfW_DDG5jCgYepKZ0IbBmXigvMhY6dEG5qB4eezg-IKLU8AtttCk0&s=10" group-title="TURKY SPORT", TRT SPORT PLUS
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=102765_&extension=ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiqnHSR7mrsN89DSbR91BoAmj3SNgnvtKfLJODjUEXCqfbX7PNEkY8r98&s=10" group-title="TURKY SPORT", S SPORT
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=29745_&extension=ts
