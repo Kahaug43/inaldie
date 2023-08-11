@@ -7803,14 +7803,6 @@ http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=992_&extensio
 http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=993_&extension=ts
 
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT", ELEVEN SPORT 1 FHD PL
-http://ipflix.click:80/tzt2ehk7od/p3cwfpdkkg/524331
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT", ELEVEN SPORT 2 FHD PL
-http://ipflix.click:80/tzt2ehk7od/p3cwfpdkkg/99803
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT", ELEVEN SPORT 3 FHD PL
-http://ipflix.click:80/tzt2ehk7od/p3cwfpdkkg/99930
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT", ELEVEN SPORT 4 FHD PL
-http://ipflix.click:80/tzt2ehk7od/p3cwfpdkkg/167186
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT", ELEVEN SPORT 1 HD PL
 http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=97264_&extension=ts
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT", ELEVEN SPORT 2 HD PL
