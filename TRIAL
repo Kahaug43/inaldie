@@ -8658,11 +8658,14 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=983567&extens
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLtQRHjRZlYfBxxA73H4WfyIESKEmbK6T1lA&usqp=CAU" group-title="CLUB FOOTBALL", REAL MADRID TV
 http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=55543_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZHrR_ih_g1rYHvSaKFC9y_7LGFbuB4zJWjw&usqp=CAU" group-title="CLUB FOOTBALL", BARCA TV
+http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/1170
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDkXhbSwjuSP-XuaUPzDRs9BBg1vWmOUpSGg&usqp=CAU" group-title="CLUB FOOTBALL", GALATASARAY TV
 http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=7875_&extension=ts&play_token=FcCkSLTtTN
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl6MCmhuaV1Un8Zx7XUHnSWxUVBOANby0lDZb4pTCroTioIBaVx1ewjJEO&s=10" group-title="CLUB FOOTBALL", FENERBACE TV
 http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=7874_&extension=ts&play_token=FcCkSLTtTN
+
 
 
 
