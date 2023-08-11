@@ -64,11 +64,45 @@ http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/3616
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239082&extension=ts&play_token=a0dyarOiLA
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#🏍️LIVE EVENT GP&F1🏎️#", F1 1
-http://ok4.club:25461/Ranger2022/BCLpXmjdVYB2/115580
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#🏍️LIVE EVENT GP&F1🏎️#", F1 2
-http://ok4.club:25461/Ranger2022/BCLpXmjdVYB2/108256
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#🏍️LIVE EVENT GP&F1🏎️#", F1 3
-http://ok4.club:25461/Ranger2022/BCLpXmjdVYB2/6889
+
+
+
+#EXTINF:-1 tvg-logo="http://zuihaode.site:25461/images/ca347b7943638427dae040abd9eae6d1.png" group-title="#DAZN Events#", DAZN | 1 Español
+http://ok4.club:25461/Ranger2022/BCLpXmjdVYB2/108258
+#EXTINF:-1 tvg-logo="http://zuihaode.site:25461/images/b07b12939375efef93d0c0642948295e.png" group-title="#DAZN Events#", DAZN | 1 HD Bar
+http://ok4.club:25461/Ranger2022/BCLpXmjdVYB2/75441
+#EXTINF:-1 tvg-logo="http://zuihaode.site:25461/images/b07b12939375efef93d0c0642948295e.png" group-title="#DAZN Events#", DAZN | 1 HD Deutschland
+http://ok4.club:25461/Ranger2022/BCLpXmjdVYB2/75440
+#EXTINF:-1 tvg-logo="http://zuihaode.site:25461/images/ca347b7943638427dae040abd9eae6d1.png" group-title="#DAZN Events#", DAZN | 2 Español
+http://ok4.club:25461/Ranger2022/BCLpXmjdVYB2/108259
+#EXTINF:-1 tvg-logo="http://zuihaode.site:25461/images/b07b12939375efef93d0c0642948295e.png" group-title="#DAZN Events#", DAZN | 2 HD Bar
+http://ok4.club:25461/Ranger2022/BCLpXmjdVYB2/75442
+#EXTINF:-1 tvg-logo="http://zuihaode.site:25461/images/b07b12939375efef93d0c0642948295e.png" group-title="#DAZN Events#", DAZN | 2 UHD Deutschland
+http://ok4.club:25461/Ranger2022/BCLpXmjdVYB2/75457
+#EXTINF:-1 tvg-logo="http://zuihaode.site:25461/images/ca347b7943638427dae040abd9eae6d1.png" group-title="#DAZN Events#", DAZN | 3 Español
+http://ok4.club:25461/Ranger2022/BCLpXmjdVYB2/108260
+#EXTINF:-1 tvg-logo="http://zuihaode.site:25461/images/ca347b7943638427dae040abd9eae6d1.png" group-title="#DAZN Events#", DAZN | 4 Español
+http://ok4.club:25461/Ranger2022/BCLpXmjdVYB2/108261
+#EXTINF:-1 tvg-logo="http://zuihaode.site:25461/images/ca347b7943638427dae040abd9eae6d1.png" group-title="#DAZN Events#", DAZN | Formula 1 (1) HD
+http://ok4.club:25461/Ranger2022/BCLpXmjdVYB2/108256
+#EXTINF:-1 tvg-logo="http://zuihaode.site:25461/images/ca347b7943638427dae040abd9eae6d1.png" group-title="#DAZN Events#", DAZN | Formula 1 (2) HD
+http://ok4.club:25461/Ranger2022/BCLpXmjdVYB2/108255
+#EXTINF:-1 tvg-logo="http://zuihaode.site:25461/images/ca347b7943638427dae040abd9eae6d1.png" group-title="#DAZN Events#", DAZN | La Liga Español
+http://ok4.club:25461/Ranger2022/BCLpXmjdVYB2/108257
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LQoQ9lf.png" group-title="#DAZN Events", DAZN | MOVISTAR ESPAÑA 1 HD
+http://ok4.club:25461/Ranger2022/BCLpXmjdVYB2/75436
+#EXTINF:-1 tvg-logo="http://zuihaode.site:25461/images/b07b12939375efef93d0c0642948295e.png" group-title="#DAZN Events#", DAZN | MOVISTAR ESPAÑA 2 HD
+http://ok4.club:25461/Ranger2022/BCLpXmjdVYB2/75437
+#EXTINF:-1 tvg-logo="http://zuihaode.site:25461/images/b07b12939375efef93d0c0642948295e.png" group-title="#DAZN Events#", DAZN | MOVISTAR ESPAÑA 3 HD
+http://ok4.club:25461/Ranger2022/BCLpXmjdVYB2/75438
+#EXTINF:-1 tvg-logo="http://zuihaode.site:25461/images/b07b12939375efef93d0c0642948295e.png" group-title="#DAZN Events#", DAZN | MOVISTAR ESPAÑA 4 HD
+http://ok4.club:25461/Ranger2022/BCLpXmjdVYB2/75439
+
+
 
 
 
