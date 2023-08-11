@@ -7283,20 +7283,31 @@ ASIA SPORT  ###########
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="ASIA SPORT", ###ASIA SPORT###
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 
-#EXTINF:-1 tvg-logo="-------" group-title="ASIA SPORT", SPOTV 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/SPOTV.png" group-title="ASIA SPORT", SPOTV 1
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683117&extension=ts&play_token=ttKChD9xXt
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASIA SPORT", SPOTV 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/SPOTV.png" group-title="ASIA SPORT", SPOTV 1
 http://humiptv.live:8080/live/tarun589853/5787489bcsh/143137.ts
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASIA SPORT", SPOTV 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/SPOTV2.png" group-title="ASIA SPORT", SPOTV 2
 http://humiptv.live:8080/live/tarun589853/5787489bcsh/151193.ts
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASIA SPORT", SPORTSTAR 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/SS1.png" group-title="ASIA SPORT", SPORTSTAR 1
 http://humiptv.live:8080/live/tarun589853/5787489bcsh/151188.ts
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASIA SPORT", SPORTSTAR 2
+#EXTINF:-1 tvg-logo="https://github.com/inaldie/LOGO-CHANEL/blob/main/SS2.png" group-title="ASIA SPORT", SPORTSTAR 2
 http://humiptv.live:8080/live/tarun589853/5787489bcsh/151187.ts
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASIA SPORT", SPORTSTAR 3
+#EXTINF:-1 tvg-logo="https://github.com/inaldie/LOGO-CHANEL/blob/main/SS3.png" group-title="ASIA SPORT", SPORTSTAR 3
 http://humiptv.live:8080/live/tarun589853/5787489bcsh/151181.ts
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASIA SPORT", SOCCER CHANEL
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkFkU9iQl9b4zhaV00r9TLXytWjCKlFrl1YQ&usqp=CAU" group-title="ASIA SPORT", SOCCER CHANEL
 http://humiptv.live:8080/live/tarun589853/5787489bcsh/151186.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2dcE3mjJNK1PXvA6dyegcuadQrjtNZjxKwg&usqp=CAU" group-title="ASIA SPORT", BEIN SPORTS
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/143059.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSxSmaCkSbJqWAIDq5p2qUlH9vwzZGtJPEyg&usqp=CAU" group-title="ASIA SPORT", BEIN SPORTS 2
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/143060.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyJqZS3W4KLWOqPQgau88zHVTAfB7HBgqHXQ&usqp=CAU" group-title="ASIA SPORT", BEIN SPORTS 3
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/143062.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgydv2d77A9X-p9A1FDLAfhE6sbMrxekWqJw&usqp=CAU" group-title="ASIA SPORT", BEIN SPORTS 1 ENG
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/23793.ts
+
+
+
 
 #EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo//astrosupersport.png" group-title="ASIA SPORT", ASTRO SUPERSPORT 1
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571245&extension=ts&play_token=oatD6LI1Qd
@@ -7354,15 +7365,15 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497556&exte
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/NOW%207.png" group-title="ASIA SPORT", NOW SPORT 7
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497557&extension=ts
 
-#EXTINF:-1 tvg-logo="_______" group-title="ASIA SPORT", SONY TEN SPORT 1
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png/revision/latest/scale-to-width-down/460?cb=20221025083646" group-title="ASIA SPORT", SONY TEN SPORT 1
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=14795_&extension=ts
-#EXTINF:-1 tvg-logo="_______" group-title="ASIA SPORT", SONY TEN SPORT 2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sony_Sports_Ten_2.png/revision/latest/scale-to-width-down/460?cb=20221025084500" group-title="ASIA SPORT", SONY TEN SPORT 2
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=14794_&extension=ts
-#EXTINF:-1 tvg-logo="_______" group-title="ASIA SPORT", SONY TEN SPORT 3
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Sony_Sports_Ten_3.png/revision/latest/scale-to-width-down/460?cb=20221025085433" group-title="ASIA SPORT", SONY TEN SPORT 3
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=14798_&extension=ts
-#EXTINF:-1 tvg-logo="_______" group-title="ASIA SPORT", SONY TEN SPORT 4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Sony_Sports_Ten_4.png/revision/latest/scale-to-width-down/460?cb=20221025090401" group-title="ASIA SPORT", SONY TEN SPORT 4
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=1114579&extension=ts&play_token=4LDPYXrgXr
-#EXTINF:-1 tvg-logo="_______" group-title="ASIA SPORT", SONY TEN SPORT 5
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Sony_Sports_Ten_5.png/revision/latest/scale-to-width-down/460?cb=20221025091902" group-title="ASIA SPORT", SONY TEN SPORT 5
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=156016&extension=ts&play_token=sWYEQX5Wdw
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw7oODkwDTvMMXEEJU7wXcsI8h1ZJARNJ2Hw&usqp=CAU" group-title="ASIA SPORT", STAR SPORT 1
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=7892_&extension=ts
@@ -7391,16 +7402,11 @@ http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115805_&exte
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkXhsnEyJlU37o_mIrCwRY9VIFRkHRxrF7jA&usqp=CAU" group-title="ASIA SPORT", TRUE FIGHT
 http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115500_&extension=ts
 
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSifKAaGK0AD88SQnu6MsApMLGHPDwIkNmSDw&usqp=CAU" group-title="ASIA SPORT", ONE SPORT
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=926161&extension=ts&play_token=1CpygHM1Ws
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRS5wCyBfWh2VcgWDzncPDI1zH78Z_pX53EQ&usqp=CAU" group-title="ASIA SPORT", TENS SPORT PAKISTAN
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=65516_&extension=m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASIA SPORT", BEIN 3
-http://humiptv.live:8080/live/tarun589853/5787489bcsh/143063.ts
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASIA SPORT", BEIN 2
-http://humiptv.live:8080/live/tarun589853/5787489bcsh/143060.ts
 
 
 
