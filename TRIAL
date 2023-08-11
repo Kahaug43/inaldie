@@ -9501,19 +9501,19 @@ VIP SPORT #############
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="VIP SPORT", ##VIP SPORT###
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="VIP SPORT", OPTUS SPORT 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-fqwl8huiu5WlxvzbLloAnSSry8GWJfV3f_NK_a6AGN9ixooOTm0t4M7L&s=10" group-title="VIP SPORT", OPTUS SPORT 1
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032471&extension=ts&play_token=InCwgv0Zsg 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="VIP SPORT", OPTUS SPORT 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-fqwl8huiu5WlxvzbLloAnSSry8GWJfV3f_NK_a6AGN9ixooOTm0t4M7L&s=10" group-title="VIP SPORT", OPTUS SPORT 2
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032470&extension=ts&play_token=qBeBPHlYKO 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="VIP SPORT", OPTUS SPORT 3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-fqwl8huiu5WlxvzbLloAnSSry8GWJfV3f_NK_a6AGN9ixooOTm0t4M7L&s=10" group-title="VIP SPORT", OPTUS SPORT 3
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032469&extension=ts&play_token=WZ8jVxGqCR 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="VIP SPORT", OPTUS SPORT 4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-fqwl8huiu5WlxvzbLloAnSSry8GWJfV3f_NK_a6AGN9ixooOTm0t4M7L&s=10" group-title="VIP SPORT", OPTUS SPORT 4
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032468&extension=ts&play_token=rNx65mVDBT 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="VIP SPORT", OPTUS SPORT 5
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-fqwl8huiu5WlxvzbLloAnSSry8GWJfV3f_NK_a6AGN9ixooOTm0t4M7L&s=10" group-title="VIP SPORT", OPTUS SPORT 5
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032467&extension=ts&play_token=raIZRUj5Fn 
-#EXTINF:-1 tvg-logo="______" group-title="VIP SPORT", FIFA 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt40TMJw-SLYrCSEAjpqUj9bE-7ZeNtOXHUg&usqp=CAU" group-title="VIP SPORT", FIFA 1
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=902919&extension=ts&play_token=xQBSyhkuNV
-#EXTINF:-1 tvg-logo="______" group-title="VIP SPORT", FIFA 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt40TMJw-SLYrCSEAjpqUj9bE-7ZeNtOXHUg&usqp=CAU" group-title="VIP SPORT", FIFA 2
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=902918&extension=ts&play_token=3nhKepCvu8
 
 
