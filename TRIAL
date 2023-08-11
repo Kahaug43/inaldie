@@ -55,13 +55,13 @@ http://humiptv.live:8080/live/tarun589853/5787489bcsh/151181.ts
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#🏍️LIVE EVENT MOTOGP🏍️#", GP 1
-http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:b4:d6:f4&stream=507710&extension=ts&play_token=ECqMKl1s4L
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508165&extension=ts&play_token=LwIO2B91Rs
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#🏍️LIVE EVENT MOTOGP🏍️#", GP 2
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692422&extension=ts&play_token=Nc9qifjsYN
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#🏍️LIVE EVENT MOTOGP🏍️#", GP 3
 http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/3616
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#🏍️LIVE EVENT MOTOGP🏍️#", GP 4
-http://aflaxtv.xyz:8080/Vladisergeevic/7eef2c4388/11638
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239082&extension=ts&play_token=a0dyarOiLA
 
 
 
