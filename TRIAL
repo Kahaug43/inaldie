@@ -8706,6 +8706,17 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032464&exten
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032463&extension=ts&play_token=raIZRUj5Fn 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-fqwl8huiu5WlxvzbLloAnSSry8GWJfV3f_NK_a6AGN9ixooOTm0t4M7L&s=10" group-title="VIP SPORT", OPTUS SPORT 10
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032462&extension=ts&play_token=raIZRUj5Fn 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-fqwl8huiu5WlxvzbLloAnSSry8GWJfV3f_NK_a6AGN9ixooOTm0t4M7L&s=10" group-title="VIP SPORT", OPTUS SPORT 11
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032461&extension=ts&play_token=raIZRUj5Fn 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-fqwl8huiu5WlxvzbLloAnSSry8GWJfV3f_NK_a6AGN9ixooOTm0t4M7L&s=10" group-title="VIP SPORT", OPTUS SPORT 12
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032460&extension=ts&play_token=raIZRUj5Fn 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-fqwl8huiu5WlxvzbLloAnSSry8GWJfV3f_NK_a6AGN9ixooOTm0t4M7L&s=10" group-title="VIP SPORT", OPTUS SPORT 13
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032459&extension=ts&play_token=raIZRUj5Fn 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-fqwl8huiu5WlxvzbLloAnSSry8GWJfV3f_NK_a6AGN9ixooOTm0t4M7L&s=10" group-title="VIP SPORT", OPTUS SPORT 14
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032458&extension=ts&play_token=raIZRUj5Fn 
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt40TMJw-SLYrCSEAjpqUj9bE-7ZeNtOXHUg&usqp=CAU" group-title="VIP SPORT", FIFA 1
