@@ -7447,17 +7447,23 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497557&exte
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png/revision/latest/scale-to-width-down/460?cb=20221025083646" group-title="ASIA SPORT", SONY TEN SPORT 1
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=14795_&extension=ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sony_Sports_Ten_2.png/revision/latest/scale-to-width-down/460?cb=20221025084500" group-title="ASIA SPORT", SONY TEN SPORT 2
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=14794_&extension=ts
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=517225_&extension=ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Sony_Sports_Ten_3.png/revision/latest/scale-to-width-down/460?cb=20221025085433" group-title="ASIA SPORT", SONY TEN SPORT 3
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=14798_&extension=ts
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=517225_&extension=ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Sony_Sports_Ten_4.png/revision/latest/scale-to-width-down/460?cb=20221025090401" group-title="ASIA SPORT", SONY TEN SPORT 4
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=1114579&extension=ts&play_token=4LDPYXrgXr
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Sony_Sports_Ten_5.png/revision/latest/scale-to-width-down/460?cb=20221025091902" group-title="ASIA SPORT", SONY TEN SPORT 5
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=156016&extension=ts&play_token=sWYEQX5Wdw
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw7oODkwDTvMMXEEJU7wXcsI8h1ZJARNJ2Hw&usqp=CAU" group-title="ASIA SPORT", STAR SPORT 1
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=7892_&extension=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8EhYKJbvYQZtq3jtyiN0YCE2l9O2DQqMGMvUJpjDD3dKTM9yravQByge2&s=10" group-title="ASIA SPORT", STAR SPORT 2
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=7893_&extension=ts
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=517242_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ51qv6jcXrkmPJuK-IolWWogc8Qf65hfvGdw&usqp=CAU" group-title="ASIA SPORT", STAR SPORT 2
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=517243_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6e-WPbwXmOPuPk3hUUS6GhnET5NpcpAtaig&usqp=CAU" group-title="ASIA SPORT", STAR SPORT 3
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=517241_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmHauy6pGcg2tUXirgK_7HroS0-I6RqjyFeA&usqp=CAU" group-title="ASIA SPORT", STAR SPORT SELECT 1
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=517244_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdCYnAbUMdNdXADJNi7AYkoJURGvIh5AXYVg&usqp=CAU" group-title="ASIA SPORT", STAR SPORT SELECT 2
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=517245_&extension=ts
 
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png" group-title="ASIA SPORT", TRUE SPORT PREMIER 1
@@ -8298,6 +8304,21 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=45235&extensi
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=163608&extension=ts&play_token=weRjYwEZxO
 #EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", VIAPLAY EXTRA
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1014260&extension=ts&play_token=QmzgBvbonr
+
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", VIAPLAY SPORT 1 BK
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=2112_&extension=ts
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", VIAPLAY SPORT 2 BK
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=2111_&extension=ts
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", VIAPLAY SPORT EXTRA BK
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=2117_&extension=ts
+
+
+
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", PREMIER SPORT 1
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=2110_&extension=ts
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", PREMIER SPORT 2
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=2109_&extension=ts
+
 
 
 #EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", YES SPORT 1B
