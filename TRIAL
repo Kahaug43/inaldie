@@ -8671,6 +8671,20 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=902919&extens
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt40TMJw-SLYrCSEAjpqUj9bE-7ZeNtOXHUg&usqp=CAU" group-title="VIP SPORT", FIFA 2
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=902918&extension=ts&play_token=3nhKepCvu8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqhpkXd2_32db0w95SPISgC2Soe21B9bd03W7D4aLNdE35el87Ei2kghah&s=10" group-title="VIP SPORT",  MLS 🍎 APPLE+ 1
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1025717_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqhpkXd2_32db0w95SPISgC2Soe21B9bd03W7D4aLNdE35el87Ei2kghah&s=10" group-title="VIP SPORT",  MLS 🍎 APPLE+ 2
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1025718_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqhpkXd2_32db0w95SPISgC2Soe21B9bd03W7D4aLNdE35el87Ei2kghah&s=10" group-title="VIP SPORT",  MLS 🍎 APPLE+ 3
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1025719_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqhpkXd2_32db0w95SPISgC2Soe21B9bd03W7D4aLNdE35el87Ei2kghah&s=10" group-title="VIP SPORT",  MLS 🍎 APPLE+ 4
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=10257120_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqhpkXd2_32db0w95SPISgC2Soe21B9bd03W7D4aLNdE35el87Ei2kghah&s=10" group-title="VIP SPORT",  MLS 🍎 APPLE+ 5
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=10257120_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqhpkXd2_32db0w95SPISgC2Soe21B9bd03W7D4aLNdE35el87Ei2kghah&s=10" group-title="VIP SPORT",  MLS 🍎 APPLE+ 6
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=10257120_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqhpkXd2_32db0w95SPISgC2Soe21B9bd03W7D4aLNdE35el87Ei2kghah&s=10" group-title="VIP SPORT",  MLS 🍎 APPLE+ 7
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=10257121_&extension=ts
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbgGkVpn7N7-gH6Tlxen-xugwOnA4xdHm7gQ&usqp=CAU" group-title="VIP SPORT", NBC SPORT
@@ -8687,6 +8701,9 @@ http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1032454&extensio
 http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1032453&extension=ts&play_token=Y03rpkUlFR
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6h5ZSWmEWH7UqKXQ4D9yFKOBQyPKj4gQLig&usqp=CAU" group-title="VIP SPORT", PEACOCK 5
 http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1032452&extension=ts&play_token=Y03rpkUlFR
+
+
+
 
 
 
