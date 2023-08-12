@@ -7219,6 +7219,27 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692438&extens
 #EXTINF:-1 tvg-logo="---------" group-title="SKY GRUP", SKY SPORT CALCIO
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692416&extension=ts&play_token=YhfOXWSG12
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Sky_Cinema_Action_HD_DE_Logo_2016.png/1200px-Sky_Cinema_Action_HD_DE_Logo_2016.png" group-title="SKY GRUP", SKY CINEMA ACTION
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=30517&extension=ts&play_token=kprRrgrQxw
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Sky_cinema_family_hd_2016.png/1200px-Sky_cinema_family_hd_2016.png" group-title="SKY GRUP", SKY CINEMA FAMILY
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=79467&extension=ts&play_token=d6FmFNSsQv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqnaUukgNDZvSKt-H4YY9V7lRiHtlBOdOV4Q&usqp=CAU" group-title="SKY GRUP", SKY CINEMA ANIMATION
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=873868&extension=ts&play_token=H6NBeYzOlK
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAPpctVrfa1SmZDWHHQ_RkCIO1vtVX3NBKGQ&usqp=CAU" group-title="SKY GRUP", SKY CINEMA OSCAR
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=30511&extension=ts&play_token=kYbGrjoHsB
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sky_Cinema_Hits_HD_DE_Logo_2016.png/1200px-Sky_Cinema_Hits_HD_DE_Logo_2016.png" group-title="SKY GRUP", SKY CINEMA HITS
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=30510&extension=ts&play_token=gaCO3Bi2XP
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO9519BDgFQxcjiAvzDcukVB2sHtYVkfB77g&usqp=CAU" group-title="SKY GRUP", SKY CINEMA PREMIER
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=30509&extension=ts&play_token=Z7G9GDac7a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIb6RocjoghLANH5308wxB3sOStHuHxZ3IxA&usqp=CAU" group-title="SKY GRUP", SKY CINEMA GREAT
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=30512&extension=ts&play_token=871wQ2p2XD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLC0EWe13IP0NuNZ8iYACQ7JgzfGg3hSMMPg&usqp=CAU" group-title="SKY GRUP", SKY CINEMA TRILLER
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=30506&extension=ts&play_token=WRR4SMsgMG
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxp_kwfyOC02M3k-sJWjpw7zCLYfqIok5y-g&usqp=CAU" group-title="SKY GRUP", SKY CINEMA SELECT
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=949137&extension=ts&play_token=qZD8xDrFA8
+
+
+
 
 
 #######################
@@ -10063,26 +10084,6 @@ http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=671275&extension
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRekDOlPpNggbR5ZOFueBCFuBgT-4AGqMufGg&usqp=CAU" group-title="BEIN OD", BEIN BOX OFFICE 2
 http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=671272&extension=ts&play_token=550LE8wj0Q
 
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Sky_Cinema_Action_HD_DE_Logo_2016.png/1200px-Sky_Cinema_Action_HD_DE_Logo_2016.png" group-title="SKY MOVIE", SKY CINEMA ACTION
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=30517&extension=ts&play_token=kprRrgrQxw
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Sky_cinema_family_hd_2016.png/1200px-Sky_cinema_family_hd_2016.png" group-title="SKY MOVIE", SKY CINEMA FAMILY
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=79467&extension=ts&play_token=d6FmFNSsQv
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqnaUukgNDZvSKt-H4YY9V7lRiHtlBOdOV4Q&usqp=CAU" group-title="SKY MOVIE", SKY CINEMA ANIMATION
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=873868&extension=ts&play_token=H6NBeYzOlK
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAPpctVrfa1SmZDWHHQ_RkCIO1vtVX3NBKGQ&usqp=CAU" group-title="SKY MOVIE", SKY CINEMA OSCAR
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=30511&extension=ts&play_token=kYbGrjoHsB
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sky_Cinema_Hits_HD_DE_Logo_2016.png/1200px-Sky_Cinema_Hits_HD_DE_Logo_2016.png" group-title="SKY MOVIE", SKY CINEMA HITS
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=30510&extension=ts&play_token=gaCO3Bi2XP
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO9519BDgFQxcjiAvzDcukVB2sHtYVkfB77g&usqp=CAU" group-title="SKY MOVIE", SKY CINEMA PREMIER
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=30509&extension=ts&play_token=Z7G9GDac7a
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIb6RocjoghLANH5308wxB3sOStHuHxZ3IxA&usqp=CAU" group-title="SKY MOVIE", SKY CINEMA GREAT
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=30512&extension=ts&play_token=871wQ2p2XD
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLC0EWe13IP0NuNZ8iYACQ7JgzfGg3hSMMPg&usqp=CAU" group-title="SKY MOVIE", SKY CINEMA TRILLER
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=30506&extension=ts&play_token=WRR4SMsgMG
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxp_kwfyOC02M3k-sJWjpw7zCLYfqIok5y-g&usqp=CAU" group-title="SKY MOVIE", SKY CINEMA SELECT
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=949137&extension=ts&play_token=qZD8xDrFA8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRm0GaetXF79nwzJk7cy-xqwoXzA9RVFJQiw&usqp=CAU" group-title="SKY GO", SKY GO 1
