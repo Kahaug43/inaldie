@@ -7822,9 +7822,9 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=11486_&extens
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/TNT%204.png" group-title="EROPA SPORT", BT TNT SPORT 4
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=316_&extension=ts
 
-#EXTINF:-1 tvg-logo="------" group-title="EROPA SPORT", BLUE SPORT 1 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/blue1.png" group-title="EROPA SPORT", BLUE SPORT 1 
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=1131946&extension=ts&play_token=ijnmRQLtfl 
-#EXTINF:-1 tvg-logo="------" group-title="EROPA SPORT", BLUE SPORT 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/blue2.png" group-title="EROPA SPORT", BLUE SPORT 2
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=1131945&extension=ts&play_token=vRe7r8gRAq
 
 #EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", CANAL+ PREMIER LEAGUE 
@@ -8105,17 +8105,17 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=97241&extension
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=97240&extension=ts
 
 
-#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", PLAY SPORT 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/play1.png" group-title="EROPA SPORT", PLAY SPORT 1
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=811941&extension=ts&play_token=0PGpJWMoeq
-#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", PLAY SPORT 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/play2.png" group-title="EROPA SPORT", PLAY SPORT 2
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=811940&extension=ts&play_token=7Qz7wdixwA
-#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", PLAY SPORT 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/play3.png" group-title="EROPA SPORT", PLAY SPORT 3
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=811939&extension=ts&play_token=c2oclzwFiK
-#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", PLAY SPORT 4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/play4.png" group-title="EROPA SPORT", PLAY SPORT 4
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=811938&extension=ts&play_token=pumZRcTXZt
-#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", PLAY SPORT 5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/play5.png" group-title="EROPA SPORT", PLAY SPORT 5
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=811937&extension=ts&play_token=v7JIxP47xk
-#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", PLAY SPORT GOLF
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/playgolf.png" group-title="EROPA SPORT", PLAY SPORT GOLF
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=811936&extension=ts&play_token=gec2IMAjS7
 
 
