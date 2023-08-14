@@ -8369,19 +8369,19 @@ http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=37662&extension=t
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=37659&extension=ts&play_token=sFhj6fQFl5
 
 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", ZIGGO SPORT TENNIS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/Ztenis.png" group-title="EROPA SPORT", ZIGGO SPORT TENNIS
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=80532&extension=ts
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", ZIGGO SPORT DOCU
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/Zdoc.png" group-title="EROPA SPORT", ZIGGO SPORT DOCU
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=80533&extension=ts
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", ZIGGO SPORT GOLF
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/Zgolf.png" group-title="EROPA SPORT", ZIGGO SPORT GOLF
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=80534&extension=ts
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", ZIGGO SPORT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/Zspo.png" group-title="EROPA SPORT", ZIGGO SPORT
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=80535&extension=ts
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", ZIGGO SPORT RACING
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/Zraci.png" group-title="EROPA SPORT", ZIGGO SPORT RACING
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=80536&extension=ts
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", ZIGGO SPORT SELECT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/Sele.png" group-title="EROPA SPORT", ZIGGO SPORT SELECT
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=80537&extension=ts
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", ZIGGO SPORT VOETBALL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/Zvoet.png" group-title="EROPA SPORT", ZIGGO SPORT VOETBALL
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=80538&extension=ts
 
 
