@@ -121,6 +121,17 @@ http://ok4.club:25461/Ranger2022/BCLpXmjdVYB2/75439
 
 
 
+#######################
+KOP INDONE_SIA 1 & MALAY_SIA 1 ##########
+#################################################################################################################################################################################
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="INDONE_SIA 1", ###INDONE_SIA 1###
+https://github.com/inaldie/inaldie/raw/main/LOGO.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="INDONE_SIA 2", ###INDONE_SIA 2###
+https://github.com/inaldie/inaldie/raw/main/LOGO.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="MALAY_SIA 1", ###MALAY_SIA 1###
+https://github.com/inaldie/inaldie/raw/main/LOGO.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="MALAY_SIA 2", ###MALAY_SIA 2###
+https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 
 
 #######################
@@ -1719,23 +1730,11 @@ http://live.serverstreaming.net:9340/kisifm
 https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
 
 
-#######################
-KOP ID & MY ##########
-#################################################################################################################################################################################
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="INDONE_SIA 1", ###INDONE_SIA 1###
-https://github.com/inaldie/inaldie/raw/main/LOGO.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="INDONE_SIA 2", ###INDONE_SIA 2###
-https://github.com/inaldie/inaldie/raw/main/LOGO.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="MALAY_SIA 1", ###MALAY_SIA 1###
-https://github.com/inaldie/inaldie/raw/main/LOGO.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="MALAY_SIA 2", ###MALAY_SIA 2###
-https://github.com/inaldie/inaldie/raw/main/LOGO.ts
-
 
 #######################
 KOP ID & MY ##########
 #################################################################################################################################################################################
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="INDO-MALAY"", ###INDO-MALAY###
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="INDO-MALAY", ###INDO-MALAY###
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDO-MALAY", MY Astro AEC (D)
 http://humiptv.live:8080/live/tarun589853/5787489bcsh/142969.ts
