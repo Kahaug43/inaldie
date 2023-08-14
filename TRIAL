@@ -7827,19 +7827,19 @@ http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=1131946&extension
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/blue2.png" group-title="EROPA SPORT", BLUE SPORT 2
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=1131945&extension=ts&play_token=vRe7r8gRAq
 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", CANAL+ PREMIER LEAGUE 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/canalPL.png" group-title="EROPA SPORT", CANAL+ PREMIER LEAGUE 
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508167&extension=ts&play_token=1nsvxInv16 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", CANAL+ MOTOGP 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/canalGF.png" group-title="EROPA SPORT", CANAL+ MOTOGP 
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508165&extension=ts&play_token=LwIO2B91Rs 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", CANAL+ GOLF
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/canalGolf.png" group-title="EROPA SPORT", CANAL+ GOLF
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508152&extension=ts&play_token=B5Pfbw3H01 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", GOLF CHANEL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/canalGolf.png" group-title="EROPA SPORT", GOLF CHANEL
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508151&extension=ts&play_token=eSCbjUq85r 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", CANAL+ LIGUE 1 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/canalL1.png" group-title="EROPA SPORT", CANAL+ LIGUE 1 
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508166&extension=ts&play_token=nK7HBwJJej 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", FOOT+ 24/24
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/canal24.png" group-title="EROPA SPORT", FOOT+ 24/24
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508150&extension=ts&play_token=giBDBIBZYz 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", INFOSPORT 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/canalinfo.png" group-title="EROPA SPORT", INFOSPORT 
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508169&extension=ts&play_token=NaNl5etGT6 
 
 
@@ -7862,11 +7862,11 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=804_&extensio
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=9180_&extension=ts
 
 
-#EXTINF:-1 tvg-logo="------" group-title="EROPA SPORT", DAZN 1 DE
+#EXTINF:-1 tvg-logo="_____" group-title="EROPA SPORT", DAZN 1 DE
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=411389&extension=ts&play_token=HsuxrD6mL2 
-#EXTINF:-1 tvg-logo="------" group-title="EROPA SPORT", DAZN 2 DE
+#EXTINF:-1 tvg-logo="_____" group-title="EROPA SPORT", DAZN 2 DE
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=411388&extension=ts&play_token=4IS0zXf2D6 
-#EXTINF:-1 tvg-logo="------" group-title="EROPA SPORT", DAZN ZONE
+#EXTINF:-1 tvg-logo="_____" group-title="EROPA SPORT", DAZN ZONE
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1273580&extension=ts&play_token=bGsClCAwGV
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", DAZN 1 ES
 http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=55482_&extension=ts
@@ -7884,16 +7884,16 @@ http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=811932&extension
 http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=811931&extension=ts&play_token=CuwXckvtuK
 
 
-#EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", DIEMA SPORT 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/diema1.png" group-title="EROPA SPORT", DIEMA SPORT 1
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=14249_&extension=ts
-#EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", DIEMA SPORT 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/diema2.png" group-title="EROPA SPORT", DIEMA SPORT 2
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=14250_&extension=ts
-#EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", DIEMA SPORT 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/diema3.png" group-title="EROPA SPORT", DIEMA SPORT 3
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=14240_&extension=ts
 
-#EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", DIEMA SPORT 1 B
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/diema1.png" group-title="EROPA SPORT", DIEMA SPORT 1 B
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=154819&extension=ts&play_token=GuGDLRCPbT
-#EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", DIEMA SPORT 2 B
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/diema2.png" group-title="EROPA SPORT", DIEMA SPORT 2 B
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=154820&extension=ts&play_token=MU1hoMHWkL
 
 
@@ -8073,35 +8073,35 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239085&extens
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239084&extension=ts&play_token=Tj5rP8kRtc
 
 
-#EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", POLSAT SPORT PREMIUM 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/polsat1.png" group-title="EROPA SPORT", POLSAT SPORT PREMIUM 1 HD
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=880327&extension=ts&play_token=bCMdGjsMaP
-#EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", POLSAT SPORT PREMIUM 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/polsat2.png" group-title="EROPA SPORT", POLSAT SPORT PREMIUM 2 HD
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=880326&extension=ts&play_token=gvVtWYd1gP
-#EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", POLSAT SPORT PREMIUM 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/polsat3.png" group-title="EROPA SPORT", POLSAT SPORT PREMIUM 3 HD
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=880326&extension=ts&play_token=gvVtWYd1gP
-#EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", POLSAT SPORT PREMIUM 4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/polsat4.png" group-title="EROPA SPORT", POLSAT SPORT PREMIUM 4 HD
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=880324&extension=ts&play_token=Eje4e8RkKj
-#EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", POLSAT SPORT PREMIUM 5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/polsat5.png" group-title="EROPA SPORT", POLSAT SPORT PREMIUM 5 HD
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=880323&extension=ts&play_token=2SxlpKQ2ri
-#EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", POLSAT SPORT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/polsatS.png" group-title="EROPA SPORT", POLSAT SPORT HD
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=880330&extension=ts&play_token=mZ2Ppbzov0
-#EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", POLSAT FIGHT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/polsatfight.png" group-title="EROPA SPORT", POLSAT SPORT FIGHT HD
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=880329&extension=ts&play_token=z7YloKEhTd
-#EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", POLSAT EXTRA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/polsatextra.png" group-title="EROPA SPORT", POLSAT SPORT EXTRA HD
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=880331&extension=ts&play_token=pboIIKxcnY
 
 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", POLSAT SPORT PREMIUM 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/polsat1.png" group-title="EROPA SPORT", POLSAT SPORT PREMIUM 1
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=97242&extension=ts
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", POLSAT SPORT PREMIUM 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/polsat2.png" group-title="EROPA SPORT", POLSAT SPORT PREMIUM 2
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=97243&extension=ts
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", POLSAT SPORT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/polsatS.png" group-title="EROPA SPORT", POLSAT SPORT
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=97238&extension=ts
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", POLSAT SPORT FIGHT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/polsatfight.png" group-title="EROPA SPORT", POLSAT SPORT FIGHT
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=97239&extension=ts
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", POLSAT SPORT EXTRA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/polsatextra.png" group-title="EROPA SPORT", POLSAT SPORT EXTRA
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=97241&extension=ts
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", POLSAT SPORT NEWS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/polsatnews.png" group-title="EROPA SPORT", POLSAT SPORT NEWS
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=97240&extension=ts
 
 
