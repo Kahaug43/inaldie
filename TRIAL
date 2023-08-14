@@ -8210,17 +8210,17 @@ http://premium-ks.ddns.net:88/Metiiptv/kDdXP4CGrZk9/47174
 http://premium-ks.ddns.net:88/Metiiptv/kDdXP4CGrZk9/47175
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT", AL: SUPER SPORT 6 SD
 http://premium-ks.ddns.net:88/Metiiptv/kDdXP4CGrZk9/47176
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT", AL: ART SPORT 1 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/ART%201.png" group-title="EROPA SPORT", AL: ART SPORT 1 HD
 http://premium-ks.ddns.net:88/Metiiptv/kDdXP4CGrZk9/8232
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT", AL: ART SPORT 2 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/ART%202.png" group-title="EROPA SPORT", AL: ART SPORT 2 HD
 http://premium-ks.ddns.net:88/Metiiptv/kDdXP4CGrZk9/8233
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT", AL: ART SPORT 3 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/ART%203.png" group-title="EROPA SPORT", AL: ART SPORT 3 HD
 http://premium-ks.ddns.net:88/Metiiptv/kDdXP4CGrZk9/8234
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT", AL: ART SPORT 4 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/ART%204.png" group-title="EROPA SPORT", AL: ART SPORT 4 HD
 http://premium-ks.ddns.net:88/Metiiptv/kDdXP4CGrZk9/51085
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT", AL: ART SPORT 5 HD
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-artsport-5-2663.png" group-title="EROPA SPORT", AL: ART SPORT 5 HD
 http://premium-ks.ddns.net:88/Metiiptv/kDdXP4CGrZk9/51084
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT", AL: ART SPORT 6 HD
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-artsport-6-2664.png" group-title="EROPA SPORT", AL: ART SPORT 6 HD
 http://premium-ks.ddns.net:88/Metiiptv/kDdXP4CGrZk9/51083
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT", AL: TRING SPORT News HD
 http://premium-ks.ddns.net:88/Metiiptv/kDdXP4CGrZk9/47178
@@ -8379,7 +8379,7 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=80534&extension
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=80535&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/Zraci.png" group-title="EROPA SPORT", ZIGGO SPORT RACING
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=80536&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/Sele.png" group-title="EROPA SPORT", ZIGGO SPORT SELECT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/Zsele.png" group-title="EROPA SPORT", ZIGGO SPORT SELECT
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=80537&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/Zvoet.png" group-title="EROPA SPORT", ZIGGO SPORT VOETBALL
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=80538&extension=ts
