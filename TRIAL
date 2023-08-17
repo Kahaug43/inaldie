@@ -7735,25 +7735,6 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1022433_&ext
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1022467_&extension=ts
 
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwObH_b9tejB-5BP61775aikwzWOdZNCMnGA&usqp=CAU" group-title="ARAB SPORT", SSC 1 
-http://ghostiptv.vip:80/live/162CBD98400E/63769b7dd9734/78274.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARAB SPORT", SSC 2 
-http://ghostiptv.vip:80/live/162CBD98400E/63769b7dd9734/78276.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARAB SPORT", SSC 3 
-http://ghostiptv.vip:80/live/162CBD98400E/63769b7dd9734/78278.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARAB SPORT", SSC 4 
-http://ghostiptv.vip:80/live/162CBD98400E/63769b7dd9734/78280.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdZ7abECXoOt0QhPJuIldeRCtbP12aUQu4Vw&usqp=CAU" group-title="ARAB SPORT", SSC 5 
-http://ghostiptv.vip:80/live/162CBD98400E/63769b7dd9734/78282.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARAB SPORT", SSC EXTRA 1 
-http://ghostiptv.vip:80/live/162CBD98400E/63769b7dd9734/78284.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARAB SPORT", SSC EXTRA 2
-http://onrev.xyz:80/ktAdMh4W/m9rIa2jswh/167510
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARAB SPORT", SSC EXTRA 3
-http://ghostiptv.vip:80/live/162CBD98400E/63769b7dd9734/79349.m3u8
-
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARAB SPORT", ON TIME SPORT 1 HD
 http://zeintv.xyz:8080/ahlam1alsayegh2022/004528513460/115200
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARAB SPORT", ON TIME SPORT 2 HD
