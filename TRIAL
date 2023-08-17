@@ -8218,35 +8218,35 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=1022_&extensi
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63308_&extension=ts
 
 
-#EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", SUPER SPORT PREMIER LEAGUE 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/superPL.png" group-title="EROPA SPORT", SUPER SPORT PREMIER LEAGUE 
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239078&extension=ts&play_token=WIj93CqWrq
-#EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", SUPER SPORT LIGA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/superlaliga.png" group-title="EROPA SPORT", SUPER SPORT LIGA
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239076&extension=ts&play_token=WDliZuSmkz
-#EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", SUPER SPORT TENNIS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/supertennis.png" group-title="EROPA SPORT", SUPER SPORT TENNIS
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=425314&extension=ts&play_token=KmNBsBy8G3
-#EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", SUPER SPORT BLITZ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/superblitz.png" group-title="EROPA SPORT", SUPER SPORT BLITZ
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=425310&extension=ts&play_token=cB75vs6tv4
-#EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", SUPER SPORT PSL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/superpsl.png" group-title="EROPA SPORT", SUPER SPORT PSL
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239077&extension=ts&play_token=wAy6FmsPtA
-#EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", SUPER SPORT GOLF
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/supergolf.png" group-title="EROPA SPORT", SUPER SPORT GOLF
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=425667&extension=ts&play_token=Sh0E1BOGwg
-#EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", SUPER SPORT UNDERSTAND
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/supergrandstand.png" group-title="EROPA SPORT", SUPER SPORT GRANDSTAND
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239079&extension=ts&play_token=iplWY8qXC5
-#EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", SUPER SPORT MOTOR SPORT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/supermotor.png" group-title="EROPA SPORT", SUPER SPORT MOTOR SPORT
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239082&extension=ts&play_token=a0dyarOiLA
-#EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", SUPER SPORT FOOTBALL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/superfootball.png" group-title="EROPA SPORT", SUPER SPORT FOOTBALL
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239083&extension=ts&play_token=tJv2b2KNwD
-#EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", SUPER SPORT RUGBY
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/superrugby.png" group-title="EROPA SPORT", SUPER SPORT RUGBY
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239086&extension=ts&play_token=TCL5qFctcH
-#EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", SUPER SPORT CRICKET
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/supercricket.png" group-title="EROPA SPORT", SUPER SPORT CRICKET
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239087&extension=ts&play_token=blkGUKpfD1
-#EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", SUPER SPORT VARIETY 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/supervariety1.png" group-title="EROPA SPORT", SUPER SPORT VARIETY 1
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239081&extension=ts&play_token=7C6v0BjPnK
-#EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", SUPER SPORT VARIETY 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/supervariety2.png" group-title="EROPA SPORT", SUPER SPORT VARIETY 2
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239080&extension=ts&play_token=kt1XRyNjAK
-#EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", SUPER SPORT VARIETY 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/supervariety3.png" group-title="EROPA SPORT", SUPER SPORT VARIETY 3
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239085&extension=ts&play_token=EJNtH2IgAS
-#EXTINF:-1 tvg-logo="-------" group-title="EROPA SPORT", SUPER SPORT VARIETY 4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/supervariety4.png" group-title="EROPA SPORT", SUPER SPORT VARIETY 4
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239084&extension=ts&play_token=Tj5rP8kRtc
 
 
