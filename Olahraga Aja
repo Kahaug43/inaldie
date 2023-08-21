@@ -41,11 +41,11 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=59057&extension
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", RMC SPORT 2 FR
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=67208&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", BEIN SPORT 1 FR
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=124773&extension=ts
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=59062&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", BEIN SPORT 2 FR
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=124774&extension=ts
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=59063&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", BEIN SPORT 3 FR
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=124775&extension=ts
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=59064&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", BEIN SPORT 4 MAX
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=59066&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", BEIN SPORT 5 MAX
@@ -66,37 +66,26 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=2803&extension=
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=2830&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", EUROSPORT 2 FR
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=2832&extension=ts
-
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", L'EQUEPE 21 FR
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=2801&extension=ts
-
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", GOLF CHANNEL FR
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=2834&extension=ts
-
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", GOLF+ FR
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=2836&extension=ts
-
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", OL TV FR
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=313877&extension=ts
-
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", AUTOMOTO TV FR
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=2840&extension=ts
-
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", MOTORS VISION TV FR
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=2847&extension=ts
-
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", EQUIDIA FR
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=2845&extension=ts
-
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", NAUTICAL FR
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=2848&extension=ts
-
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", SPORTENFRANCE FR
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=2848&extension=ts
-
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", MULTISPORT 1 FR
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=201207&extension=ts
-
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", MULTISPORT 2 FR
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=201206&extension=ts
 
