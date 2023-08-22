@@ -1,12 +1,9 @@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#♦WELCOME MY PLAYLIST INALDIE♦#", WELCOME MY PLAYLIST
 https://github.com/inaldie/inaldie/raw/main/WELCOM.ts
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#♦WELCOME MY PLAYLIST INALDIE♦#", JOINT TELEGRAM https://t.me/IPTVcostum
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#♦WELCOME MY PLAYLIST INALDIE♦#", DONASI https://saweria.co/Inaldie22
 https://github.com/inaldie/inaldie/raw/main/DONATE.ts
-
 
 
 
@@ -83,11 +80,58 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=2845&extension=
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", NAUTICAL FR
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=2848&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", SPORTENFRANCE FR
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=2848&extension=ts
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=222053&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", MULTISPORT 1 FR
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=201207&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", MULTISPORT 2 FR
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=201206&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", BLUE SPORT D1
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=61032&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", SKY SPORT SUMMER UNO IT
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=56600&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", SKY SPORT GOLF IT
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=337100&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", SKY SPORT MOTOGP IT
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=56602&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", SKY SPORT F1 IT
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=56605&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", SKY SPORT TENNIS IT
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=56608&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", SKY SPORT NBA IT
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=56611&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", SKY SPORT ACTION IT
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=56616&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", SKY SPORT ARENA IT
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=56619&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", SKY SPORT CALCIO IT
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=56622&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", RAI SPORT IT
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=56647&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", EUROSPORT 1 IT
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=56630&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", EUROSPORT 2 IT
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=56633&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", VAMOS MOVISTAR+ ES
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=55528&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", MOVISTAR+ LALIGA ES
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=55531&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", MOVISTAR+ LIGA DE CAMPEONES ES
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=55533&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", M+ DEPORTES ES
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=55545&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", M+ GOLF ES
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=55548&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", TDP TELEDEPORTE ES
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=55541&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", DAZN 1 ES
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=55483&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", DAZN 2 ES
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=55557&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT", DAZN F1 ES
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=55560&extension=ts
+
+
+
 
 
 
