@@ -5569,52 +5569,12 @@ http://210.210.155.37/dr9445/h/h21/index.m3u8
 
 ====Japan======
 
-#EXTINF:-1 group-title="16. JAPAN", BS Fuji TV
-http://203.162.235.41:22101/
-#EXTINF:-1 group-title="16. JAPAN", BS TV Tokyo
-http://203.162.235.41:23102/
-#EXTINF:-1 group-title="16. JAPAN", BS Nippon TV
-http://203.162.235.41:24103/
-#EXTINF:-1 group-title="16. JAPAN", NHK BS Premium (BSP)
-http://203.162.235.41:25104/
-#EXTINF:-1 group-title="16. JAPAN", BS-TBS
-http://203.162.235.41:26105/
-#EXTINF:-1 group-title="16. JAPAN", WOWOW Prime
-http://203.162.235.41:27106/
-#EXTINF:-1 group-title="16. JAPAN", Golf Network
-http://203.162.235.41:28107/
-#EXTINF:-1 group-title="16. JAPAN", BS Asahi
-http://203.162.235.41:29108/
-#EXTINF:-1 group-title="16. JAPAN", NHK
-http://203.162.235.41:12091/
-#EXTINF:-1 group-title="16. JAPAN", NHK World Japan
-http://203.162.235.41:13092/
-#EXTINF:-1 group-title="16. JAPAN", NHK (no watermark)
-http://203.162.235.41:14093/
-#EXTINF:-1 group-title="16. JAPAN", Fuji TV
-http://203.162.235.41:15094/
-#EXTINF:-1 group-title="16. JAPAN", Nippon TV
-http://203.162.235.41:16095/
-#EXTINF:-1 group-title="16. JAPAN", TV Asahi
-http://203.162.235.41:17097/
-#EXTINF:-1 group-title="16. JAPAN", TBS
-http://203.162.235.41:18097/
-#EXTINF:-1 group-title="16. JAPAN", TV Tokyo
-http://203.162.235.41:19098/
-#EXTINF:-1 group-title="16. JAPAN", NHK BS1
-http://203.162.235.41:20099/
-
-
-#EXTINF:-1 tvg-id="NHK World" tvg-logo="https://i.ibb.co/VgzG5PT/NHKW.png" group-title="16. JAPAN 2",NHK WORLD JAPAN
-http://203.162.235.41:13092/
 #EXTINF:-1 group-title="16. JAPAN 2" tvg-id="28" tvg-logo="https://www.asahi.co.jp/img/gtop/facebook_ogp.png", ABC TV
 https://tiemnhazunn.click/japantv/?id=28
 #EXTINF:-1 group-title="16. JAPAN 2" tvg-id="103" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/2560px-Fashion_TV_logo.svg.png", FASHION TV
 https://tiemnhazunn.click/japantv/?id=103
 #EXTINF:-1 group-title="16. JAPAN 2" tvg-id="12" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/1200px-Fuji_TV_logo.svg.png", FUJI TV
 https://tiemnhazunn.click/japantv/?id=12
-#EXTINF:-1 group-title="16. JAPAN 2" tvg-id="12" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/1200px-Fuji_TV_logo.svg.png", FUJI TV LuÃ&#161;Â&#187;Â&#147;ng 2
-http://203.162.235.41:15094/
 #EXTINF:-1 group-title="16. JAPAN 2" tvg-id="20" tvg-logo="https://www.ktv.jp/en/assets/img/common/footer_logo.png", KANSAI TV
 https://tiemnhazunn.click/japantv/?id=20
 #EXTINF:-1 group-title="16. JAPAN 2" tvg-id="116" tvg-logo="https://tinyurl.com/bdf5em9r", KBS KYOTO
@@ -5631,8 +5591,6 @@ https://tiemnhazunn.click/japantv/?id=321
 https://tiemnhazunn.click/japantv/?id=25
 #EXTINF:-1 group-title="16. JAPAN 2" tvg-id="14" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo.svg/2560px-NHK_logo.svg.png", NHK TV 1 Tokyo
 https://tiemnhazunn.click/japantv/?id=14
-#EXTINF:-1 group-title="16. JAPAN 2" tvg-id="14" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo.svg/2560px-NHK_logo.svg.png", NHK
-http://203.162.235.41:12091/
 #EXTINF:-1 group-title="16. JAPAN 2" tvg-id="4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5
 
 https://tiemnhazunn.click/japantv/?id=4
@@ -5641,57 +5599,38 @@ http://203.162.235.41:16095/
 #EXTINF:-1 group-title="16. JAPAN 2" tvg-id="23" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/1200px-Sun_TV_logo.svg.png", Sun TV
 https://tiemnhazunn.click/japantv/?id=23
 
-
 #EXTINF:-1 group-title="16. JAPAN 2" tvg-id="5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1200px-Tokyo_Broadcasting_System_logo_2020.svg.png", TBS
-https://tiemnhazunn.click/japantv/?id=5
-#EXTINF:-1 group-title="16. JAPAN 2" tvg-id="5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1200px-Tokyo_Broadcasting_System_logo_2020.svg.png", TBS LuÃ&#161;Â&#187;Â&#147;ng 2
-http://203.162.235.41:18097
+https://tiemnhazunn.click/japantv/?id=5#EXTINF:-1 group-title="16. JAPAN 2" tvg-id="5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1200px-Tokyo_Broadcasting_System_logo_2020.svg.png", TBS LuÃ&#161;Â&#187;Â&#147;ng 2
 #EXTINF:-1 group-title="16. JAPAN 2" tvg-id="17" tvg-logo="https://dbbovgtu2bg0x.cloudfront.net/uploads/client/program_image/1/app_default.png", TOKYO MX1
 https://tiemnhazunn.click/japantv/?id=17
 #EXTINF:-1 group-title="16. JAPAN 2" tvg-id="9" tvg-logo="https://www.xhzb.tw/uploads/allimg/19/1-1Z2201J1390-L.jpg", TOKYO MX2
 https://tiemnhazunn.click/japantv/?id=9
 #EXTINF:-1 group-title="16. JAPAN 2" tvg-id="9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1200px-TV_Asahi_Logo.svg.png", TV Asahi
 https://tiemnhazunn.click/japantv/?id=7
-#EXTINF:-1 group-title="16. JAPAN 2" tvg-id="9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1200px-TV_Asahi_Logo.svg.png", TV Asahi LuÃ&#161;Â&#187;Â&#147;ng 2
-http://203.162.235.41:17097/
 #EXTINF:-1 group-title="16. JAPAN 2" tvg-id="22" tvg-logo="https://tinyurl.com/39zc7b7t", TV Osaka
 https://tiemnhazunn.click/japantv/?id=22
 #EXTINF:-1 group-title="16. JAPAN 2" tvg-id="8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/1200px-TV_Tokyo_logo_20110629.svg.png", TV Tokyo
 https://tiemnhazunn.click/japantv/?id=8
-#EXTINF:-1 group-title="16. JAPAN 2" tvg-id="8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/1200px-TV_Tokyo_logo_20110629.svg.png", TV Tokyo LuÃ&#161;Â&#187;Â&#147;ng 2
-http://203.162.235.41:19098/
 #EXTINF:-1 group-title="16. JAPAN 2" tvg-id="100" tvg-logo="https://global.weathernews.com/wp-content/themes/custom-thema/images/common/logo.svg", Weather News
 https://tiemnhazunn.click/japantv/?id=100
 #EXTINF:-1 group-title="16. JAPAN 2" tvg-id="21" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/1200px-Yomiuri_Telecasting_Corporation_Logo.svg.png", Yomiuri TV
 https://tiemnhazunn.click/japantv/?id=21
 #EXTINF:-1 group-title="16. JAPAN 2" tvg-id="35" tvg-logo="https://www.bs-asahi.co.jp/wp-content/uploads/2021/06/oglogo.jpg", BS Asahi
 https://tiemnhazunn.click/japantv/?id=35
-#EXTINF:-1 group-title="16. JAPAN 2" tvg-id="35" tvg-logo="https://www.bs-asahi.co.jp/wp-content/uploads/2021/06/oglogo.jpg", BS Asahi LuÃ&#161;Â&#187;Â&#147;ng 2
-http://203.162.235.41:29108
 #EXTINF:-1 group-title="16. JAPAN 2" tvg-id="98" tvg-logo="https://tinyurl.com/c9mc9xm7", BS Fishing
 https://tiemnhazunn.click/japantv/?id=98
 #EXTINF:-1 group-title="16. JAPAN 2" tvg-id="38" tvg-logo="https://www.bsfuji.tv/top/index/img/sns_img.png", BS Fuji
 https://tiemnhazunn.click/japantv/?id=38
-#EXTINF:-1 group-title="16. JAPAN 2" tvg-id="38" tvg-logo="https://www.bsfuji.tv/top/index/img/sns_img.png", BS Fuji LuÃ&#161;Â&#187;Â&#147;ng 2
-http://203.162.235.41:22101/
 #EXTINF:-1 group-title="16. JAPAN 2" tvg-id="117" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/BS-Japanext.svg/revision/latest?cb=20220327032955", BS Japanext
 https://tiemnhazunn.click/japantv/?id=117
 #EXTINF:-1 group-title="16. JAPAN 2" tvg-id="44" tvg-logo="https://www.bs4.jp/assets/images/meta/ogp.png", BS NTV
 https://tiemnhazunn.click/japantv/?id=44
-#EXTINF:-1 group-title="16. JAPAN 2" tvg-id="44" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/1200px-BS4_logo.svg.png", BS Nippon TV
-http://203.162.235.41:24103/
 #EXTINF:-1 group-title="16. JAPAN 2" tvg-id="125" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/BS_Shochiku_Tokyu_logo.jpg?20230427131830", BS Shochiku Tokyu
 https://tiemnhazunn.click/japantv/?id=125
 #EXTINF:-1 group-title="16. JAPAN 2" tvg-id="36" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2020.svg/2560px-BS-TBS_2020.svg.png", BS TBS
 https://tiemnhazunn.click/japantv/?id=36
-
-
-#EXTINF:-1 group-title="16. JAPAN 2" tvg-id="36" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2020.svg/2560px-BS-TBS_2020.svg.png", BS TBS LuÃ&#161;Â&#187;Â&#147;ng 2
-http://203.162.235.41:26105/
 #EXTINF:-1 group-title="16. JAPAN 2" tvg-id="37" tvg-logo="https://www.tv-tokyo.co.jp/images/facebook_icon.jpg", BS TV Tokyo
 https://tiemnhazunn.click/japantv/?id=37
-#EXTINF:-1 group-title="16. JAPAN 2" tvg-id="37" tvg-logo="https://www.tv-tokyo.co.jp/images/facebook_icon.jpg", BS TV Tokyo LuÃ&#161;Â&#187;Â&#147;ng 2
-http://203.162.235.41:23102/
 #EXTINF:-1 group-title="16. JAPAN 2" tvg-id="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/BS-Yoshimoto.svg/revision/latest?cb=20220315152056", BS Yoshimoto
 https://tiemnhazunn.click/japantv/?id=108
 #EXTINF:-1 group-title="16. JAPAN 2" tvg-id="157" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/1200px-BS11_logo.svg.png", BS11
@@ -5706,12 +5645,8 @@ https://tiemnhazunn.click/japantv/?id=60
 https://tiemnhazunn.click/japantv/?id=110
 #EXTINF:-1 group-title="16. JAPAN 2" tvg-id="33" tvg-logo="https://tinyurl.com/y4yjxvya", NHK BS Premium
 https://tiemnhazunn.click/japantv/?id=33
-#EXTINF:-1 group-title="16. JAPAN 2" tvg-id="33" tvg-logo="https://tinyurl.com/y4yjxvya", NHK BS Premium LuÃ&#161;Â&#187;Â&#147;ng 2
-http://203.162.235.41:25104
 #EXTINF:-1 group-title="16. JAPAN 2" tvg-id="32" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/NHKBS1%E3%83%AD%E3%82%B42020-.png", NHK BS1
 https://tiemnhazunn.click/japantv/?id=32
-#EXTINF:-1 group-title="16. JAPAN 2" tvg-id="32" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/NHKBS1%E3%83%AD%E3%82%B42020-.png", NHK BS1 LuÃ&#161;Â&#187;Â&#147;ng 2
-http://203.162.235.41:20099/
 #EXTINF:-1 group-title="16. JAPAN 2" tvg-id="163" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/NHK_BS4K_logo_2020.png/800px-NHK_BS4K_logo_2020.png", NHK BS4K
 https://tiemnhazunn.click/japantv/?id=163
 #EXTINF:-1 group-title="16. JAPAN 2" tvg-id="138" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/TABI_Channel.svg/revision/latest?cb=20151205150819", TABI Channel
@@ -5722,8 +5657,6 @@ https://tiemnhazunn.click/japantv/?id=139
 https://tiemnhazunn.click/japantv/?id=1
 #EXTINF:-1 group-title="16. JAPAN 2" tvg-id="67" tvg-logo="https://tinyurl.com/2p89enzt", Golf
 https://tiemnhazunn.click/japantv/?id=67
-#EXTINF:-1 group-title="16. JAPAN 2" tvg-id="67" tvg-logo="https://tinyurl.com/2p89enzt", Golf LuÃ&#161;Â&#187;Â&#147;ng 2
-http://203.162.235.41:28107/
 #EXTINF:-1 group-title="16. JAPAN 2" tvg-id="68" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-168-400x400.png", J Sports 1
 https://tiemnhazunn.click/japantv/?id=68
 #EXTINF:-1 group-title="16. JAPAN 2" tvg-id="69" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch480/758.png", J Sports 2
@@ -5786,8 +5719,6 @@ https://tiemnhazunn.click/japantv/?id=40
 https://tiemnhazunn.click/japantv/?id=55
 #EXTINF:-1 group-title="16. JAPAN 2" tvg-id="39" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Ch_prime_logo.png/revision/latest?cb=20200215064334", Wowow Prime
 https://tiemnhazunn.click/japantv/?id=39
-#EXTINF:-1 group-title="16. JAPAN 2" tvg-id="39" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Ch_prime_logo.png/revision/latest?cb=20200215064334", Wowow Prime LuÃ&#161;Â&#187;Â&#147;ng 2
-http://203.162.235.41:27106/
 #EXTINF:-1 group-title="16. JAPAN 2" tvg-id="135" tvg-logo="https://tinyurl.com/ynaerbxp", Kayo Pops
 https://tiemnhazunn.click/japantv/?id=135
 #EXTINF:-1 group-title="16. JAPAN 2" tvg-id="74" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/1200px-MTV-2021.svg.png", MTV
@@ -5826,10 +5757,8 @@ https://tiemnhazunn.click/japantv/?id=81
 https://tiemnhazunn.click/japantv/?id=336
 #EXTINF:-1 group-title="16. JAPAN 2" tvg-id="76" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg", Animal Planet
 https://tiemnhazunn.click/japantv/?id=76
-
 #EXTINF:-1 group-title="16. JAPAN 2" tvg-id="76" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg", Animal Planet
 http://sg.tinchuanchuaanh.com:8080/ANIMAL_PLANET_HD/index.m3u8
-
 #EXTINF:-1 group-title="16. JAPAN 2" tvg-id="99" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/2/2b/Discovery-Channel.svg/2560px-Discovery-Channel.svg.png", Discovery Channel
 https://tiemnhazunn.click/japantv/?id=99
 #EXTINF:-1 group-title="16. JAPAN 2" tvg-id="75" tvg-logo="https://i.natgeofe.com/n/4da26b5c-18ee-413f-96dd-4cf3fb4a68a0/2fl-white.png", National Geographic
@@ -6063,49 +5992,34 @@ https://zjizeoupprliv.vcdn.cloud/live/smil:vnews.smil/chunklist.m3u8?id=thong-ta
 #EXTINF:-1 tvg-id="antg" group-title="17. VIETNAM" tvg-logo="https://khanggne.github.io/Iptvkhangg/KEY/manifest/Logo/ANTGlogo.png", An Ninh Thế Giới
 #EXTVLCOPT:http-user-agent="Khanggne"
 https://dl.dropboxusercontent.com/s/ba8t1jgfhck021u/getlink/tv360/21/antg/20.m3u8?id=an-ninh-the-gioi
-
-
 #EXTINF:0 tvg-id="AXN" group-title="17. VIETNAM" tvg-logo="https://i.ibb.co/vHCtNmb/AXN.png" ,AXN HD
 http://sg.tinchuanchuaanh.com:8080/AXN_HD/index.m3u8
-
-
 #EXTINF:0 tvg-id="kix" group-title="17. VIETNAM" tvg-logo="https://i.ibb.co/QYVd38q/kix.png", KIX HD
 https://fbvip88.com/fptplay/getfpt.php?id=kix
-
 #EXTINF:-1 tvg-id="" group-title="17. VIETNAM" tvg-logo="https://d1i01wkzwiao45.cloudfront.net/wp-content/uploads/2018/08/Aniplus-Logo-News-Black_RE.jpg", Aniplus
 http://live.vthanhtivi.pw/aniplus
-
 #EXTINF:-1 tvg-id="animaxhd" group-title="17. VIETNAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/196.png", Animax HD
 http://sg.tinchuanchuaanh.com:8080/ANIMAX_HD/index.m3u8
-
 #EXTINF:-1 tvg-id="boomerang" group-title="17. VIETNAM" tvg-logo="https://i.ibb.co/tMk0mJx/Boomerang.png",Boomerang
 http://sg.tinchuanchuaanh.com:8080/BOOMERANG_HD/index.m3u8
-
 #EXTINF:-1 tvg-id="cartoonhd" group-title="17. VIETNAM" tvg-logo="https://i.ibb.co/pJcF0Ym/Cartoon-Network.png", Cartoon network
 http://sg.tinchuanchuaanh.com:8080/CARTOON_NETWORK_HD/index.m3u8
-
-
 #EXTINF:-1 tvg-id="cartoonhd" group-title="17. VIETNAM" tvg-logo="https://i.ibb.co/pJcF0Ym/Cartoon-Network.png",KBS World
 https://fbvip88.com/fptplay/getfpt.php?id=kbs-world
-
 #EXTINF:-1 tvg-id="abcaustralia" group-title="17. VIETNAM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ABC_Australia_logo.svg/1200px-ABC_Australia_logo.svg.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/australiaplus_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", ABC Australia
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/keyy/abcaustralia.php
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/aplus.smil/manifest.mpd
-
 #EXTINF:-1 tvg-id="bbcearth" group-title="17. VIETNAM" tvg-logo="https://i.ibb.co/3SRxHXv/BBC-Earth.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbcearth_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BBC Earth
 http://sg.tinchuanchuaanh.com:8080/BBC_EARTH_HD/index.m3u8
-
 #EXTINF:-1 tvg-id="bbclifestyle" group-title="17. VIETNAM" tvg-logo="https://i.ibb.co/sWgHzfW/BBC-Lifestyle.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbclifestyle_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BBC Lifestyle
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/keyy/bbclifestyle.php
 https://s7772.cdn.mytvnet.vn/pkg20/live_dzones/bbclifestyle.smil/manifest.mpd
-
 #EXTINF:-1 tvg-id="" group-title="17. VIETNAM" tvg-logo="https://i.ibb.co/VpnQj5h/Channel-News-Asia.png",Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/XtC0cwN/744316-Paramount-xanh-fix.png" group-title="17. VIETNAM",PARAMOUNT NETWORK
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
@@ -6155,7 +6069,6 @@ http://210.210.155.37/dr9445/h/h14/index.m3u8
 https://clubbingtv-samsunguk.amagi.tv/playlist720_p.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/4IkIBkIFApQMYml2sW7XAV21mye06E_X5HssA-WsCRYBHIxWP5BQFzq79t0P5T8MrVs" group-title="17. VIETNAM", Filmbox
 http://94.230.240.17:8080/film_box/index.m3u8
-
 
 #EXTINF:-1 tvg-id="" group-title="17. VIETNAM" tvg-logo="https://stvinaprod.vtvcab.vn/720x405/0f3eeb2f-1482-4ea5-a42b-68c22266fd38.jpg", BTV5 - ON Sports Action
 https://tiemnhazunn.click/tv360/tv360.php?id=2380
@@ -6295,7 +6208,6 @@ https://arcgmoblie.site/cliptvmobile/test.php?id=in-the-box-channel
 
 
 
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/MNCTV_MNC-Group.svg" group-title="DENS TV", MNCTV
 http://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
 
@@ -6349,9 +6261,6 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/9.jpg" group-title="DENS TV", SCTV
 http://210.210.155.37/qwr9ew/s/s03/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqjRjYQzeZXe4kOyrHIaWlcGMLzdHQcFjg6w&usqp=CAU" group-title="DENS TV", TRANS 7
-https://cdn09jtedge.indihometv.com/dvr/139/trans7/manifest.mpd?stime=1685935945&etime=1685935945&encoded=01a68ca7040a7e8134afc
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqjRjYQzeZXe4kOyrHIaWlcGMLzdHQcFjg6w&usqp=CAU" group-title="DENS TV", TRANS 7 1
 http://kuchini.site:8080/live/myhdosama/cjydA4ncmMqx55pf/162502.m3u8
